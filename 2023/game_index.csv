@@ -1,0 +1,273 @@
+,date,away,home,home_code,away_code,home_id
+122,9/10/23,Carolina Panthers,Atlanta Falcons,ATL,CAR,202309100atl
+250,12/24/23,Indianapolis Colts,Atlanta Falcons,ATL,CLT,202312240atl
+129,9/17/23,Green Bay Packers,Atlanta Falcons,ATL,GNB,202309170atl
+152,10/8/23,Houston Texans,Atlanta Falcons,ATL,HTX,202310080atl
+58,11/5/23,Minnesota Vikings,Atlanta Falcons,ATL,MIN,202311050atl
+217,11/26/23,New Orleans Saints,Atlanta Falcons,ATL,NOR,202311260atl
+89,12/10/23,Tampa Bay Buccaneers,Atlanta Falcons,ATL,TAM,202312100atl
+43,10/15/23,Washington Commanders,Atlanta Falcons,ATL,WAS,202310150atl
+246,12/17/23,Dallas Cowboys,Buffalo Bills,BUF,DAL,202312170buf
+67,11/13/23,Denver Broncos,Buffalo Bills,BUF,DEN,202311130buf
+36,10/8/23,Jacksonville Jaguars,Buffalo Bills,BUF,JAX,202310080buf
+145,10/1/23,Miami Dolphins,Buffalo Bills,BUF,MIA,202310010buf
+259,12/31/23,New England Patriots,Buffalo Bills,BUF,NWE,202312310buf
+168,10/15/23,New York Giants,Buffalo Bills,BUF,NYG,202310150buf
+214,11/19/23,New York Jets,Buffalo Bills,BUF,NYJ,202311190buf
+130,9/17/23,Las Vegas Raiders,Buffalo Bills,BUF,RAI,202309170buf
+178,10/26/23,Tampa Bay Buccaneers,Buffalo Bills,BUF,TAM,202310260buf
+241,12/17/23,Atlanta Falcons,Carolina Panthers,CAR,ATL,202312170car
+60,11/5/23,Indianapolis Colts,Carolina Panthers,CAR,CLT,202311050car
+68,11/19/23,Dallas Cowboys,Carolina Panthers,CAR,DAL,202311190car
+100,12/24/23,Green Bay Packers,Carolina Panthers,CAR,GNB,202312240car
+179,10/29/23,Houston Texans,Carolina Panthers,CAR,HTX,202310290car
+28,10/1/23,Minnesota Vikings,Carolina Panthers,CAR,MIN,202310010car
+19,9/18/23,New Orleans Saints,Carolina Panthers,CAR,NOR,202309180car
+115,1/7/24,Tampa Bay Buccaneers,Carolina Panthers,CAR,TAM,202401070car
+258,12/31/23,Atlanta Falcons,Chicago Bears,CHI,ATL,202312310chi
+197,11/9/23,Carolina Panthers,Chicago Bears,CHI,CAR,202311090chi
+253,12/24/23,Arizona Cardinals,Chicago Bears,CHI,CRD,202312240chi
+29,10/1/23,Denver Broncos,Chicago Bears,CHI,DEN,202310010chi
+229,12/10/23,Detroit Lions,Chicago Bears,CHI,DET,202312100chi
+5,9/10/23,Green Bay Packers,Chicago Bears,CHI,GNB,202309100chi
+44,10/15/23,Minnesota Vikings,Chicago Bears,CHI,MIN,202310150chi
+170,10/22/23,Las Vegas Raiders,Chicago Bears,CHI,RAI,202310220chi
+196,11/5/23,Buffalo Bills,Cincinnati Bengals,CIN,BUF,202311050cin
+267,1/7/24,Cleveland Browns,Cincinnati Bengals,CIN,CLE,202401070cin
+230,12/10/23,Indianapolis Colts,Cincinnati Bengals,CIN,CLT,202312100cin
+63,11/12/23,Houston Texans,Cincinnati Bengals,CIN,HTX,202311120cin
+238,12/16/23,Minnesota Vikings,Cincinnati Bengals,CIN,MIN,202312160cin
+74,11/26/23,Pittsburgh Steelers,Cincinnati Bengals,CIN,PIT,202311260cin
+143,9/25/23,Los Angeles Rams,Cincinnati Bengals,CIN,RAM,202309250cin
+11,9/17/23,Baltimore Ravens,Cincinnati Bengals,CIN,RAV,202309170cin
+162,10/15/23,Seattle Seahawks,Cincinnati Bengals,CIN,SEA,202310150cin
+242,12/17/23,Chicago Bears,Cleveland Browns,CLE,CHI,202312170cle
+123,9/10/23,Cincinnati Bengals,Cleveland Browns,CLE,CIN,202309100cle
+189,11/5/23,Arizona Cardinals,Cleveland Browns,CLE,CRD,202311050cle
+231,12/10/23,Jacksonville Jaguars,Cleveland Browns,CLE,JAX,202312100cle
+256,12/28/23,New York Jets,Cleveland Browns,CLE,NYJ,202312280cle
+137,9/24/23,Tennessee Titans,Cleveland Browns,CLE,OTI,202309240cle
+206,11/19/23,Pittsburgh Steelers,Cleveland Browns,CLE,PIT,202311190cle
+30,10/1/23,Baltimore Ravens,Cleveland Browns,CLE,RAV,202310010cle
+160,10/15/23,San Francisco 49ers,Cleveland Browns,CLE,SFO,202310150cle
+48,10/22/23,Cleveland Browns,Indianapolis Colts,CLT,CLE,202310220clt
+114,1/6/24,Houston Texans,Indianapolis Colts,CLT,HTX,202401060clt
+2,9/10/23,Jacksonville Jaguars,Indianapolis Colts,CLT,JAX,202309100clt
+52,10/29/23,New Orleans Saints,Indianapolis Colts,CLT,NOR,202310290clt
+154,10/8/23,Tennessee Titans,Indianapolis Colts,CLT,OTI,202310080clt
+239,12/16/23,Pittsburgh Steelers,Indianapolis Colts,CLT,PIT,202312160clt
+261,12/31/23,Las Vegas Raiders,Indianapolis Colts,CLT,RAI,202312310clt
+31,10/1/23,Los Angeles Rams,Indianapolis Colts,CLT,RAM,202310010clt
+219,11/26/23,Tampa Bay Buccaneers,Indianapolis Colts,CLT,TAM,202311260clt
+201,11/12/23,Atlanta Falcons,Arizona Cardinals,CRD,ATL,202311120crd
+38,10/8/23,Cincinnati Bengals,Arizona Cardinals,CRD,CIN,202310080crd
+142,9/24/23,Dallas Cowboys,Arizona Cardinals,CRD,DAL,202309240crd
+15,9/17/23,New York Giants,Arizona Cardinals,CRD,NYG,202309170crd
+76,11/26/23,Los Angeles Rams,Arizona Cardinals,CRD,RAM,202311260crd
+57,10/29/23,Baltimore Ravens,Arizona Cardinals,CRD,RAV,202310290crd
+117,1/7/24,Seattle Seahawks,Arizona Cardinals,CRD,SEA,202401070crd
+97,12/17/23,San Francisco 49ers,Arizona Cardinals,CRD,SFO,202312170crd
+257,12/30/23,Detroit Lions,Dallas Cowboys,DAL,DET,202312300dal
+151,10/1/23,New England Patriots,Dallas Cowboys,DAL,NWE,202310010dal
+202,11/12/23,New York Giants,Dallas Cowboys,DAL,NYG,202311120dal
+133,9/17/23,New York Jets,Dallas Cowboys,DAL,NYJ,202309170dal
+235,12/10/23,Philadelphia Eagles,Dallas Cowboys,DAL,PHI,202312100dal
+180,10/29/23,Los Angeles Rams,Dallas Cowboys,DAL,RAM,202310290dal
+223,11/30/23,Seattle Seahawks,Dallas Cowboys,DAL,SEA,202311300dal
+216,11/23/23,Washington Commanders,Dallas Cowboys,DAL,WAS,202311230dal
+221,11/26/23,Cleveland Browns,Denver Broncos,DEN,CLE,202311260den
+174,10/22/23,Green Bay Packers,Denver Broncos,DEN,GNB,202310220den
+184,10/29/23,Kansas City Chiefs,Denver Broncos,DEN,KAN,202310290den
+215,11/19/23,Minnesota Vikings,Denver Broncos,DEN,MIN,202311190den
+104,12/24/23,New England Patriots,Denver Broncos,DEN,NWE,202312240den
+40,10/8/23,New York Jets,Denver Broncos,DEN,NYJ,202310080den
+6,9/10/23,Las Vegas Raiders,Denver Broncos,DEN,RAI,202309100den
+265,12/31/23,Los Angeles Chargers,Denver Broncos,DEN,SDG,202312310den
+17,9/17/23,Washington Commanders,Denver Broncos,DEN,WAS,202309170den
+136,9/24/23,Atlanta Falcons,Detroit Lions,DET,ATL,202309240det
+153,10/8/23,Carolina Panthers,Detroit Lions,DET,CAR,202310080det
+210,11/19/23,Chicago Bears,Detroit Lions,DET,CHI,202311190det
+240,12/16/23,Denver Broncos,Detroit Lions,DET,DEN,202312160det
+71,11/23/23,Green Bay Packers,Detroit Lions,DET,GNB,202311230det
+268,1/7/24,Minnesota Vikings,Detroit Lions,DET,MIN,202401070det
+186,10/30/23,Las Vegas Raiders,Detroit Lions,DET,RAI,202310300det
+13,9/17/23,Seattle Seahawks,Detroit Lions,DET,SEA,202309170det
+270,1/7/24,Chicago Bears,Green Bay Packers,GNB,CHI,202401070gnb
+27,9/28/23,Detroit Lions,Green Bay Packers,GNB,DET,202309280gnb
+227,12/3/23,Kansas City Chiefs,Green Bay Packers,GNB,KAN,202312030gnb
+51,10/29/23,Minnesota Vikings,Green Bay Packers,GNB,MIN,202310290gnb
+139,9/24/23,New Orleans Saints,Green Bay Packers,GNB,NOR,202309240gnb
+190,11/5/23,Los Angeles Rams,Green Bay Packers,GNB,RAM,202311050gnb
+207,11/19/23,Los Angeles Chargers,Green Bay Packers,GNB,SDG,202311190gnb
+94,12/17/23,Tampa Bay Buccaneers,Green Bay Packers,GNB,TAM,202312170gnb
+101,12/24/23,Cleveland Browns,Houston Texans,HTX,CLE,202312240htx
+12,9/17/23,Indianapolis Colts,Houston Texans,HTX,CLT,202309170htx
+211,11/19/23,Arizona Cardinals,Houston Texans,HTX,CRD,202311190htx
+224,12/3/23,Denver Broncos,Houston Texans,HTX,DEN,202312030htx
+75,11/26/23,Jacksonville Jaguars,Houston Texans,HTX,JAX,202311260htx
+164,10/15/23,New Orleans Saints,Houston Texans,HTX,NOR,202310150htx
+262,12/31/23,Tennessee Titans,Houston Texans,HTX,OTI,202312310htx
+147,10/1/23,Pittsburgh Steelers,Houston Texans,HTX,PIT,202310010htx
+191,11/5/23,Tampa Bay Buccaneers,Houston Texans,HTX,TAM,202311050htx
+144,10/1/23,Atlanta Falcons,Jacksonville Jaguars,JAX,ATL,202310010jax
+260,12/31/23,Carolina Panthers,Jacksonville Jaguars,JAX,CAR,202312310jax
+87,12/4/23,Cincinnati Bengals,Jacksonville Jaguars,JAX,CIN,202312040jax
+163,10/15/23,Indianapolis Colts,Jacksonville Jaguars,JAX,CLT,202310150jax
+22,9/24/23,Houston Texans,Jacksonville Jaguars,JAX,HTX,202309240jax
+14,9/17/23,Kansas City Chiefs,Jacksonville Jaguars,JAX,KAN,202309170jax
+208,11/19/23,Tennessee Titans,Jacksonville Jaguars,JAX,OTI,202311190jax
+98,12/17/23,Baltimore Ravens,Jacksonville Jaguars,JAX,RAV,202312170jax
+65,11/12/23,San Francisco 49ers,Jacksonville Jaguars,JAX,SFO,202311120jax
+91,12/10/23,Buffalo Bills,Kansas City Chiefs,KAN,BUF,202312100kan
+141,9/24/23,Chicago Bears,Kansas City Chiefs,KAN,CHI,202309240kan
+264,12/31/23,Cincinnati Bengals,Kansas City Chiefs,KAN,CIN,202312310kan
+159,10/12/23,Denver Broncos,Kansas City Chiefs,KAN,DEN,202310120kan
+1,9/7/23,Detroit Lions,Kansas City Chiefs,KAN,DET,202309070kan
+188,11/5/23,Miami Dolphins,Kansas City Chiefs,KAN,MIA,202311050kan
+70,11/20/23,Philadelphia Eagles,Kansas City Chiefs,KAN,PHI,202311200kan
+105,12/25/23,Las Vegas Raiders,Kansas City Chiefs,KAN,RAI,202312250kan
+175,10/22/23,Los Angeles Chargers,Kansas City Chiefs,KAN,SDG,202310220kan
+121,1/7/24,Buffalo Bills,Miami Dolphins,MIA,BUF,202401070mia
+161,10/15/23,Carolina Panthers,Miami Dolphins,MIA,CAR,202310150mia
+254,12/24/23,Dallas Cowboys,Miami Dolphins,MIA,DAL,202312240mia
+138,9/24/23,Denver Broncos,Miami Dolphins,MIA,DEN,202309240mia
+182,10/29/23,New England Patriots,Miami Dolphins,MIA,NWE,202310290mia
+155,10/8/23,New York Giants,Miami Dolphins,MIA,NYG,202310080mia
+243,12/17/23,New York Jets,Miami Dolphins,MIA,NYJ,202312170mia
+93,12/11/23,Tennessee Titans,Miami Dolphins,MIA,OTI,202312110mia
+209,11/19/23,Las Vegas Raiders,Miami Dolphins,MIA,RAI,202311190mia
+79,11/27/23,Chicago Bears,Minnesota Vikings,MIN,CHI,202311270min
+102,12/24/23,Detroit Lions,Minnesota Vikings,MIN,DET,202312240min
+112,12/31/23,Green Bay Packers,Minnesota Vikings,MIN,GNB,202312310min
+41,10/8/23,Kansas City Chiefs,Minnesota Vikings,MIN,KAN,202310080min
+200,11/12/23,New Orleans Saints,Minnesota Vikings,MIN,NOR,202311120min
+23,9/24/23,Los Angeles Chargers,Minnesota Vikings,MIN,SDG,202309240min
+177,10/23/23,San Francisco 49ers,Minnesota Vikings,MIN,SFO,202310230min
+3,9/10/23,Tampa Bay Buccaneers,Minnesota Vikings,MIN,TAM,202309100min
+169,10/22/23,Buffalo Bills,New England Patriots,NWE,BUF,202310220nwe
+62,11/12/23,Indianapolis Colts,New England Patriots,NWE,CLT,202311120nwe
+96,12/17/23,Kansas City Chiefs,New England Patriots,NWE,KAN,202312170nwe
+18,9/17/23,Miami Dolphins,New England Patriots,NWE,MIA,202309170nwe
+37,10/8/23,New Orleans Saints,New England Patriots,NWE,NOR,202310080nwe
+116,1/7/24,New York Jets,New England Patriots,NWE,NYJ,202401070nwe
+8,9/10/23,Philadelphia Eagles,New England Patriots,NWE,PHI,202309100nwe
+84,12/3/23,Los Angeles Chargers,New England Patriots,NWE,SDG,202312030nwe
+59,11/5/23,Washington Commanders,New England Patriots,NWE,WAS,202311050nwe
+266,1/7/24,Atlanta Falcons,New Orleans Saints,NOR,ATL,202401070nor
+228,12/10/23,Carolina Panthers,New Orleans Saints,NOR,CAR,202312100nor
+192,11/5/23,Chicago Bears,New Orleans Saints,NOR,CHI,202311050nor
+82,12/3/23,Detroit Lions,New Orleans Saints,NOR,DET,202312030nor
+47,10/19/23,Jacksonville Jaguars,New Orleans Saints,NOR,JAX,202310190nor
+244,12/17/23,New York Giants,New Orleans Saints,NOR,NYG,202312170nor
+126,9/10/23,Tennessee Titans,New Orleans Saints,NOR,OTI,202309100nor
+32,10/1/23,Tampa Bay Buccaneers,New Orleans Saints,NOR,TAM,202310010nor
+10,9/10/23,Dallas Cowboys,New York Giants,NYG,DAL,202309100nyg
+236,12/11/23,Green Bay Packers,New York Giants,NYG,GNB,202312110nyg
+220,11/26/23,New England Patriots,New York Giants,NYG,NWE,202311260nyg
+54,10/29/23,New York Jets,New York Giants,NYG,NYJ,202310290nyg
+272,1/7/24,Philadelphia Eagles,New York Giants,NYG,PHI,202401070nyg
+109,12/31/23,Los Angeles Rams,New York Giants,NYG,RAM,202312310nyg
+34,10/2/23,Seattle Seahawks,New York Giants,NYG,SEA,202310020nyg
+172,10/22/23,Washington Commanders,New York Giants,NYG,WAS,202310220nyg
+80,12/3/23,Atlanta Falcons,New York Jets,NYJ,ATL,202312030nyj
+127,9/11/23,Buffalo Bills,New York Jets,NYJ,BUF,202309110nyj
+232,12/10/23,Houston Texans,New York Jets,NYJ,HTX,202312100nyj
+33,10/1/23,Kansas City Chiefs,New York Jets,NYJ,KAN,202310010nyj
+73,11/24/23,Miami Dolphins,New York Jets,NYJ,MIA,202311240nyj
+24,9/24/23,New England Patriots,New York Jets,NYJ,NWE,202309240nyj
+167,10/15/23,Philadelphia Eagles,New York Jets,NYJ,PHI,202310150nyj
+61,11/6/23,Los Angeles Chargers,New York Jets,NYJ,SDG,202311060nyj
+251,12/24/23,Washington Commanders,New York Jets,NYJ,WAS,202312240nyj
+181,10/29/23,Atlanta Falcons,Tennessee Titans,OTI,ATL,202310290oti
+218,11/26/23,Carolina Panthers,Tennessee Titans,OTI,CAR,202311260oti
+146,10/1/23,Cincinnati Bengals,Tennessee Titans,OTI,CIN,202310010oti
+81,12/3/23,Indianapolis Colts,Tennessee Titans,OTI,CLT,202312030oti
+95,12/17/23,Houston Texans,Tennessee Titans,OTI,HTX,202312170oti
+269,1/7/24,Jacksonville Jaguars,Tennessee Titans,OTI,JAX,202401070oti
+42,10/15/23,Baltimore Ravens,Tennessee Titans,OTI,RAV,202310150oti
+132,9/17/23,Los Angeles Chargers,Tennessee Titans,OTI,SDG,202309170oti
+103,12/24/23,Seattle Seahawks,Tennessee Titans,OTI,SEA,202312240oti
+222,11/26/23,Buffalo Bills,Philadelphia Eagles,PHI,BUF,202311260phi
+107,12/31/23,Arizona Cardinals,Philadelphia Eagles,PHI,CRD,202312310phi
+194,11/5/23,Dallas Cowboys,Philadelphia Eagles,PHI,DAL,202311050phi
+176,10/22/23,Miami Dolphins,Philadelphia Eagles,PHI,MIA,202310220phi
+128,9/14/23,Minnesota Vikings,Philadelphia Eagles,PHI,MIN,202309140phi
+255,12/25/23,New York Giants,Philadelphia Eagles,PHI,NYG,202312250phi
+86,12/3/23,San Francisco 49ers,Philadelphia Eagles,PHI,SFO,202312030phi
+148,10/1/23,Washington Commanders,Philadelphia Eagles,PHI,WAS,202310010phi
+249,12/23/23,Cincinnati Bengals,Pittsburgh Steelers,PIT,CIN,202312230pit
+134,9/18/23,Cleveland Browns,Pittsburgh Steelers,PIT,CLE,202309180pit
+85,12/3/23,Arizona Cardinals,Pittsburgh Steelers,PIT,CRD,202312030pit
+198,11/12/23,Green Bay Packers,Pittsburgh Steelers,PIT,GNB,202311120pit
+53,10/29/23,Jacksonville Jaguars,Pittsburgh Steelers,PIT,JAX,202310290pit
+88,12/7/23,New England Patriots,Pittsburgh Steelers,PIT,NWE,202312070pit
+187,11/2/23,Tennessee Titans,Pittsburgh Steelers,PIT,OTI,202311020pit
+156,10/8/23,Baltimore Ravens,Pittsburgh Steelers,PIT,RAV,202310080pit
+4,9/10/23,San Francisco 49ers,Pittsburgh Steelers,PIT,SFO,202309100pit
+271,1/7/24,Denver Broncos,Las Vegas Raiders,RAI,DEN,202401070rai
+158,10/9/23,Green Bay Packers,Las Vegas Raiders,RAI,GNB,202310090rai
+77,11/26/23,Kansas City Chiefs,Las Vegas Raiders,RAI,KAN,202311260rai
+90,12/10/23,Minnesota Vikings,Las Vegas Raiders,RAI,MIN,202312100rai
+165,10/15/23,New England Patriots,Las Vegas Raiders,RAI,NWE,202310150rai
+195,11/5/23,New York Giants,Las Vegas Raiders,RAI,NYG,202311050rai
+204,11/12/23,New York Jets,Las Vegas Raiders,RAI,NYJ,202311120rai
+25,9/24/23,Pittsburgh Steelers,Las Vegas Raiders,RAI,PIT,202309240rai
+237,12/14/23,Los Angeles Chargers,Las Vegas Raiders,RAI,SDG,202312140rai
+226,12/3/23,Cleveland Browns,Los Angeles Rams,RAM,CLE,202312030ram
+166,10/15/23,Arizona Cardinals,Los Angeles Rams,RAM,CRD,202310150ram
+248,12/21/23,New Orleans Saints,Los Angeles Rams,RAM,NOR,202312210ram
+39,10/8/23,Philadelphia Eagles,Los Angeles Rams,RAM,PHI,202310080ram
+50,10/22/23,Pittsburgh Steelers,Los Angeles Rams,RAM,PIT,202310220ram
+213,11/19/23,Seattle Seahawks,Los Angeles Rams,RAM,SEA,202311190ram
+16,9/17/23,San Francisco 49ers,Los Angeles Rams,RAM,SFO,202309170ram
+245,12/17/23,Washington Commanders,Los Angeles Rams,RAM,WAS,202312170ram
+205,11/16/23,Cincinnati Bengals,Baltimore Ravens,RAV,CIN,202311160rav
+64,11/12/23,Cleveland Browns,Baltimore Ravens,RAV,CLE,202311120rav
+21,9/24/23,Indianapolis Colts,Baltimore Ravens,RAV,CLT,202309240rav
+171,10/22/23,Detroit Lions,Baltimore Ravens,RAV,DET,202310220rav
+125,9/10/23,Houston Texans,Baltimore Ravens,RAV,HTX,202309100rav
+263,12/31/23,Miami Dolphins,Baltimore Ravens,RAV,MIA,202312310rav
+113,1/6/24,Pittsburgh Steelers,Baltimore Ravens,RAV,PIT,202401060rav
+233,12/10/23,Los Angeles Rams,Baltimore Ravens,RAV,RAM,202312100rav
+193,11/5/23,Seattle Seahawks,Baltimore Ravens,RAV,SEA,202311050rav
+99,12/23/23,Buffalo Bills,Los Angeles Chargers,SDG,BUF,202312230sdg
+185,10/29/23,Chicago Bears,Los Angeles Chargers,SDG,CHI,202310290sdg
+46,10/16/23,Dallas Cowboys,Los Angeles Chargers,SDG,DAL,202310160sdg
+92,12/10/23,Denver Broncos,Los Angeles Chargers,SDG,DEN,202312100sdg
+66,11/12/23,Detroit Lions,Los Angeles Chargers,SDG,DET,202311120sdg
+119,1/7/24,Kansas City Chiefs,Los Angeles Chargers,SDG,KAN,202401070sdg
+7,9/10/23,Miami Dolphins,Los Angeles Chargers,SDG,MIA,202309100sdg
+149,10/1/23,Las Vegas Raiders,Los Angeles Chargers,SDG,RAI,202310010sdg
+78,11/26/23,Baltimore Ravens,Los Angeles Chargers,SDG,RAV,202311260sdg
+140,9/24/23,Carolina Panthers,Seattle Seahawks,SEA,CAR,202309240sea
+183,10/29/23,Cleveland Browns,Seattle Seahawks,SEA,CLE,202310290sea
+173,10/22/23,Arizona Cardinals,Seattle Seahawks,SEA,CRD,202310220sea
+247,12/18/23,Philadelphia Eagles,Seattle Seahawks,SEA,PHI,202312180sea
+111,12/31/23,Pittsburgh Steelers,Seattle Seahawks,SEA,PIT,202312310sea
+9,9/10/23,Los Angeles Rams,Seattle Seahawks,SEA,RAM,202309100sea
+72,11/23/23,San Francisco 49ers,Seattle Seahawks,SEA,SFO,202311230sea
+203,11/12/23,Washington Commanders,Seattle Seahawks,SEA,WAS,202311120sea
+56,10/29/23,Cincinnati Bengals,San Francisco 49ers,SFO,CIN,202310290sfo
+150,10/1/23,Arizona Cardinals,San Francisco 49ers,SFO,CRD,202310010sfo
+157,10/8/23,Dallas Cowboys,San Francisco 49ers,SFO,DAL,202310080sfo
+135,9/21/23,New York Giants,San Francisco 49ers,SFO,NYG,202309210sfo
+120,1/7/24,Los Angeles Rams,San Francisco 49ers,SFO,RAM,202401070sfo
+106,12/25/23,Baltimore Ravens,San Francisco 49ers,SFO,RAV,202312250sfo
+234,12/10/23,Seattle Seahawks,San Francisco 49ers,SFO,SEA,202312100sfo
+212,11/19/23,Tampa Bay Buccaneers,San Francisco 49ers,SFO,TAM,202311190sfo
+49,10/22/23,Atlanta Falcons,Tampa Bay Buccaneers,TAM,ATL,202310220tam
+225,12/3/23,Carolina Panthers,Tampa Bay Buccaneers,TAM,CAR,202312030tam
+131,9/17/23,Chicago Bears,Tampa Bay Buccaneers,TAM,CHI,202309170tam
+45,10/15/23,Detroit Lions,Tampa Bay Buccaneers,TAM,DET,202310150tam
+252,12/24/23,Jacksonville Jaguars,Tampa Bay Buccaneers,TAM,JAX,202312240tam
+108,12/31/23,New Orleans Saints,Tampa Bay Buccaneers,TAM,NOR,202312310tam
+199,11/12/23,Tennessee Titans,Tampa Bay Buccaneers,TAM,OTI,202311120tam
+26,9/25/23,Philadelphia Eagles,Tampa Bay Buccaneers,TAM,PHI,202309250tam
+20,9/24/23,Buffalo Bills,Washington Commanders,WAS,BUF,202309240was
+35,10/5/23,Chicago Bears,Washington Commanders,WAS,CHI,202310050was
+124,9/10/23,Arizona Cardinals,Washington Commanders,WAS,CRD,202309100was
+118,1/7/24,Dallas Cowboys,Washington Commanders,WAS,DAL,202401070was
+83,12/3/23,Miami Dolphins,Washington Commanders,WAS,MIA,202312030was
+69,11/19/23,New York Giants,Washington Commanders,WAS,NYG,202311190was
+55,10/29/23,Philadelphia Eagles,Washington Commanders,WAS,PHI,202310290was
+110,12/31/23,San Francisco 49ers,Washington Commanders,WAS,SFO,202312310was

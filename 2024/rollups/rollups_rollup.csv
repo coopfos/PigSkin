@@ -1,0 +1,273 @@
+Unnamed: 0,date,away,home,home_code,away_code,home_id,source_file
+1,2024-09-05,Baltimore Ravens,Kansas City Chiefs,KAN,RAV,202409050kan,2024_rollup
+2,2024-09-06,Green Bay Packers,Philadelphia Eagles,PHI,GNB,202409060phi,2024_rollup
+3,2024-09-08,Pittsburgh Steelers,Atlanta Falcons,ATL,PIT,202409080atl,2024_rollup
+4,2024-09-08,New England Patriots,Cincinnati Bengals,CIN,NWE,202409080cin,2024_rollup
+5,2024-09-08,Houston Texans,Indianapolis Colts,CLT,HTX,202409080clt,2024_rollup
+6,2024-09-08,Minnesota Vikings,New York Giants,NYG,MIN,202409080nyg,2024_rollup
+7,2024-09-08,Dallas Cowboys,Cleveland Browns,CLE,DAL,202409080cle,2024_rollup
+8,2024-09-08,Arizona Cardinals,Buffalo Bills,BUF,CRD,202409080buf,2024_rollup
+9,2024-09-08,Carolina Panthers,New Orleans Saints,NOR,CAR,202409080nor,2024_rollup
+10,2024-09-08,Tennessee Titans,Chicago Bears,CHI,OTI,202409080chi,2024_rollup
+11,2024-09-08,Jacksonville Jaguars,Miami Dolphins,MIA,JAX,202409080mia,2024_rollup
+12,2024-09-08,Denver Broncos,Seattle Seahawks,SEA,DEN,202409080sea,2024_rollup
+13,2024-09-08,Las Vegas Raiders,Los Angeles Chargers,SDG,RAI,202409080sdg,2024_rollup
+14,2024-09-08,Washington Commanders,Tampa Bay Buccaneers,TAM,WAS,202409080tam,2024_rollup
+15,2024-09-08,Los Angeles Rams,Detroit Lions,DET,RAM,202409080det,2024_rollup
+16,2024-09-09,New York Jets,San Francisco 49ers,SFO,NYJ,202409090sfo,2024_rollup
+17,2024-09-12,Buffalo Bills,Miami Dolphins,MIA,BUF,202409120mia,2024_rollup
+18,2024-09-15,Los Angeles Chargers,Carolina Panthers,CAR,SDG,202409150car,2024_rollup
+19,2024-09-15,Cleveland Browns,Jacksonville Jaguars,JAX,CLE,202409150jax,2024_rollup
+20,2024-09-15,New Orleans Saints,Dallas Cowboys,DAL,NOR,202409150dal,2024_rollup
+21,2024-09-15,Tampa Bay Buccaneers,Detroit Lions,DET,TAM,202409150det,2024_rollup
+22,2024-09-15,Seattle Seahawks,New England Patriots,NWE,SEA,202409150nwe,2024_rollup
+23,2024-09-15,New York Jets,Tennessee Titans,OTI,NYJ,202409150oti,2024_rollup
+24,2024-09-15,Las Vegas Raiders,Baltimore Ravens,RAV,RAI,202409150rav,2024_rollup
+25,2024-09-15,Pittsburgh Steelers,Denver Broncos,DEN,PIT,202409150den,2024_rollup
+26,2024-09-15,Indianapolis Colts,Green Bay Packers,GNB,CLT,202409150gnb,2024_rollup
+27,2024-09-15,San Francisco 49ers,Minnesota Vikings,MIN,SFO,202409150min,2024_rollup
+28,2024-09-15,New York Giants,Washington Commanders,WAS,NYG,202409150was,2024_rollup
+29,2024-09-15,Los Angeles Rams,Arizona Cardinals,CRD,RAM,202409150crd,2024_rollup
+30,2024-09-15,Cincinnati Bengals,Kansas City Chiefs,KAN,CIN,202409150kan,2024_rollup
+31,2024-09-15,Chicago Bears,Houston Texans,HTX,CHI,202409150htx,2024_rollup
+32,2024-09-16,Atlanta Falcons,Philadelphia Eagles,PHI,ATL,202409160phi,2024_rollup
+33,2024-09-19,New England Patriots,New York Jets,NYJ,NWE,202409190nyj,2024_rollup
+34,2024-09-22,New York Giants,Cleveland Browns,CLE,NYG,202409220cle,2024_rollup
+35,2024-09-22,Denver Broncos,Tampa Bay Buccaneers,TAM,DEN,202409220tam,2024_rollup
+36,2024-09-22,Green Bay Packers,Tennessee Titans,OTI,GNB,202409220oti,2024_rollup
+37,2024-09-22,Philadelphia Eagles,New Orleans Saints,NOR,PHI,202409220nor,2024_rollup
+38,2024-09-22,Carolina Panthers,Las Vegas Raiders,RAI,CAR,202409220rai,2024_rollup
+39,2024-09-22,Detroit Lions,Arizona Cardinals,CRD,DET,202409220crd,2024_rollup
+40,2024-09-22,Baltimore Ravens,Dallas Cowboys,DAL,RAV,202409220dal,2024_rollup
+41,2024-09-22,Kansas City Chiefs,Atlanta Falcons,ATL,KAN,202409220atl,2024_rollup
+42,2024-09-22,Chicago Bears,Indianapolis Colts,CLT,CHI,202409220clt,2024_rollup
+43,2024-09-22,Houston Texans,Minnesota Vikings,MIN,HTX,202409220min,2024_rollup
+44,2024-09-22,Los Angeles Chargers,Pittsburgh Steelers,PIT,SDG,202409220pit,2024_rollup
+45,2024-09-22,Miami Dolphins,Seattle Seahawks,SEA,MIA,202409220sea,2024_rollup
+46,2024-09-22,San Francisco 49ers,Los Angeles Rams,RAM,SFO,202409220ram,2024_rollup
+47,2024-09-23,Washington Commanders,Cincinnati Bengals,CIN,WAS,202409230cin,2024_rollup
+48,2024-09-23,Jacksonville Jaguars,Buffalo Bills,BUF,JAX,202409230buf,2024_rollup
+49,2024-09-26,Dallas Cowboys,New York Giants,NYG,DAL,202409260nyg,2024_rollup
+50,2024-09-29,Cincinnati Bengals,Carolina Panthers,CAR,CIN,202409290car,2024_rollup
+51,2024-09-29,Denver Broncos,New York Jets,NYJ,DEN,202409290nyj,2024_rollup
+52,2024-09-29,Minnesota Vikings,Green Bay Packers,GNB,MIN,202409290gnb,2024_rollup
+53,2024-09-29,Washington Commanders,Arizona Cardinals,CRD,WAS,202409290crd,2024_rollup
+54,2024-09-29,Kansas City Chiefs,Los Angeles Chargers,SDG,KAN,202409290sdg,2024_rollup
+55,2024-09-29,New Orleans Saints,Atlanta Falcons,ATL,NOR,202409290atl,2024_rollup
+56,2024-09-29,Los Angeles Rams,Chicago Bears,CHI,RAM,202409290chi,2024_rollup
+57,2024-09-29,Pittsburgh Steelers,Indianapolis Colts,CLT,PIT,202409290clt,2024_rollup
+58,2024-09-29,Jacksonville Jaguars,Houston Texans,HTX,JAX,202409290htx,2024_rollup
+59,2024-09-29,Philadelphia Eagles,Tampa Bay Buccaneers,TAM,PHI,202409290tam,2024_rollup
+60,2024-09-29,New England Patriots,San Francisco 49ers,SFO,NWE,202409290sfo,2024_rollup
+61,2024-09-29,Cleveland Browns,Las Vegas Raiders,RAI,CLE,202409290rai,2024_rollup
+62,2024-09-29,Buffalo Bills,Baltimore Ravens,RAV,BUF,202409290rav,2024_rollup
+63,2024-09-30,Tennessee Titans,Miami Dolphins,MIA,OTI,202409300mia,2024_rollup
+64,2024-09-30,Seattle Seahawks,Detroit Lions,DET,SEA,202409300det,2024_rollup
+65,2024-10-03,Tampa Bay Buccaneers,Atlanta Falcons,ATL,TAM,202410030atl,2024_rollup
+66,2024-10-06,Baltimore Ravens,Cincinnati Bengals,CIN,RAV,202410060cin,2024_rollup
+67,2024-10-06,Miami Dolphins,New England Patriots,NWE,MIA,202410060nwe,2024_rollup
+68,2024-10-06,Arizona Cardinals,San Francisco 49ers,SFO,CRD,202410060sfo,2024_rollup
+69,2024-10-06,Green Bay Packers,Los Angeles Rams,RAM,GNB,202410060ram,2024_rollup
+70,2024-10-06,New York Giants,Seattle Seahawks,SEA,NYG,202410060sea,2024_rollup
+71,2024-10-06,Dallas Cowboys,Pittsburgh Steelers,PIT,DAL,202410060pit,2024_rollup
+72,2024-10-06,New York Jets,Minnesota Vikings,MIN,NYJ,202410060min,2024_rollup
+73,2024-10-06,Buffalo Bills,Houston Texans,HTX,BUF,202410060htx,2024_rollup
+74,2024-10-06,Carolina Panthers,Chicago Bears,CHI,CAR,202410060chi,2024_rollup
+75,2024-10-06,Cleveland Browns,Washington Commanders,WAS,CLE,202410060was,2024_rollup
+76,2024-10-06,Indianapolis Colts,Jacksonville Jaguars,JAX,CLT,202410060jax,2024_rollup
+77,2024-10-06,Las Vegas Raiders,Denver Broncos,DEN,RAI,202410060den,2024_rollup
+78,2024-10-07,New Orleans Saints,Kansas City Chiefs,KAN,NOR,202410070kan,2024_rollup
+79,2024-10-10,San Francisco 49ers,Seattle Seahawks,SEA,SFO,202410100sea,2024_rollup
+80,2024-10-13,Indianapolis Colts,Tennessee Titans,OTI,CLT,202410130oti,2024_rollup
+81,2024-10-13,Houston Texans,New England Patriots,NWE,HTX,202410130nwe,2024_rollup
+82,2024-10-13,Tampa Bay Buccaneers,New Orleans Saints,NOR,TAM,202410130nor,2024_rollup
+83,2024-10-13,Los Angeles Chargers,Denver Broncos,DEN,SDG,202410130den,2024_rollup
+84,2024-10-13,Pittsburgh Steelers,Las Vegas Raiders,RAI,PIT,202410130rai,2024_rollup
+85,2024-10-13,Atlanta Falcons,Carolina Panthers,CAR,ATL,202410130car,2024_rollup
+86,2024-10-13,Detroit Lions,Dallas Cowboys,DAL,DET,202410130dal,2024_rollup
+87,2024-10-13,Cincinnati Bengals,New York Giants,NYG,CIN,202410130nyg,2024_rollup
+88,2024-10-13,Jacksonville Jaguars,Chicago Bears,CHI,JAX,202410130chi,2024_rollup
+89,2024-10-13,Cleveland Browns,Philadelphia Eagles,PHI,CLE,202410130phi,2024_rollup
+90,2024-10-13,Arizona Cardinals,Green Bay Packers,GNB,CRD,202410130gnb,2024_rollup
+91,2024-10-13,Washington Commanders,Baltimore Ravens,RAV,WAS,202410130rav,2024_rollup
+92,2024-10-14,Buffalo Bills,New York Jets,NYJ,BUF,202410140nyj,2024_rollup
+93,2024-10-17,Denver Broncos,New Orleans Saints,NOR,DEN,202410170nor,2024_rollup
+94,2024-10-20,Detroit Lions,Minnesota Vikings,MIN,DET,202410200min,2024_rollup
+95,2024-10-20,Seattle Seahawks,Atlanta Falcons,ATL,SEA,202410200atl,2024_rollup
+96,2024-10-20,Cincinnati Bengals,Cleveland Browns,CLE,CIN,202410200cle,2024_rollup
+97,2024-10-20,Philadelphia Eagles,New York Giants,NYG,PHI,202410200nyg,2024_rollup
+98,2024-10-20,Kansas City Chiefs,San Francisco 49ers,SFO,KAN,202410200sfo,2024_rollup
+99,2024-10-20,New England Patriots,Jacksonville Jaguars,JAX,NWE,202410200jax,2024_rollup
+100,2024-10-20,Tennessee Titans,Buffalo Bills,BUF,OTI,202410200buf,2024_rollup
+101,2024-10-20,Miami Dolphins,Indianapolis Colts,CLT,MIA,202410200clt,2024_rollup
+102,2024-10-20,Houston Texans,Green Bay Packers,GNB,HTX,202410200gnb,2024_rollup
+103,2024-10-20,Carolina Panthers,Washington Commanders,WAS,CAR,202410200was,2024_rollup
+104,2024-10-20,Las Vegas Raiders,Los Angeles Rams,RAM,RAI,202410200ram,2024_rollup
+105,2024-10-20,New York Jets,Pittsburgh Steelers,PIT,NYJ,202410200pit,2024_rollup
+106,2024-10-21,Baltimore Ravens,Tampa Bay Buccaneers,TAM,RAV,202410210tam,2024_rollup
+107,2024-10-21,Los Angeles Chargers,Arizona Cardinals,CRD,SDG,202410210crd,2024_rollup
+108,2024-10-24,Minnesota Vikings,Los Angeles Rams,RAM,MIN,202410240ram,2024_rollup
+109,2024-10-27,Atlanta Falcons,Tampa Bay Buccaneers,TAM,ATL,202410270tam,2024_rollup
+110,2024-10-27,Philadelphia Eagles,Cincinnati Bengals,CIN,PHI,202410270cin,2024_rollup
+111,2024-10-27,Arizona Cardinals,Miami Dolphins,MIA,CRD,202410270mia,2024_rollup
+112,2024-10-27,Green Bay Packers,Jacksonville Jaguars,JAX,GNB,202410270jax,2024_rollup
+113,2024-10-27,Buffalo Bills,Seattle Seahawks,SEA,BUF,202410270sea,2024_rollup
+114,2024-10-27,Kansas City Chiefs,Las Vegas Raiders,RAI,KAN,202410270rai,2024_rollup
+115,2024-10-27,Tennessee Titans,Detroit Lions,DET,OTI,202410270det,2024_rollup
+116,2024-10-27,Baltimore Ravens,Cleveland Browns,CLE,RAV,202410270cle,2024_rollup
+117,2024-10-27,Indianapolis Colts,Houston Texans,HTX,CLT,202410270htx,2024_rollup
+118,2024-10-27,New York Jets,New England Patriots,NWE,NYJ,202410270nwe,2024_rollup
+119,2024-10-27,New Orleans Saints,Los Angeles Chargers,SDG,NOR,202410270sdg,2024_rollup
+120,2024-10-27,Chicago Bears,Washington Commanders,WAS,CHI,202410270was,2024_rollup
+121,2024-10-27,Carolina Panthers,Denver Broncos,DEN,CAR,202410270den,2024_rollup
+122,2024-10-27,Dallas Cowboys,San Francisco 49ers,SFO,DAL,202410270sfo,2024_rollup
+123,2024-10-28,New York Giants,Pittsburgh Steelers,PIT,NYG,202410280pit,2024_rollup
+124,2024-10-31,Houston Texans,New York Jets,NYJ,HTX,202410310nyj,2024_rollup
+125,2024-11-03,Los Angeles Chargers,Cleveland Browns,CLE,SDG,202411030cle,2024_rollup
+126,2024-11-03,Washington Commanders,New York Giants,NYG,WAS,202411030nyg,2024_rollup
+127,2024-11-03,Detroit Lions,Green Bay Packers,GNB,DET,202411030gnb,2024_rollup
+128,2024-11-03,Los Angeles Rams,Seattle Seahawks,SEA,RAM,202411030sea,2024_rollup
+129,2024-11-03,Dallas Cowboys,Atlanta Falcons,ATL,DAL,202411030atl,2024_rollup
+130,2024-11-03,Miami Dolphins,Buffalo Bills,BUF,MIA,202411030buf,2024_rollup
+131,2024-11-03,New Orleans Saints,Carolina Panthers,CAR,NOR,202411030car,2024_rollup
+132,2024-11-03,Las Vegas Raiders,Cincinnati Bengals,CIN,RAI,202411030cin,2024_rollup
+133,2024-11-03,Denver Broncos,Baltimore Ravens,RAV,DEN,202411030rav,2024_rollup
+134,2024-11-03,New England Patriots,Tennessee Titans,OTI,NWE,202411030oti,2024_rollup
+135,2024-11-03,Chicago Bears,Arizona Cardinals,CRD,CHI,202411030crd,2024_rollup
+136,2024-11-03,Jacksonville Jaguars,Philadelphia Eagles,PHI,JAX,202411030phi,2024_rollup
+137,2024-11-03,Indianapolis Colts,Minnesota Vikings,MIN,CLT,202411030min,2024_rollup
+138,2024-11-04,Tampa Bay Buccaneers,Kansas City Chiefs,KAN,TAM,202411040kan,2024_rollup
+139,2024-11-07,Cincinnati Bengals,Baltimore Ravens,RAV,CIN,202411070rav,2024_rollup
+140,2024-11-10,New England Patriots,Chicago Bears,CHI,NWE,202411100chi,2024_rollup
+141,2024-11-10,Pittsburgh Steelers,Washington Commanders,WAS,PIT,202411100was,2024_rollup
+142,2024-11-10,San Francisco 49ers,Tampa Bay Buccaneers,TAM,SFO,202411100tam,2024_rollup
+143,2024-11-10,Buffalo Bills,Indianapolis Colts,CLT,BUF,202411100clt,2024_rollup
+144,2024-11-10,Minnesota Vikings,Jacksonville Jaguars,JAX,MIN,202411100jax,2024_rollup
+145,2024-11-10,Philadelphia Eagles,Dallas Cowboys,DAL,PHI,202411100dal,2024_rollup
+146,2024-11-10,Detroit Lions,Houston Texans,HTX,DET,202411100htx,2024_rollup
+147,2024-11-10,New York Giants,Carolina Panthers,CAR,NYG,202411100car,2024_rollup
+148,2024-11-10,Atlanta Falcons,New Orleans Saints,NOR,ATL,202411100nor,2024_rollup
+149,2024-11-10,Denver Broncos,Kansas City Chiefs,KAN,DEN,202411100kan,2024_rollup
+150,2024-11-10,Tennessee Titans,Los Angeles Chargers,SDG,OTI,202411100sdg,2024_rollup
+151,2024-11-10,New York Jets,Arizona Cardinals,CRD,NYJ,202411100crd,2024_rollup
+152,2024-11-11,Miami Dolphins,Los Angeles Rams,RAM,MIA,202411110ram,2024_rollup
+153,2024-11-14,Washington Commanders,Philadelphia Eagles,PHI,WAS,202411140phi,2024_rollup
+154,2024-11-17,Green Bay Packers,Chicago Bears,CHI,GNB,202411170chi,2024_rollup
+155,2024-11-17,Minnesota Vikings,Tennessee Titans,OTI,MIN,202411170oti,2024_rollup
+156,2024-11-17,Indianapolis Colts,New York Jets,NYJ,CLT,202411170nyj,2024_rollup
+157,2024-11-17,Los Angeles Rams,New England Patriots,NWE,RAM,202411170nwe,2024_rollup
+158,2024-11-17,Seattle Seahawks,San Francisco 49ers,SFO,SEA,202411170sfo,2024_rollup
+159,2024-11-17,Cleveland Browns,New Orleans Saints,NOR,CLE,202411170nor,2024_rollup
+160,2024-11-17,Jacksonville Jaguars,Detroit Lions,DET,JAX,202411170det,2024_rollup
+161,2024-11-17,Las Vegas Raiders,Miami Dolphins,MIA,RAI,202411170mia,2024_rollup
+162,2024-11-17,Baltimore Ravens,Pittsburgh Steelers,PIT,RAV,202411170pit,2024_rollup
+163,2024-11-17,Atlanta Falcons,Denver Broncos,DEN,ATL,202411170den,2024_rollup
+164,2024-11-17,Kansas City Chiefs,Buffalo Bills,BUF,KAN,202411170buf,2024_rollup
+165,2024-11-17,Cincinnati Bengals,Los Angeles Chargers,SDG,CIN,202411170sdg,2024_rollup
+166,2024-11-18,Houston Texans,Dallas Cowboys,DAL,HTX,202411180dal,2024_rollup
+167,2024-11-21,Pittsburgh Steelers,Cleveland Browns,CLE,PIT,202411210cle,2024_rollup
+168,2024-11-24,Kansas City Chiefs,Carolina Panthers,CAR,KAN,202411240car,2024_rollup
+169,2024-11-24,Minnesota Vikings,Chicago Bears,CHI,MIN,202411240chi,2024_rollup
+170,2024-11-24,Dallas Cowboys,Washington Commanders,WAS,DAL,202411240was,2024_rollup
+171,2024-11-24,Tampa Bay Buccaneers,New York Giants,NYG,TAM,202411240nyg,2024_rollup
+172,2024-11-24,Detroit Lions,Indianapolis Colts,CLT,DET,202411240clt,2024_rollup
+173,2024-11-24,Tennessee Titans,Houston Texans,HTX,OTI,202411240htx,2024_rollup
+174,2024-11-24,Denver Broncos,Las Vegas Raiders,RAI,DEN,202411240rai,2024_rollup
+175,2024-11-24,Philadelphia Eagles,Los Angeles Rams,RAM,PHI,202411240ram,2024_rollup
+176,2024-11-24,New England Patriots,Miami Dolphins,MIA,NWE,202411240mia,2024_rollup
+177,2024-11-24,Arizona Cardinals,Seattle Seahawks,SEA,CRD,202411240sea,2024_rollup
+178,2024-11-24,San Francisco 49ers,Green Bay Packers,GNB,SFO,202411240gnb,2024_rollup
+179,2024-11-25,Baltimore Ravens,Los Angeles Chargers,SDG,RAV,202411250sdg,2024_rollup
+180,2024-11-28,Chicago Bears,Detroit Lions,DET,CHI,202411280det,2024_rollup
+181,2024-11-28,New York Giants,Dallas Cowboys,DAL,NYG,202411280dal,2024_rollup
+182,2024-11-28,Miami Dolphins,Green Bay Packers,GNB,MIA,202411280gnb,2024_rollup
+183,2024-11-29,Las Vegas Raiders,Kansas City Chiefs,KAN,RAI,202411290kan,2024_rollup
+184,2024-12-01,Los Angeles Chargers,Atlanta Falcons,ATL,SDG,202412010atl,2024_rollup
+185,2024-12-01,Pittsburgh Steelers,Cincinnati Bengals,CIN,PIT,202412010cin,2024_rollup
+186,2024-12-01,Seattle Seahawks,New York Jets,NYJ,SEA,202412010nyj,2024_rollup
+187,2024-12-01,Indianapolis Colts,New England Patriots,NWE,CLT,202412010nwe,2024_rollup
+188,2024-12-01,Houston Texans,Jacksonville Jaguars,JAX,HTX,202412010jax,2024_rollup
+189,2024-12-01,Tampa Bay Buccaneers,Carolina Panthers,CAR,TAM,202412010car,2024_rollup
+190,2024-12-01,Los Angeles Rams,New Orleans Saints,NOR,RAM,202412010nor,2024_rollup
+191,2024-12-01,Philadelphia Eagles,Baltimore Ravens,RAV,PHI,202412010rav,2024_rollup
+192,2024-12-01,Arizona Cardinals,Minnesota Vikings,MIN,CRD,202412010min,2024_rollup
+193,2024-12-01,Tennessee Titans,Washington Commanders,WAS,OTI,202412010was,2024_rollup
+194,2024-12-01,San Francisco 49ers,Buffalo Bills,BUF,SFO,202412010buf,2024_rollup
+195,2024-12-02,Cleveland Browns,Denver Broncos,DEN,CLE,202412020den,2024_rollup
+196,2024-12-05,Green Bay Packers,Detroit Lions,DET,GNB,202412050det,2024_rollup
+197,2024-12-08,Jacksonville Jaguars,Tennessee Titans,OTI,JAX,202412080oti,2024_rollup
+198,2024-12-08,New Orleans Saints,New York Giants,NYG,NOR,202412080nyg,2024_rollup
+199,2024-12-08,Seattle Seahawks,Arizona Cardinals,CRD,SEA,202412080crd,2024_rollup
+200,2024-12-08,Atlanta Falcons,Minnesota Vikings,MIN,ATL,202412080min,2024_rollup
+201,2024-12-08,Carolina Panthers,Philadelphia Eagles,PHI,CAR,202412080phi,2024_rollup
+202,2024-12-08,Cleveland Browns,Pittsburgh Steelers,PIT,CLE,202412080pit,2024_rollup
+203,2024-12-08,New York Jets,Miami Dolphins,MIA,NYJ,202412080mia,2024_rollup
+204,2024-12-08,Las Vegas Raiders,Tampa Bay Buccaneers,TAM,RAI,202412080tam,2024_rollup
+205,2024-12-08,Buffalo Bills,Los Angeles Rams,RAM,BUF,202412080ram,2024_rollup
+206,2024-12-08,Chicago Bears,San Francisco 49ers,SFO,CHI,202412080sfo,2024_rollup
+207,2024-12-08,Los Angeles Chargers,Kansas City Chiefs,KAN,SDG,202412080kan,2024_rollup
+208,2024-12-09,Cincinnati Bengals,Dallas Cowboys,DAL,CIN,202412090dal,2024_rollup
+209,2024-12-12,Los Angeles Rams,San Francisco 49ers,SFO,RAM,202412120sfo,2024_rollup
+210,2024-12-15,Dallas Cowboys,Carolina Panthers,CAR,DAL,202412150car,2024_rollup
+211,2024-12-15,Cincinnati Bengals,Tennessee Titans,OTI,CIN,202412150oti,2024_rollup
+212,2024-12-15,Kansas City Chiefs,Cleveland Browns,CLE,KAN,202412150cle,2024_rollup
+213,2024-12-15,New York Jets,Jacksonville Jaguars,JAX,NYJ,202412150jax,2024_rollup
+214,2024-12-15,Washington Commanders,New Orleans Saints,NOR,WAS,202412150nor,2024_rollup
+215,2024-12-15,Baltimore Ravens,New York Giants,NYG,RAV,202412150nyg,2024_rollup
+216,2024-12-15,Buffalo Bills,Detroit Lions,DET,BUF,202412150det,2024_rollup
+217,2024-12-15,Tampa Bay Buccaneers,Los Angeles Chargers,SDG,TAM,202412150sdg,2024_rollup
+218,2024-12-15,Green Bay Packers,Seattle Seahawks,SEA,GNB,202412150sea,2024_rollup
+219,2024-12-15,Miami Dolphins,Houston Texans,HTX,MIA,202412150htx,2024_rollup
+220,2024-12-15,Indianapolis Colts,Denver Broncos,DEN,CLT,202412150den,2024_rollup
+221,2024-12-15,New England Patriots,Arizona Cardinals,CRD,NWE,202412150crd,2024_rollup
+222,2024-12-15,Pittsburgh Steelers,Philadelphia Eagles,PHI,PIT,202412150phi,2024_rollup
+223,2024-12-16,Atlanta Falcons,Las Vegas Raiders,RAI,ATL,202412160rai,2024_rollup
+224,2024-12-16,Chicago Bears,Minnesota Vikings,MIN,CHI,202412160min,2024_rollup
+225,2024-12-19,Denver Broncos,Los Angeles Chargers,SDG,DEN,202412190sdg,2024_rollup
+226,2024-12-21,Houston Texans,Kansas City Chiefs,KAN,HTX,202412210kan,2024_rollup
+227,2024-12-21,Pittsburgh Steelers,Baltimore Ravens,RAV,PIT,202412210rav,2024_rollup
+228,2024-12-22,Detroit Lions,Chicago Bears,CHI,DET,202412220chi,2024_rollup
+229,2024-12-22,Los Angeles Rams,New York Jets,NYJ,RAM,202412220nyj,2024_rollup
+230,2024-12-22,Minnesota Vikings,Seattle Seahawks,SEA,MIN,202412220sea,2024_rollup
+231,2024-12-22,New York Giants,Atlanta Falcons,ATL,NYG,202412220atl,2024_rollup
+232,2024-12-22,Arizona Cardinals,Carolina Panthers,CAR,CRD,202412220car,2024_rollup
+233,2024-12-22,Cleveland Browns,Cincinnati Bengals,CIN,CLE,202412220cin,2024_rollup
+234,2024-12-22,Tennessee Titans,Indianapolis Colts,CLT,OTI,202412220clt,2024_rollup
+235,2024-12-22,Philadelphia Eagles,Washington Commanders,WAS,PHI,202412220was,2024_rollup
+236,2024-12-22,New England Patriots,Buffalo Bills,BUF,NWE,202412220buf,2024_rollup
+237,2024-12-22,Jacksonville Jaguars,Las Vegas Raiders,RAI,JAX,202412220rai,2024_rollup
+238,2024-12-22,San Francisco 49ers,Miami Dolphins,MIA,SFO,202412220mia,2024_rollup
+239,2024-12-22,Tampa Bay Buccaneers,Dallas Cowboys,DAL,TAM,202412220dal,2024_rollup
+240,2024-12-23,New Orleans Saints,Green Bay Packers,GNB,NOR,202412230gnb,2024_rollup
+241,2024-12-25,Kansas City Chiefs,Pittsburgh Steelers,PIT,KAN,202412250pit,2024_rollup
+242,2024-12-25,Baltimore Ravens,Houston Texans,HTX,RAV,202412250htx,2024_rollup
+243,2024-12-26,Seattle Seahawks,Chicago Bears,CHI,SEA,202412260chi,2024_rollup
+244,2024-12-28,Los Angeles Chargers,New England Patriots,NWE,SDG,202412280nwe,2024_rollup
+245,2024-12-28,Denver Broncos,Cincinnati Bengals,CIN,DEN,202412280cin,2024_rollup
+246,2024-12-28,Arizona Cardinals,Los Angeles Rams,RAM,CRD,202412280ram,2024_rollup
+247,2024-12-29,Las Vegas Raiders,New Orleans Saints,NOR,RAI,202412290nor,2024_rollup
+248,2024-12-29,Miami Dolphins,Cleveland Browns,CLE,MIA,202412290cle,2024_rollup
+249,2024-12-29,New York Jets,Buffalo Bills,BUF,NYJ,202412290buf,2024_rollup
+250,2024-12-29,Carolina Panthers,Tampa Bay Buccaneers,TAM,CAR,202412290tam,2024_rollup
+251,2024-12-29,Indianapolis Colts,New York Giants,NYG,CLT,202412290nyg,2024_rollup
+252,2024-12-29,Dallas Cowboys,Philadelphia Eagles,PHI,DAL,202412290phi,2024_rollup
+253,2024-12-29,Tennessee Titans,Jacksonville Jaguars,JAX,OTI,202412290jax,2024_rollup
+254,2024-12-29,Green Bay Packers,Minnesota Vikings,MIN,GNB,202412290min,2024_rollup
+255,2024-12-29,Atlanta Falcons,Washington Commanders,WAS,ATL,202412290was,2024_rollup
+256,2024-12-30,Detroit Lions,San Francisco 49ers,SFO,DET,202412300sfo,2024_rollup
+257,2025-01-04,Cincinnati Bengals,Pittsburgh Steelers,PIT,CIN,202501040pit,2024_rollup
+258,2025-01-04,Cleveland Browns,Baltimore Ravens,RAV,CLE,202501040rav,2024_rollup
+259,2025-01-05,Carolina Panthers,Atlanta Falcons,ATL,CAR,202501050atl,2024_rollup
+260,2025-01-05,Chicago Bears,Green Bay Packers,GNB,CHI,202501050gnb,2024_rollup
+261,2025-01-05,Washington Commanders,Dallas Cowboys,DAL,WAS,202501050dal,2024_rollup
+262,2025-01-05,Houston Texans,Tennessee Titans,OTI,HTX,202501050oti,2024_rollup
+263,2025-01-05,Los Angeles Chargers,Las Vegas Raiders,RAI,SDG,202501050rai,2024_rollup
+264,2025-01-05,Seattle Seahawks,Los Angeles Rams,RAM,SEA,202501050ram,2024_rollup
+265,2025-01-05,Buffalo Bills,New England Patriots,NWE,BUF,202501050nwe,2024_rollup
+266,2025-01-05,Jacksonville Jaguars,Indianapolis Colts,CLT,JAX,202501050clt,2024_rollup
+267,2025-01-05,New Orleans Saints,Tampa Bay Buccaneers,TAM,NOR,202501050tam,2024_rollup
+268,2025-01-05,New York Giants,Philadelphia Eagles,PHI,NYG,202501050phi,2024_rollup
+269,2025-01-05,San Francisco 49ers,Arizona Cardinals,CRD,SFO,202501050crd,2024_rollup
+270,2025-01-05,Kansas City Chiefs,Denver Broncos,DEN,KAN,202501050den,2024_rollup
+271,2025-01-05,Miami Dolphins,New York Jets,NYJ,MIA,202501050nyj,2024_rollup
+272,2025-01-05,Minnesota Vikings,Detroit Lions,DET,MIN,202501050det,2024_rollup

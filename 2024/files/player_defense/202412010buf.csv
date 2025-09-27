@@ -1,0 +1,47 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Ji'Ayir Brown,SFO,0,0,0,0,0,0.0,8,4,4,0,0,0,0,0,0
+Renardo Green,SFO,0,0,0,0,1,0.0,6,5,1,0,0,0,0,0,0
+De'Vondre Campbell,SFO,0,0,0,0,0,0.0,5,3,2,1,0,0,0,0,0
+Malik Mustapha,SFO,0,0,0,0,1,0.0,5,1,4,0,0,0,0,0,0
+Charvarius Ward,SFO,0,0,0,0,0,0.0,5,2,3,1,0,0,0,0,0
+Evan Anderson,SFO,0,0,0,0,0,0.0,4,2,2,0,1,0,0,0,0
+Yetur Gross-Matos,SFO,0,0,0,0,0,0.0,4,2,2,1,0,0,0,0,0
+Nick McCloud,SFO,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0
+Fred Warner,SFO,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Dee Winters,SFO,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Maliek Collins,SFO,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0
+Kalia Davis,SFO,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Khalil Davis,SFO,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Leonard Floyd,SFO,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Sam Okuayinonu,SFO,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Chris Conley,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Kevin Givens,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Jalen Graham,SFO,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+George Odum,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Isaac Yiadom,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Gregory Rousseau,BUF,0,0,0,0,0,1.0,4,4,0,3,1,1,0,0,0
+Terrel Bernard,BUF,0,0,0,0,0,0.0,9,3,6,0,0,0,0,0,0
+Taron Johnson,BUF,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,0
+Taylor Rapp,BUF,0,0,0,0,0,0.0,6,3,3,0,0,0,0,0,1
+Rasul Douglas,BUF,0,0,0,0,0,0.0,5,3,2,1,0,0,0,0,0
+Damar Hamlin,BUF,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0
+Matt Milano,BUF,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0
+DaQuan Jones,BUF,0,0,0,0,0,0.0,3,1,2,1,0,0,0,0,0
+Cole Bishop,BUF,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,1
+Ja'Marcus Ingram,BUF,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Quinton Jefferson,BUF,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Cameron Lewis,BUF,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Ed Oliver,BUF,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Joe Andreessen,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Tyler Bass,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Christian Benford,BUF,0,0,0,0,1,0.0,1,0,1,0,0,1,43,0,0
+A.J. Epenesa,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Reggie Gilliam,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Von Miller,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Quintin Morris,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Nicholas Morrow,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Casey Toohill,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Dorian Williams,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Jalen Virgil,BUF,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0

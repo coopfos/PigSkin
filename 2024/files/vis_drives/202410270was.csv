@@ -1,0 +1,12 @@
+#,Quarter,Time,LOS,Plays,Length,Net Yds,Result
+1,1,15:00,CHI 30,3,1:57,-10,Punt
+2,1,8:51,CHI 29,6,2:48,30,Punt
+3,1,1:04,CHI 30,3,2:03,9,Punt
+4,2,11:56,CHI 20,6,3:31,20,Downs
+5,2,5:24,CHI 29,10,4:29,31,Punt
+6,3,10:18,CHI 4,3,0:40,3,Punt
+7,3,5:48,CHI 30,5,3:04,10,Punt
+8,3,1:29,CHI 41,2,0:46,59,Touchdown
+9,4,14:04,CHI 41,3,0:20,-5,Punt
+10,4,10:28,CHI 15,9,4:10,84,Fumble
+11,4,4:21,CHI 38,10,3:56,62,Touchdown

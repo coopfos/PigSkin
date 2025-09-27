@@ -1,0 +1,937 @@
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,source_file
+Brock Purdy,SFO,11,18,94,4,20.0,92,5.1,31,2.8,1.7,63,5.7,2,11.8%,3,17.6%,2,1,0,0,2,9.1%,2,2.0,202412010buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010buf
+Josh Allen,BUF,13,17,148,7,41.2,109,6.4,63,4.8,3.7,85,6.5,0,0.0%,2,11.8%,0,5,0,1,1,5.6%,1,8.0,202412010buf
+Mitchell Trubisky,BUF,1,1,4,,,2,2.0,2,2.0,2.0,2,2.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202412010buf
+Matthew Stafford,LAR,14,24,183,9,34.6,199,8.3,105,7.5,4.4,78,5.6,0,0.0%,8,34.8%,2,4,0,4,6,23.1%,0,,202412010nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010nor
+Derek Carr,NOR,24,37,184,11,29.7,258,7.0,120,5.0,3.2,64,2.7,2,5.9%,3,8.8%,0,3,5,3,8,20.5%,2,6.0,202412010nor
+Caleb Williams,CHI,33,52,363,18,32.1,516,9.9,243,7.4,4.7,120,3.6,1,2.1%,11,22.9%,4,6,7,1,12,21.4%,0,,202409220clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220clt
+Anthony Richardson,IND,10,20,167,4,19.0,193,9.7,69,6.9,3.5,98,9.8,2,11.1%,3,16.7%,1,3,3,2,6,27.3%,1,8.0,202409220clt
+Tyler Huntley,MIA,25,41,227,14,31.1,281,6.9,140,5.6,3.4,87,3.5,1,2.6%,8,21.1%,4,9,3,7,14,29.2%,3,5.3,202501050nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050nyj
+Aaron Rodgers,NYJ,23,36,274,14,35.9,217,6.0,125,5.4,3.5,149,6.5,4,11.4%,4,11.4%,3,8,2,2,7,17.9%,0,,202501050nyj
+Allen Lazard,NYJ,0,1,0,0,0.0,17,17.0,0,,0.0,0,,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202501050nyj
+Brandon Allen,SFO,17,29,199,8,25.8,214,7.4,83,4.9,2.9,116,6.8,4,15.4%,4,15.4%,2,6,3,2,7,21.9%,1,6.0,202411240gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240gnb
+Jordan Love,GNB,13,23,163,9,36.0,279,12.1,71,5.5,3.1,92,7.1,2,9.1%,5,22.7%,2,3,2,1,5,20.0%,0,,202411240gnb
+Mason Rudolph,TEN,25,40,215,13,30.2,225,5.6,104,4.2,2.6,111,4.4,2,5.1%,8,20.5%,3,12,2,7,12,27.3%,1,8.0,202410200buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200buf
+Josh Allen,BUF,21,33,323,14,41.2,297,9.0,151,7.2,4.6,172,8.2,1,3.1%,4,12.5%,1,10,0,3,4,11.4%,1,7.0,202410200buf
+Dak Prescott,DAL,29,42,352,14,31.8,286,6.8,184,6.3,4.4,168,5.8,0,0.0%,8,19.5%,2,5,5,3,10,22.2%,1,3.0,202410060pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060pit
+Justin Fields,PIT,15,27,131,6,20.0,300,11.1,61,4.1,2.3,70,4.7,2,8.0%,4,16.0%,3,7,4,3,10,33.3%,0,,202410060pit
+Kyle Allen,PIT,1,1,19,1,100.0,13,13.0,13,13.0,13.0,6,6.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202410060pit
+Jameis Winston,CLE,24,41,212,11,25.0,342,8.3,149,6.2,3.6,63,2.6,0,0.0%,12,30.0%,3,11,3,3,9,20.0%,1,5.0,202412080pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080pit
+Russell Wilson,PIT,15,26,158,6,22.2,206,7.9,84,5.6,3.2,74,4.9,0,0.0%,9,36.0%,1,9,2,6,9,31.0%,2,6.0,202412080pit
+Cooper Rush,DAL,13,25,115,7,28.0,204,8.2,69,5.3,2.8,46,3.5,2,8.0%,7,28.0%,0,6,4,2,6,24.0%,0,,202411030atl
+Dak Prescott,DAL,18,24,133,6,22.2,90,3.8,49,2.7,2.0,84,4.7,1,4.5%,2,9.1%,3,4,2,3,8,27.6%,2,13.5,202411030atl
+Bryan Anger,DAL,0,1,0,,,7,7.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,202411030atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030atl
+Kirk Cousins,ATL,19,24,222,12,46.2,136,5.7,78,4.1,3.3,144,7.6,0,0.0%,2,8.3%,2,11,3,2,7,26.9%,0,,202411030atl
+Malik Willis,GNB,13,19,202,6,27.3,134,7.1,57,4.4,3.0,145,11.2,2,10.5%,4,21.1%,3,6,0,0,3,12.0%,3,10.7,202409220oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220oti
+Will Levis,TEN,26,34,260,14,33.3,231,6.8,125,4.8,3.7,135,5.2,3,9.1%,4,12.1%,8,7,0,2,10,22.7%,2,5.5,202409220oti
+Joe Burrow,CIN,19,28,208,10,31.3,156,5.6,107,5.6,3.8,101,5.3,1,4.3%,1,4.3%,4,3,2,3,9,26.5%,2,28.5,202410130nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130nyg
+Daniel Jones,NYG,22,41,205,10,23.3,278,6.8,78,3.5,1.9,127,5.8,1,2.7%,7,18.9%,2,14,2,4,8,17.8%,2,7.0,202410130nyg
+Justin Fields,PIT,13,20,117,7,31.8,145,7.3,65,5.0,3.3,52,4.0,0,0.0%,4,22.2%,2,12,0,4,6,23.1%,4,6.8,202409150den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150den
+Bo Nix,DEN,20,35,246,8,21.6,325,9.3,119,6.0,3.4,127,6.4,2,5.9%,9,26.5%,2,8,2,4,8,20.5%,2,3.5,202409150den
+Jameis Winston,CLE,34,58,497,24,39.3,492,8.5,300,8.8,5.2,197,5.8,4,7.0%,8,14.0%,3,10,7,6,16,25.8%,1,6.0,202412020den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412020den
+Bo Nix,DEN,18,35,294,11,31.4,402,11.5,141,7.8,4.0,153,8.5,2,6.5%,6,19.4%,0,12,5,2,7,19.4%,1,6.0,202412020den
+Matthew Stafford,LAR,16,27,160,6,22.2,177,6.6,75,4.7,2.8,85,5.3,2,7.7%,4,15.4%,0,8,0,5,5,17.9%,1,11.0,202412120sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412120sfo
+Brock Purdy,SFO,14,31,142,7,20.6,335,10.8,71,5.1,2.3,71,5.1,3,9.7%,5,16.1%,3,5,0,0,3,8.8%,0,,202412120sfo
+Bo Nix,DEN,12,25,60,3,12.0,245,9.8,26,2.2,1.0,34,2.8,2,8.0%,10,40.0%,0,7,5,2,7,25.9%,2,4.0,202409290nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290nyj
+Aaron Rodgers,NYJ,24,42,225,10,21.3,306,7.3,129,5.4,3.1,96,4.0,2,4.9%,11,26.8%,5,21,1,8,14,27.5%,4,4.5,202409290nyj
+Aaron Rodgers,NYJ,24,39,276,13,32.5,203,5.2,90,3.8,2.3,186,7.8,1,2.6%,9,23.1%,1,9,0,7,8,20.0%,0,,202410200pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200pit
+Russell Wilson,PIT,16,29,264,12,40.0,238,8.2,149,9.3,5.1,115,7.2,2,7.4%,6,22.2%,1,11,5,4,10,32.3%,1,1.0,202410200pit
+Sam Darnold,MIN,20,32,246,12,35.3,304,9.5,138,6.9,4.3,108,5.4,3,10.0%,5,16.7%,2,7,2,2,6,16.2%,3,4.7,202411170oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170oti
+Will Levis,TEN,17,31,295,8,22.2,342,11.0,159,9.4,5.1,136,8.0,2,6.9%,9,31.0%,5,10,4,4,13,34.2%,2,6.0,202411170oti
+Geno Smith,SEA,17,23,160,7,26.9,74,3.2,40,2.4,1.7,120,7.1,0,0.0%,2,9.1%,3,7,0,4,7,25.0%,2,10.0,202412260chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412260chi
+Caleb Williams,CHI,16,28,122,7,20.0,202,7.2,14,0.9,0.5,108,6.8,2,7.7%,6,23.1%,7,10,2,4,13,34.2%,3,8.3,202412260chi
+Brock Purdy,SFO,22,30,292,13,41.9,328,10.9,228,10.4,7.6,64,2.9,3,10.0%,3,10.0%,1,6,4,4,9,23.7%,7,5.3,202409220ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220ram
+Matthew Stafford,LAR,16,25,221,8,28.6,263,10.5,139,8.7,5.6,82,5.1,0,0.0%,3,13.6%,3,7,3,2,8,28.6%,0,,202409220ram
+Tutu Atwell,LAR,0,1,0,0,0.0,34,34.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202409220ram
+C.J. Stroud,HOU,23,34,257,13,37.1,168,4.9,101,4.4,3.0,156,6.8,2,6.1%,4,12.1%,1,8,6,0,7,18.4%,3,8.7,202411180dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411180dal
+Cooper Rush,DAL,32,55,354,17,28.3,346,6.3,152,4.8,2.8,202,6.3,3,5.7%,10,18.9%,5,4,6,1,12,19.7%,1,2.0,202411180dal
+Bryan Anger,DAL,1,1,4,,,4,4.0,4,4.0,4.0,0,0.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202411180dal
+Deshaun Watson,CLE,16,23,168,7,25.0,130,5.7,41,2.6,1.8,127,7.9,1,4.3%,4,17.4%,5,11,1,2,8,26.7%,2,6.0,202410130phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130phi
+Jalen Hurts,PHI,16,25,264,11,42.3,255,10.2,129,8.1,5.2,135,8.4,0,0.0%,5,20.8%,1,15,3,1,5,19.2%,0,,202410130phi
+Geno Smith,SEA,20,31,206,7,20.6,186,6.0,131,6.6,4.2,75,3.8,0,0.0%,7,23.3%,3,10,2,3,8,22.9%,1,3.0,202412010nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010nyj
+Aaron Rodgers,NYJ,21,39,185,12,29.3,305,7.8,63,3.0,1.6,122,5.8,3,7.9%,11,28.9%,2,10,3,4,9,21.4%,1,7.0,202412010nyj
+Justin Herbert,LAC,27,39,349,14,33.3,336,8.6,224,8.3,5.7,125,4.6,5,13.5%,3,8.1%,3,8,0,4,7,15.9%,2,4.0,202410210crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410210crd
+Kyler Murray,ARI,14,26,145,10,38.5,143,5.5,58,4.1,2.2,87,6.2,2,8.0%,4,16.0%,0,10,1,1,2,6.9%,3,21.7,202410210crd
+Aaron Rodgers,NYJ,18,30,176,9,28.1,167,5.6,80,4.4,2.7,96,5.3,3,10.3%,7,24.1%,2,8,1,1,4,12.1%,1,2.0,202409150oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150oti
+Will Levis,TEN,19,28,192,7,21.9,284,10.1,110,5.8,3.9,82,4.3,1,3.7%,3,11.1%,4,4,0,2,6,17.1%,3,12.0,202409150oti
+Joe Flacco,IND,33,44,359,16,33.3,334,7.6,232,7.0,5.3,127,3.8,2,4.5%,5,11.4%,4,6,1,2,7,14.3%,1,21.0,202410060jax
+Adonai Mitchell,IND,1,1,24,1,100.0,-6,-6.0,-6,-6.0,-6.0,30,30.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202410060jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060jax
+Trevor Lawrence,JAX,28,34,371,13,38.2,225,6.6,150,5.4,4.4,221,7.9,0,0.0%,1,2.9%,0,5,0,0,0,0.0%,0,,202410060jax
+Justin Herbert,LAC,14,20,130,8,38.1,141,7.1,66,4.7,3.3,64,4.6,0,0.0%,4,20.0%,1,8,0,1,2,9.1%,1,8.0,202409150car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150car
+Bryce Young,CAR,18,26,84,3,10.7,61,2.3,22,1.2,0.8,62,3.4,0,0.0%,4,15.4%,2,6,0,0,2,6.9%,1,6.0,202409150car
+Andy Dalton,CAR,18,28,136,6,19.4,212,7.6,85,4.7,3.0,51,2.8,1,3.6%,5,17.9%,3,9,1,4,8,25.0%,1,3.0,202410060chi
+Bryce Young,CAR,4,7,58,3,37.5,59,8.4,35,8.8,5.0,23,5.8,0,0.0%,1,14.3%,1,1,2,0,3,33.3%,1,8.0,202410060chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060chi
+Caleb Williams,CHI,20,29,304,12,40.0,208,7.2,122,6.1,4.2,182,9.1,0,0.0%,6,21.4%,1,12,0,1,2,5.7%,5,6.8,202410060chi
+Daniel Jones,NYG,24,34,236,13,36.1,227,6.7,73,3.0,2.1,163,6.8,4,12.1%,2,6.1%,2,9,1,7,10,26.3%,2,4.5,202409220cle
+Malik Nabers,NYG,0,1,0,0,0.0,1,1.0,0,,0.0,0,,0,0.0%,1,100.0%,0,1,1,0,1,100.0%,0,,202409220cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220cle
+Deshaun Watson,CLE,21,37,196,7,15.6,289,7.8,122,5.8,3.3,74,3.5,4,11.4%,7,20.0%,8,19,0,6,14,29.8%,2,13.5,202409220cle
+Russell Wilson,PIT,22,33,217,14,38.9,257,7.8,157,7.1,4.8,60,2.7,1,3.8%,2,7.7%,3,6,3,2,8,20.5%,3,9.0,202412210rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412210rav
+Lamar Jackson,BAL,15,23,207,12,50.0,221,9.6,137,9.1,6.0,70,4.7,2,8.7%,4,17.4%,1,15,1,0,2,8.0%,1,8.0,202412210rav
+Anthony Richardson,IND,12,24,109,5,20.8,388,16.2,62,5.2,2.6,47,3.9,1,4.2%,5,20.8%,0,5,1,2,3,12.0%,1,11.0,202412010nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010nwe
+Drake Maye,NWE,24,30,238,14,41.2,198,6.6,135,5.6,4.5,103,4.3,0,0.0%,4,13.3%,4,6,1,0,5,12.8%,5,11.8,202412010nwe
+Baker Mayfield,TAM,31,43,303,14,29.8,415,9.7,168,5.4,3.9,135,4.4,1,2.3%,5,11.6%,4,16,13,1,18,36.0%,3,14.0,202412220dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220dal
+Cooper Rush,DAL,26,35,292,12,33.3,243,6.9,146,5.6,4.2,146,5.6,0,0.0%,6,18.2%,1,13,8,2,11,30.6%,0,,202412220dal
+Skylar Thompson,MIA,13,19,107,4,16.7,102,5.4,61,4.7,3.2,46,3.5,1,5.6%,2,11.1%,5,6,2,4,11,45.8%,0,,202409220sea
+Tim Boyle,MIA,7,13,79,4,28.6,104,8.0,31,4.4,2.4,48,6.9,1,7.7%,3,23.1%,1,0,0,2,3,20.0%,1,6.0,202409220sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220sea
+Geno Smith,SEA,26,34,289,13,35.1,186,5.5,137,5.3,4.0,152,5.8,0,0.0%,4,12.1%,3,8,4,3,10,27.0%,0,,202409220sea
+Russell Wilson,PIT,29,38,414,18,45.0,163,4.3,150,5.2,3.9,264,9.1,1,2.8%,5,13.9%,2,10,8,7,17,41.5%,1,5.0,202412010cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010cin
+Joe Burrow,CIN,28,38,309,16,38.1,226,5.9,144,5.1,3.8,165,5.9,3,8.1%,3,8.1%,4,10,7,7,18,40.9%,2,4.5,202412010cin
+Andy Dalton,CAR,26,37,319,15,38.5,214,5.8,128,4.9,3.5,191,7.3,2,5.4%,4,10.8%,2,22,3,2,7,17.9%,0,,202409220rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220rai
+Gardner Minshew II,LVR,18,28,214,10,33.3,216,7.7,105,5.8,3.8,109,6.1,0,0.0%,4,14.8%,2,8,1,2,5,15.6%,2,7.0,202409220rai
+Aidan O'Connell,LVR,9,12,82,5,38.5,93,7.8,56,6.2,4.7,26,2.9,0,0.0%,2,16.7%,1,2,1,1,3,23.1%,0,,202409220rai
+C.J. Stroud,HOU,11,30,191,6,15.8,474,15.8,130,11.8,4.3,61,5.5,1,3.6%,12,42.9%,8,9,3,4,15,33.3%,7,8.6,202410310nyj
+Joe Mixon,HOU,0,1,0,0,0.0,10,10.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,202410310nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410310nyj
+Aaron Rodgers,NYJ,22,32,211,11,32.4,185,5.8,99,4.5,3.1,112,5.1,2,6.3%,4,12.5%,2,13,1,2,5,14.7%,0,,202410310nyj
+Bo Nix,DEN,16,26,164,8,30.8,162,6.2,59,3.7,2.3,105,6.6,2,8.0%,5,20.0%,0,8,2,0,2,6.1%,7,4.7,202410170nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410170nor
+Spencer Rattler,NOR,25,35,172,5,12.2,248,7.1,85,3.4,2.4,87,3.5,3,8.6%,4,11.4%,6,6,0,4,10,22.7%,3,11.3,202410170nor
+Jake Haener,NOR,3,4,38,2,50.0,26,6.5,24,8.0,6.0,14,4.7,1,25.0%,0,0.0%,0,3,0,0,0,0.0%,0,,202410170nor
+Kirk Cousins,ATL,18,27,173,8,26.7,183,6.8,83,4.6,3.1,90,5.0,0,0.0%,4,15.4%,3,7,2,1,6,20.0%,0,,202411170den
+Michael Penix,ATL,2,4,24,2,40.0,48,12.0,20,10.0,5.0,4,2.0,0,0.0%,2,50.0%,1,1,0,1,2,40.0%,0,,202411170den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170den
+Bo Nix,DEN,28,33,307,14,41.2,139,4.2,108,3.9,3.3,199,7.1,0,0.0%,2,6.3%,1,5,4,2,7,20.0%,1,3.0,202411170den
+Geno Smith,SEA,25,32,221,10,27.8,222,6.9,153,6.1,4.8,68,2.7,1,3.2%,3,9.7%,4,1,3,2,9,23.7%,2,14.5,202411170sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170sfo
+Brock Purdy,SFO,21,28,159,10,33.3,153,5.5,106,5.0,3.8,53,2.5,0,0.0%,2,7.1%,2,14,2,2,6,17.1%,5,8.0,202411170sfo
+Joe Burrow,CIN,28,50,356,14,26.4,512,10.2,245,8.8,4.9,111,4.0,1,2.2%,8,17.4%,3,16,3,10,16,29.1%,2,14.0,202411170sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170sdg
+Justin Herbert,LAC,17,36,297,14,36.8,463,12.9,232,13.6,6.4,65,3.8,2,6.1%,5,15.2%,2,9,1,3,6,14.3%,4,16.5,202411170sdg
+Russell Wilson,PIT,21,28,270,10,31.3,309,11.0,184,8.8,6.6,86,4.1,0,0.0%,5,19.2%,4,3,0,7,11,33.3%,1,10.0,202411210cle
+Justin Fields,PIT,0,1,0,0,0.0,35,35.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,202411210cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411210cle
+Jameis Winston,CLE,18,27,219,8,28.6,227,8.4,175,9.7,6.5,44,2.4,2,7.4%,1,3.7%,1,4,0,5,6,20.7%,1,2.0,202411210cle
+Jared Goff,DET,18,22,145,8,34.8,81,3.7,58,3.2,2.6,87,4.8,0,0.0%,2,10.0%,1,6,1,2,4,17.4%,0,,202411030gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030gnb
+Jordan Love,GNB,23,39,273,10,25.6,364,9.3,182,7.9,4.7,91,4.0,5,13.5%,7,18.9%,0,8,6,2,8,20.5%,0,,202411030gnb
+Kenny Pickett,PHI,14,24,143,8,29.6,195,8.1,113,8.1,4.7,30,2.1,1,4.3%,2,8.7%,3,16,2,3,8,26.7%,3,4.3,202412220was
+Jalen Hurts,PHI,1,4,11,1,25.0,40,10.0,5,5.0,1.3,6,6.0,0,0.0%,2,66.7%,0,1,0,0,0,0.0%,2,14.0,202412220was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220was
+Jayden Daniels,WAS,24,39,258,13,32.5,274,7.0,143,6.0,3.7,115,4.8,0,0.0%,8,21.6%,1,14,2,1,4,8.9%,5,9.6,202412220was
+Jared Goff,DET,18,25,315,13,48.1,256,10.2,148,8.2,5.9,167,9.3,1,4.0%,5,20.0%,2,10,2,3,7,24.1%,2,3.0,202410130dal
+Hendon Hooker,DET,1,2,19,1,33.3,10,5.0,6,6.0,3.0,13,13.0,0,0.0%,0,0.0%,1,1,1,0,2,66.7%,0,,202410130dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130dal
+Dak Prescott,DAL,17,33,178,6,16.2,292,8.8,96,5.6,2.9,82,4.8,1,3.1%,9,28.1%,4,12,8,7,19,50.0%,1,1.0,202410130dal
+Cooper Rush,DAL,8,11,46,4,36.4,43,3.9,22,2.8,2.0,24,3.0,0,0.0%,3,27.3%,0,2,1,0,1,9.1%,0,,202410130dal
+Lamar Jackson,BAL,21,25,290,13,48.1,258,10.3,175,8.3,7.0,115,5.5,0,0.0%,2,8.3%,2,12,7,1,10,35.7%,1,21.0,202412150nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150nyg
+Tim Boyle,NYG,12,24,123,4,16.0,139,5.8,60,5.0,2.5,63,5.3,1,4.5%,4,18.2%,1,8,8,4,13,52.0%,0,,202412150nyg
+Tommy DeVito,NYG,10,13,68,4,26.7,62,4.8,35,3.5,2.7,33,3.3,0,0.0%,2,16.7%,2,2,2,0,4,26.7%,0,,202412150nyg
+Mason Rudolph,TEN,22,38,266,12,30.8,335,8.8,187,8.5,4.9,79,3.6,1,2.6%,13,34.2%,1,8,4,4,9,22.0%,2,12.5,202410270det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270det
+Jared Goff,DET,12,15,85,8,42.1,50,3.3,16,1.3,1.1,69,5.8,0,0.0%,1,7.1%,4,5,0,1,5,26.3%,0,,202410270det
+Hendon Hooker,DET,2,3,6,,,15,5.0,-1,-0.5,-0.3,7,3.5,0,0.0%,1,33.3%,0,0,1,0,1,33.3%,0,,202410270det
+David Montgomery,DET,1,1,3,1,100.0,3,3.0,3,3.0,3.0,0,0.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202410270det
+Trevor Lawrence,JAX,18,33,169,11,32.4,378,11.5,127,7.1,3.8,42,2.3,2,6.3%,7,21.9%,1,13,3,2,6,17.1%,1,6.0,202409290htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290htx
+C.J. Stroud,HOU,27,40,345,20,47.6,325,8.1,180,6.7,4.5,165,6.1,2,5.1%,7,17.9%,2,2,7,5,14,31.1%,3,5.7,202409290htx
+Jayden Daniels,WAS,26,30,233,14,46.7,174,5.8,111,4.3,3.7,122,4.7,0,0.0%,3,10.0%,0,5,0,1,1,2.8%,6,5.0,202409290crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290crd
+Kyler Murray,ARI,16,22,142,5,19.2,139,6.3,79,4.9,3.6,63,3.9,3,13.6%,2,9.1%,4,6,2,1,7,25.9%,1,3.0,202409290crd
+Justin Fields,PIT,17,23,156,6,24.0,122,5.3,102,6.0,4.4,54,3.2,0,0.0%,4,18.2%,2,4,1,1,4,13.8%,4,6.5,202409080atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080atl
+Kirk Cousins,ATL,16,26,155,8,28.6,139,5.3,82,5.1,3.2,73,4.6,0,0.0%,4,17.4%,2,3,2,5,9,32.1%,0,,202409080atl
+Josh Allen,BUF,9,30,131,5,16.1,370,12.3,28,3.1,0.9,103,11.4,4,13.8%,12,41.4%,1,10,2,8,11,31.4%,4,13.5,202410060htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060htx
+C.J. Stroud,HOU,28,38,331,13,33.3,241,6.3,150,5.4,3.9,181,6.5,4,11.4%,2,5.7%,1,9,1,6,8,19.0%,3,9.0,202410060htx
+Russell Wilson,PIT,14,28,195,9,29.0,347,12.4,114,8.1,4.1,81,5.8,2,8.0%,8,32.0%,3,15,0,3,6,18.8%,1,6.0,202411100was
+Miles Killebrew,PIT,0,1,0,,,14,14.0,0,,0.0,0,,1,100.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202411100was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100was
+Jayden Daniels,WAS,17,34,202,7,18.9,216,6.4,115,6.8,3.4,87,5.1,4,12.5%,5,15.6%,3,20,2,3,8,21.1%,1,1.0,202411100was
+Aaron Rodgers,NYJ,27,39,339,18,42.9,259,6.6,160,5.9,4.1,179,6.6,3,7.7%,5,12.8%,3,10,10,3,16,38.1%,0,,202412080mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080mia
+Tua Tagovailoa,MIA,33,47,331,21,44.7,282,6.0,132,4.0,2.8,199,6.0,3,6.7%,5,11.1%,0,12,7,0,7,14.6%,1,3.0,202412080mia
+Matthew Stafford,LAR,34,49,317,15,29.4,290,5.9,146,4.3,3.0,171,5.0,4,8.3%,6,12.5%,2,14,5,9,16,31.4%,0,,202409080det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080det
+Jared Goff,DET,18,28,217,7,23.3,187,6.7,69,3.8,2.5,148,8.2,3,10.7%,4,14.3%,2,4,0,3,5,16.1%,1,7.0,202409080det
+Lamar Jackson,BAL,26,42,348,18,41.9,384,9.1,182,7.0,4.3,166,6.4,1,2.4%,13,31.0%,1,19,5,6,12,25.5%,4,6.5,202410060cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060cin
+Joe Burrow,CIN,30,39,392,19,45.2,322,8.3,223,7.4,5.7,169,5.6,1,2.6%,3,7.7%,3,6,0,3,6,14.0%,1,1.0,202410060cin
+Geno Smith,SEA,24,30,233,10,33.3,157,5.2,73,3.0,2.4,160,6.7,0,0.0%,3,10.3%,0,5,2,2,4,13.3%,0,,202412080crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080crd
+Kyler Murray,ARI,25,38,259,14,35.0,133,3.5,86,3.4,2.3,173,6.9,0,0.0%,4,10.5%,2,8,3,3,8,19.0%,2,8.5,202412080crd
+Daniel Jones,NYG,24,38,264,10,23.8,334,8.8,158,6.6,4.2,106,4.4,4,10.8%,6,16.2%,4,10,2,9,15,34.9%,1,1.0,202410280pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410280pit
+Russell Wilson,PIT,20,28,278,12,37.5,257,9.2,177,8.9,6.3,101,5.1,1,3.7%,4,14.8%,4,11,0,4,8,24.2%,1,3.0,202410280pit
+C.J. Stroud,HOU,22,34,242,10,27.8,293,8.6,131,6.0,3.9,111,5.0,2,6.1%,3,9.1%,2,11,2,1,5,13.2%,2,4.5,202412010jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010jax
+Mac Jones,JAX,20,32,235,12,37.5,274,8.6,92,4.6,2.9,143,7.2,1,3.1%,8,25.0%,0,6,0,3,3,8.8%,2,3.0,202412010jax
+Trevor Lawrence,JAX,4,10,41,1,10.0,170,17.0,13,3.3,1.3,28,7.0,1,10.0%,3,30.0%,0,2,0,0,0,0.0%,1,6.0,202412010jax
+Joe Burrow,CIN,37,46,277,15,30.0,189,4.1,156,4.2,3.4,121,3.3,2,4.3%,2,4.3%,4,10,3,1,8,16.0%,0,,202501040pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501040pit
+Russell Wilson,PIT,17,31,148,8,22.9,227,7.3,90,5.3,2.9,58,3.4,3,10.3%,4,13.8%,4,5,2,3,9,24.3%,2,7.5,202501040pit
+Tyler Huntley,MIA,18,31,194,10,29.4,286,9.2,123,6.8,4.0,71,3.9,4,12.9%,4,12.9%,3,7,1,1,5,13.9%,2,3.5,202410060nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060nwe
+Jacoby Brissett,NWE,18,34,160,8,22.2,285,8.4,82,4.6,2.4,78,4.3,3,9.7%,5,16.1%,2,14,1,7,10,27.0%,1,10.0,202410060nwe
+Aidan O'Connell,LVR,23,35,340,13,34.2,265,7.6,186,8.1,5.3,154,6.7,0,0.0%,5,14.7%,3,11,4,1,8,21.1%,0,,202411290kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411290kan
+Patrick Mahomes,KAN,26,46,306,14,27.5,385,8.4,161,6.2,3.5,145,5.6,3,6.7%,13,28.9%,5,13,7,7,19,36.5%,1,5.0,202411290kan
+Joe Burrow,CIN,23,36,258,11,28.2,225,6.3,136,5.9,3.8,122,5.3,3,8.8%,5,14.7%,3,15,0,3,6,14.6%,2,3.5,202409150kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150kan
+Patrick Mahomes,KAN,18,25,151,7,25.9,104,4.2,22,1.2,0.9,129,7.2,0,0.0%,4,17.4%,2,5,0,2,4,12.9%,4,7.3,202409150kan
+Lamar Jackson,BAL,26,41,273,11,26.2,271,6.6,107,4.1,2.6,166,6.4,0,0.0%,11,27.5%,1,13,10,1,12,23.5%,9,7.8,202409050kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409050kan
+Patrick Mahomes,KAN,20,28,291,15,50.0,165,5.9,103,5.2,3.7,188,9.4,2,7.4%,2,7.4%,2,4,5,4,11,36.7%,0,,202409050kan
+Mason Rudolph,TEN,9,17,85,5,27.8,68,4.0,45,5.0,2.6,40,4.4,2,14.3%,0,0.0%,1,2,1,2,4,22.2%,0,,202409300mia
+Will Levis,TEN,3,4,25,0,0.0,18,4.5,12,4.0,3.0,13,4.3,0,0.0%,1,25.0%,0,0,1,0,1,20.0%,1,3.0,202409300mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409300mia
+Tyler Huntley,MIA,14,22,96,4,16.7,176,8.0,41,2.9,1.9,55,3.9,1,4.8%,5,23.8%,2,0,1,3,6,23.1%,2,10.5,202409300mia
+Jalen Hurts,PHI,14,20,202,9,36.0,227,11.4,120,8.6,6.0,82,5.9,0,0.0%,1,5.6%,5,11,3,2,10,35.7%,3,15.3,202411100dal
+Kenny Pickett,PHI,1,2,5,0,0.0,14,7.0,5,5.0,2.5,0,0.0,0,0.0%,1,50.0%,0,2,0,1,1,50.0%,0,,202411100dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100dal
+Cooper Rush,DAL,13,23,45,3,12.5,148,6.4,15,1.2,0.7,30,2.3,0,0.0%,4,17.4%,1,4,0,3,4,16.7%,0,,202411100dal
+Trey Lance,DAL,4,6,21,1,12.5,48,8.0,13,3.3,2.2,8,2.0,0,0.0%,1,16.7%,2,2,1,1,4,50.0%,0,,202411100dal
+Mitchell Trubisky,BUF,15,21,101,6,28.6,130,6.2,32,2.1,1.5,69,4.6,0,0.0%,3,15.0%,0,5,2,1,3,13.6%,1,8.0,202501050nwe
+Mike White,BUF,3,11,28,1,9.1,98,8.9,-4,-1.3,-0.4,32,10.7,1,9.1%,1,9.1%,0,2,1,1,2,18.2%,0,,202501050nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050nwe
+Joe Milton,NWE,22,29,241,14,48.3,256,8.8,169,7.7,5.8,72,3.3,1,3.7%,2,7.4%,0,7,4,2,6,19.4%,2,6.5,202501050nwe
+Drake Maye,NWE,0,1,0,,,3,3.0,0,,0.0,0,,0,0.0%,1,100.0%,1,0,0,0,1,50.0%,0,,202501050nwe
+Russell Wilson,PIT,14,22,128,5,20.8,156,7.1,74,5.3,3.4,54,3.9,2,9.5%,2,9.5%,2,0,1,2,5,19.2%,2,5.5,202412150phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150phi
+Jalen Hurts,PHI,25,32,290,15,42.9,208,6.5,132,5.3,4.1,158,6.3,1,3.2%,3,9.7%,3,11,0,2,5,13.2%,3,4.0,202412150phi
+Bo Nix,DEN,19,33,223,9,24.3,253,7.7,123,6.5,3.7,100,5.3,1,3.1%,6,18.8%,4,7,1,2,7,17.1%,4,9.3,202411030rav
+Courtland Sutton,DEN,1,1,2,1,100.0,2,2.0,2,2.0,2.0,0,0.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202411030rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030rav
+Lamar Jackson,BAL,16,19,280,12,60.0,150,7.9,141,8.8,7.4,139,8.7,1,5.3%,1,5.3%,1,5,0,0,1,4.5%,2,6.0,202411030rav
+Bo Nix,DEN,25,36,216,8,22.2,248,6.9,117,4.7,3.3,99,4.0,0,0.0%,4,11.8%,0,17,6,2,8,20.5%,3,10.0,202409220tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220tam
+Baker Mayfield,TAM,25,33,163,11,27.5,113,3.4,54,2.2,1.6,109,4.4,2,6.3%,3,9.4%,7,17,6,2,15,37.5%,0,,202409220tam
+Matthew Stafford,LAR,20,29,224,11,34.4,201,6.9,137,6.9,4.7,87,4.4,0,0.0%,6,20.7%,3,11,1,4,8,25.0%,0,,202409290chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290chi
+Caleb Williams,CHI,17,23,157,7,26.9,144,6.3,56,3.3,2.4,101,5.9,0,0.0%,6,26.1%,3,9,2,1,6,23.1%,0,,202409290chi
+Drake Maye,NWE,26,37,276,13,33.3,280,7.6,134,5.2,3.6,142,5.5,2,5.6%,4,11.1%,2,4,1,1,4,9.5%,3,6.0,202410200jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200jax
+Trevor Lawrence,JAX,15,20,193,9,45.0,111,5.6,105,7.0,5.3,88,5.9,1,5.0%,2,10.0%,0,4,0,0,0,0.0%,1,11.0,202410200jax
+Joshua Dobbs,SFO,29,43,326,16,35.6,329,7.7,229,7.9,5.3,97,3.3,1,2.4%,8,19.0%,2,9,6,1,9,18.8%,3,5.3,202501050crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050crd
+Kyler Murray,ARI,25,35,242,14,40.0,221,6.3,121,4.8,3.5,121,4.8,0,0.0%,2,6.3%,0,10,3,2,5,13.9%,1,9.0,202501050crd
+Matthew Stafford,LAR,18,27,295,13,48.1,289,10.7,169,9.4,6.3,126,7.0,0,0.0%,7,25.9%,0,16,0,4,4,14.8%,0,,202411170nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170nwe
+Drake Maye,NWE,29,39,282,16,38.1,258,6.6,122,4.2,3.1,160,5.5,1,2.7%,1,2.7%,3,15,0,2,5,11.1%,3,9.0,202411170nwe
+Drew Lock,NYG,22,39,210,11,26.2,212,5.4,55,2.5,1.4,155,7.0,0,0.0%,8,21.6%,3,9,8,3,14,33.3%,0,,202412220atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220atl
+Michael Penix,ATL,18,27,202,10,37.0,159,5.9,98,5.4,3.6,104,5.8,2,7.7%,3,11.5%,0,8,2,2,4,13.8%,2,3.0,202412220atl
+Justin Herbert,LAC,28,36,346,13,35.1,270,7.5,204,7.3,5.7,142,5.1,1,2.9%,4,11.4%,1,7,2,2,5,13.2%,1,41.0,202501050rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050rai
+Aidan O'Connell,LVR,24,34,214,10,29.4,286,8.4,162,6.8,4.8,52,2.2,1,3.0%,7,21.2%,0,7,3,4,7,20.0%,1,9.0,202501050rai
+Desmond Ridder,LVR,1,2,11,1,50.0,21,10.5,3,3.0,1.5,8,8.0,0,0.0%,0,0.0%,0,0,0,1,1,50.0%,0,,202501050rai
+Gardner Minshew II,LVR,30,43,282,17,37.0,191,4.4,94,3.1,2.2,188,6.3,2,5.1%,4,10.3%,3,6,2,1,6,12.5%,2,3.5,202411170mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170mia
+Tua Tagovailoa,MIA,28,36,288,18,47.4,178,4.9,129,4.6,3.6,159,5.7,2,5.7%,3,8.6%,2,6,1,0,3,7.9%,0,,202411170mia
+Baker Mayfield,TAM,19,24,180,12,48.0,121,5.0,68,3.6,2.8,112,5.9,2,8.3%,2,8.3%,1,10,0,0,1,3.3%,5,8.6,202410030atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410030atl
+Kirk Cousins,ATL,42,58,509,24,38.7,424,7.3,271,6.5,4.7,238,5.7,4,7.4%,0,0.0%,4,12,0,6,10,16.1%,0,,202410030atl
+Darnell Mooney,ATL,0,1,0,0,0.0,19,19.0,0,,0.0,0,,0,0.0%,0,0.0%,0,1,0,1,1,100.0%,0,,202410030atl
+Jayden Daniels,WAS,15,22,209,8,36.4,132,6.0,102,6.8,4.6,107,7.1,0,0.0%,3,15.0%,0,7,0,2,2,8.0%,3,9.7,202411030nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030nyg
+Daniel Jones,NYG,20,26,174,10,35.7,193,7.4,133,6.7,5.1,41,2.1,3,11.5%,0,0.0%,2,4,0,2,4,13.8%,1,11.0,202411030nyg
+Derek Carr,NOR,18,28,165,9,31.0,350,12.5,120,6.7,4.3,45,2.5,1,3.8%,6,23.1%,1,11,6,4,11,37.9%,0,,202410070kan
+Jake Haener,NOR,2,7,17,2,28.6,54,7.7,7,3.5,1.0,10,5.0,1,16.7%,1,16.7%,0,3,1,4,5,55.6%,2,5.5,202410070kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410070kan
+Patrick Mahomes,KAN,28,39,331,15,36.6,169,4.3,78,2.8,2.0,253,9.0,0,0.0%,5,14.7%,2,8,3,4,9,20.5%,3,8.3,202410070kan
+Trevor Lawrence,JAX,21,38,178,9,21.4,302,7.9,133,6.3,3.5,45,2.1,2,5.6%,8,22.2%,4,8,3,3,10,23.3%,1,1.0,202409230buf
+Mac Jones,JAX,5,8,22,1,11.1,13,1.6,-3,-0.6,-0.4,25,5.0,0,0.0%,1,12.5%,1,0,0,0,1,11.1%,0,,202409230buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409230buf
+Josh Allen,BUF,23,30,263,15,50.0,172,5.7,83,3.6,2.8,180,7.8,1,3.4%,2,6.9%,0,9,1,1,2,5.9%,4,8.3,202409230buf
+Mitchell Trubisky,BUF,1,1,3,,,-4,-4.0,-4,-4.0,-4.0,7,7.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202409230buf
+Cooper Rush,DAL,24,32,247,12,36.4,193,6.0,132,5.5,4.1,115,4.8,1,3.1%,2,6.3%,1,10,1,1,3,9.1%,0,,202411240was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240was
+Jayden Daniels,WAS,25,38,275,11,26.2,346,9.1,153,6.1,4.0,122,4.9,2,5.7%,4,11.4%,4,14,6,6,16,36.4%,2,12.5,202411240was
+Jalen Hurts,PHI,18,30,158,6,16.7,281,9.4,96,5.3,3.2,62,3.4,1,3.4%,6,20.7%,6,15,4,2,12,32.4%,1,7.0,202409290tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290tam
+Baker Mayfield,TAM,30,47,347,18,36.7,302,6.4,152,5.1,3.2,195,6.5,3,6.4%,6,12.8%,2,12,1,1,4,8.0%,1,10.0,202409290tam
+Jacoby Brissett,NWE,19,32,168,8,21.1,155,4.8,62,3.3,1.9,106,5.6,3,9.4%,5,15.6%,6,13,4,6,16,41.0%,1,1.0,202409290sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290sfo
+Brock Purdy,SFO,15,27,288,12,42.9,382,14.1,197,13.1,7.3,91,6.1,1,3.8%,5,19.2%,1,9,2,3,6,20.0%,2,6.0,202409290sfo
+Patrick Mahomes,KAN,19,29,245,8,25.0,197,6.8,154,8.1,5.3,91,4.8,1,3.6%,4,14.3%,3,6,2,1,6,17.6%,2,7.5,202409290sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290sdg
+Justin Herbert,LAC,16,27,179,9,31.0,193,7.1,51,3.2,1.9,128,8.0,4,14.8%,5,18.5%,2,8,1,8,11,37.9%,0,,202409290sdg
+Patrick Mahomes,KAN,16,27,154,11,37.9,212,7.9,53,3.3,2.0,101,6.3,1,4.0%,5,20.0%,2,3,0,4,6,18.8%,3,13.7,202410200sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200sfo
+Brock Purdy,SFO,17,31,212,8,25.0,280,9.0,135,7.9,4.4,77,4.5,1,3.2%,8,25.8%,1,8,0,5,6,16.2%,5,4.8,202410200sfo
+Daniel Jones,NYG,23,34,257,14,37.8,174,5.1,138,6.0,4.1,119,5.2,3,9.7%,4,12.9%,3,15,5,4,12,30.8%,2,3.0,202410060sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060sea
+Geno Smith,SEA,28,40,284,14,29.8,198,5.0,141,5.0,3.5,143,5.1,5,12.8%,2,5.1%,7,10,1,1,9,17.6%,4,18.0,202410060sea
+Aidan O'Connell,LVR,10,20,94,6,28.6,184,9.2,62,6.2,3.1,32,3.2,1,5.3%,7,36.8%,1,2,7,3,11,52.4%,0,,202410060den
+Gardner Minshew II,LVR,12,17,137,7,36.8,131,7.7,43,3.6,2.5,94,7.8,0,0.0%,3,17.6%,2,8,0,0,2,9.5%,2,11.0,202410060den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060den
+Bo Nix,DEN,19,27,206,9,30.0,144,5.3,59,3.1,2.2,147,7.7,1,3.8%,3,11.5%,3,10,1,1,5,15.6%,2,6.0,202410060den
+Kyler Murray,ARI,19,30,195,10,32.3,222,7.4,101,5.3,3.4,94,4.9,0,0.0%,5,16.7%,1,12,1,1,3,9.1%,2,8.0,202410060sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060sfo
+Brock Purdy,SFO,19,35,244,13,35.1,300,8.6,141,7.4,4.0,103,5.4,2,6.3%,5,15.6%,2,5,2,3,7,17.1%,4,8.3,202410060sfo
+Dak Prescott,DAL,22,27,221,9,32.1,149,5.5,107,4.9,4.0,114,5.2,0,0.0%,2,7.4%,1,6,1,2,4,14.3%,0,,202409260nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409260nyg
+Daniel Jones,NYG,29,40,281,12,29.3,399,10.0,161,5.6,4.0,120,4.1,2,5.0%,3,7.5%,1,11,0,2,3,7.3%,0,,202409260nyg
+Joe Burrow,CIN,15,25,181,8,28.6,264,10.6,89,5.9,3.6,92,6.1,1,4.0%,4,16.0%,3,5,1,3,7,25.0%,0,,202410200cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200cle
+Dorian Thompson-Robinson,CLE,11,24,82,3,12.0,130,5.4,36,3.3,1.5,46,4.2,1,5.0%,3,15.0%,1,8,3,6,10,40.0%,0,,202410200cle
+Deshaun Watson,CLE,15,17,128,5,26.3,111,6.5,78,5.2,4.6,50,3.3,0,0.0%,2,11.8%,2,2,2,1,5,26.3%,0,,202410200cle
+Jameis Winston,CLE,5,11,67,4,33.3,116,10.5,51,10.2,4.6,16,3.2,1,9.1%,2,18.2%,1,0,1,0,2,16.7%,0,,202410200cle
+Aidan O'Connell,LVR,11,19,104,3,15.0,177,9.3,57,5.2,3.0,47,4.3,0,0.0%,6,33.3%,1,6,2,2,5,23.8%,1,4.0,202412080tam
+Desmond Ridder,LVR,12,18,101,5,26.3,114,6.3,51,4.3,2.8,50,4.2,1,5.6%,4,22.2%,1,7,0,2,3,15.0%,1,3.0,202412080tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080tam
+Baker Mayfield,TAM,18,29,295,13,39.4,245,8.4,144,8.0,5.0,151,8.4,1,3.6%,3,10.7%,4,7,0,3,7,20.0%,2,6.0,202412080tam
+Caleb Williams,CHI,17,23,134,9,30.0,137,6.0,65,3.8,2.8,69,4.1,1,4.3%,2,8.7%,7,3,0,1,8,25.0%,2,9.5,202412080sfo
+Tyson Bagent,CHI,1,1,6,1,100.0,3,3.0,3,3.0,3.0,3,3.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412080sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080sfo
+Brock Purdy,SFO,20,25,325,13,50.0,237,9.5,167,8.4,6.7,158,7.9,0,0.0%,2,8.0%,1,8,1,2,4,14.8%,1,5.0,202412080sfo
+Brandon Allen,SFO,0,1,0,,,27,27.0,0,,0.0,0,,0,0.0%,1,100.0%,0,1,0,0,0,0.0%,0,,202412080sfo
+Jordan Love,GNB,19,30,185,11,33.3,303,10.1,115,6.1,3.8,70,3.7,2,6.9%,7,24.1%,3,16,1,4,8,23.5%,1,6.0,202412290min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290min
+Sam Darnold,MIN,33,43,377,20,45.5,319,7.4,199,6.0,4.6,178,5.4,0,0.0%,4,9.8%,1,9,2,3,6,13.6%,0,,202412290min
+Spencer Rattler,NOR,15,30,153,9,27.3,270,9.0,93,6.2,3.1,60,4.0,3,10.3%,8,27.6%,3,2,3,3,9,23.7%,5,5.6,202412230gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412230gnb
+Jordan Love,GNB,16,28,182,9,32.1,193,6.9,69,4.3,2.5,113,7.1,1,4.0%,5,20.0%,0,10,2,3,5,17.9%,0,,202412230gnb
+Malik Willis,GNB,1,2,34,1,50.0,38,19.0,25,25.0,12.5,9,9.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412230gnb
+Deshaun Watson,CLE,24,32,176,9,25.7,172,5.4,74,3.1,2.3,102,4.3,3,9.4%,2,6.3%,3,7,1,7,11,26.2%,7,4.6,202409290rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290rai
+Gardner Minshew II,LVR,14,24,130,7,26.9,154,6.4,55,3.9,2.3,75,5.4,3,12.5%,6,25.0%,2,15,1,2,5,19.2%,0,,202409290rai
+Jordan Love,GNB,13,17,261,10,55.6,142,8.4,118,9.1,6.9,143,11.0,1,5.9%,2,11.8%,1,3,0,2,3,15.0%,2,9.0,202411170chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170chi
+Caleb Williams,CHI,23,31,231,12,35.3,212,6.8,111,4.8,3.6,120,5.2,1,3.2%,6,19.4%,3,8,0,3,6,15.4%,5,9.8,202411170chi
+Caleb Williams,CHI,10,24,131,6,22.2,314,13.1,92,9.2,3.8,39,3.9,0,0.0%,12,54.5%,3,11,5,5,13,39.4%,6,7.0,202410270was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270was
+Jayden Daniels,WAS,21,38,326,15,37.5,448,11.8,224,10.7,5.9,102,4.9,2,5.9%,9,26.5%,2,12,6,6,14,30.4%,6,8.0,202410270was
+Trevor Lawrence,JAX,16,31,169,9,27.3,286,9.2,121,7.6,3.9,48,3.0,2,6.7%,5,16.7%,2,6,4,1,7,20.0%,2,4.0,202411030phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030phi
+Jalen Hurts,PHI,18,24,230,11,40.7,236,9.8,170,9.4,7.1,60,3.3,1,4.3%,2,8.7%,3,5,2,0,5,15.2%,6,7.7,202411030phi
+Baker Mayfield,TAM,23,31,200,8,24.2,129,4.2,75,3.3,2.4,125,5.4,2,6.5%,2,6.5%,2,12,0,2,4,10.8%,4,5.0,202411040kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411040kan
+Patrick Mahomes,KAN,34,44,291,19,39.6,260,5.9,149,4.4,3.4,142,4.2,1,2.4%,4,9.5%,4,3,0,3,7,14.0%,2,4.5,202411040kan
+Michael Penix,ATL,19,35,223,11,29.7,420,12.0,140,7.4,4.0,83,4.4,0,0.0%,12,34.3%,2,12,0,1,3,7.9%,1,3.0,202412290was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290was
+Jayden Daniels,WAS,24,36,227,13,31.7,260,7.2,103,4.3,2.9,124,5.2,3,8.6%,6,17.1%,5,7,2,1,8,16.3%,8,9.5,202412290was
+Caleb Williams,CHI,18,31,191,8,24.2,240,7.7,75,4.2,2.4,116,6.4,3,10.0%,5,16.7%,2,15,7,1,10,28.6%,2,1.5,202412160min
+Tyson Bagent,CHI,1,1,5,,,-2,-2.0,-2,-2.0,-2.0,7,7.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412160min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412160min
+Sam Darnold,MIN,24,40,231,14,33.3,328,8.2,131,5.5,3.3,100,4.2,1,2.7%,8,21.6%,2,9,4,5,11,26.2%,0,,202412160min
+Carson Wentz,KAN,10,17,98,4,19.0,120,7.1,45,4.5,2.6,53,5.3,1,5.9%,5,29.4%,4,2,1,4,9,42.9%,0,,202501050den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050den
+Bo Nix,DEN,26,29,321,15,51.7,164,5.7,131,5.0,4.5,190,7.3,0,0.0%,1,3.4%,0,2,0,0,0,0.0%,3,14.0,202501050den
+Spencer Rattler,NOR,26,42,240,14,31.8,370,8.8,95,3.7,2.3,145,5.6,1,2.6%,6,15.4%,2,20,2,3,7,15.6%,1,11.0,202501050tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050tam
+Baker Mayfield,TAM,21,32,221,11,33.3,258,8.1,181,8.6,5.7,40,1.9,1,3.2%,4,12.9%,1,11,4,0,5,12.5%,7,10.9,202501050tam
+Jared Goff,DET,18,23,199,11,44.0,179,7.8,98,5.4,4.3,101,5.6,0,0.0%,4,17.4%,2,7,0,0,2,7.7%,1,8.0,202409220crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220crd
+Kyler Murray,ARI,21,34,207,10,28.6,409,12.0,145,6.9,4.3,62,3.0,0,0.0%,8,23.5%,1,8,3,3,7,18.9%,2,12.0,202409220crd
+Lamar Jackson,BAL,10,15,168,7,43.8,138,9.2,53,5.3,3.5,115,11.5,0,0.0%,3,21.4%,1,9,2,3,6,33.3%,2,15.5,202412250htx
+Josh Johnson,BAL,1,2,16,1,50.0,53,26.5,15,15.0,7.5,1,1.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412250htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412250htx
+C.J. Stroud,HOU,17,31,185,7,19.4,304,9.8,118,6.9,3.8,67,3.9,1,3.2%,11,35.5%,5,6,1,5,11,29.7%,1,7.0,202412250htx
+Davis Mills,HOU,1,1,5,1,100.0,5,5.0,5,5.0,5.0,0,0.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412250htx
+Deshaun Watson,CLE,22,34,186,7,19.4,217,6.4,119,5.4,3.5,67,3.0,5,14.7%,3,8.8%,2,9,4,6,12,31.6%,2,4.0,202409150jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150jax
+Trevor Lawrence,JAX,14,30,220,9,26.5,364,12.1,145,10.4,4.8,75,5.4,4,14.3%,6,21.4%,4,9,1,4,9,25.0%,2,22.5,202409150jax
+Mac Jones,JAX,23,31,220,11,34.4,164,5.3,106,4.6,3.4,114,5.0,2,6.7%,1,3.3%,1,5,0,5,6,17.6%,2,2.5,202412080oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080oti
+Will Levis,TEN,19,32,168,8,23.5,171,5.3,64,3.4,2.0,104,5.5,3,9.4%,3,9.4%,2,5,1,1,4,11.8%,0,,202412080oti
+Mac Jones,JAX,20,32,225,10,29.4,262,8.2,125,6.3,3.9,100,5.0,1,3.2%,7,22.6%,2,4,1,3,6,16.7%,2,8.5,202501050clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050clt
+Joe Flacco,IND,23,40,264,11,25.6,376,9.4,170,7.4,4.3,94,4.1,1,2.6%,8,20.5%,3,7,1,2,6,14.0%,0,,202501050clt
+Jameis Winston,CLE,30,46,395,17,34.7,459,10.0,182,6.1,4.0,213,7.1,0,0.0%,10,22.7%,3,7,7,1,11,22.0%,1,8.0,202411170nor
+Dorian Thompson-Robinson,CLE,0,1,0,,,4,4.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202411170nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170nor
+Derek Carr,NOR,21,27,248,10,35.7,153,5.7,80,3.8,3.0,168,8.0,0,0.0%,3,11.5%,1,4,6,2,9,32.1%,0,,202411170nor
+Taysom Hill,NOR,1,2,18,1,50.0,58,29.0,17,17.0,8.5,1,1.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202411170nor
+Patrick Mahomes,KAN,23,33,196,15,42.9,228,6.9,91,4.0,2.8,105,4.6,1,3.2%,3,9.7%,2,10,10,5,17,48.6%,0,,202411170buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170buf
+Josh Allen,BUF,27,40,262,13,32.5,280,7.0,118,4.4,3.0,144,5.3,0,0.0%,10,26.3%,0,15,6,4,10,22.2%,5,9.0,202411170buf
+Bo Nix,DEN,29,40,263,14,33.3,117,2.9,32,1.1,0.8,231,8.0,7,17.5%,1,2.5%,2,8,1,2,5,11.4%,2,12.5,202412190sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412190sdg
+Justin Herbert,LAC,23,31,284,14,42.4,210,6.8,114,5.0,3.7,170,7.4,1,3.3%,2,6.7%,2,6,0,6,8,21.6%,4,10.8,202412190sdg
+Patrick Mahomes,KAN,29,38,320,16,42.1,216,5.7,144,5.0,3.8,176,6.1,0,0.0%,4,10.5%,0,12,4,2,6,15.4%,1,12.0,202412250pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412250pit
+Russell Wilson,PIT,23,37,205,9,21.4,260,7.0,103,4.5,2.8,102,4.4,1,2.9%,4,11.4%,5,12,3,4,12,25.0%,6,9.2,202412250pit
+Justin Herbert,LAC,12,18,125,6,30.0,163,9.1,67,5.6,3.7,58,4.8,2,11.1%,3,16.7%,2,6,2,2,6,30.0%,0,,202409220pit
+Taylor Heinicke,LAC,2,2,24,1,20.0,16,8.0,16,8.0,8.0,8,4.0,0,0.0%,0,0.0%,3,0,0,0,3,60.0%,0,,202409220pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220pit
+Justin Fields,PIT,25,32,245,9,26.5,176,5.5,101,4.0,3.2,144,5.8,2,6.5%,3,9.7%,2,10,1,3,6,17.1%,1,4.0,202409220pit
+Cooper Rush,DAL,15,28,147,7,24.1,263,9.4,81,5.4,2.9,66,4.4,0,0.0%,8,28.6%,1,7,1,1,3,10.3%,0,,202412290phi
+Trey Lance,DAL,1,1,1,,,1,1.0,1,1.0,1.0,0,0.0,0,0.0%,0,0.0%,0,0,1,0,1,50.0%,1,1.0,202412290phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290phi
+Kenny Pickett,PHI,10,15,143,4,26.7,141,9.4,116,11.6,7.7,27,2.7,0,0.0%,2,14.3%,0,5,0,1,1,6.7%,0,,202412290phi
+Tanner McKee,PHI,3,4,54,2,50.0,52,13.0,32,10.7,8.0,22,7.3,0,0.0%,0,0.0%,0,2,0,0,0,0.0%,0,,202412290phi
+Baker Mayfield,TAM,24,30,294,12,40.0,209,7.0,153,6.4,5.1,141,5.9,3,10.0%,1,3.3%,0,4,1,2,3,9.4%,2,10.0,202411240nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240nyg
+Tommy DeVito,NYG,21,31,189,11,31.4,201,6.5,103,4.9,3.3,86,4.1,1,3.4%,4,13.8%,4,9,0,4,8,20.5%,4,7.8,202411240nyg
+Drew Lock,NYG,1,1,3,,,0,0.0,0,0.0,0.0,3,3.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202411240nyg
+Sam Darnold,MIN,19,24,208,8,32.0,195,8.1,140,7.4,5.8,68,3.6,0,0.0%,2,8.3%,1,5,3,1,5,19.2%,1,3.0,202409080nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080nyg
+Daniel Jones,NYG,22,42,186,8,17.0,218,5.2,103,4.7,2.5,83,3.8,5,13.2%,5,13.2%,5,12,7,7,19,38.8%,2,5.5,202409080nyg
+Gardner Minshew II,LVR,15,34,154,9,25.0,226,6.6,41,2.7,1.2,113,7.5,1,3.7%,6,22.2%,2,19,6,6,14,38.9%,0,,202410200ram
+Aidan O'Connell,LVR,6,10,52,3,30.0,94,9.4,23,3.8,2.3,29,4.8,0,0.0%,2,25.0%,0,5,1,2,3,30.0%,0,,202410200ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200ram
+Matthew Stafford,LAR,14,23,154,6,25.0,143,6.2,48,3.4,2.1,106,7.6,1,4.5%,4,18.2%,1,10,0,1,2,8.3%,0,,202410200ram
+Davis Mills,HOU,12,22,128,4,17.4,154,7.0,95,7.9,4.3,33,2.8,0,0.0%,8,36.4%,1,9,1,1,3,12.5%,1,9.0,202501050oti
+C.J. Stroud,HOU,6,6,50,4,66.7,27,4.5,27,4.5,4.5,23,3.8,0,0.0%,0,0.0%,0,2,0,0,0,0.0%,0,,202501050oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050oti
+Will Levis,TEN,9,17,175,6,33.3,275,16.2,128,14.2,7.5,47,5.2,1,5.9%,3,17.6%,1,6,0,3,4,21.1%,1,8.0,202501050oti
+Mason Rudolph,TEN,7,9,70,3,30.0,24,2.7,24,3.4,2.7,46,6.6,0,0.0%,1,11.1%,1,1,0,0,1,9.1%,1,5.0,202501050oti
+Kyler Murray,ARI,22,32,214,8,25.0,194,6.1,116,5.3,3.6,98,4.5,1,3.1%,8,25.0%,0,6,5,1,6,16.7%,4,2.8,202410130gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130gnb
+Jordan Love,GNB,22,32,258,15,46.9,192,6.0,120,5.5,3.8,138,6.3,1,3.1%,5,15.6%,0,9,3,2,5,14.3%,3,5.0,202410130gnb
+Joe Flacco,IND,16,27,179,9,30.0,211,7.8,114,7.1,4.2,65,4.1,2,7.4%,4,14.8%,3,7,2,4,9,30.0%,0,,202411030min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030min
+Sam Darnold,MIN,28,34,290,16,42.1,240,7.1,192,6.9,5.6,98,3.5,1,3.1%,1,3.1%,4,6,3,4,11,28.2%,1,11.0,202411030min
+Justin Jefferson,MIN,1,1,22,1,100.0,-5,-5.0,-5,-5.0,-5.0,27,27.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202411030min
+Josh Allen,BUF,19,25,215,10,37.0,203,8.1,131,6.9,5.2,84,4.4,1,4.3%,1,4.3%,2,9,5,0,7,23.3%,3,4.0,202410140nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410140nyj
+Aaron Rodgers,NYJ,23,35,294,12,31.6,259,7.4,156,6.8,4.5,138,6.0,3,8.8%,1,2.9%,3,6,2,2,7,18.4%,0,,202410140nyj
+Jayden Daniels,WAS,21,23,254,13,52.0,215,9.3,156,7.4,6.8,98,4.7,0,0.0%,2,8.7%,2,8,1,1,4,13.3%,5,4.6,202409230cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409230cin
+Joe Burrow,CIN,29,38,324,18,45.0,283,7.4,204,7.0,5.4,120,4.1,1,2.6%,5,13.2%,2,6,0,2,4,9.8%,1,4.0,202409230cin
+Jordan Love,GNB,12,20,206,7,33.3,197,9.9,120,10.0,6.0,86,7.2,1,5.3%,5,26.3%,1,12,0,6,7,29.2%,3,8.0,202412050det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412050det
+Jared Goff,DET,32,41,283,18,42.9,225,5.5,134,4.2,3.3,149,4.7,1,2.5%,4,10.0%,1,8,2,2,5,11.6%,1,9.0,202412050det
+Tim Boyle,MIA,8,13,74,3,23.1,70,5.4,34,4.3,2.6,40,5.0,1,9.1%,1,9.1%,0,0,1,1,2,14.3%,1,4.0,202410200clt
+Tyler Huntley,MIA,7,13,87,5,33.3,144,11.1,50,7.1,3.8,37,5.3,1,9.1%,2,18.2%,2,1,4,2,8,47.1%,2,3.5,202410200clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200clt
+Anthony Richardson,IND,10,24,129,6,25.0,241,10.0,75,7.5,3.1,54,5.4,1,4.5%,7,31.8%,0,11,4,4,8,27.6%,5,6.8,202410200clt
+Josh Allen,BUF,23,34,362,15,44.1,331,9.7,219,9.5,6.4,143,6.2,0,0.0%,4,12.5%,0,12,7,3,10,27.8%,2,8.5,202412150det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150det
+Jared Goff,DET,38,59,494,27,43.5,400,6.8,240,6.3,4.1,254,6.7,2,3.7%,10,18.5%,3,10,5,7,15,23.4%,2,6.5,202412150det
+Caleb Williams,CHI,23,37,174,7,15.9,291,7.9,43,1.9,1.2,131,5.7,2,5.9%,8,23.5%,7,15,3,3,13,27.1%,4,11.0,202409150htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150htx
+C.J. Stroud,HOU,23,36,260,11,28.2,272,7.6,128,5.6,3.6,132,5.7,1,2.9%,5,14.7%,3,9,5,1,9,23.1%,0,,202409150htx
+Matthew Stafford,LAR,19,27,216,9,28.1,159,5.9,112,5.9,4.1,104,5.5,2,7.4%,5,18.5%,5,6,1,4,10,31.3%,0,,202409150crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150crd
+Kyler Murray,ARI,17,21,266,9,40.9,214,10.2,165,9.7,7.9,101,5.9,1,4.8%,3,14.3%,1,4,2,0,3,11.5%,4,12.3,202409150crd
+Justin Fields,PIT,22,34,312,11,28.9,240,7.1,156,7.1,4.6,156,7.1,2,6.3%,3,9.4%,4,5,4,3,11,26.2%,4,4.0,202409290clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290clt
+Joe Flacco,IND,16,26,168,10,35.7,272,10.5,94,5.9,3.6,74,4.6,1,4.2%,4,16.7%,2,10,0,4,6,20.7%,1,4.0,202409290clt
+Anthony Richardson,IND,3,4,71,3,75.0,56,14.0,48,16.0,12.0,23,7.7,0,0.0%,1,25.0%,0,1,0,0,0,0.0%,0,,202409290clt
+Baker Mayfield,TAM,21,33,235,14,37.8,236,7.2,105,5.0,3.2,130,6.2,4,12.1%,2,6.1%,4,12,3,2,9,23.7%,1,10.0,202412010car
+Kyle Trask,TAM,1,1,5,,,-3,-3.0,-3,-3.0,-3.0,8,8.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412010car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010car
+Bryce Young,CAR,26,46,298,14,29.8,434,9.4,186,7.2,4.0,112,4.3,4,9.8%,10,24.4%,1,23,3,10,14,28.0%,3,5.7,202412010car
+Joe Flacco,IND,26,38,330,16,40.0,385,10.1,205,7.9,5.4,125,4.8,1,2.7%,6,16.2%,2,10,2,2,6,15.0%,0,,202412290nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290nyg
+Drew Lock,NYG,17,23,309,10,43.5,179,7.8,140,8.2,6.1,169,9.9,1,4.5%,4,18.2%,0,5,0,1,1,4.2%,1,5.0,202412290nyg
+Jordan Love,GNB,15,26,224,8,28.6,157,6.0,101,6.7,3.9,123,8.2,3,11.5%,5,19.2%,2,10,4,1,7,24.1%,1,12.0,202410060ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060ram
+Matthew Stafford,LAR,29,45,260,11,22.9,277,6.2,143,4.9,3.2,117,4.0,0,0.0%,11,24.4%,3,14,5,6,14,29.2%,0,,202410060ram
+Josh Allen,BUF,22,37,342,14,37.8,316,8.5,158,7.2,4.3,184,8.4,0,0.0%,12,32.4%,0,6,1,1,2,4.9%,4,19.0,202412080ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080ram
+Matthew Stafford,LAR,23,30,320,15,50.0,276,9.2,193,8.4,6.4,127,5.5,1,3.3%,4,13.3%,0,8,2,3,5,16.7%,0,,202412080ram
+Geno Smith,SEA,33,44,327,11,23.4,363,8.3,166,5.0,3.8,161,4.9,4,9.3%,2,4.7%,3,15,5,3,11,22.9%,1,5.0,202409150nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150nwe
+Jacoby Brissett,NWE,15,27,149,9,30.0,146,5.4,65,4.3,2.4,84,5.6,2,8.3%,5,20.8%,3,7,7,4,14,43.8%,2,3.0,202409150nwe
+Jalen Hurts,PHI,29,38,311,11,26.2,270,7.1,117,4.0,3.1,194,6.7,0,0.0%,5,13.9%,4,13,3,4,11,24.4%,3,10.7,202409220nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220nor
+Derek Carr,NOR,14,25,142,7,26.9,168,6.7,92,6.6,3.7,50,3.6,0,0.0%,1,4.3%,1,6,2,3,6,22.2%,1,4.0,202409220nor
+Justin Herbert,LAC,21,30,213,11,33.3,304,10.1,139,6.6,4.6,74,3.5,2,6.9%,4,13.8%,3,10,0,4,7,20.0%,2,4.5,202412080kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080kan
+Patrick Mahomes,KAN,24,37,210,11,27.5,255,6.9,86,3.6,2.3,124,5.2,1,2.8%,7,19.4%,3,12,4,9,16,38.1%,2,9.5,202412080kan
+Geno Smith,SEA,20,27,223,13,44.8,215,8.0,99,5.0,3.7,124,6.2,0,0.0%,2,7.4%,2,7,2,1,5,17.2%,0,,202501050ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050ram
+Jimmy Garoppolo,LAR,27,41,334,16,36.4,221,5.4,102,3.8,2.5,232,8.6,0,0.0%,8,20.0%,3,13,0,5,8,17.8%,1,5.0,202501050ram
+Lamar Jackson,BAL,16,33,207,9,25.7,307,9.3,97,6.1,2.9,110,6.9,2,6.5%,7,22.6%,2,15,4,4,10,28.6%,0,,202411170pit
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170pit
+Russell Wilson,PIT,23,36,205,9,22.5,219,6.1,78,3.4,2.2,127,5.5,1,3.1%,3,9.4%,4,9,3,3,10,24.4%,1,3.0,202411170pit
+Lamar Jackson,BAL,17,22,281,12,50.0,184,8.4,141,8.3,6.4,140,8.2,2,9.5%,1,4.8%,2,14,1,0,3,11.1%,3,11.3,202410210tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410210tam
+Baker Mayfield,TAM,31,45,370,19,39.6,374,8.3,162,5.2,3.6,208,6.7,2,4.4%,8,17.8%,3,7,1,1,5,9.6%,4,5.8,202410210tam
+Joe Burrow,CIN,22,31,232,14,45.2,172,5.5,87,4.0,2.8,145,6.6,0,0.0%,5,16.7%,0,9,2,2,4,12.5%,1,10.0,202409290car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290car
+Andy Dalton,CAR,25,40,220,12,30.0,295,7.4,113,4.5,2.8,107,4.3,3,7.7%,6,15.4%,0,12,1,2,3,7.1%,2,5.0,202409290car
+Johnny Hekker,CAR,0,1,0,,,17,17.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202409290car
+Anthony Richardson,IND,20,30,272,13,40.6,315,10.5,181,9.1,6.0,91,4.6,2,7.1%,5,17.9%,2,6,1,3,6,18.8%,0,,202411170nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170nyj
+Aaron Rodgers,NYJ,22,29,184,7,21.9,124,4.3,62,2.8,2.1,122,5.5,1,3.4%,4,13.8%,3,7,0,2,5,15.2%,1,7.0,202411170nyj
+Jayden Daniels,WAS,24,35,269,16,42.1,276,7.9,168,7.0,4.8,101,4.2,1,3.0%,3,9.1%,3,10,3,4,10,23.8%,4,5.5,202410130rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130rav
+Lamar Jackson,BAL,20,26,323,16,57.1,244,9.4,174,8.7,6.7,149,7.5,1,4.0%,2,8.0%,2,12,5,2,9,30.0%,2,2.5,202410130rav
+Bo Nix,DEN,24,31,219,10,30.3,224,7.2,116,4.8,3.7,103,4.3,0,0.0%,6,19.4%,2,1,2,2,6,15.4%,6,4.8,202412280cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412280cin
+Joe Burrow,CIN,39,49,412,23,41.1,340,6.9,278,7.1,5.7,134,3.4,4,8.2%,5,10.2%,7,19,0,5,12,20.7%,2,12.5,202412280cin
+Josh Allen,BUF,22,37,280,11,28.2,258,7.0,150,6.8,4.1,130,5.9,0,0.0%,10,28.6%,2,8,5,3,10,24.4%,2,10.5,202411100clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100clt
+Joe Flacco,IND,26,35,272,14,35.9,276,7.9,206,7.9,5.9,66,2.5,3,8.6%,4,11.4%,4,9,4,2,10,25.6%,0,,202411100clt
+Justin Herbert,LAC,26,38,281,16,42.1,365,9.6,167,6.4,4.4,114,4.4,1,2.6%,10,26.3%,0,9,1,3,4,10.0%,2,5.5,202412280nwe
+Taylor Heinicke,LAC,0,2,0,0,0.0,13,6.5,0,,0.0,0,,1,50.0%,1,50.0%,0,1,0,0,0,0.0%,1,8.0,202412280nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412280nwe
+Drake Maye,NWE,12,22,117,4,15.4,209,9.5,99,8.3,4.5,18,1.5,0,0.0%,6,28.6%,4,10,1,2,7,22.6%,5,6.4,202412280nwe
+Jacoby Brissett,NWE,1,2,-2,,,0,0.0,-4,-4.0,-2.0,2,2.0,0,0.0%,1,50.0%,0,2,0,0,0,0.0%,0,,202412280nwe
+Sam Darnold,MIN,20,28,275,11,36.7,289,10.3,160,8.0,5.7,115,5.8,0,0.0%,6,22.2%,2,7,6,1,9,27.3%,3,7.7,202409290gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290gnb
+Jordan Love,GNB,32,54,389,19,34.5,557,10.3,234,7.3,4.3,155,4.8,4,7.4%,9,16.7%,1,25,9,9,19,33.9%,1,6.0,202409290gnb
+Daniel Jones,NYG,22,37,190,12,30.8,272,7.4,155,7.0,4.2,35,1.6,1,3.1%,4,12.5%,2,7,2,3,7,17.5%,1,8.0,202411100car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100car
+Bryce Young,CAR,15,25,126,6,23.1,165,6.6,81,5.4,3.2,45,3.0,1,4.0%,8,32.0%,1,10,7,2,10,35.7%,2,15.0,202411100car
+Bryce Young,CAR,13,30,161,7,20.6,377,12.6,111,8.5,3.7,50,3.8,1,3.7%,11,40.7%,4,13,6,2,12,31.6%,4,3.0,202409080nor
+Andy Dalton,CAR,0,1,0,,,6,6.0,0,,0.0,0,,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202409080nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080nor
+Derek Carr,NOR,19,23,200,7,29.2,200,8.7,104,5.5,4.5,96,5.1,0,0.0%,2,8.7%,1,8,1,0,2,8.0%,1,8.0,202409080nor
+Jake Haener,NOR,0,1,0,,,8,8.0,0,,0.0,0,,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202409080nor
+C.J. Stroud,HOU,10,21,86,6,24.0,153,7.3,40,4.0,1.9,46,4.6,3,15.8%,5,26.3%,4,5,5,3,12,41.4%,4,5.0,202410200gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200gnb
+Jordan Love,GNB,24,33,220,12,33.3,297,9.0,139,5.8,4.2,81,3.4,2,6.1%,5,15.2%,3,12,0,3,6,16.7%,0,,202410200gnb
+Kyler Murray,ARI,21,31,162,10,28.6,197,6.4,62,3.0,2.0,100,4.8,4,12.9%,3,9.7%,4,9,4,2,10,26.3%,3,15.7,202409080buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080buf
+Josh Allen,BUF,18,23,232,11,44.0,166,7.2,107,5.9,4.7,125,6.9,0,0.0%,3,13.0%,2,7,1,1,4,13.8%,4,6.5,202409080buf
+Gardner Minshew II,LVR,10,17,124,6,33.3,170,10.0,59,5.9,3.5,65,6.5,1,6.3%,3,18.8%,1,6,4,4,9,50.0%,0,,202411030cin
+Desmond Ridder,LVR,11,16,74,4,20.0,87,5.4,52,4.7,3.3,22,2.0,1,6.3%,3,18.8%,4,5,2,3,9,42.9%,1,2.0,202411030cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030cin
+Joe Burrow,CIN,27,39,251,18,45.0,206,5.3,96,3.6,2.5,155,5.7,2,5.4%,3,8.1%,1,7,10,5,16,39.0%,1,10.0,202411030cin
+Anthony Richardson,IND,17,38,172,8,20.0,333,8.8,81,4.8,2.1,91,5.4,1,2.8%,12,33.3%,2,10,9,7,18,41.9%,3,4.7,202412150den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150den
+Bo Nix,DEN,20,33,130,5,14.7,174,5.3,26,1.3,0.8,104,5.2,5,15.6%,2,6.3%,1,6,1,0,2,5.4%,3,7.3,202412150den
+Caleb Williams,CHI,22,41,217,10,21.3,369,9.0,130,5.9,3.2,87,4.0,2,5.6%,8,22.2%,6,13,8,3,17,34.0%,3,2.0,202411030crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030crd
+Kyler Murray,ARI,13,20,154,7,30.4,126,6.3,58,4.5,2.9,96,7.4,1,5.3%,2,10.5%,3,3,2,0,5,21.7%,0,,202411030crd
+Baker Mayfield,TAM,22,27,288,12,42.9,253,9.4,168,7.6,6.2,120,5.5,0,0.0%,2,7.7%,1,8,1,1,3,10.0%,2,12.5,202412150sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150sdg
+Justin Herbert,LAC,21,33,195,10,27.8,270,8.2,135,6.4,4.1,60,2.9,4,13.3%,4,13.3%,3,20,1,6,10,27.8%,0,,202412150sdg
+Taylor Heinicke,LAC,1,1,4,,,3,3.0,3,3.0,3.0,1,1.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412150sdg
+Patrick Mahomes,KAN,19,38,159,11,28.9,303,8.0,62,3.3,1.6,97,5.1,6,16.7%,7,19.4%,0,5,1,10,11,28.2%,1,10.0,202412150cle
+Carson Wentz,KAN,2,2,20,1,50.0,5,2.5,5,2.5,2.5,15,7.5,0,0.0%,0,0.0%,0,1,0,1,1,33.3%,1,2.0,202412150cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150cle
+Jameis Winston,CLE,16,25,146,8,26.7,177,7.1,46,2.9,1.8,100,6.3,1,4.2%,1,4.2%,5,9,0,2,7,23.3%,0,,202412150cle
+Dorian Thompson-Robinson,CLE,4,9,18,1,11.1,86,9.6,3,0.8,0.3,15,3.8,0,0.0%,3,33.3%,0,1,0,3,3,27.3%,2,7.0,202412150cle
+Derek Carr,NOR,11,16,243,8,47.1,135,8.4,110,10.0,6.9,133,12.1,1,6.7%,1,6.7%,1,7,7,1,9,52.9%,0,,202409150dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150dal
+Dak Prescott,DAL,27,39,293,13,31.0,329,8.4,139,5.1,3.6,154,5.7,0,0.0%,5,13.2%,3,6,7,0,10,23.3%,1,8.0,202409150dal
+Cooper Rush,DAL,1,3,6,,,15,5.0,-2,-2.0,-0.7,8,8.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202409150dal
+Jordan Love,GNB,20,27,229,10,37.0,167,6.2,85,4.3,3.1,144,7.2,0,0.0%,5,19.2%,0,8,4,6,10,35.7%,1,4.0,202412150sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150sea
+Geno Smith,SEA,15,19,149,6,27.3,121,6.4,101,6.7,5.3,48,3.2,0,0.0%,0,0.0%,3,3,1,4,8,34.8%,1,5.0,202412150sea
+Sam Howell,SEA,5,14,24,1,5.6,83,5.9,17,3.4,1.2,7,1.4,1,7.1%,5,35.7%,4,1,2,1,7,36.8%,1,2.0,202412150sea
+Brock Purdy,SFO,28,36,319,17,40.5,289,8.0,231,8.3,6.4,88,3.1,0,0.0%,4,11.1%,6,21,7,3,16,36.4%,2,6.0,202409150min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150min
+Sam Darnold,MIN,17,26,268,9,31.0,170,6.5,116,6.8,4.5,152,8.9,0,0.0%,3,12.5%,3,3,3,2,8,25.8%,2,17.0,202409150min
+Bo Nix,DEN,22,30,215,12,37.5,229,7.6,94,4.3,3.1,121,5.5,2,7.1%,4,14.3%,2,10,2,3,7,21.2%,1,3.0,202411100kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100kan
+Patrick Mahomes,KAN,28,42,266,13,28.3,184,4.4,78,2.8,1.9,188,6.7,1,2.5%,9,22.5%,4,18,4,5,13,26.5%,3,6.3,202411100kan
+Kyler Murray,ARI,20,32,202,11,31.4,214,6.7,62,3.1,1.9,140,7.0,1,3.4%,5,17.2%,3,13,4,0,7,17.1%,6,7.2,202412220car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220car
+Bryce Young,CAR,17,26,158,9,31.0,170,6.5,92,5.4,3.5,66,3.9,1,4.2%,4,16.7%,3,13,5,1,9,27.3%,4,17.3,202412220car
+Jalen Hurts,PHI,11,19,118,7,33.3,139,7.3,66,6.0,3.5,52,4.7,1,5.9%,3,17.6%,2,3,2,0,4,19.0%,0,,202412010rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010rav
+Lamar Jackson,BAL,23,36,237,11,28.2,362,10.1,138,6.0,3.8,99,4.3,4,11.4%,5,14.3%,3,6,2,2,7,15.9%,5,14.8,202412010rav
+Aidan O'Connell,LVR,20,35,242,14,38.9,339,9.7,154,7.7,4.4,88,4.4,2,5.7%,9,25.7%,1,8,5,1,7,19.4%,0,,202412290nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290nor
+Spencer Rattler,NOR,20,36,218,8,20.5,286,7.9,103,5.2,2.9,115,5.8,3,8.8%,4,11.8%,3,7,8,1,12,29.3%,2,9.0,202412290nor
+Aaron Rodgers,NYJ,12,18,112,3,13.6,78,4.3,31,2.6,1.7,81,6.8,2,11.8%,2,11.8%,4,1,1,1,6,27.3%,0,,202412290buf
+Tyrod Taylor,NYJ,11,14,83,6,42.9,57,4.1,39,3.5,2.8,44,4.0,1,7.7%,1,7.7%,0,3,2,1,3,20.0%,1,6.0,202412290buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290buf
+Josh Allen,BUF,16,27,182,9,33.3,180,6.7,102,6.4,3.8,80,5.0,1,3.8%,6,23.1%,0,9,2,3,5,17.9%,1,10.0,202412290buf
+Mitchell Trubisky,BUF,1,1,69,1,100.0,-2,-2.0,-2,-2.0,-2.0,71,71.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202412290buf
+Joe Flacco,IND,22,38,189,11,28.9,329,8.7,89,4.0,2.3,100,4.5,1,2.8%,11,30.6%,0,12,3,2,5,12.8%,1,1.0,202410130oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130oti
+Will Levis,TEN,16,27,95,7,25.9,200,7.4,53,3.3,2.0,42,2.6,0,0.0%,4,14.8%,0,10,0,4,4,13.3%,3,5.0,202410130oti
+Caleb Williams,CHI,21,29,148,10,33.3,116,4.0,50,2.4,1.7,98,4.7,1,4.3%,1,4.3%,1,3,4,1,6,18.8%,2,3.5,202501050gnb
+Keenan Allen,CHI,0,1,0,0,0.0,14,14.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,202501050gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050gnb
+Malik Willis,GNB,10,13,136,4,25.0,129,9.9,112,11.2,8.6,24,2.4,0,0.0%,1,8.3%,3,4,0,2,5,31.3%,0,,202501050gnb
+Jordan Love,GNB,7,12,69,3,25.0,76,6.3,45,6.4,3.8,24,3.4,1,8.3%,2,16.7%,0,4,1,2,3,25.0%,0,,202501050gnb
+Kirk Cousins,ATL,19,30,225,11,36.7,182,6.1,122,6.4,4.1,103,5.4,0,0.0%,4,13.8%,0,5,0,3,3,10.0%,0,,202410130car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130car
+Andy Dalton,CAR,26,38,221,12,31.6,265,7.0,147,5.7,3.9,74,2.8,3,8.1%,3,8.1%,0,8,1,3,4,10.0%,2,9.5,202410130car
+Daniel Jones,NYG,16,28,178,11,37.9,220,7.9,79,4.9,2.8,99,6.2,1,3.7%,6,22.2%,1,7,2,3,6,20.0%,1,6.0,202409150was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150was
+Jayden Daniels,WAS,23,29,226,11,32.4,111,3.8,84,3.7,2.9,142,6.2,0,0.0%,3,10.3%,5,12,3,2,10,26.3%,4,8.3,202409150was
+Josh Allen,BUF,16,29,180,6,18.8,320,11.0,117,7.3,4.0,63,3.9,5,20.0%,4,16.0%,3,9,0,6,9,26.5%,2,3.5,202409290rav
+Mitchell Trubisky,BUF,1,2,2,,,18,9.0,2,2.0,1.0,0,0.0,0,0.0%,1,50.0%,0,1,0,0,0,0.0%,0,,202409290rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290rav
+Lamar Jackson,BAL,13,18,156,9,47.4,115,6.4,64,4.9,3.6,92,7.1,4,23.5%,0,0.0%,1,3,0,1,2,10.5%,0,,202409290rav
+Josh Johnson,BAL,1,1,1,,,0,0.0,0,0.0,0.0,1,1.0,0,0.0%,0,0.0%,0,0,0,1,1,100.0%,0,,202409290rav
+Mason Rudolph,TEN,23,34,252,11,31.4,215,6.3,134,5.8,3.9,118,5.1,2,6.1%,6,18.2%,1,2,0,3,4,11.4%,0,,202412220clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220clt
+Anthony Richardson,IND,7,11,131,6,50.0,89,8.1,48,6.9,4.4,83,11.9,1,9.1%,3,27.3%,1,2,0,0,1,7.1%,2,5.5,202412220clt
+Drake Maye,NWE,22,37,222,8,19.5,292,7.9,115,5.2,3.1,107,4.9,1,2.8%,8,22.2%,4,8,3,2,9,20.0%,4,6.8,202411240mia
+Kendrick Bourne,NWE,0,1,0,0,0.0,0,0.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,202411240mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240mia
+Tua Tagovailoa,MIA,29,40,317,19,45.2,227,5.7,150,5.2,3.8,167,5.8,1,2.5%,2,5.0%,2,8,3,0,5,11.9%,0,,202411240mia
+Will Levis,TEN,18,24,278,8,25.0,187,7.8,132,7.3,5.5,146,8.1,1,4.2%,4,16.7%,8,4,0,1,9,27.3%,1,3.0,202411240htx
+Tyler Boyd,TEN,0,1,0,0,0.0,24,24.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,0,0,0.0%,0,,202411240htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240htx
+C.J. Stroud,HOU,20,33,247,11,29.7,271,8.2,156,7.8,4.7,91,4.6,1,3.2%,5,16.1%,4,6,3,2,9,22.5%,3,6.0,202411240htx
+Jordan Love,GNB,14,22,196,8,36.4,248,11.3,114,8.1,5.2,82,5.9,1,5.0%,5,25.0%,0,1,1,2,3,13.6%,0,,202410270jax
+Malik Willis,GNB,4,5,56,3,50.0,30,6.0,18,4.5,3.6,38,9.5,1,20.0%,0,0.0%,1,0,0,0,1,12.5%,2,12.5,202410270jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270jax
+Trevor Lawrence,JAX,21,32,308,14,42.4,311,9.7,182,8.7,5.7,126,6.0,0,0.0%,5,16.7%,1,5,1,3,5,14.7%,1,2.0,202410270jax
+Sam Darnold,MIN,18,25,240,14,50.0,223,8.9,170,9.4,6.8,70,3.9,1,4.3%,4,17.4%,3,6,6,2,11,37.9%,1,5.0,202410240ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410240ram
+Matthew Stafford,LAR,25,34,279,16,47.1,250,7.4,151,6.0,4.4,128,5.1,2,5.9%,3,8.8%,0,11,2,2,4,11.8%,0,,202410240ram
+Sam Darnold,MIN,18,41,166,7,16.3,280,6.8,53,2.9,1.3,113,6.3,1,2.6%,13,34.2%,2,23,3,8,13,28.9%,2,5.5,202501050det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050det
+Jared Goff,DET,27,33,231,14,40.0,162,4.9,118,4.4,3.6,113,4.2,0,0.0%,1,3.1%,2,20,0,4,6,17.1%,0,,202501050det
+Mason Rudolph,TEN,19,31,193,11,32.4,274,8.8,146,7.7,4.7,47,2.5,0,0.0%,6,20.0%,3,4,1,2,6,15.8%,4,5.5,202412290jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290jax
+Mac Jones,JAX,15,22,174,9,37.5,124,5.6,73,4.9,3.3,101,6.7,0,0.0%,3,14.3%,2,4,0,1,3,11.5%,2,8.0,202412290jax
+Justin Herbert,LAC,16,23,147,5,17.9,170,7.4,84,5.3,3.7,63,3.9,0,0.0%,1,4.3%,5,5,3,3,11,39.3%,0,,202412010atl
+JK Scott,LAC,1,1,3,,,-4,-4.0,-4,-4.0,-4.0,7,7.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202412010atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010atl
+Kirk Cousins,ATL,24,39,245,13,32.5,308,7.9,93,3.9,2.4,152,6.3,0,0.0%,7,18.4%,1,5,4,3,8,20.0%,0,,202412010atl
+Jacoby Brissett,NWE,12,18,98,4,17.4,120,6.7,47,3.9,2.6,51,4.3,1,5.6%,4,22.2%,5,7,2,4,11,47.8%,0,,202409190nyj
+Drake Maye,NWE,4,8,22,2,20.0,25,3.1,8,2.0,1.0,14,3.5,1,12.5%,2,25.0%,2,2,0,1,3,25.0%,2,6.0,202409190nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409190nyj
+Aaron Rodgers,NYJ,27,35,281,16,43.2,226,6.5,129,4.8,3.7,152,5.6,2,5.7%,5,14.3%,2,6,0,2,4,10.0%,3,6.0,202409190nyj
+Geno Smith,SEA,38,56,395,22,37.3,305,5.4,181,4.8,3.2,214,5.6,2,3.8%,4,7.5%,3,21,5,5,13,21.0%,3,8.0,202409300det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409300det
+Jared Goff,DET,18,18,292,11,52.4,74,4.1,74,4.1,4.1,218,12.1,0,0.0%,0,0.0%,3,10,3,1,7,33.3%,0,,202409300det
+Amon-Ra St. Brown,DET,1,1,7,1,100.0,5,5.0,5,5.0,5.0,2,2.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202409300det
+Tua Tagovailoa,MIA,25,28,231,14,48.3,137,4.9,109,4.4,3.9,122,4.9,0,0.0%,1,3.7%,1,2,1,1,3,10.0%,1,4.0,202411030buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030buf
+Josh Allen,BUF,25,39,235,15,37.5,140,3.6,53,2.1,1.4,182,7.3,5,13.9%,4,11.1%,1,8,1,2,4,9.8%,1,14.0,202411030buf
+Justin Herbert,LAC,21,34,237,10,27.0,283,8.3,114,5.4,3.4,123,5.9,0,0.0%,4,12.9%,3,18,3,3,9,23.7%,1,5.0,202410130den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130den
+Bo Nix,DEN,19,33,216,10,28.6,330,10.0,151,7.9,4.6,65,3.4,2,6.3%,6,18.8%,2,9,0,4,6,14.6%,6,10.2,202410130den
+Derek Carr,NOR,28,36,239,11,29.7,193,5.4,127,4.5,3.5,112,4.0,2,5.6%,4,11.1%,1,10,1,2,4,10.5%,1,5.0,202409290atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409290atl
+Kirk Cousins,ATL,21,35,238,9,25.0,336,9.6,116,5.5,3.3,122,5.8,3,8.8%,3,8.8%,1,4,1,3,5,13.9%,0,,202409290atl
+Drew Lock,NYG,21,32,178,8,21.1,180,5.6,84,4.0,2.6,94,4.5,2,6.3%,4,12.5%,6,3,0,7,13,31.7%,3,19.0,202411280dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411280dal
+Cooper Rush,DAL,21,36,195,10,27.8,271,7.5,76,3.6,2.1,119,5.7,3,8.3%,3,8.3%,0,5,0,3,3,8.1%,1,4.0,202411280dal
+Trevor Lawrence,JAX,12,21,162,8,33.3,194,9.2,122,10.2,5.8,40,3.3,0,0.0%,7,35.0%,3,10,1,1,5,20.0%,1,8.0,202409080mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080mia
+Tua Tagovailoa,MIA,23,37,338,11,27.5,238,6.4,95,4.1,2.6,243,10.6,1,2.8%,7,19.4%,3,11,2,1,6,14.6%,1,11.0,202409080mia
+Tua Tagovailoa,MIA,20,28,207,11,35.5,153,5.5,86,4.3,3.1,121,6.1,1,3.6%,4,14.3%,3,7,3,1,7,22.6%,0,,202411110ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411110ram
+Matthew Stafford,LAR,32,46,293,16,32.0,236,5.1,173,5.4,3.8,120,3.8,1,2.2%,8,17.8%,4,7,3,3,10,20.0%,0,,202411110ram
+Geno Smith,SEA,18,28,207,11,37.9,337,12.0,141,7.8,5.0,66,3.7,1,3.7%,3,11.1%,1,9,6,4,11,34.4%,3,5.0,202410200atl
+Jaxon Smith-Njigba,SEA,1,1,35,1,100.0,35,35.0,35,35.0,35.0,0,0.0,0,0.0%,0,0.0%,0,0,0,1,1,100.0%,0,,202410200atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200atl
+Kirk Cousins,ATL,24,35,232,12,31.6,259,7.4,130,5.4,3.7,102,4.3,2,5.7%,6,17.1%,3,6,0,6,9,23.7%,0,,202410200atl
+Michael Penix,ATL,1,1,14,1,100.0,3,3.0,3,3.0,3.0,11,11.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202410200atl
+Jacoby Brissett,NWE,15,24,121,6,24.0,154,6.4,67,4.5,2.8,54,3.6,0,0.0%,6,26.1%,1,5,1,6,8,27.6%,4,8.5,202409080cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080cin
+Joe Burrow,CIN,21,29,164,7,21.9,162,5.6,97,4.6,3.3,67,3.2,1,3.4%,4,13.8%,3,7,0,0,3,8.6%,3,4.3,202409080cin
+Justin Fields,PIT,14,24,145,6,22.2,217,9.0,101,7.2,4.2,44,3.1,1,4.3%,5,21.7%,3,10,1,2,6,19.4%,4,8.5,202410130rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130rai
+Aidan O'Connell,LVR,27,40,227,11,26.8,238,6.0,82,3.0,2.1,145,5.4,0,0.0%,6,16.2%,1,5,1,2,4,9.8%,0,,202410130rai
+Sam Darnold,MIN,22,34,330,12,32.4,286,8.4,199,9.0,5.9,131,6.0,2,6.5%,2,6.5%,3,8,4,6,13,35.1%,0,,202411240chi
+Nick Mullens,MIN,1,1,14,1,100.0,3,3.0,3,3.0,3.0,11,11.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202411240chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240chi
+Caleb Williams,CHI,32,47,340,14,28.0,329,7.0,157,4.9,3.3,183,5.7,3,6.5%,9,19.6%,3,19,5,2,10,18.2%,5,5.8,202411240chi
+D.J. Moore,CHI,0,1,0,0,0.0,33,33.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202411240chi
+Jalen Hurts,PHI,16,20,236,10,50.0,173,8.7,159,9.9,8.0,77,4.8,0,0.0%,1,5.3%,0,5,0,1,1,4.8%,1,7.0,202410270cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270cin
+Joe Burrow,CIN,26,37,234,15,39.5,287,7.8,141,5.4,3.8,93,3.6,1,2.7%,5,13.5%,1,11,2,2,5,12.5%,2,8.0,202410270cin
+Anthony Richardson,IND,10,32,175,7,18.9,495,15.5,86,8.6,2.7,89,8.9,2,6.5%,10,32.3%,5,11,7,4,16,41.0%,2,18.5,202410270htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270htx
+C.J. Stroud,HOU,25,37,285,15,38.5,278,7.5,166,6.6,4.5,119,4.8,1,2.8%,8,22.2%,2,14,4,7,13,33.3%,0,,202410270htx
+Kyler Murray,ARI,26,36,307,15,41.7,283,7.9,211,8.1,5.9,96,3.7,0,0.0%,2,6.1%,0,10,7,1,8,21.1%,2,5.5,202410270mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270mia
+Tua Tagovailoa,MIA,28,38,234,15,38.5,192,5.1,104,3.7,2.7,130,4.6,3,7.9%,3,7.9%,1,2,1,3,5,12.5%,1,13.0,202410270mia
+Aaron Rodgers,NYJ,17,28,233,12,41.4,274,9.8,166,9.8,5.9,67,3.9,2,8.0%,4,16.0%,1,5,2,4,7,24.1%,0,,202410270nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270nwe
+Jacoby Brissett,NWE,15,24,132,6,24.0,178,7.4,70,4.7,2.9,62,4.1,4,17.4%,3,13.0%,1,7,1,1,3,11.5%,1,14.0,202410270nwe
+Drake Maye,NWE,3,6,23,1,14.3,65,10.8,7,2.3,1.2,16,5.3,1,16.7%,1,16.7%,1,1,0,0,1,10.0%,3,15.3,202410270nwe
+Bailey Zappe,CLE,16,31,170,8,25.0,220,7.1,69,4.3,2.2,101,6.3,5,16.7%,3,10.0%,1,2,1,1,3,9.1%,1,3.0,202501040rav
+Dorian Thompson-Robinson,CLE,2,3,13,1,25.0,27,9.0,6,3.0,2.0,7,3.5,0,0.0%,1,33.3%,1,0,0,0,1,25.0%,0,,202501040rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501040rav
+Lamar Jackson,BAL,16,32,217,12,37.5,286,8.9,120,7.5,3.8,97,6.1,5,16.7%,5,16.7%,0,5,0,5,5,13.2%,6,7.0,202501040rav
+Mac Jones,JAX,25,39,247,9,22.5,223,5.7,143,5.7,3.7,104,4.2,0,0.0%,4,11.4%,1,6,2,3,6,15.0%,0,,202412220rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220rai
+Aidan O'Connell,LVR,24,38,257,13,32.5,239,6.3,99,4.1,2.6,158,6.6,2,5.4%,5,13.5%,2,4,3,3,8,19.5%,1,13.0,202412220rai
+Will Levis,TEN,18,23,175,10,33.3,190,8.3,104,5.8,4.5,71,3.9,0,0.0%,4,17.4%,7,5,1,2,10,30.3%,3,8.0,202411100sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100sdg
+Justin Herbert,LAC,14,18,164,8,44.4,113,6.3,71,5.1,3.9,93,6.6,1,5.6%,0,0.0%,0,1,0,2,2,8.7%,5,5.8,202411100sdg
+Brock Purdy,SFO,25,36,353,17,43.6,252,7.0,181,7.2,5.0,172,6.9,0,0.0%,6,17.6%,3,16,3,4,10,23.8%,3,6.0,202411100tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100tam
+Baker Mayfield,TAM,18,29,116,8,25.8,157,5.4,33,1.8,1.1,83,4.6,1,3.4%,5,17.2%,2,8,3,0,5,15.6%,1,3.0,202411100tam
+C.J. Stroud,HOU,20,31,215,11,31.4,204,6.6,106,5.3,3.4,109,5.5,1,3.3%,5,16.7%,4,14,2,2,8,21.1%,3,4.0,202409220min
+Davis Mills,HOU,7,12,79,4,30.8,65,5.4,40,5.7,3.3,39,5.6,1,8.3%,2,16.7%,1,9,1,1,3,23.1%,0,,202409220min
+Stefon Diggs,HOU,1,1,13,1,100.0,-4,-4.0,-4,-4.0,-4.0,17,17.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202409220min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220min
+Sam Darnold,MIN,17,28,181,12,37.5,190,6.8,114,6.7,4.1,67,3.9,2,8.0%,3,12.0%,4,6,5,3,12,37.5%,0,,202409220min
+Sam Darnold,MIN,22,35,246,12,31.6,268,7.7,157,7.1,4.5,89,4.0,3,8.6%,4,11.4%,3,6,0,4,7,17.5%,2,7.0,202412220sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220sea
+Geno Smith,SEA,31,43,314,17,37.8,332,7.7,153,4.9,3.6,161,5.2,1,2.4%,3,7.1%,2,9,1,6,9,19.6%,1,8.0,202412220sea
+Lamar Jackson,BAL,12,15,182,8,53.3,47,3.1,31,2.6,2.1,151,12.6,0,0.0%,3,20.0%,0,6,0,1,1,5.9%,2,3.0,202409220dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220dal
+Dak Prescott,DAL,28,51,379,18,33.3,482,9.5,239,8.5,4.7,140,5.0,1,2.0%,12,24.0%,3,16,2,5,10,18.2%,1,6.0,202409220dal
+Bryce Young,CAR,25,34,251,15,44.1,294,8.6,152,6.1,4.5,99,4.0,0,0.0%,5,14.7%,0,5,3,0,3,7.9%,4,6.3,202501050atl
+Jalen Coker,CAR,1,1,19,1,100.0,16,16.0,16,16.0,16.0,3,3.0,0,0.0%,0,0.0%,0,0,1,0,1,100.0%,0,,202501050atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050atl
+Michael Penix,ATL,21,38,312,11,28.2,427,11.2,243,11.6,6.4,69,3.3,5,13.5%,6,16.2%,1,11,2,4,7,17.5%,1,5.0,202501050atl
+Joe Burrow,CIN,26,37,271,12,31.6,246,6.6,157,6.0,4.2,114,4.4,2,5.7%,5,14.3%,1,6,2,3,6,15.8%,0,,202412150oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150oti
+Mason Rudolph,TEN,21,26,209,10,38.5,141,5.4,75,3.6,2.9,134,6.4,0,0.0%,2,8.0%,0,2,2,2,4,14.8%,1,12.0,202412150oti
+Will Levis,TEN,8,12,89,3,23.1,66,5.5,34,4.3,2.8,55,6.9,0,0.0%,1,8.3%,1,5,0,2,3,23.1%,0,,202412150oti
+Cooper Rush,DAL,18,29,214,11,36.7,118,4.1,114,6.3,3.9,100,5.6,2,7.1%,3,10.7%,1,8,0,2,3,9.7%,1,9.0,202412150car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150car
+Bryce Young,CAR,19,28,219,7,20.6,225,8.0,96,5.1,3.4,123,6.5,1,3.7%,5,18.5%,6,5,3,4,13,35.1%,3,4.0,202412150car
+Will Levis,TEN,19,32,127,6,17.1,225,7.0,77,4.1,2.4,50,2.6,2,6.9%,8,27.6%,3,5,5,7,15,39.5%,3,7.0,202409080chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080chi
+Caleb Williams,CHI,14,29,93,5,16.1,182,6.3,45,3.2,1.6,48,3.4,1,3.7%,9,33.3%,2,9,4,2,8,24.2%,2,8.0,202409080chi
+Kirk Cousins,ATL,11,17,112,6,30.0,99,5.8,74,6.7,4.4,38,3.5,1,6.3%,1,6.3%,3,7,2,0,5,23.8%,1,2.0,202412160rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412160rai
+Desmond Ridder,LVR,23,39,208,11,26.2,401,10.3,119,5.2,3.1,89,3.9,0,0.0%,5,13.9%,3,5,3,2,8,17.8%,3,9.0,202412160rai
+Dorian Thompson-Robinson,CLE,20,34,157,8,20.5,192,5.6,44,2.2,1.3,113,5.7,3,9.7%,5,16.1%,5,6,4,5,14,33.3%,3,7.7,202412220cin
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220cin
+Joe Burrow,CIN,23,30,252,14,41.2,245,8.2,167,7.3,5.6,85,3.7,0,0.0%,3,10.7%,4,11,2,4,10,27.8%,2,9.5,202412220cin
+Brock Purdy,SFO,26,40,313,16,37.2,180,4.5,111,4.3,2.8,202,7.8,2,5.4%,5,13.5%,3,12,2,3,8,17.4%,3,8.0,202412220mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220mia
+Tua Tagovailoa,MIA,22,34,215,13,38.2,197,5.8,71,3.2,2.1,144,6.5,2,6.5%,2,6.5%,0,5,3,1,4,11.8%,0,,202412220mia
+Andy Dalton,CAR,11,16,93,5,27.8,76,4.8,57,5.2,3.6,36,3.3,0,0.0%,3,20.0%,2,4,4,0,6,31.6%,1,4.0,202410200was
+Bryce Young,CAR,2,2,-4,,,-8,-4.0,-8,-4.0,-4.0,4,2.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202410200was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200was
+Marcus Mariota,WAS,18,23,205,12,50.0,241,10.5,155,8.6,6.7,50,2.8,2,8.7%,2,8.7%,1,8,1,1,3,11.5%,2,8.5,202410200was
+Jayden Daniels,WAS,2,2,6,0,0.0,-3,-1.5,-3,-1.5,-1.5,9,4.5,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202410200was
+Jayden Daniels,WAS,22,32,191,10,28.6,114,3.6,45,2.0,1.4,146,6.6,3,9.4%,3,9.4%,3,1,0,0,3,7.7%,4,3.8,202411140phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411140phi
+Jalen Hurts,PHI,18,28,221,9,30.0,184,6.6,88,4.9,3.1,133,7.4,1,3.8%,5,19.2%,2,9,0,2,4,11.8%,4,5.0,202411140phi
+Kyler Murray,ARI,31,45,260,13,28.3,287,6.4,160,5.2,3.6,100,3.2,1,2.3%,5,11.6%,1,20,1,3,5,9.8%,5,7.4,202412010min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010min
+Sam Darnold,MIN,21,31,235,13,36.1,213,6.9,119,5.7,3.8,116,5.5,1,3.3%,5,16.7%,5,10,0,3,8,20.5%,3,7.7,202412010min
+Kyler Murray,ARI,33,48,321,16,30.8,321,6.7,162,4.9,3.4,159,4.8,1,2.2%,5,11.1%,4,19,7,2,13,24.1%,2,7.5,202412280ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412280ram
+Matthew Stafford,LAR,17,32,189,8,25.0,196,6.1,93,5.5,2.9,96,5.6,0,0.0%,5,17.9%,0,8,7,2,9,27.3%,1,12.0,202412280ram
+Jared Goff,DET,26,34,303,16,44.4,147,4.3,133,5.1,3.9,170,6.5,1,3.0%,5,15.2%,2,7,1,2,5,13.9%,0,,202412300sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412300sfo
+Brock Purdy,SFO,27,35,377,17,45.9,325,9.3,213,7.9,6.1,164,6.1,0,0.0%,2,6.3%,2,15,4,3,9,23.7%,1,9.0,202412300sfo
+Joshua Dobbs,SFO,3,4,35,2,50.0,38,9.5,31,10.3,7.8,4,1.3,0,0.0%,1,25.0%,0,1,0,1,1,20.0%,1,7.0,202412300sfo
+Ricky Pearsall,SFO,0,1,0,0,0.0,10,10.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412300sfo
+Gardner Minshew II,LVR,30,38,276,14,32.6,238,6.3,153,5.1,4.0,123,4.1,1,2.8%,3,8.3%,5,10,3,4,12,27.9%,0,,202409150rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150rav
+Lamar Jackson,BAL,21,34,247,14,38.9,265,7.8,148,7.0,4.4,99,4.7,0,0.0%,4,12.9%,2,5,2,0,4,10.5%,2,8.5,202409150rav
+Patrick Mahomes,KAN,27,38,262,17,43.6,255,6.7,158,5.9,4.2,104,3.9,2,5.7%,3,8.6%,1,9,3,2,6,14.3%,3,6.7,202410270rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270rai
+Gardner Minshew II,LVR,24,30,209,13,37.1,138,4.6,108,4.5,3.6,101,4.2,0,0.0%,1,3.7%,5,18,1,3,9,25.0%,1,7.0,202410270rai
+Jayden Daniels,WAS,25,31,226,11,28.2,264,8.5,120,4.8,3.9,106,4.2,1,3.3%,2,6.7%,8,6,1,0,9,20.5%,5,8.6,202412150nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150nor
+Spencer Rattler,NOR,10,21,135,8,38.1,196,9.3,95,9.5,4.5,40,4.0,1,5.3%,5,26.3%,0,6,1,1,2,9.5%,0,,202412150nor
+Jake Haener,NOR,4,10,49,2,15.4,86,8.6,6,1.5,0.6,43,10.8,2,22.2%,2,22.2%,3,4,1,3,7,50.0%,1,7.0,202412150nor
+Cedrick Wilson Jr.,NOR,1,1,21,1,100.0,20,20.0,20,20.0,20.0,1,1.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202412150nor
+Sam Darnold,MIN,24,38,241,15,38.5,348,9.2,146,6.1,3.8,95,4.0,2,5.4%,6,16.2%,1,1,3,2,6,14.3%,3,9.0,202411100jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100jax
+Mac Jones,JAX,14,22,111,5,20.0,183,8.3,59,4.2,2.7,52,3.7,2,9.5%,3,14.3%,3,7,0,1,4,14.8%,2,3.5,202411100jax
+Drake Maye,NWE,15,25,184,9,34.6,208,8.3,85,5.7,3.4,99,6.6,1,4.3%,4,17.4%,1,6,2,6,9,31.0%,3,8.3,202411100chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100chi
+Caleb Williams,CHI,16,30,120,6,15.4,187,6.2,72,4.5,2.4,48,3.0,1,3.8%,4,15.4%,9,9,1,4,14,34.1%,2,7.5,202411100chi
+Tyler Huntley,MIA,22,26,225,12,40.0,150,5.8,123,5.6,4.7,102,4.6,1,4.2%,1,4.2%,4,2,0,4,8,22.9%,5,10.6,202412290cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290cle
+Dorian Thompson-Robinson,CLE,24,47,170,7,14.6,277,5.9,100,4.2,2.1,70,2.9,7,15.9%,7,15.9%,1,9,0,4,5,10.2%,1,2.0,202412290cle
+Josh Allen,BUF,24,34,283,12,34.3,232,6.8,124,5.2,3.6,159,6.6,1,3.1%,4,12.5%,1,6,0,0,1,2.7%,2,3.0,202410270sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270sea
+Geno Smith,SEA,21,29,212,13,43.3,85,2.9,76,3.6,2.6,136,6.5,0,0.0%,1,3.7%,1,5,1,4,6,18.8%,2,11.5,202410270sea
+Lamar Jackson,BAL,23,38,289,14,34.1,354,9.3,157,6.8,4.1,132,5.7,4,11.4%,3,8.6%,3,11,9,3,15,34.9%,2,17.0,202410270cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270cle
+Jameis Winston,CLE,27,41,334,16,37.2,411,10.0,266,9.9,6.5,68,2.5,1,2.4%,8,19.5%,2,17,3,5,10,23.3%,0,,202410270cle
+Will Levis,TEN,18,37,212,9,23.1,386,10.4,152,8.4,4.1,60,3.3,6,16.7%,11,30.6%,2,8,3,6,11,28.2%,0,,202412010was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412010was
+Jayden Daniels,WAS,25,30,206,12,37.5,160,5.3,85,3.4,2.8,121,4.8,0,0.0%,4,13.3%,2,8,1,0,3,7.9%,6,4.2,202412010was
+Gardner Minshew II,LVR,25,33,257,12,32.4,149,4.5,119,4.8,3.6,138,5.5,0,0.0%,3,9.4%,4,10,1,2,7,17.5%,3,1.7,202409080sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080sdg
+Justin Herbert,LAC,17,26,144,6,22.2,163,6.3,67,3.9,2.6,77,4.5,3,11.5%,4,15.4%,1,12,0,4,5,17.9%,1,8.0,202409080sdg
+Jayden Daniels,WAS,17,24,184,7,26.9,125,5.2,30,1.8,1.3,154,9.1,1,4.2%,4,16.7%,2,11,3,1,6,18.2%,7,11.0,202409080tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080tam
+Baker Mayfield,TAM,24,30,289,15,48.4,160,5.3,102,4.3,3.4,187,7.8,1,3.3%,3,10.0%,1,14,4,3,8,23.5%,3,7.0,202409080tam
+Jared Goff,DET,22,25,280,15,51.7,176,7.0,135,6.1,5.4,145,6.6,0,0.0%,1,4.0%,4,16,0,5,9,31.0%,0,,202410200min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200min
+Sam Darnold,MIN,22,27,259,10,32.3,215,8.0,170,7.7,6.3,89,4.0,1,3.8%,1,3.8%,4,15,1,1,6,17.1%,4,9.8,202410200min
+C.J. Stroud,HOU,20,31,192,13,39.4,261,8.4,130,6.5,4.2,62,3.1,2,6.9%,5,17.2%,2,14,9,1,12,35.3%,1,8.0,202410130nwe
+Davis Mills,HOU,0,1,0,,,0,0.0,0,,0.0,0,,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202410130nwe
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130nwe
+Drake Maye,NWE,20,33,243,12,32.4,214,6.5,112,5.6,3.4,131,6.6,1,3.2%,7,22.6%,4,11,4,4,12,28.6%,5,7.6,202410130nwe
+Aaron Rodgers,NYJ,29,54,244,13,22.8,410,7.6,121,4.2,2.2,123,4.2,2,3.9%,12,23.5%,3,24,4,8,15,26.3%,0,,202410060min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060min
+Sam Darnold,MIN,14,31,179,7,20.0,402,13.0,125,8.9,4.0,54,3.9,1,3.7%,6,22.2%,4,11,6,2,12,33.3%,1,10.0,202410060min
+Nick Mullens,MIN,1,1,24,1,100.0,21,21.0,21,21.0,21.0,3,3.0,0,0.0%,0,0.0%,0,0,0,1,1,100.0%,0,,202410060min
+Dak Prescott,DAL,19,32,179,8,22.9,290,9.1,79,4.2,2.5,100,5.3,2,6.3%,5,15.6%,3,9,4,2,9,25.7%,0,,202409080cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080cle
+Deshaun Watson,CLE,24,45,169,8,15.7,395,8.8,67,2.8,1.5,102,4.3,5,11.6%,10,23.3%,6,12,7,12,25,44.6%,5,7.8,202409080cle
+Kirk Cousins,ATL,23,37,344,15,39.5,301,8.1,195,8.5,5.3,149,6.5,3,8.1%,5,13.5%,1,18,0,3,4,10.5%,0,,202412080min
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080min
+Sam Darnold,MIN,22,28,347,15,46.9,291,10.4,237,10.8,8.5,110,5.0,0,0.0%,4,14.3%,4,5,1,3,8,23.5%,2,4.0,202412080min
+Bo Nix,DEN,26,42,138,6,13.6,266,6.3,70,2.7,1.7,68,2.6,2,4.8%,9,21.4%,2,10,4,7,13,26.5%,5,7.0,202409080sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080sea
+Geno Smith,SEA,18,25,171,11,40.7,167,6.7,104,5.8,4.2,67,3.7,0,0.0%,7,28.0%,2,10,1,5,8,28.6%,1,34.0,202409080sea
+Bryce Young,CAR,15,28,203,10,30.3,346,12.4,185,12.3,6.6,18,1.2,1,4.5%,4,18.2%,5,16,14,2,21,60.0%,2,4.0,202412290tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412290tam
+Baker Mayfield,TAM,27,32,359,17,50.0,261,8.2,191,7.1,6.0,168,6.2,2,6.3%,2,6.3%,2,10,5,1,8,22.9%,1,2.0,202412290tam
+Jared Goff,DET,23,32,336,15,45.5,180,5.6,131,5.7,4.1,205,8.9,1,3.1%,7,21.9%,1,8,1,2,4,12.1%,0,,202412220chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220chi
+Caleb Williams,CHI,26,40,334,15,35.7,365,9.1,167,6.4,4.2,167,6.4,0,0.0%,6,16.2%,2,19,3,3,8,17.4%,4,8.5,202412220chi
+Caleb Williams,CHI,20,39,256,11,25.0,524,13.4,155,7.8,4.0,101,5.1,2,5.6%,9,25.0%,5,8,0,4,9,18.8%,4,9.8,202411280det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411280det
+Jared Goff,DET,21,34,221,12,34.3,203,6.0,82,3.9,2.4,139,6.6,0,0.0%,5,16.1%,1,11,1,2,4,11.4%,0,,202411280det
+Spencer Rattler,NOR,12,24,156,5,18.5,135,5.6,70,5.8,2.9,86,7.2,2,10.0%,3,15.0%,3,9,1,0,4,14.8%,0,,202410270sdg
+Jake Haener,NOR,9,17,122,4,21.1,171,10.1,92,10.2,5.4,30,3.3,2,11.8%,4,23.5%,2,4,0,2,4,19.0%,2,5.0,202410270sdg
+Taysom Hill,NOR,1,1,3,,,-5,-5.0,-5,-5.0,-5.0,8,8.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202410270sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270sdg
+Justin Herbert,LAC,20,32,279,12,34.3,245,7.7,156,7.8,4.9,123,6.2,3,10.0%,3,10.0%,3,11,1,3,7,18.4%,3,16.7,202410270sdg
+Dak Prescott,DAL,25,38,243,13,32.5,337,8.9,146,5.8,3.8,97,3.9,1,2.7%,7,18.9%,2,4,2,6,10,25.0%,0,,202410270sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270sfo
+Brock Purdy,SFO,18,26,260,9,32.1,184,7.1,114,6.3,4.4,146,8.1,2,8.0%,4,16.0%,2,11,2,1,5,15.2%,5,10.2,202410270sfo
+Bryce Young,CAR,24,37,224,11,28.2,302,8.2,116,4.8,3.1,108,4.5,1,2.9%,7,20.6%,2,11,5,4,11,26.8%,2,4.0,202410270den
+Johnny Hekker,CAR,0,1,0,,,11,11.0,0,,0.0,0,,0,0.0%,1,100.0%,0,1,0,0,0,0.0%,0,,202410270den
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270den
+Bo Nix,DEN,28,37,284,15,38.5,396,10.7,178,6.4,4.8,106,3.8,1,2.8%,5,13.9%,2,11,3,0,5,12.5%,1,3.0,202410270den
+Riley Dixon,DEN,1,1,3,,,-5,-5.0,-5,-5.0,-5.0,8,8.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202410270den
+Courtland Sutton,DEN,1,1,28,1,100.0,17,17.0,17,17.0,17.0,11,11.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202410270den
+Kirk Cousins,ATL,23,29,276,11,35.5,198,6.8,109,4.7,3.8,167,7.3,2,7.1%,2,7.1%,2,6,3,2,7,21.9%,1,13.0,202410270tam
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410270tam
+Baker Mayfield,TAM,37,50,330,16,32.0,363,7.3,139,3.8,2.8,191,5.2,0,0.0%,7,15.2%,0,9,2,0,2,3.9%,1,10.0,202410270tam
+Anthony Richardson,IND,17,34,204,10,28.6,415,12.2,130,7.6,3.8,74,4.4,1,3.1%,8,25.0%,1,4,4,2,7,18.9%,2,16.0,202409150gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150gnb
+Malik Willis,GNB,12,14,122,6,42.9,81,5.8,64,5.3,4.6,58,4.8,0,0.0%,1,7.1%,0,6,1,0,1,6.3%,2,11.0,202409150gnb
+Trevor Lawrence,JAX,23,35,234,14,36.8,300,8.6,113,4.9,3.2,121,5.3,3,8.8%,3,8.8%,3,9,0,3,6,14.6%,3,6.0,202410130chi
+Mac Jones,JAX,1,1,6,,,6,6.0,6,6.0,6.0,0,0.0,0,0.0%,0,0.0%,1,0,0,0,1,50.0%,0,,202410130chi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130chi
+Caleb Williams,CHI,23,29,226,14,43.8,107,3.7,78,3.4,2.7,148,6.4,0,0.0%,2,7.7%,3,5,1,1,5,14.7%,2,21.0,202410130chi
+Mac Jones,JAX,17,29,138,7,23.3,354,12.2,66,3.9,2.3,72,4.2,0,0.0%,9,32.1%,1,15,2,1,4,12.9%,1,5.0,202411170det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411170det
+Jared Goff,DET,24,29,412,20,69.0,211,7.3,185,7.7,6.4,227,9.5,1,3.7%,1,3.7%,0,2,2,2,4,12.5%,3,6.0,202411170det
+Hendon Hooker,DET,3,4,37,2,50.0,33,8.3,27,9.0,6.8,10,3.3,1,25.0%,0,0.0%,0,0,0,0,0,0.0%,1,2.0,202411170det
+Bo Nix,DEN,25,42,273,13,30.2,298,7.1,153,6.1,3.6,120,4.8,3,7.7%,4,10.3%,1,17,5,1,7,15.9%,1,5.0,202411240rai
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240rai
+Gardner Minshew II,LVR,25,42,230,11,24.4,215,5.1,137,5.5,3.3,93,3.7,0,0.0%,5,13.9%,3,9,6,3,12,26.1%,1,5.0,202411240rai
+Desmond Ridder,LVR,5,10,64,3,25.0,64,6.4,32,6.4,3.2,32,6.4,0,0.0%,3,33.3%,2,4,1,1,4,30.8%,1,3.0,202411240rai
+AJ Cole III,LVR,1,1,34,1,100.0,4,4.0,4,4.0,4.0,30,30.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202411240rai
+Aaron Rodgers,NYJ,22,35,151,10,26.3,215,6.1,68,3.1,1.9,83,3.8,1,3.0%,5,15.2%,3,8,4,2,9,23.7%,0,,202411100crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100crd
+Kyler Murray,ARI,22,24,266,15,60.0,111,4.6,86,3.9,3.6,180,8.2,1,4.2%,1,4.2%,1,5,0,2,3,12.0%,0,,202411100crd
+Jared Goff,DET,15,30,240,11,36.7,286,9.5,111,7.4,3.7,129,8.6,1,4.0%,2,8.0%,0,4,4,5,9,29.0%,1,2.0,202411100htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100htx
+C.J. Stroud,HOU,19,33,232,12,32.4,254,7.7,115,6.1,3.5,117,6.2,2,6.3%,5,15.6%,4,16,6,3,13,34.2%,1,5.0,202411100htx
+Deshaun Watson,CLE,15,28,125,6,17.1,209,7.5,63,4.2,2.3,62,4.1,2,7.4%,6,22.2%,7,12,1,3,11,28.9%,3,4.7,202410060was
+Jameis Winston,CLE,1,1,16,1,100.0,-2,-2.0,-2,-2.0,-2.0,18,18.0,0,0.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202410060was
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410060was
+Jayden Daniels,WAS,14,25,238,8,28.6,301,12.0,148,10.6,5.9,90,6.4,2,8.0%,5,20.0%,3,15,0,0,3,8.8%,6,13.3,202410060was
+Marcus Mariota,WAS,1,3,-2,,,8,2.7,-2,-2.0,-0.7,0,0.0,0,0.0%,0,0.0%,0,1,1,0,1,33.3%,0,,202410060was
+Marcus Mariota,WAS,15,18,161,10,50.0,159,8.8,104,6.9,5.8,57,3.8,0,0.0%,1,5.9%,2,8,3,1,6,27.3%,2,4.0,202501050dal
+Jayden Daniels,WAS,6,12,38,1,6.3,113,9.4,4,0.7,0.3,34,5.7,1,8.3%,3,25.0%,4,3,6,0,10,58.8%,1,16.0,202501050dal
+Dyami Brown,WAS,0,1,0,0,0.0,36,36.0,0,,0.0,0,,1,100.0%,0,0.0%,0,1,0,0,0,0.0%,0,,202501050dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050dal
+Trey Lance,DAL,20,34,244,12,33.3,215,6.3,103,5.2,3.0,141,7.1,1,3.0%,5,15.2%,2,13,6,0,8,21.6%,1,8.0,202501050dal
+C.J. Stroud,HOU,23,39,244,14,34.1,405,10.4,145,6.3,3.7,99,4.3,2,5.4%,7,18.9%,2,14,3,10,15,34.9%,2,11.5,202412210kan
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412210kan
+Patrick Mahomes,KAN,28,41,260,14,33.3,232,5.7,75,2.7,1.8,185,6.6,2,4.9%,8,19.5%,1,13,0,3,4,8.9%,3,11.7,202412210kan
+Derek Carr,NOR,18,31,236,12,37.5,199,6.4,77,4.3,2.5,159,8.8,1,3.7%,6,22.2%,1,9,2,3,6,18.8%,0,,202411030car
+Taysom Hill,NOR,0,1,0,0,0.0,0,0.0,0,,0.0,0,,0,0.0%,1,100.0%,0,0,0,1,1,100.0%,0,,202411030car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030car
+Bryce Young,CAR,16,26,171,8,29.6,211,8.1,65,4.1,2.5,106,6.6,1,4.2%,5,20.8%,1,7,2,2,5,17.2%,2,6.0,202411030car
+Patrick Mahomes,KAN,26,39,217,13,33.3,206,5.3,77,3.0,2.0,140,5.4,2,5.6%,6,16.7%,0,7,1,7,8,19.0%,3,10.0,202409220atl
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409220atl
+Kirk Cousins,ATL,20,29,230,11,35.5,163,5.6,86,4.3,3.0,144,7.2,0,0.0%,4,14.8%,2,12,3,8,13,41.9%,0,,202409220atl
+Drake Maye,NWE,29,41,206,10,22.2,301,7.3,72,2.5,1.8,134,4.6,1,2.6%,3,7.7%,4,9,5,4,13,25.0%,7,13.6,202411030oti
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030oti
+Mason Rudolph,TEN,20,33,240,13,38.2,309,9.4,159,8.0,4.8,81,4.1,2,7.4%,3,11.1%,1,7,5,3,9,25.0%,2,8.0,202411030oti
+Kyler Murray,ARI,24,37,285,15,35.7,285,7.7,141,5.9,3.8,144,6.0,0,0.0%,5,14.7%,5,7,2,1,8,18.6%,1,6.0,202411240sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240sea
+Geno Smith,SEA,22,31,254,12,33.3,187,6.0,84,3.8,2.7,170,7.7,0,0.0%,2,7.1%,5,8,0,2,7,18.9%,1,4.0,202411240sea
+Brock Purdy,SFO,18,28,255,10,35.7,208,7.4,128,7.1,4.6,127,7.1,2,7.4%,3,11.1%,0,4,0,4,4,12.9%,3,6.7,202410100sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410100sea
+Geno Smith,SEA,30,52,312,18,34.0,452,8.7,139,4.6,2.7,173,5.8,4,8.2%,7,14.3%,1,4,2,4,7,13.2%,0,,202410100sea
+Joe Burrow,CIN,33,44,369,18,39.1,280,6.4,162,4.9,3.7,207,6.3,2,4.7%,3,7.0%,2,18,3,6,11,23.9%,0,,202412090dal
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412090dal
+Cooper Rush,DAL,16,31,183,9,26.5,233,7.5,97,6.1,3.1,86,5.4,2,6.5%,9,29.0%,3,9,4,4,11,31.4%,1,3.0,202412090dal
+Bryce Young,CAR,19,34,191,11,31.4,372,10.9,139,7.3,4.1,52,2.7,1,3.0%,9,27.3%,1,10,0,7,8,19.5%,6,5.0,202412080phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080phi
+Jalen Hurts,PHI,14,21,108,7,28.0,130,6.2,65,4.6,3.1,43,3.1,0,0.0%,2,10.5%,4,12,0,0,4,14.3%,3,17.3,202412080phi
+Drake Maye,NWE,22,36,261,13,34.2,216,6.0,127,5.8,3.5,134,6.1,1,3.1%,9,28.1%,2,16,6,4,12,30.0%,2,7.0,202412220buf
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220buf
+Josh Allen,BUF,16,29,154,11,36.7,323,11.1,69,4.3,2.4,85,5.3,1,3.7%,5,18.5%,1,9,4,1,6,17.6%,4,6.5,202412220buf
+Jalen Hurts,PHI,15,22,179,10,43.5,142,6.5,71,4.7,3.2,108,7.2,0,0.0%,2,10.5%,1,6,4,1,6,23.1%,3,7.3,202411240ram
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240ram
+Matthew Stafford,LAR,24,36,243,13,31.7,233,6.5,136,5.7,3.8,107,4.5,0,0.0%,3,8.8%,5,7,0,6,11,26.2%,1,15.0,202411240ram
+Jalen Hurts,PHI,10,14,114,6,33.3,100,7.1,76,7.6,5.4,38,3.8,0,0.0%,2,15.4%,4,4,1,1,6,28.6%,3,7.0,202410200nyg
+Kenny Pickett,PHI,0,1,0,,,5,5.0,0,,0.0,0,,0,0.0%,1,100.0%,1,0,0,1,2,100.0%,0,,202410200nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410200nyg
+Daniel Jones,NYG,14,21,99,6,21.4,128,6.1,48,3.4,2.3,51,3.6,0,0.0%,3,15.8%,7,0,0,3,10,33.3%,2,5.5,202410200nyg
+Drew Lock,NYG,3,8,6,0,0.0,71,8.9,-3,-1.0,-0.4,9,3.0,1,12.5%,2,25.0%,1,0,0,0,1,10.0%,1,13.0,202410200nyg
+Tua Tagovailoa,MIA,37,46,365,20,39.2,312,6.8,219,5.9,4.8,146,3.9,1,2.2%,5,10.9%,5,4,3,1,9,17.3%,1,9.0,202411280gnb
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411280gnb
+Jordan Love,GNB,21,28,274,11,39.3,201,7.2,100,4.8,3.6,174,8.3,2,7.1%,2,7.1%,0,11,2,3,5,17.9%,0,,202411280gnb
+Drew Lock,NYG,22,29,138,4,13.8,106,3.7,37,1.7,1.3,101,4.6,0,0.0%,4,13.8%,0,4,1,2,3,10.3%,0,,202501050phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202501050phi
+Tanner McKee,PHI,27,41,269,15,34.9,244,6.0,153,5.7,3.7,116,4.3,0,0.0%,9,22.0%,2,15,0,5,7,16.3%,0,,202501050phi
+Drake Maye,NWE,19,23,202,10,40.0,173,7.5,68,3.6,3.0,134,7.1,1,4.3%,3,13.0%,2,8,0,0,2,7.1%,3,4.7,202412150crd
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150crd
+Kyler Murray,ARI,23,30,224,9,30.0,170,5.7,70,3.0,2.3,154,6.7,1,3.4%,2,6.9%,0,5,0,0,0,0.0%,4,2.8,202412150crd
+Clayton Tune,ARI,2,2,8,,,4,2.0,4,2.0,2.0,4,2.0,0,0.0%,0,0.0%,0,2,0,0,0,0.0%,0,,202412150crd
+Josh Allen,BUF,13,19,139,5,26.3,139,7.3,53,4.1,2.8,86,6.6,0,0.0%,3,15.8%,0,4,2,0,2,10.0%,1,3.0,202409120mia
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409120mia
+Tua Tagovailoa,MIA,17,25,145,8,30.8,181,7.2,31,1.8,1.2,114,6.7,0,0.0%,7,28.0%,1,0,0,1,2,7.1%,2,8.5,202409120mia
+Skylar Thompson,MIA,8,14,80,4,26.7,128,9.1,41,5.1,2.9,39,4.9,1,7.1%,4,28.6%,1,1,0,2,3,18.8%,1,4.0,202409120mia
+Baker Mayfield,TAM,24,36,325,15,40.5,218,6.1,71,3.0,2.0,254,10.6,1,2.8%,5,13.9%,1,7,2,1,4,10.0%,3,9.7,202410130nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202410130nor
+Spencer Rattler,NOR,22,40,243,13,28.9,326,8.2,134,6.1,3.4,109,5.0,2,5.3%,9,23.7%,5,11,1,4,10,20.8%,3,9.0,202410130nor
+Baker Mayfield,TAM,12,19,185,9,37.5,152,8.0,95,7.9,5.0,90,7.5,1,5.3%,3,15.8%,5,11,3,0,8,28.6%,4,8.8,202409150det
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409150det
+Jared Goff,DET,34,55,307,15,27.3,368,6.7,168,4.9,3.1,139,4.1,0,0.0%,11,21.2%,0,12,3,10,13,22.8%,2,2.5,202409150det
+Jack Fox,DET,1,1,17,1,100.0,15,15.0,15,15.0,15.0,2,2.0,0,0.0%,0,0.0%,0,0,0,0,0,0.0%,0,,202409150det
+Tua Tagovailoa,MIA,29,40,196,11,25.6,184,4.6,56,1.9,1.4,140,4.8,0,0.0%,6,15.0%,3,7,2,2,7,16.3%,0,,202412150htx
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150htx
+C.J. Stroud,HOU,18,26,131,8,26.7,194,7.5,85,4.7,3.3,46,2.6,0,0.0%,6,24.0%,4,6,4,2,10,31.3%,2,3.0,202412150htx
+Joe Burrow,CIN,34,56,428,21,35.6,488,8.7,237,7.0,4.2,191,5.6,5,9.1%,9,16.4%,3,5,1,10,14,23.3%,1,6.0,202411070rav
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411070rav
+Lamar Jackson,BAL,25,33,290,14,42.4,239,7.2,108,4.3,3.3,182,7.3,2,6.1%,2,6.1%,0,3,1,1,2,5.4%,4,6.0,202411070rav
+C.J. Stroud,HOU,24,32,234,13,36.1,252,7.9,155,6.5,4.8,79,3.3,1,3.2%,5,16.1%,4,9,5,4,13,34.2%,2,7.5,202409080clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409080clt
+Anthony Richardson,IND,9,19,212,4,19.0,312,16.4,161,17.9,8.5,51,5.7,0,0.0%,5,26.3%,2,2,2,0,4,16.7%,3,10.7,202409080clt
+Patrick Mahomes,KAN,27,37,269,15,35.7,230,6.2,137,5.1,3.7,132,4.9,3,8.3%,3,8.3%,5,12,2,2,9,19.1%,5,12.0,202411240car
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240car
+Bryce Young,CAR,21,35,263,13,35.1,290,8.3,162,7.7,4.6,101,4.8,3,9.1%,7,21.2%,2,15,3,4,9,22.5%,3,6.7,202411240car
+Lamar Jackson,BAL,16,22,177,6,26.1,231,10.5,114,7.1,5.2,63,3.9,0,0.0%,3,14.3%,1,9,4,1,6,26.1%,0,,202411250sdg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411250sdg
+Justin Herbert,LAC,21,36,218,9,22.5,367,10.2,138,6.6,3.8,80,3.8,3,8.3%,7,19.4%,4,12,1,3,8,18.2%,4,7.3,202411250sdg
+Matthew Stafford,LAR,25,44,298,13,29.5,438,10.0,190,7.6,4.3,108,4.3,1,2.4%,9,21.4%,0,8,2,7,9,20.5%,0,,202411030sea
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030sea
+Geno Smith,SEA,21,34,363,14,34.1,355,10.4,220,10.5,6.5,143,6.8,2,5.9%,6,17.6%,7,6,0,4,11,25.6%,2,7.0,202411030sea
+Kirk Cousins,ATL,20,29,241,11,36.7,235,8.1,140,7.0,4.8,101,5.1,1,3.4%,4,13.8%,1,6,3,1,5,16.1%,1,1.0,202409160phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409160phi
+Jalen Hurts,PHI,23,30,183,12,38.7,185,6.2,126,5.5,4.2,57,2.5,1,3.4%,1,3.4%,1,9,3,4,8,22.9%,4,12.5,202409160phi
+Jordan Love,GNB,17,34,260,9,25.7,312,9.2,122,7.2,3.6,138,8.1,4,12.9%,6,19.4%,1,10,2,3,6,17.1%,0,,202409060phi
+Malik Willis,GNB,0,1,0,,,2,2.0,0,,0.0,0,,0,0.0%,1,100.0%,1,0,1,0,2,100.0%,0,,202409060phi
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409060phi
+Jalen Hurts,PHI,20,34,278,14,38.9,242,7.1,108,5.4,3.2,170,8.5,0,0.0%,5,17.2%,2,7,4,3,9,23.1%,3,7.3,202409060phi
+Justin Herbert,LAC,18,27,282,10,30.3,270,10.0,153,8.5,5.7,129,7.2,0,0.0%,4,15.4%,6,6,4,5,15,44.1%,1,4.0,202411030cle
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411030cle
+Jameis Winston,CLE,26,46,235,14,26.9,410,8.9,189,7.3,4.1,46,1.8,4,8.7%,10,21.7%,6,2,2,2,10,17.9%,4,6.3,202411030cle
+Derek Carr,NOR,20,31,219,10,31.3,316,10.2,124,6.2,4.0,95,4.8,2,6.5%,8,25.8%,1,12,6,2,9,27.3%,1,3.0,202412080nyg
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412080nyg
+Drew Lock,NYG,21,49,227,12,23.5,399,8.1,147,7.0,3.0,80,3.8,3,6.4%,11,23.4%,2,7,9,11,22,39.3%,5,11.8,202412080nyg
+Matthew Stafford,LAR,14,19,110,7,36.8,69,3.6,26,1.9,1.4,84,6.0,1,5.3%,2,10.5%,0,5,0,1,1,5.3%,0,,202412220nyj
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412220nyj
+Aaron Rodgers,NYJ,28,42,256,14,32.6,221,5.3,97,3.5,2.3,159,5.7,4,9.5%,6,14.3%,1,1,0,0,1,2.3%,1,6.0,202412220nyj
+Aaron Rodgers,NYJ,13,21,167,8,36.4,153,7.3,74,5.7,3.5,93,7.2,2,9.5%,4,19.0%,1,2,1,2,4,18.2%,0,,202409090sfo
+Tyrod Taylor,NYJ,6,8,36,3,37.5,31,3.9,12,2.0,1.5,24,4.0,0,0.0%,1,12.5%,0,1,1,1,2,22.2%,1,7.0,202409090sfo
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202409090sfo
+Brock Purdy,SFO,19,29,231,12,38.7,264,9.1,166,8.7,5.7,65,3.4,1,3.4%,5,17.2%,2,7,3,1,6,18.8%,1,11.0,202409090sfo
+Kirk Cousins,ATL,23,38,306,12,29.3,429,11.3,242,10.5,6.4,64,2.8,0,0.0%,5,13.5%,3,4,2,4,9,22.0%,0,,202411100nor
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411100nor
+Derek Carr,NOR,16,25,269,8,32.0,195,7.8,104,6.5,4.2,165,10.3,1,4.8%,3,14.3%,0,9,6,1,7,25.9%,2,9.0,202411100nor
+Jared Goff,DET,26,36,269,15,38.5,205,5.7,94,3.6,2.6,175,6.7,0,0.0%,6,18.2%,3,3,9,6,18,45.0%,1,1.0,202411240clt
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202411240clt
+Anthony Richardson,IND,11,28,172,7,25.0,373,13.3,97,8.8,3.5,75,6.8,1,4.0%,11,44.0%,0,12,4,6,10,33.3%,2,2.5,202411240clt
+Aaron Rodgers,NYJ,16,30,289,10,32.3,394,13.1,128,8.0,4.3,161,10.1,2,7.1%,4,14.3%,1,2,3,2,6,16.7%,5,9.0,202412150jax
+Player,Tm,Cmp,Att,Yds,1D,1D%,IAY,IAY/PA,CAY,CAY/Cmp,CAY/PA,YAC,YAC/Cmp,Drops,Drop%,BadTh,Bad%,Sk,Bltz,Hrry,Hits,Prss,Prss%,Scrm,Yds/Scr,202412150jax
+Mac Jones,JAX,31,46,294,13,27.1,266,5.8,97,3.1,2.1,197,6.4,1,2.3%,9,20.9%,2,15,4,1,7,13.7%,3,9.0,202412150jax

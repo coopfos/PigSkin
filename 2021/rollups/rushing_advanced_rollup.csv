@@ -1,0 +1,2547 @@
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,source_file
+Duke Johnson,MIA,7,49,0,3,24,3.4,25,3.6,0,,202201020oti
+Myles Gaskin,MIA,5,23,0,,10,2.0,13,2.6,0,,202201020oti
+Phillip Lindsay,MIA,2,1,0,,0,0.0,1,0.5,0,,202201020oti
+Tua Tagovailoa,MIA,2,1,0,0,0,0.0,1,0.5,0,,202201020oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020oti
+D'Onta Foreman,TEN,26,132,1,3,77,3.0,55,2.1,2,13.0,202201020oti
+Dontrell Hilliard,TEN,8,45,1,2,39,4.9,6,0.8,1,8.0,202201020oti
+Ryan Tannehill,TEN,4,7,0,2,5,1.3,2,0.5,0,,202201020oti
+Jeremy McNichols,TEN,2,14,0,,11,5.5,3,1.5,0,,202201020oti
+Josh Jacobs,LVR,13,40,0,1,20,1.5,20,1.5,1,13.0,202110040sdg
+Derek Carr,LVR,3,6,0,1,5,1.7,1,0.3,0,,202110040sdg
+Peyton Barber,LVR,1,0,0,,0,0.0,0,0.0,0,,202110040sdg
+Kenyan Drake,LVR,1,2,0,,0,0.0,2,2.0,0,,202110040sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110040sdg
+Austin Ekeler,LAC,15,117,1,7,70,4.7,47,3.1,3,5.0,202110040sdg
+Larry Rountree,LAC,11,31,0,3,14,1.3,17,1.5,0,,202110040sdg
+Justin Herbert,LAC,3,4,0,0,4,1.3,0,0.0,0,,202110040sdg
+Justin Jackson,LAC,3,-4,0,0,-4,-1.3,0,0.0,0,,202110040sdg
+Jalen Guyton,LAC,2,20,0,1,3,1.5,17,8.5,0,,202110040sdg
+Michael Carter,NYJ,9,19,0,1,9,1.0,10,1.1,1,9.0,202201090buf
+Tevin Coleman,NYJ,5,6,0,,3,0.6,3,0.6,0,,202201090buf
+Zach Wilson,NYJ,2,24,0,0,22,11.0,2,1.0,0,,202201090buf
+Ty Johnson,NYJ,1,-1,0,,-1,-1.0,0,0.0,0,,202201090buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090buf
+Devin Singletary,BUF,19,88,1,4,61,3.2,27,1.4,0,,202201090buf
+Josh Allen,BUF,5,63,0,3,50,10.0,13,2.6,0,,202201090buf
+Zack Moss,BUF,5,8,0,,1,0.2,7,1.4,0,,202201090buf
+Mitchell Trubisky,BUF,3,-3,0,0,-3,-1.0,0,0.0,0,,202201090buf
+Isaiah McKenzie,BUF,1,10,0,0,9,9.0,1,1.0,0,,202201090buf
+Dawson Knox,BUF,0,4,0,0,4,,0,,0,,202201090buf
+Dare Ogunbowale,JAX,17,57,1,4,31,1.8,26,1.5,0,,202112260nyj
+Trevor Lawrence,JAX,6,37,0,2,35,5.8,2,0.3,0,,202112260nyj
+Tavon Austin,JAX,3,21,0,1,20,6.7,1,0.3,0,,202112260nyj
+James Robinson,JAX,3,10,0,,6,2.0,4,1.3,0,,202112260nyj
+Nathan Cottrell,JAX,1,3,0,,0,0.0,3,3.0,1,1.0,202112260nyj
+Andrew Wingard,JAX,1,4,0,1,3,3.0,1,1.0,0,,202112260nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260nyj
+Michael Carter,NYJ,16,118,0,5,83,5.2,35,2.2,2,8.0,202112260nyj
+Tevin Coleman,NYJ,14,57,0,3,25,1.8,32,2.3,4,3.5,202112260nyj
+Zach Wilson,NYJ,4,91,1,3,37,9.3,54,13.5,1,4.0,202112260nyj
+Braxton Berrios,NYJ,1,3,0,0,2,2.0,1,1.0,0,,202112260nyj
+Braden Mann,NYJ,1,4,0,,2,2.0,2,2.0,0,,202112260nyj
+Josh Jacobs,LVR,9,24,0,0,20,2.2,4,0.4,0,,202112120kan
+Peyton Barber,LVR,1,7,0,0,6,6.0,1,1.0,0,,202112120kan
+Dallin Leavitt,LVR,1,4,0,1,4,4.0,0,0.0,0,,202112120kan
+Trey Ragas,LVR,1,9,0,1,7,7.0,2,2.0,0,,202112120kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120kan
+Clyde Edwards-Helaire,KAN,10,37,2,2,23,2.3,14,1.4,2,5.0,202112120kan
+Derrick Gore,KAN,9,66,1,2,13,1.4,53,5.9,2,4.5,202112120kan
+Patrick Mahomes,KAN,4,20,0,1,20,5.0,0,0.0,0,,202112120kan
+Chad Henne,KAN,3,-2,0,,-2,-0.7,0,0.0,0,,202112120kan
+Darrel Williams,KAN,2,8,0,0,8,4.0,0,0.0,0,,202112120kan
+Michael Burton,KAN,1,3,0,1,0,0.0,3,3.0,0,,202112120kan
+Mecole Hardman,KAN,1,0,0,0,0,0.0,0,0.0,0,,202112120kan
+Leonard Fournette,TAM,8,26,0,1,17,2.1,9,1.1,0,,202110310nor
+Ronald Jones II,TAM,3,13,0,,7,2.3,6,2.0,0,,202110310nor
+Giovani Bernard,TAM,2,30,0,1,23,11.5,7,3.5,0,,202110310nor
+Tom Brady,TAM,1,2,0,1,1,1.0,1,1.0,0,,202110310nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310nor
+Alvin Kamara,NOR,19,61,1,3,41,2.2,20,1.1,2,9.5,202110310nor
+Mark Ingram,NOR,6,27,0,1,9,1.5,18,3.0,1,6.0,202110310nor
+Jameis Winston,NOR,4,40,0,3,36,9.0,4,1.0,2,2.0,202110310nor
+Trevor Siemian,NOR,2,2,0,0,2,1.0,0,0.0,0,,202110310nor
+Deonte Harty,NOR,1,22,0,1,20,20.0,2,2.0,0,,202110310nor
+D'Onta Foreman,TEN,22,108,0,8,47,2.1,61,2.8,2,11.0,202112190pit
+Dontrell Hilliard,TEN,9,49,0,2,34,3.8,15,1.7,0,,202112190pit
+Jeremy McNichols,TEN,6,26,0,0,10,1.7,16,2.7,0,,202112190pit
+Ryan Tannehill,TEN,5,18,1,4,13,2.6,5,1.0,1,5.0,202112190pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190pit
+Najee Harris,PIT,12,18,0,,1,0.1,17,1.4,0,,202112190pit
+Ben Roethlisberger,PIT,3,0,1,1,0,0.0,0,0.0,0,,202112190pit
+Chase Claypool,PIT,1,7,0,,5,5.0,2,2.0,0,,202112190pit
+Diontae Johnson,PIT,1,10,0,1,3,3.0,7,7.0,0,,202112190pit
+Najee Harris,PIT,12,39,1,5,30,2.5,9,0.8,0,,202111210sdg
+Chase Claypool,PIT,2,1,0,0,0,0.0,1,0.5,0,,202111210sdg
+Benny Snell Jr.,PIT,2,7,0,,7,3.5,0,0.0,0,,202111210sdg
+Kalen Ballage,PIT,1,3,0,,3,3.0,0,0.0,0,,202111210sdg
+Ray-Ray McCloud,PIT,1,5,0,0,0,0.0,5,5.0,1,1.0,202111210sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210sdg
+Austin Ekeler,LAC,11,50,2,5,43,3.9,7,0.6,0,,202111210sdg
+Justin Herbert,LAC,9,90,0,4,85,9.4,5,0.6,1,9.0,202111210sdg
+Larry Rountree,LAC,2,5,0,,3,1.5,2,1.0,0,,202111210sdg
+Jalen Guyton,LAC,1,2,0,0,2,2.0,0,0.0,0,,202111210sdg
+Justin Jackson,LAC,1,2,0,,2,2.0,0,0.0,0,,202111210sdg
+Josh Palmer,LAC,1,6,0,,6,6.0,0,0.0,0,,202111210sdg
+Andre Roberts,LAC,1,4,0,,4,4.0,0,0.0,0,,202111210sdg
+Myles Gaskin,MIA,12,36,0,2,20,1.7,16,1.3,0,,202110310buf
+Salvon Ahmed,MIA,7,22,0,1,5,0.7,17,2.4,1,7.0,202110310buf
+Tua Tagovailoa,MIA,4,10,1,1,7,1.8,3,0.8,0,,202110310buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310buf
+Josh Allen,BUF,8,55,1,4,36,4.5,19,2.4,2,4.0,202110310buf
+Zack Moss,BUF,8,19,0,0,8,1.0,11,1.4,0,,202110310buf
+Devin Singletary,BUF,7,28,0,1,10,1.4,18,2.6,0,,202110310buf
+Alex Collins,SEA,20,101,1,5,52,2.6,49,2.5,1,20.0,202110170pit
+DeeJay Dallas,SEA,4,17,0,2,6,1.5,11,2.8,0,,202110170pit
+Travis Homer,SEA,2,27,0,1,12,6.0,15,7.5,0,,202110170pit
+Geno Smith,SEA,1,-1,0,0,-1,-1.0,0,0.0,0,,202110170pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170pit
+Najee Harris,PIT,24,81,0,3,38,1.6,43,1.8,0,,202110170pit
+Kalen Ballage,PIT,2,15,0,1,0,0.0,15,7.5,0,,202110170pit
+Ben Roethlisberger,PIT,2,-3,0,0,-3,-1.5,0,0.0,0,,202110170pit
+Eric Ebron,PIT,1,1,1,1,1,1.0,0,0.0,0,,202110170pit
+Diontae Johnson,PIT,1,25,0,1,15,15.0,10,10.0,0,,202110170pit
+Josh Jacobs,LVR,16,63,1,1,31,1.9,32,2.0,2,8.0,202201020clt
+Peyton Barber,LVR,6,3,0,1,1,0.2,2,0.3,0,,202201020clt
+Marcus Mariota,LVR,3,16,0,2,11,3.7,5,1.7,0,,202201020clt
+Zay Jones,LVR,1,-1,0,0,-1,-1.0,0,0.0,0,,202201020clt
+Jalen Richard,LVR,1,4,0,1,2,2.0,2,2.0,0,,202201020clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020clt
+Jonathan Taylor,IND,20,108,1,7,58,2.9,50,2.5,2,10.0,202201020clt
+Carson Wentz,IND,3,10,0,2,7,2.3,3,1.0,0,,202201020clt
+Nyheim Hines,IND,2,4,0,0,3,1.5,1,0.5,0,,202201020clt
+Deon Jackson,IND,1,0,0,,0,0.0,0,0.0,0,,202201020clt
+James Robinson,JAX,18,78,2,6,52,2.9,26,1.4,2,9.0,202109300cin
+Trevor Lawrence,JAX,8,36,1,4,24,3.0,12,1.5,1,8.0,202109300cin
+Dare Ogunbowale,JAX,2,3,0,,3,1.5,0,0.0,0,,202109300cin
+Jamal Agnew,JAX,1,11,0,1,11,11.0,0,0.0,0,,202109300cin
+Laviska Shenault Jr.,JAX,1,11,0,1,8,8.0,3,3.0,1,1.0,202109300cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109300cin
+Joe Mixon,CIN,16,67,1,4,54,3.4,13,0.8,2,8.0,202109300cin
+Joe Burrow,CIN,3,4,0,0,2,0.7,2,0.7,0,,202109300cin
+Samaje Perine,CIN,3,7,0,0,5,1.7,2,0.7,0,,202109300cin
+D'Andre Swift,DET,14,136,1,4,101,7.2,35,2.5,1,14.0,202111210cle
+Jamaal Williams,DET,7,11,0,1,4,0.6,7,1.0,0,,202111210cle
+Jason Cabinda,DET,2,21,0,1,12,6.0,9,4.5,0,,202111210cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210cle
+Nick Chubb,CLE,22,130,0,8,75,3.4,55,2.5,4,5.5,202111210cle
+D'Ernest Johnson,CLE,5,26,0,1,4,0.8,22,4.4,1,5.0,202111210cle
+Baker Mayfield,CLE,4,9,0,0,9,2.3,0,0.0,0,,202111210cle
+Demetric Felton,CLE,3,2,0,,1,0.3,1,0.3,0,,202111210cle
+Jarvis Landry,CLE,1,16,1,1,14,14.0,2,2.0,0,,202111210cle
+David Njoku,CLE,1,1,0,0,0,0.0,1,1.0,0,,202111210cle
+James Conner,ARI,21,96,2,5,23,1.1,73,3.5,1,21.0,202111070sfo
+Eno Benjamin,ARI,9,39,1,1,10,1.1,29,3.2,1,9.0,202111070sfo
+Colt McCoy,ARI,7,23,0,3,21,3.0,2,0.3,0,,202111070sfo
+Chase Edmonds,ARI,1,3,0,,2,2.0,1,1.0,0,,202111070sfo
+Chris Streveler,ARI,1,2,0,,0,0.0,2,2.0,0,,202111070sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070sfo
+Elijah Mitchell,SFO,8,36,0,2,13,1.6,23,2.9,2,4.0,202111070sfo
+Brandon Aiyuk,SFO,1,-2,0,0,-2,-2.0,0,0.0,0,,202111070sfo
+Jimmy Garoppolo,SFO,1,3,0,0,0,0.0,3,3.0,0,,202111070sfo
+Jamycal Hasty,SFO,1,2,0,,0,0.0,2,2.0,0,,202111070sfo
+James Conner,ARI,21,62,1,4,27,1.3,35,1.7,1,21.0,202111210sea
+Eno Benjamin,ARI,6,15,0,0,7,1.2,8,1.3,0,,202111210sea
+Colt McCoy,ARI,6,18,0,2,13,2.2,5,0.8,0,,202111210sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210sea
+Alex Collins,SEA,10,36,0,2,14,1.4,22,2.2,1,10.0,202111210sea
+DeeJay Dallas,SEA,4,25,1,2,10,2.5,15,3.8,1,4.0,202111210sea
+Rashaad Penny,SEA,2,19,0,1,15,7.5,4,2.0,0,,202111210sea
+Russell Wilson,SEA,2,2,0,1,1,0.5,1,0.5,0,,202111210sea
+Travis Homer,SEA,1,4,0,,3,3.0,1,1.0,0,,202111210sea
+Cam Newton,CAR,15,71,1,7,28,1.9,43,2.9,1,15.0,202112190buf
+Chuba Hubbard,CAR,8,40,0,1,26,3.3,14,1.8,0,,202112190buf
+Ameer Abdullah,CAR,4,7,0,0,3,0.8,4,1.0,0,,202112190buf
+Robbie Chosen,CAR,2,33,0,1,1,0.5,32,16.0,0,,202112190buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190buf
+Devin Singletary,BUF,22,86,1,4,49,2.2,37,1.7,1,22.0,202112190buf
+Josh Allen,BUF,3,24,0,1,-2,-0.7,26,8.7,1,3.0,202112190buf
+Matt Breida,BUF,1,1,0,,0,0.0,1,1.0,0,,202112190buf
+Isaiah McKenzie,BUF,1,8,0,1,2,2.0,6,6.0,0,,202112190buf
+Joe Mixon,CIN,14,33,1,2,19,1.4,14,1.0,1,14.0,202110310nyj
+Joe Burrow,CIN,1,-1,0,0,-1,-1.0,0,0.0,0,,202110310nyj
+Ja'Marr Chase,CIN,1,9,0,1,9,9.0,0,0.0,0,,202110310nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310nyj
+Michael Carter,NYJ,15,77,1,4,51,3.4,26,1.7,0,,202110310nyj
+Mike White,NYJ,5,-1,0,2,-3,-0.6,2,0.4,0,,202110310nyj
+Ty Johnson,NYJ,4,15,0,0,8,2.0,7,1.8,0,,202110310nyj
+Elijah Moore,NYJ,1,4,0,0,4,4.0,0,0.0,0,,202110310nyj
+La'Mical Perine,NYJ,1,3,0,,2,2.0,1,1.0,0,,202110310nyj
+Jeff Smith,NYJ,1,-1,0,0,-1,-1.0,0,0.0,0,,202110310nyj
+Chuba Hubbard,CAR,12,28,0,2,18,1.5,10,0.8,0,,202110240nyg
+Royce Freeman,CAR,3,18,0,,11,3.7,7,2.3,0,,202110240nyg
+Shi Smith,CAR,1,-3,0,,-3,-3.0,0,0.0,0,,202110240nyg
+P.J. Walker,CAR,1,13,0,1,13,13.0,0,0.0,0,,202110240nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240nyg
+Devontae Booker,NYG,14,51,1,3,36,2.6,15,1.1,0,,202110240nyg
+Elijhaa Penny,NYG,9,24,0,3,5,0.6,19,2.1,1,9.0,202110240nyg
+Daniel Jones,NYG,8,28,0,1,25,3.1,3,0.4,0,,202110240nyg
+Cordarrelle Patterson,ATL,16,58,1,3,30,1.9,28,1.8,0,,202112120car
+Mike Davis,ATL,11,44,0,2,22,2.0,22,2.0,0,,202112120car
+Qadree Ollison,ATL,5,23,0,2,11,2.2,12,2.4,0,,202112120car
+Matt Ryan,ATL,4,3,0,2,0,0.0,3,0.8,0,,202112120car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120car
+Chuba Hubbard,CAR,10,33,1,2,18,1.8,15,1.5,0,,202112120car
+Cam Newton,CAR,10,47,1,5,25,2.5,22,2.2,1,10.0,202112120car
+Ameer Abdullah,CAR,4,16,0,0,4,1.0,12,3.0,1,4.0,202112120car
+P.J. Walker,CAR,2,-5,0,0,-5,-2.5,0,0.0,0,,202112120car
+James Robinson,JAX,6,4,0,,0,0.0,4,0.7,0,,202112120oti
+Carlos Hyde,JAX,1,2,0,,0,0.0,2,2.0,0,,202112120oti
+Trevor Lawrence,JAX,1,2,0,0,0,0.0,2,2.0,0,,202112120oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120oti
+D'Onta Foreman,TEN,13,47,1,3,22,1.7,25,1.9,0,,202112120oti
+Jeremy McNichols,TEN,8,16,0,2,5,0.6,11,1.4,1,8.0,202112120oti
+Dontrell Hilliard,TEN,6,13,0,,8,1.3,5,0.8,0,,202112120oti
+Ryan Tannehill,TEN,4,29,1,3,28,7.0,1,0.3,0,,202112120oti
+Logan Woodside,TEN,3,-3,0,,-3,-1.0,0,0.0,0,,202112120oti
+Joe Mixon,CIN,30,123,2,5,76,2.5,47,1.6,4,7.5,202111210rai
+Joe Burrow,CIN,3,11,0,2,7,2.3,4,1.3,1,3.0,202111210rai
+Ja'Marr Chase,CIN,2,8,0,1,8,4.0,0,0.0,1,2.0,202111210rai
+Samaje Perine,CIN,2,3,0,1,2,1.0,1,0.5,0,,202111210rai
+Tyler Boyd,CIN,1,14,0,1,9,9.0,5,5.0,0,,202111210rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210rai
+Josh Jacobs,LVR,9,37,0,3,13,1.4,24,2.7,3,3.0,202111210rai
+Kenyan Drake,LVR,5,23,0,2,15,3.0,8,1.6,1,5.0,202111210rai
+Peyton Barber,LVR,1,3,0,,0,0.0,3,3.0,0,,202111210rai
+Bryan Edwards,LVR,1,0,0,,0,0.0,0,0.0,0,,202111210rai
+DeSean Jackson,LVR,1,4,0,,4,4.0,0,0.0,0,,202111210rai
+Hunter Renfrow,LVR,1,5,0,0,5,5.0,0,0.0,0,,202111210rai
+Austin Ekeler,LAC,12,31,0,1,20,1.7,11,0.9,2,6.0,202111280den
+Justin Herbert,LAC,4,36,0,2,30,7.5,6,1.5,0,,202111280den
+Joshua Kelley,LAC,1,5,0,,2,2.0,3,3.0,0,,202111280den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280den
+Melvin Gordon,DEN,17,83,0,4,43,2.5,40,2.4,1,17.0,202111280den
+Javonte Williams,DEN,14,54,1,5,33,2.4,21,1.5,2,7.0,202111280den
+Teddy Bridgewater,DEN,2,10,1,1,10,5.0,0,0.0,0,,202111280den
+Dalvin Cook,MIN,10,39,0,2,9,0.9,30,3.0,1,10.0,202111280sfo
+Alexander Mattison,MIN,7,21,1,1,6,0.9,15,2.1,1,7.0,202111280sfo
+Kene Nwangwu,MIN,1,7,0,,5,5.0,2,2.0,0,,202111280sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280sfo
+Elijah Mitchell,SFO,27,133,1,7,74,2.7,59,2.2,2,13.5,202111280sfo
+Deebo Samuel,SFO,6,66,2,3,11,1.8,55,9.2,2,3.0,202111280sfo
+Jimmy Garoppolo,SFO,3,0,0,1,-1,-0.3,1,0.3,0,,202111280sfo
+Jeff Wilson,SFO,2,5,0,,2,1.0,3,1.5,0,,202111280sfo
+Brandon Aiyuk,SFO,1,4,0,0,2,2.0,2,2.0,0,,202111280sfo
+D'Andre Swift,DET,33,130,0,5,44,1.3,86,2.6,4,8.3,202111140pit
+Jermar Jefferson,DET,3,41,1,2,31,10.3,10,3.3,0,,202111140pit
+Godwin Igwebuike,DET,2,56,1,2,17,8.5,39,19.5,1,2.0,202111140pit
+Jason Cabinda,DET,1,2,0,1,0,0.0,2,2.0,0,,202111140pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140pit
+Najee Harris,PIT,26,105,0,5,37,1.4,68,2.6,0,,202111140pit
+Mason Rudolph,PIT,4,36,0,2,8,2.0,28,7.0,0,,202111140pit
+Benny Snell Jr.,PIT,1,4,0,,1,1.0,3,3.0,0,,202111140pit
+Javonte Williams,DEN,14,45,0,1,17,1.2,28,2.0,1,14.0,202109120nyg
+Melvin Gordon,DEN,11,101,1,2,79,7.2,22,2.0,0,,202109120nyg
+Teddy Bridgewater,DEN,3,19,0,1,8,2.7,11,3.7,0,,202109120nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120nyg
+Saquon Barkley,NYG,10,26,0,1,12,1.2,14,1.4,0,,202109120nyg
+Daniel Jones,NYG,6,27,1,2,19,3.2,8,1.3,0,,202109120nyg
+Devontae Booker,NYG,4,7,0,,4,1.0,3,0.8,0,,202109120nyg
+Clyde Edwards-Helaire,KAN,13,46,0,,35,2.7,11,0.8,1,13.0,202109190rav
+Darrel Williams,KAN,3,-2,1,1,-4,-1.3,2,0.7,1,3.0,202109190rav
+Tyreek Hill,KAN,1,15,0,1,15,15.0,0,0.0,0,,202109190rav
+Patrick Mahomes,KAN,1,3,0,0,1,1.0,2,2.0,0,,202109190rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190rav
+Lamar Jackson,BAL,16,107,2,8,66,4.1,41,2.6,3,5.3,202109190rav
+Ty'Son Williams,BAL,13,77,0,3,57,4.4,20,1.5,1,13.0,202109190rav
+Latavius Murray,BAL,9,36,1,4,21,2.3,15,1.7,1,9.0,202109190rav
+Devonta Freeman,BAL,2,29,0,1,27,13.5,2,1.0,0,,202109190rav
+Patrick Ricard,BAL,1,2,0,1,1,1.0,1,1.0,0,,202109190rav
+Chuba Hubbard,CAR,13,57,0,2,32,2.5,25,1.9,1,13.0,202110030dal
+Sam Darnold,CAR,6,35,2,4,35,5.8,0,0.0,0,,202110030dal
+Royce Freeman,CAR,3,12,0,2,7,2.3,5,1.7,0,,202110030dal
+Robbie Chosen,CAR,1,3,0,0,1,1.0,2,2.0,0,,202110030dal
+D.J. Moore,CAR,1,6,0,1,6,6.0,0,0.0,0,,202110030dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030dal
+Ezekiel Elliott,DAL,20,143,1,7,71,3.6,72,3.6,1,20.0,202110030dal
+Tony Pollard,DAL,10,67,0,4,45,4.5,22,2.2,1,10.0,202110030dal
+Dak Prescott,DAL,4,35,0,1,35,8.8,0,0.0,0,,202110030dal
+Zack Moss,BUF,7,27,1,3,4,0.6,23,3.3,2,3.5,202111140nyj
+Devin Singletary,BUF,7,43,1,3,23,3.3,20,2.9,1,7.0,202111140nyj
+Matt Breida,BUF,3,28,1,1,25,8.3,3,1.0,0,,202111140nyj
+Josh Allen,BUF,2,3,0,0,1,0.5,2,1.0,0,,202111140nyj
+Isaiah McKenzie,BUF,2,17,1,2,14,7.0,3,1.5,0,,202111140nyj
+Davis Webb,BUF,2,-3,0,,-3,-1.5,0,0.0,0,,202111140nyj
+Emmanuel Sanders,BUF,1,24,0,1,24,24.0,0,0.0,0,,202111140nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140nyj
+Michael Carter,NYJ,16,39,1,2,21,1.3,18,1.1,1,16.0,202111140nyj
+Tevin Coleman,NYJ,4,29,0,2,17,4.3,12,3.0,0,,202111140nyj
+Ty Johnson,NYJ,2,2,0,0,1,0.5,1,0.5,0,,202111140nyj
+Nick Chubb,CLE,21,100,0,5,38,1.8,62,3.0,1,21.0,202110030min
+Kareem Hunt,CLE,14,69,1,4,29,2.1,40,2.9,1,14.0,202110030min
+Baker Mayfield,CLE,2,11,0,1,4,2.0,7,3.5,1,2.0,202110030min
+Odell Beckham Jr.,CLE,1,4,0,0,2,2.0,2,2.0,0,,202110030min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030min
+Alexander Mattison,MIN,10,20,0,,5,0.5,15,1.5,1,10.0,202110030min
+Dalvin Cook,MIN,9,34,0,2,25,2.8,9,1.0,0,,202110030min
+Kirk Cousins,MIN,2,0,0,0,0,0.0,0,0.0,0,,202110030min
+C.J. Ham,MIN,1,1,0,1,0,0.0,1,1.0,0,,202110030min
+K.J. Osborn,MIN,1,10,0,1,8,8.0,2,2.0,0,,202110030min
+D'Onta Foreman,TEN,21,69,0,2,31,1.5,38,1.8,2,10.5,202201090htx
+Dontrell Hilliard,TEN,9,57,0,4,39,4.3,18,2.0,0,,202201090htx
+Ryan Tannehill,TEN,2,-2,0,0,-2,-1.0,0,0.0,0,,202201090htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090htx
+Rex Burkhead,HOU,12,24,0,5,6,0.5,18,1.5,0,,202201090htx
+David Johnson,HOU,5,28,0,2,16,3.2,12,2.4,1,5.0,202201090htx
+Davis Mills,HOU,4,12,0,0,9,2.3,3,0.8,0,,202201090htx
+D'Ernest Johnson,CLE,19,99,0,4,56,2.9,43,2.3,2,9.5,202111140nwe
+Johnny Stanton,CLE,1,0,0,,0,0.0,0,0.0,0,,202111140nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140nwe
+Rhamondre Stevenson,NWE,20,100,2,7,45,2.3,55,2.8,3,6.7,202111140nwe
+J.J. Taylor,NWE,6,11,0,,5,0.8,6,1.0,0,,202111140nwe
+Brandon Bolden,NWE,3,32,0,1,25,8.3,7,2.3,0,,202111140nwe
+Kendrick Bourne,NWE,3,43,0,2,37,12.3,6,2.0,0,,202111140nwe
+Brian Hoyer,NWE,2,-2,0,0,-2,-1.0,0,0.0,0,,202111140nwe
+Damien Harris,NWE,11,37,1,4,18,1.6,19,1.7,2,5.5,202201090mia
+Brandon Bolden,NWE,7,46,1,3,5,0.7,41,5.9,0,,202201090mia
+Rhamondre Stevenson,NWE,4,34,0,1,4,1.0,30,7.5,0,,202201090mia
+Mac Jones,NWE,3,4,0,1,1,0.3,3,1.0,0,,202201090mia
+Kendrick Bourne,NWE,1,8,0,1,8,8.0,0,0.0,0,,202201090mia
+Jonnu Smith,NWE,1,5,0,1,0,0.0,5,5.0,0,,202201090mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090mia
+Duke Johnson,MIA,25,117,1,5,38,1.5,79,3.2,3,8.3,202201090mia
+Phillip Lindsay,MIA,11,40,0,2,17,1.5,23,2.1,1,11.0,202201090mia
+Tua Tagovailoa,MIA,5,38,0,5,26,5.2,12,2.4,0,,202201090mia
+Myles Gaskin,MIA,1,-1,0,0,-1,-1.0,0,0.0,0,,202201090mia
+Michael Palardy,MIA,1,1,0,,1,1.0,0,0.0,0,,202201090mia
+Damien Harris,NWE,15,30,1,1,14,0.9,16,1.1,2,7.5,202111070car
+Rhamondre Stevenson,NWE,10,62,0,3,37,3.7,25,2.5,2,5.0,202111070car
+Brandon Bolden,NWE,8,54,0,4,29,3.6,25,3.1,1,8.0,202111070car
+Brian Hoyer,NWE,3,-3,0,,-3,-1.0,0,0.0,0,,202111070car
+Mac Jones,NWE,2,4,0,2,4,2.0,0,0.0,0,,202111070car
+Jonnu Smith,NWE,1,4,0,,2,2.0,2,2.0,0,,202111070car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070car
+Christian McCaffrey,CAR,14,52,0,4,28,2.0,24,1.7,0,,202111070car
+Sam Darnold,CAR,3,9,0,0,9,3.0,0,0.0,0,,202111070car
+Chuba Hubbard,CAR,3,3,0,0,0,0.0,3,1.0,0,,202111070car
+D.J. Moore,CAR,2,14,0,1,7,3.5,7,3.5,1,2.0,202111070car
+Ameer Abdullah,CAR,1,0,0,0,0,0.0,0,0.0,0,,202111070car
+Rashaad Penny,SEA,23,190,1,7,80,3.5,110,4.8,1,23.0,202201090crd
+Russell Wilson,SEA,4,5,1,2,3,0.8,2,0.5,0,,202201090crd
+DeeJay Dallas,SEA,1,1,0,,1,1.0,0,0.0,0,,202201090crd
+Travis Homer,SEA,1,4,0,0,3,3.0,1,1.0,0,,202201090crd
+Tyler Lockett,SEA,1,2,0,0,2,2.0,0,0.0,0,,202201090crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090crd
+James Conner,ARI,15,52,1,5,33,2.2,19,1.3,0,,202201090crd
+Eno Benjamin,ARI,7,31,0,3,18,2.6,13,1.9,0,,202201090crd
+Kyler Murray,ARI,5,35,0,1,27,5.4,8,1.6,0,,202201090crd
+Andy Lee,ARI,1,0,0,,0,0.0,0,0.0,0,,202201090crd
+Salvon Ahmed,MIA,7,22,0,0,6,0.9,16,2.3,0,,202110170jax
+Malcolm Brown,MIA,5,24,0,2,13,2.6,11,2.2,0,,202110170jax
+Myles Gaskin,MIA,5,9,0,,3,0.6,6,1.2,0,,202110170jax
+Tua Tagovailoa,MIA,3,22,0,2,22,7.3,0,0.0,0,,202110170jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170jax
+James Robinson,JAX,17,73,1,3,24,1.4,49,2.9,0,,202110170jax
+Trevor Lawrence,JAX,2,11,0,1,11,5.5,0,0.0,1,2.0,202110170jax
+Aaron Jones,GNB,13,76,0,3,50,3.8,26,2.0,0,,202110170chi
+AJ Dillon,GNB,11,59,0,4,17,1.5,42,3.8,2,5.5,202110170chi
+Aaron Rodgers,GNB,7,19,1,3,19,2.7,0,0.0,0,,202110170chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170chi
+Khalil Herbert,CHI,19,97,1,7,58,3.1,39,2.1,1,19.0,202110170chi
+Justin Fields,CHI,6,43,0,3,19,3.2,24,4.0,0,,202110170chi
+Cole Kmet,CHI,1,0,0,0,0,0.0,0,0.0,0,,202110170chi
+Leonard Fournette,TAM,17,100,3,8,53,3.1,47,2.8,1,17.0,202111280clt
+Ronald Jones II,TAM,7,37,1,3,15,2.1,22,3.1,1,7.0,202111280clt
+Tom Brady,TAM,2,2,0,1,2,1.0,0,0.0,0,,202111280clt
+Chris Godwin,TAM,1,3,0,1,1,1.0,2,2.0,0,,202111280clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280clt
+Jonathan Taylor,IND,16,83,1,6,47,2.9,36,2.3,1,16.0,202111280clt
+Carson Wentz,IND,3,21,0,2,15,5.0,6,2.0,2,1.5,202111280clt
+Nyheim Hines,IND,1,3,0,0,2,2.0,1,1.0,0,,202111280clt
+Saquon Barkley,NYG,16,64,0,5,34,2.1,30,1.9,0,,202112120sdg
+Devontae Booker,NYG,8,56,0,3,28,3.5,28,3.5,0,,202112120sdg
+Mike Glennon,NYG,1,7,1,1,7,7.0,0,0.0,0,,202112120sdg
+Elijhaa Penny,NYG,1,8,0,1,5,5.0,3,3.0,0,,202112120sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120sdg
+Austin Ekeler,LAC,12,67,1,4,50,4.2,17,1.4,0,,202112120sdg
+Joshua Kelley,LAC,10,33,0,2,16,1.6,17,1.7,2,5.0,202112120sdg
+Justin Jackson,LAC,9,35,0,1,23,2.6,12,1.3,0,,202112120sdg
+Justin Herbert,LAC,4,19,0,3,17,4.3,2,0.5,0,,202112120sdg
+Chase Daniel,LAC,2,-2,0,,-2,-1.0,0,0.0,0,,202112120sdg
+Christian McCaffrey,CAR,13,95,0,6,56,4.3,39,3.0,1,13.0,202111140crd
+Ameer Abdullah,CAR,9,24,0,2,9,1.0,15,1.7,0,,202111140crd
+Chuba Hubbard,CAR,9,27,1,2,5,0.6,22,2.4,1,9.0,202111140crd
+Cam Newton,CAR,3,14,1,2,11,3.7,3,1.0,1,3.0,202111140crd
+P.J. Walker,CAR,3,6,0,1,6,2.0,0,0.0,0,,202111140crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140crd
+James Conner,ARI,10,39,1,3,19,1.9,20,2.0,1,10.0,202111140crd
+Eno Benjamin,ARI,6,22,0,,11,1.8,11,1.8,0,,202111140crd
+Chris Streveler,ARI,2,4,0,0,1,0.5,3,1.5,0,,202111140crd
+Colt McCoy,ARI,1,-1,0,0,-1,-1.0,0,0.0,0,,202111140crd
+Rondale Moore,ARI,1,1,0,,0,0.0,1,1.0,0,,202111140crd
+Josh Allen,BUF,12,109,1,6,58,4.8,51,4.3,1,12.0,202112120tam
+Devin Singletary,BUF,4,52,0,3,28,7.0,24,6.0,0,,202112120tam
+Matt Breida,BUF,3,12,0,1,0,0.0,12,4.0,0,,202112120tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120tam
+Leonard Fournette,TAM,19,113,1,5,38,2.0,75,3.9,0,,202112120tam
+Tom Brady,TAM,7,16,1,4,12,1.7,4,0.6,0,,202112120tam
+Ronald Jones II,TAM,3,8,0,1,3,1.0,5,1.7,0,,202112120tam
+Craig Reynolds,DET,11,83,0,4,27,2.5,56,5.1,2,5.5,202112120den
+Godwin Igwebuike,DET,8,25,0,2,10,1.3,15,1.9,0,,202112120den
+Jared Goff,DET,2,10,0,1,10,5.0,0,0.0,0,,202112120den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120den
+Melvin Gordon,DEN,24,111,2,9,35,1.5,76,3.2,5,4.8,202112120den
+Javonte Williams,DEN,15,73,1,5,27,1.8,46,3.1,4,3.8,202112120den
+Rex Burkhead,HOU,16,41,0,3,24,1.5,17,1.1,1,16.0,202112190jax
+David Johnson,HOU,6,24,0,0,10,1.7,14,2.3,0,,202112190jax
+Royce Freeman,HOU,3,8,0,,3,1.0,5,1.7,0,,202112190jax
+Davis Mills,HOU,1,2,0,1,1,1.0,1,1.0,0,,202112190jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190jax
+James Robinson,JAX,18,75,1,3,48,2.7,27,1.5,1,18.0,202112190jax
+Trevor Lawrence,JAX,5,21,0,2,18,3.6,3,0.6,0,,202112190jax
+Dare Ogunbowale,JAX,1,1,0,,1,1.0,0,0.0,0,,202112190jax
+Laviska Shenault Jr.,JAX,1,10,0,1,4,4.0,6,6.0,0,,202112190jax
+Ezekiel Elliott,DAL,9,32,0,0,14,1.6,18,2.0,0,,202111210kan
+Tony Pollard,DAL,7,50,0,1,33,4.7,17,2.4,0,,202111210kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210kan
+Clyde Edwards-Helaire,KAN,12,63,1,3,32,2.7,31,2.6,1,12.0,202111210kan
+Patrick Mahomes,KAN,7,11,0,2,10,1.4,1,0.1,0,,202111210kan
+Darrel Williams,KAN,5,15,0,1,10,2.0,5,1.0,0,,202111210kan
+Tyreek Hill,KAN,1,33,0,1,33,33.0,0,0.0,0,,202111210kan
+Travis Kelce,KAN,1,4,1,1,4,4.0,0,0.0,0,,202111210kan
+Michael Carter,NYJ,10,38,1,2,16,1.6,22,2.2,0,,202110100atl
+Ty Johnson,NYJ,4,12,1,3,7,1.8,5,1.3,0,,202110100atl
+Tevin Coleman,NYJ,3,11,0,1,6,2.0,5,1.7,0,,202110100atl
+Zach Wilson,NYJ,1,3,0,0,3,3.0,0,0.0,0,,202110100atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100atl
+Cordarrelle Patterson,ATL,14,54,0,1,15,1.1,39,2.8,1,14.0,202110100atl
+Mike Davis,ATL,13,53,1,4,32,2.5,21,1.6,1,13.0,202110100atl
+Wayne Gallman,ATL,1,2,0,,0,0.0,2,2.0,0,,202110100atl
+Matt Ryan,ATL,1,-1,0,0,-1,-1.0,0,0.0,0,,202110100atl
+Duke Johnson,MIA,13,39,0,1,18,1.4,21,1.6,1,13.0,202112270nor
+Phillip Lindsay,MIA,13,36,0,1,21,1.6,15,1.2,0,,202112270nor
+Myles Gaskin,MIA,3,10,0,,7,2.3,3,1.0,0,,202112270nor
+Tua Tagovailoa,MIA,1,1,0,0,1,1.0,0,0.0,0,,202112270nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112270nor
+Alvin Kamara,NOR,13,52,0,2,43,3.3,9,0.7,0,,202112270nor
+Mark Ingram,NOR,4,17,0,,10,2.5,7,1.8,1,4.0,202112270nor
+Ian Book,NOR,3,6,0,1,4,1.3,2,0.7,0,,202112270nor
+Tony Jones,NOR,2,6,0,,4,2.0,2,1.0,0,,202112270nor
+Adam Prentice,NOR,1,2,0,,1,1.0,1,1.0,0,,202112270nor
+Darrell Henderson,LAR,14,90,1,5,58,4.1,32,2.3,0,,202110310htx
+Sony Michel,LAR,9,42,0,3,32,3.6,10,1.1,0,,202110310htx
+Buddy Howell,LAR,5,11,0,,9,1.8,2,0.4,0,,202110310htx
+Robert Woods,LAR,3,22,1,1,21,7.0,1,0.3,0,,202110310htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310htx
+Scottie Phillips,HOU,5,11,0,1,8,1.6,3,0.6,0,,202110310htx
+Rex Burkhead,HOU,4,21,1,3,10,2.5,11,2.8,0,,202110310htx
+Phillip Lindsay,HOU,3,8,0,,2,0.7,6,2.0,0,,202110310htx
+David Johnson,HOU,2,4,0,,0,0.0,4,2.0,0,,202110310htx
+Clyde Edwards-Helaire,KAN,14,102,0,4,56,4.0,46,3.3,2,7.0,202110030phi
+Darrel Williams,KAN,10,42,1,4,21,2.1,21,2.1,0,,202110030phi
+Patrick Mahomes,KAN,5,26,0,2,22,4.4,4,0.8,0,,202110030phi
+Mecole Hardman,KAN,2,25,0,1,24,12.0,1,0.5,0,,202110030phi
+Michael Burton,KAN,1,5,0,1,1,1.0,4,4.0,0,,202110030phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030phi
+Jalen Hurts,PHI,8,47,0,5,23,2.9,24,3.0,3,2.7,202110030phi
+Miles Sanders,PHI,7,13,0,0,3,0.4,10,1.4,1,7.0,202110030phi
+Kenneth Gainwell,PHI,3,31,1,3,19,6.3,12,4.0,1,3.0,202110030phi
+Jalen Reagor,PHI,1,12,0,1,6,6.0,6,6.0,1,1.0,202110030phi
+Jonathan Taylor,IND,15,53,1,5,20,1.3,33,2.2,0,,202110110rav
+Marlon Mack,IND,5,47,0,3,31,6.2,16,3.2,0,,202110110rav
+Nyheim Hines,IND,4,18,0,2,5,1.3,13,3.3,2,2.0,202110110rav
+Carson Wentz,IND,2,5,0,0,2,1.0,3,1.5,0,,202110110rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110110rav
+Lamar Jackson,BAL,14,62,0,5,21,1.5,41,2.9,2,7.0,202110110rav
+Latavius Murray,BAL,6,17,0,2,9,1.5,8,1.3,0,,202110110rav
+Ty'Son Williams,BAL,4,6,0,0,3,0.8,3,0.8,0,,202110110rav
+Devonta Freeman,BAL,1,1,0,0,0,0.0,1,1.0,0,,202110110rav
+Jamaal Williams,DET,11,22,1,2,8,0.7,14,1.3,0,,202201020sea
+Craig Reynolds,DET,4,4,0,0,2,0.5,2,0.5,0,,202201020sea
+D'Andre Swift,DET,4,32,0,1,6,1.5,26,6.5,0,,202201020sea
+Amon-Ra St. Brown,DET,2,23,1,1,-3,-1.5,26,13.0,2,1.0,202201020sea
+Tim Boyle,DET,1,14,0,1,13,13.0,1,1.0,0,,202201020sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020sea
+Rashaad Penny,SEA,25,170,2,9,93,3.7,77,3.1,2,12.5,202201020sea
+Travis Homer,SEA,6,27,0,2,8,1.3,19,3.2,1,6.0,202201020sea
+Russell Wilson,SEA,6,24,0,3,5,0.8,19,3.2,0,,202201020sea
+DeeJay Dallas,SEA,1,1,0,,0,0.0,1,1.0,0,,202201020sea
+D'Wayne Eskridge,SEA,1,30,0,1,24,24.0,6,6.0,0,,202201020sea
+Tyler Lockett,SEA,1,7,0,0,7,7.0,0,0.0,0,,202201020sea
+D.K. Metcalf,SEA,1,6,0,0,4,4.0,2,2.0,0,,202201020sea
+Javonte Williams,DEN,14,30,0,1,17,1.2,13,0.9,0,,202201020sdg
+Melvin Gordon,DEN,10,43,0,3,26,2.6,17,1.7,2,5.0,202201020sdg
+Drew Lock,DEN,3,10,0,1,8,2.7,2,0.7,0,,202201020sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020sdg
+Austin Ekeler,LAC,17,58,1,3,34,2.0,24,1.4,1,17.0,202201020sdg
+Justin Jackson,LAC,12,41,0,2,33,2.8,8,0.7,0,,202201020sdg
+Justin Herbert,LAC,4,2,0,2,2,0.5,0,0.0,0,,202201020sdg
+Jalen Guyton,LAC,1,1,0,0,0,0.0,1,1.0,1,1.0,202201020sdg
+Gabe Nabers,LAC,1,2,0,,1,1.0,1,1.0,0,,202201020sdg
+Austin Ekeler,LAC,15,57,1,3,26,1.7,31,2.1,0,,202109120was
+Larry Rountree,LAC,8,27,0,1,17,2.1,10,1.3,0,,202109120was
+Justin Herbert,LAC,4,-1,0,1,-1,-0.3,0,0.0,0,,202109120was
+Justin Jackson,LAC,1,5,0,,3,3.0,2,2.0,0,,202109120was
+Gabe Nabers,LAC,1,2,0,1,1,1.0,1,1.0,0,,202109120was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120was
+Antonio Gibson,WAS,20,90,0,5,41,2.1,49,2.5,0,,202109120was
+Taylor Heinicke,WAS,3,17,0,1,14,4.7,3,1.0,0,,202109120was
+Jaret Patterson,WAS,2,9,0,,7,3.5,2,1.0,0,,202109120was
+Ryan Fitzpatrick,WAS,1,2,0,,2,2.0,0,0.0,0,,202109120was
+J.D. McKissic,WAS,1,8,0,,5,5.0,3,3.0,0,,202109120was
+Jonathan Taylor,IND,15,77,0,3,28,1.9,49,3.3,1,15.0,202201090jax
+Carson Wentz,IND,3,17,0,1,14,4.7,3,1.0,0,,202201090jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090jax
+Dare Ogunbowale,JAX,11,30,0,1,10,0.9,20,1.8,0,,202201090jax
+Trevor Lawrence,JAX,10,17,0,3,5,0.5,12,1.2,0,,202201090jax
+Ryquell Armstead,JAX,9,52,0,2,27,3.0,25,2.8,0,,202201090jax
+Mekhi Sargent,JAX,1,2,0,,0,0.0,2,2.0,0,,202201090jax
+Rex Burkhead,HOU,16,47,0,2,11,0.7,36,2.3,0,,202201020sfo
+Royce Freeman,HOU,6,25,0,2,11,1.8,14,2.3,0,,202201020sfo
+Jaylen Samuels,HOU,3,7,0,0,1,0.3,6,2.0,0,,202201020sfo
+Chris Conley,HOU,1,3,0,1,0,0.0,3,3.0,0,,202201020sfo
+Davis Mills,HOU,1,4,0,0,4,4.0,0,0.0,0,,202201020sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020sfo
+Elijah Mitchell,SFO,21,119,0,5,47,2.2,72,3.4,1,21.0,202201020sfo
+Trey Lance,SFO,8,31,0,1,25,3.1,6,0.8,0,,202201020sfo
+Deebo Samuel,SFO,7,19,0,1,13,1.9,6,0.9,0,,202201020sfo
+George Kittle,SFO,1,6,0,0,3,3.0,3,3.0,0,,202201020sfo
+Ezekiel Elliott,DAL,17,69,0,4,48,2.8,21,1.2,0,,202110170nwe
+Tony Pollard,DAL,10,41,0,0,28,2.8,13,1.3,0,,202110170nwe
+Dak Prescott,DAL,3,10,0,0,10,3.3,0,0.0,0,,202110170nwe
+CeeDee Lamb,DAL,1,2,0,1,2,2.0,0,0.0,0,,202110170nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170nwe
+Damien Harris,NWE,18,101,1,5,57,3.2,44,2.4,0,,202110170nwe
+Rhamondre Stevenson,NWE,5,23,1,1,5,1.0,18,3.6,0,,202110170nwe
+Mac Jones,NWE,2,-4,0,0,-4,-2.0,0,0.0,0,,202110170nwe
+Nelson Agholor,NWE,1,1,0,0,1,1.0,0,0.0,0,,202110170nwe
+Brandon Bolden,NWE,1,-1,0,0,-1,-1.0,0,0.0,0,,202110170nwe
+Michael Carter,NYJ,8,18,0,0,-5,-0.6,23,2.9,3,2.7,202112190mia
+Tevin Coleman,NYJ,8,50,0,3,16,2.0,34,4.3,0,,202112190mia
+Zach Wilson,NYJ,4,12,1,2,10,2.5,2,0.5,0,,202112190mia
+Braxton Berrios,NYJ,2,10,1,1,6,3.0,4,2.0,0,,202112190mia
+Austin Walter,NYJ,2,12,0,,8,4.0,4,2.0,0,,202112190mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190mia
+Duke Johnson,MIA,22,107,2,9,38,1.7,69,3.1,2,11.0,202112190mia
+Myles Gaskin,MIA,10,54,0,2,11,1.1,43,4.3,1,10.0,202112190mia
+Tua Tagovailoa,MIA,7,19,0,0,15,2.1,4,0.6,0,,202112190mia
+Jacoby Brissett,MIA,1,2,0,1,1,1.0,1,1.0,0,,202112190mia
+Clayton Fejedelem,MIA,1,0,0,,0,0.0,0,0.0,0,,202112190mia
+Albert Wilson,MIA,1,1,0,0,0,0.0,1,1.0,1,1.0,202112190mia
+Adrian Peterson,TEN,10,21,1,1,6,0.6,15,1.5,0,,202111070ram
+Jeremy McNichols,TEN,7,24,0,,16,2.3,8,1.1,0,,202111070ram
+D'Onta Foreman,TEN,5,29,0,1,9,1.8,20,4.0,1,5.0,202111070ram
+Ryan Tannehill,TEN,2,3,1,2,2,1.0,1,0.5,0,,202111070ram
+Marcus Johnson,TEN,1,-7,0,,-7,-7.0,0,0.0,0,,202111070ram
+Logan Woodside,TEN,1,-1,0,,-1,-1.0,0,0.0,0,,202111070ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070ram
+Darrell Henderson,LAR,11,55,0,2,23,2.1,32,2.9,0,,202111070ram
+Sony Michel,LAR,7,20,0,2,11,1.6,9,1.3,0,,202111070ram
+Matthew Stafford,LAR,2,13,0,1,11,5.5,2,1.0,0,,202111070ram
+Robert Woods,LAR,1,6,0,0,3,3.0,3,3.0,0,,202111070ram
+Aaron Jones,GNB,12,53,0,4,27,2.3,26,2.2,0,,202111070kan
+AJ Dillon,GNB,8,46,0,2,20,2.5,26,3.3,0,,202111070kan
+Jordan Love,GNB,5,23,0,0,20,4.0,3,0.6,0,,202111070kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070kan
+Darrel Williams,KAN,19,70,0,4,39,2.1,31,1.6,2,9.5,202111070kan
+Derrick Gore,KAN,3,13,0,,10,3.3,3,1.0,0,,202111070kan
+Patrick Mahomes,KAN,2,-2,0,0,-2,-1.0,0,0.0,0,,202111070kan
+Tyreek Hill,KAN,1,-4,0,0,-4,-4.0,0,0.0,0,,202111070kan
+Josh Allen,BUF,12,64,0,4,32,2.7,32,2.7,1,12.0,202112260nwe
+Devin Singletary,BUF,12,39,1,3,19,1.6,20,1.7,1,12.0,202112260nwe
+Zack Moss,BUF,3,12,0,1,7,2.3,5,1.7,0,,202112260nwe
+Isaiah McKenzie,BUF,1,-1,0,0,-1,-1.0,0,0.0,0,,202112260nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260nwe
+Damien Harris,NWE,18,103,3,8,71,3.9,32,1.8,2,9.0,202112260nwe
+Mac Jones,NWE,6,33,0,3,28,4.7,5,0.8,0,,202112260nwe
+Brandon Bolden,NWE,2,4,0,0,1,0.5,3,1.5,0,,202112260nwe
+Gunner Olszewski,NWE,1,9,0,,6,6.0,3,3.0,0,,202112260nwe
+David Montgomery,CHI,17,46,0,3,26,1.5,20,1.2,3,5.7,202111250det
+Andy Dalton,CHI,6,11,0,0,11,1.8,0,0.0,0,,202111250det
+Khalil Herbert,CHI,4,9,0,,1,0.3,8,2.0,1,4.0,202111250det
+Jakeem Grant,CHI,1,0,0,0,0,0.0,0,0.0,0,,202111250det
+Darnell Mooney,CHI,1,2,0,0,2,2.0,0,0.0,0,,202111250det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111250det
+Jamaal Williams,DET,15,65,0,3,57,3.8,8,0.5,2,7.5,202111250det
+D'Andre Swift,DET,3,0,0,1,0,0.0,0,0.0,0,,202111250det
+Godwin Igwebuike,DET,1,11,0,1,11,11.0,0,0.0,0,,202111250det
+Elijah Mitchell,SFO,18,137,1,6,42,2.3,95,5.3,0,,202110310chi
+Jimmy Garoppolo,SFO,5,4,2,2,3,0.6,1,0.2,0,,202110310chi
+Jamycal Hasty,SFO,3,4,0,1,0,0.0,4,1.3,0,,202110310chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310chi
+Khalil Herbert,CHI,23,72,0,4,32,1.4,40,1.7,4,5.8,202110310chi
+Justin Fields,CHI,10,103,1,5,57,5.7,46,4.6,2,5.0,202110310chi
+Damien Williams,CHI,2,-3,0,,-3,-1.5,0,0.0,0,,202110310chi
+Ryan Nall,CHI,1,4,0,,0,0.0,4,4.0,0,,202110310chi
+Devonta Freeman,BAL,13,64,0,2,56,4.3,8,0.6,0,,202112120cle
+Tyler Huntley,BAL,6,45,0,2,32,5.3,13,2.2,1,6.0,202112120cle
+Lamar Jackson,BAL,2,5,0,0,0,0.0,5,2.5,0,,202112120cle
+Devin Duvernay,BAL,1,3,0,0,2,2.0,1,1.0,0,,202112120cle
+Latavius Murray,BAL,1,1,1,1,1,1.0,0,0.0,0,,202112120cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120cle
+Nick Chubb,CLE,17,59,0,3,38,2.2,21,1.2,1,17.0,202112120cle
+Baker Mayfield,CLE,6,14,0,3,14,2.3,0,0.0,0,,202112120cle
+D'Ernest Johnson,CLE,4,22,0,1,7,1.8,15,3.8,1,4.0,202112120cle
+Kareem Hunt,CLE,2,5,0,0,0,0.0,5,2.5,0,,202112120cle
+AJ Dillon,GNB,16,78,0,6,35,2.2,43,2.7,2,8.0,202110280crd
+Aaron Jones,GNB,15,59,1,4,35,2.3,24,1.6,0,,202110280crd
+Aaron Rodgers,GNB,2,3,0,0,2,1.0,1,0.5,0,,202110280crd
+Amari Rodgers,GNB,1,11,0,1,6,6.0,5,5.0,0,,202110280crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110280crd
+Chase Edmonds,ARI,7,30,1,2,24,3.4,6,0.9,0,,202110280crd
+Kyler Murray,ARI,6,21,0,2,21,3.5,0,0.0,0,,202110280crd
+James Conner,ARI,5,22,2,3,14,2.8,8,1.6,0,,202110280crd
+Rondale Moore,ARI,2,1,0,,1,0.5,0,0.0,0,,202110280crd
+Rex Burkhead,HOU,18,40,0,4,9,0.5,31,1.7,0,,202111210oti
+David Johnson,HOU,13,18,0,1,3,0.2,15,1.2,0,,202111210oti
+Tyrod Taylor,HOU,6,28,2,3,20,3.3,8,1.3,0,,202111210oti
+Phillip Lindsay,HOU,1,-3,0,,-3,-3.0,0,0.0,0,,202111210oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210oti
+Adrian Peterson,TEN,9,40,0,2,15,1.7,25,2.8,0,,202111210oti
+D'Onta Foreman,TEN,7,25,0,1,4,0.6,21,3.0,1,7.0,202111210oti
+Dontrell Hilliard,TEN,7,35,0,3,16,2.3,19,2.7,0,,202111210oti
+Ryan Tannehill,TEN,2,3,0,1,0,0.0,3,1.5,0,,202111210oti
+Antonio Gibson,WAS,19,95,0,5,42,2.2,53,2.8,6,3.2,202111210car
+J.D. McKissic,WAS,7,46,0,3,12,1.7,34,4.9,0,,202111210car
+Jaret Patterson,WAS,7,23,0,1,5,0.7,18,2.6,1,7.0,202111210car
+Taylor Heinicke,WAS,6,29,0,3,21,3.5,8,1.3,0,,202111210car
+DeAndre Carter,WAS,1,-3,0,0,-3,-3.0,0,0.0,0,,202111210car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210car
+Christian McCaffrey,CAR,10,59,0,2,22,2.2,37,3.7,1,10.0,202111210car
+Cam Newton,CAR,10,46,1,3,35,3.5,11,1.1,0,,202111210car
+Ameer Abdullah,CAR,1,6,0,,2,2.0,4,4.0,0,,202111210car
+Devonta Freeman,BAL,6,17,1,2,10,1.7,7,1.2,0,,202112260cin
+Josh Johnson,BAL,5,10,0,0,4,0.8,6,1.2,0,,202112260cin
+Latavius Murray,BAL,5,12,0,0,7,1.4,5,1.0,0,,202112260cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260cin
+Joe Mixon,CIN,18,65,1,3,36,2.0,29,1.6,0,,202112260cin
+Joe Burrow,CIN,2,11,0,1,11,5.5,0,0.0,0,,202112260cin
+Chris Evans,CIN,1,1,0,,1,1.0,0,0.0,0,,202112260cin
+Lamar Jackson,BAL,7,58,0,1,55,7.9,3,0.4,0,,202109260det
+Latavius Murray,BAL,7,28,0,2,26,3.7,2,0.3,0,,202109260det
+Ty'Son Williams,BAL,5,22,0,2,16,3.2,6,1.2,0,,202109260det
+Devonta Freeman,BAL,3,8,0,,4,1.3,4,1.3,0,,202109260det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260det
+D'Andre Swift,DET,14,47,1,4,38,2.7,9,0.6,1,14.0,202109260det
+Jamaal Williams,DET,12,42,1,3,36,3.0,6,0.5,0,,202109260det
+Jared Goff,DET,1,4,0,0,4,4.0,0,0.0,0,,202109260det
+Justin Jackson,LAC,11,64,2,3,54,4.9,10,0.9,0,,202112260htx
+Joshua Kelley,LAC,5,7,0,0,6,1.2,1,0.2,0,,202112260htx
+Justin Herbert,LAC,4,15,0,0,14,3.5,1,0.3,0,,202112260htx
+Maurice Ffrench,LAC,1,3,0,,3,3.0,0,0.0,0,,202112260htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260htx
+Rex Burkhead,HOU,22,149,2,8,69,3.1,80,3.6,0,,202112260htx
+Royce Freeman,HOU,12,34,0,1,16,1.3,18,1.5,0,,202112260htx
+Davis Mills,HOU,1,-1,0,0,-1,-1.0,0,0.0,0,,202112260htx
+Tremon Smith,HOU,1,7,0,,5,5.0,2,2.0,0,,202112260htx
+Saquon Barkley,NYG,21,102,0,4,63,3.0,39,1.9,0,,202201020chi
+Devontae Booker,NYG,18,46,0,4,28,1.6,18,1.0,0,,202201020chi
+Mike Glennon,NYG,1,13,0,1,13,13.0,0,0.0,0,,202201020chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020chi
+David Montgomery,CHI,22,64,2,5,39,1.8,25,1.1,1,22.0,202201020chi
+Andy Dalton,CHI,3,14,0,0,10,3.3,4,1.3,0,,202201020chi
+Khalil Herbert,CHI,2,9,0,1,4,2.0,5,2.5,0,,202201020chi
+Chuba Hubbard,CAR,9,48,0,3,21,2.3,27,3.0,1,9.0,202201090tam
+Sam Darnold,CAR,8,19,0,0,19,2.4,0,0.0,0,,202201090tam
+Ameer Abdullah,CAR,7,26,0,2,11,1.6,15,2.1,1,7.0,202201090tam
+D.J. Moore,CAR,1,13,0,1,4,4.0,9,9.0,0,,202201090tam
+Tommy Tremble,CAR,1,4,0,,2,2.0,2,2.0,0,,202201090tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090tam
+Ke'Shawn Vaughn,TAM,10,29,1,3,16,1.6,13,1.3,0,,202201090tam
+Kenjon Barner,TAM,4,0,0,,0,0.0,0,0.0,0,,202201090tam
+Le'Veon Bell,TAM,3,14,0,1,10,3.3,4,1.3,0,,202201090tam
+Scott Miller,TAM,2,43,1,2,43,21.5,0,0.0,0,,202201090tam
+Blaine Gabbert,TAM,1,-1,0,,-1,-1.0,0,0.0,0,,202201090tam
+David Montgomery,CHI,21,45,1,6,16,0.8,29,1.4,1,21.0,202112260sea
+Nick Foles,CHI,4,8,0,1,8,2.0,0,0.0,0,,202112260sea
+Khalil Herbert,CHI,2,21,1,1,21,10.5,0,0.0,0,,202112260sea
+Darnell Mooney,CHI,2,2,0,0,2,1.0,0,0.0,0,,202112260sea
+Damien Williams,CHI,1,12,0,1,8,8.0,4,4.0,1,1.0,202112260sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260sea
+Rashaad Penny,SEA,17,135,1,4,70,4.1,65,3.8,5,3.4,202112260sea
+DeeJay Dallas,SEA,4,15,0,1,10,2.5,5,1.3,1,4.0,202112260sea
+Russell Wilson,SEA,2,13,0,1,13,6.5,0,0.0,0,,202112260sea
+D'Wayne Eskridge,SEA,1,7,0,0,6,6.0,1,1.0,0,,202112260sea
+Chris Carson,SEA,12,80,1,4,55,4.6,25,2.1,1,12.0,202109260min
+Russell Wilson,SEA,3,7,0,0,5,1.7,2,0.7,0,,202109260min
+Alex Collins,SEA,2,8,0,1,1,0.5,7,3.5,1,2.0,202109260min
+Freddie Swain,SEA,1,11,0,1,10,10.0,1,1.0,0,,202109260min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260min
+Alexander Mattison,MIN,26,112,0,6,67,2.6,45,1.7,2,13.0,202109260min
+Ameer Abdullah,MIN,5,24,0,,11,2.2,13,2.6,1,5.0,202109260min
+C.J. Ham,MIN,2,2,0,1,0,0.0,2,1.0,0,,202109260min
+Kirk Cousins,MIN,1,2,0,0,2,2.0,0,0.0,0,,202109260min
+Alvin Kamara,NOR,16,71,1,2,45,2.8,26,1.6,2,8.0,202110100was
+Jameis Winston,NOR,6,26,0,3,15,2.5,11,1.8,0,,202110100was
+Kenny Stills,NOR,1,1,0,0,1,1.0,0,0.0,0,,202110100was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100was
+Antonio Gibson,WAS,20,60,2,6,32,1.6,28,1.4,1,20.0,202110100was
+Taylor Heinicke,WAS,5,40,0,2,39,7.8,1,0.2,0,,202110100was
+Jaret Patterson,WAS,4,13,0,2,6,1.5,7,1.8,1,4.0,202110100was
+J.D. McKissic,WAS,2,-1,0,,-2,-1.0,1,0.5,0,,202110100was
+DeAndre Carter,WAS,1,11,0,1,8,8.0,3,3.0,0,,202110100was
+Curtis Samuel,WAS,1,8,0,,7,7.0,1,1.0,0,,202110100was
+Jeff Wilson,SFO,13,56,0,3,36,2.8,20,1.5,0,,202112120cin
+Deebo Samuel,SFO,8,37,1,2,20,2.5,17,2.1,1,8.0,202112120cin
+Brandon Aiyuk,SFO,1,4,0,0,4,4.0,0,0.0,0,,202112120cin
+Jimmy Garoppolo,SFO,1,3,0,1,0,0.0,3,3.0,0,,202112120cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120cin
+Joe Mixon,CIN,18,58,0,3,25,1.4,33,1.8,0,,202112120cin
+Samaje Perine,CIN,4,11,0,1,5,1.3,6,1.5,0,,202112120cin
+Joe Burrow,CIN,2,3,0,0,-1,-0.5,4,2.0,0,,202112120cin
+Tyler Boyd,CIN,1,8,0,0,0,0.0,8,8.0,1,1.0,202112120cin
+Ja'Marr Chase,CIN,1,6,0,0,0,0.0,6,6.0,1,1.0,202112120cin
+Rashaad Penny,SEA,16,137,2,4,58,3.6,79,4.9,2,8.0,202112120htx
+Alex Collins,SEA,7,16,0,1,11,1.6,5,0.7,0,,202112120htx
+DeeJay Dallas,SEA,2,16,0,,13,6.5,3,1.5,0,,202112120htx
+Russell Wilson,SEA,2,8,0,1,8,4.0,0,0.0,0,,202112120htx
+Gerald Everett,SEA,1,13,0,1,13,13.0,0,0.0,0,,202112120htx
+Freddie Swain,SEA,1,3,0,,3,3.0,0,0.0,0,,202112120htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120htx
+Rex Burkhead,HOU,11,40,0,4,35,3.2,5,0.5,1,11.0,202112120htx
+Royce Freeman,HOU,11,15,0,1,2,0.2,13,1.2,0,,202112120htx
+Davis Mills,HOU,2,8,0,1,8,4.0,0,0.0,0,,202112120htx
+Phillip Dorsett,HOU,1,0,0,,0,0.0,0,0.0,0,,202112120htx
+Josh Jacobs,LVR,22,87,1,4,40,1.8,47,2.1,1,22.0,202111250dal
+Kenyan Drake,LVR,7,25,0,1,8,1.1,17,2.4,0,,202111250dal
+Derek Carr,LVR,2,21,0,1,21,10.5,0,0.0,0,,202111250dal
+Marcus Mariota,LVR,2,4,1,1,3,1.5,1,0.5,0,,202111250dal
+Zay Jones,LVR,1,4,0,0,4,4.0,0,0.0,0,,202111250dal
+Hunter Renfrow,LVR,1,2,0,0,0,0.0,2,2.0,0,,202111250dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111250dal
+Tony Pollard,DAL,10,36,0,4,12,1.2,24,2.4,0,,202111250dal
+Ezekiel Elliott,DAL,9,25,1,2,9,1.0,16,1.8,0,,202111250dal
+Dak Prescott,DAL,1,3,0,0,3,3.0,0,0.0,0,,202111250dal
+Elijah Mitchell,SFO,19,104,1,4,65,3.4,39,2.1,2,9.5,202109120det
+Jimmy Garoppolo,SFO,3,2,0,0,2,0.7,0,0.0,0,,202109120det
+Trey Lance,SFO,3,2,0,0,2,0.7,0,0.0,0,,202109120det
+Raheem Mostert,SFO,2,20,0,1,18,9.0,2,1.0,0,,202109120det
+Jamycal Hasty,SFO,1,3,1,1,2,2.0,1,1.0,0,,202109120det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120det
+D'Andre Swift,DET,11,39,0,2,34,3.1,5,0.5,0,,202109120det
+Jamaal Williams,DET,9,54,1,4,40,4.4,14,1.6,1,9.0,202109120det
+Jared Goff,DET,3,14,0,1,14,4.7,0,0.0,0,,202109120det
+Kalif Raymond,DET,1,9,0,1,9,9.0,0,0.0,0,,202109120det
+Alexander Mattison,MIN,22,90,1,7,44,2.0,46,2.1,3,7.3,202112050det
+Kirk Cousins,MIN,2,6,0,0,6,3.0,0,0.0,0,,202112050det
+Kene Nwangwu,MIN,2,0,0,,-1,-0.5,1,0.5,1,2.0,202112050det
+Justin Jefferson,MIN,1,4,0,0,4,4.0,0,0.0,0,,202112050det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050det
+Jamaal Williams,DET,17,71,0,5,36,2.1,35,2.1,0,,202112050det
+Jermar Jefferson,DET,5,18,0,1,12,2.4,6,1.2,0,,202112050det
+Jared Goff,DET,2,1,0,0,1,0.5,0,0.0,0,,202112050det
+Godwin Igwebuike,DET,2,8,0,1,4,2.0,4,2.0,0,,202112050det
+Amon-Ra St. Brown,DET,1,2,0,0,0,0.0,2,2.0,0,,202112050det
+Jalen Hurts,PHI,13,55,0,3,42,3.2,13,1.0,1,13.0,202111140den
+Jordan Howard,PHI,12,83,0,5,41,3.4,42,3.5,2,6.0,202111140den
+Boston Scott,PHI,11,81,0,4,47,4.3,34,3.1,2,5.5,202111140den
+Kenneth Gainwell,PHI,2,5,0,0,3,1.5,2,1.0,1,2.0,202111140den
+Jalen Reagor,PHI,1,-8,0,0,-8,-8.0,0,0.0,0,,202111140den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140den
+Melvin Gordon,DEN,9,45,1,3,19,2.1,26,2.9,0,,202111140den
+Javonte Williams,DEN,8,48,0,2,7,0.9,41,5.1,1,8.0,202111140den
+Jerry Jeudy,DEN,1,3,0,0,0,0.0,3,3.0,0,,202111140den
+Dalvin Cook,MIN,24,94,1,7,31,1.3,63,2.6,3,8.0,202111140sdg
+Kirk Cousins,MIN,4,-3,0,0,-3,-0.8,0,0.0,0,,202111140sdg
+Alexander Mattison,MIN,4,16,0,1,6,1.5,10,2.5,1,4.0,202111140sdg
+Justin Jefferson,MIN,1,-4,0,0,-4,-4.0,0,0.0,0,,202111140sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140sdg
+Austin Ekeler,LAC,11,44,0,1,15,1.4,29,2.6,0,,202111140sdg
+Larry Rountree,LAC,5,10,1,1,5,1.0,5,1.0,0,,202111140sdg
+Justin Herbert,LAC,2,22,0,1,18,9.0,4,2.0,0,,202111140sdg
+Joshua Kelley,LAC,1,6,0,,4,4.0,2,2.0,0,,202111140sdg
+Melvin Gordon,DEN,7,-4,0,,-8,-1.1,4,0.6,0,,202112260rai
+Javonte Williams,DEN,7,12,1,1,1,0.1,11,1.6,0,,202112260rai
+Drew Lock,DEN,2,10,0,1,7,3.5,3,1.5,0,,202112260rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260rai
+Josh Jacobs,LVR,27,129,0,6,55,2.0,74,2.7,1,27.0,202112260rai
+Derek Carr,LVR,7,5,0,2,4,0.6,1,0.1,0,,202112260rai
+Peyton Barber,LVR,5,22,1,1,12,2.4,10,2.0,0,,202112260rai
+Jalen Richard,LVR,1,4,0,1,2,2.0,2,2.0,0,,202112260rai
+Devontae Booker,NYG,16,42,1,2,27,1.7,15,0.9,2,8.0,202110100dal
+Daniel Jones,NYG,3,9,0,1,8,2.7,1,0.3,0,,202110100dal
+Saquon Barkley,NYG,2,9,0,,6,3.0,3,1.5,0,,202110100dal
+Mike Glennon,NYG,2,2,0,0,2,1.0,0,0.0,0,,202110100dal
+Elijhaa Penny,NYG,1,4,0,,2,2.0,2,2.0,0,,202110100dal
+Kadarius Toney,NYG,1,7,0,0,7,7.0,0,0.0,0,,202110100dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100dal
+Ezekiel Elliott,DAL,21,110,1,6,70,3.3,40,1.9,0,,202110100dal
+Tony Pollard,DAL,14,75,0,3,46,3.3,29,2.1,0,,202110100dal
+Dak Prescott,DAL,2,6,0,0,6,3.0,0,0.0,0,,202110100dal
+CeeDee Lamb,DAL,1,4,0,0,1,1.0,3,3.0,0,,202110100dal
+Cedrick Wilson Jr.,DAL,1,6,0,1,6,6.0,0,0.0,0,,202110100dal
+Jamaal Williams,DET,13,57,0,4,38,2.9,19,1.5,0,,202110100min
+D'Andre Swift,DET,11,51,1,3,37,3.4,14,1.3,0,,202110100min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100min
+Alexander Mattison,MIN,25,113,0,4,42,1.7,71,2.8,3,8.3,202110100min
+Ameer Abdullah,MIN,1,2,0,,2,2.0,0,0.0,0,,202110100min
+Kirk Cousins,MIN,1,4,0,1,4,4.0,0,0.0,0,,202110100min
+C.J. Ham,MIN,1,1,0,0,1,1.0,0,0.0,0,,202110100min
+Damien Harris,NWE,23,80,1,3,44,1.9,36,1.6,2,11.5,202110310sdg
+Rhamondre Stevenson,NWE,8,26,0,2,17,2.1,9,1.1,0,,202110310sdg
+Brandon Bolden,NWE,4,26,0,2,16,4.0,10,2.5,0,,202110310sdg
+Mac Jones,NWE,4,10,0,2,6,1.5,4,1.0,0,,202110310sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310sdg
+Austin Ekeler,LAC,11,64,1,4,27,2.5,37,3.4,1,11.0,202110310sdg
+Larry Rountree,LAC,4,11,0,,5,1.3,6,1.5,0,,202110310sdg
+Justin Jackson,LAC,3,79,0,1,73,24.3,6,2.0,0,,202110310sdg
+Justin Herbert,LAC,2,9,0,0,9,4.5,0,0.0,0,,202110310sdg
+Jaret Patterson,WAS,11,46,0,3,25,2.3,21,1.9,0,,202110310den
+Antonio Gibson,WAS,8,34,0,1,27,3.4,7,0.9,0,,202110310den
+J.D. McKissic,WAS,3,10,0,0,4,1.3,6,2.0,1,3.0,202110310den
+Taylor Heinicke,WAS,1,10,0,1,7,7.0,3,3.0,0,,202110310den
+Terry McLaurin,WAS,1,12,0,1,7,7.0,5,5.0,0,,202110310den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310den
+Melvin Gordon,DEN,10,47,1,3,21,2.1,26,2.6,1,10.0,202110310den
+Javonte Williams,DEN,9,35,0,2,18,2.0,17,1.9,1,9.0,202110310den
+Teddy Bridgewater,DEN,1,1,0,1,1,1.0,0,0.0,0,,202110310den
+Jerry Jeudy,DEN,1,0,0,0,0,0.0,0,0.0,0,,202110310den
+Rhamondre Stevenson,NWE,12,69,0,3,32,2.7,37,3.1,0,,202111180atl
+Damien Harris,NWE,10,56,0,4,28,2.8,28,2.8,2,5.0,202111180atl
+Mac Jones,NWE,6,1,0,2,1,0.2,0,0.0,0,,202111180atl
+Brandon Bolden,NWE,1,1,0,,0,0.0,1,1.0,0,,202111180atl
+Kendrick Bourne,NWE,1,7,0,0,7,7.0,0,0.0,0,,202111180atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111180atl
+Qadree Ollison,ATL,9,34,0,2,24,2.7,10,1.1,0,,202111180atl
+Mike Davis,ATL,3,1,0,,0,0.0,1,0.3,0,,202111180atl
+Keith Smith,ATL,3,8,0,1,2,0.7,6,2.0,0,,202111180atl
+Wayne Gallman,ATL,1,-3,0,,-3,-3.0,0,0.0,0,,202111180atl
+Darrell Henderson,LAR,17,82,1,5,43,2.5,39,2.3,2,8.5,202110070sea
+Sony Michel,LAR,11,37,1,3,21,1.9,16,1.5,1,11.0,202110070sea
+Matthew Stafford,LAR,1,-1,0,0,-1,-1.0,0,0.0,0,,202110070sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110070sea
+Alex Collins,SEA,15,47,0,3,42,2.8,5,0.3,0,,202110070sea
+DeeJay Dallas,SEA,4,7,0,1,6,1.5,1,0.3,0,,202110070sea
+Geno Smith,SEA,3,23,0,0,17,5.7,6,2.0,2,1.5,202110070sea
+Russell Wilson,SEA,2,10,0,1,10,5.0,0,0.0,0,,202110070sea
+Travis Homer,SEA,1,5,0,0,3,3.0,2,2.0,0,,202110070sea
+James Conner,ARI,16,71,0,5,26,1.6,45,2.8,3,5.3,202110170cle
+Kyler Murray,ARI,7,6,0,1,5,0.7,1,0.1,0,,202110170cle
+Chase Edmonds,ARI,4,46,0,1,39,9.8,7,1.8,0,,202110170cle
+Jonathan Ward,ARI,4,14,0,1,8,2.0,6,1.5,0,,202110170cle
+Colt McCoy,ARI,3,-3,0,,-3,-1.0,0,0.0,0,,202110170cle
+Rondale Moore,ARI,3,10,0,0,5,1.7,5,1.7,1,3.0,202110170cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170cle
+Kareem Hunt,CLE,14,66,0,4,41,2.9,25,1.8,1,14.0,202110170cle
+Baker Mayfield,CLE,3,8,0,0,8,2.7,0,0.0,0,,202110170cle
+D'Ernest Johnson,CLE,1,2,0,0,1,1.0,1,1.0,0,,202110170cle
+Anthony Schwartz,CLE,1,-3,0,,-3,-3.0,0,0.0,0,,202110170cle
+Jonathan Taylor,IND,32,185,4,14,62,1.9,123,3.8,3,10.7,202111210buf
+Deon Jackson,IND,6,12,0,,3,0.5,9,1.5,0,,202111210buf
+Nyheim Hines,IND,4,31,0,2,15,3.8,16,4.0,1,4.0,202111210buf
+Carson Wentz,IND,2,18,0,1,0,0.0,18,9.0,0,,202111210buf
+Sam Ehlinger,IND,1,9,0,1,7,7.0,2,2.0,0,,202111210buf
+Zach Pascal,IND,1,9,0,,6,6.0,3,3.0,0,,202111210buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210buf
+Matt Breida,BUF,5,51,0,2,45,9.0,6,1.2,0,,202111210buf
+Zack Moss,BUF,3,5,0,,3,1.0,2,0.7,0,,202111210buf
+Devin Singletary,BUF,3,17,0,1,8,2.7,9,3.0,0,,202111210buf
+Josh Allen,BUF,2,18,0,2,18,9.0,0,0.0,0,,202111210buf
+Darrel Williams,KAN,14,88,2,6,47,3.4,41,2.9,1,14.0,202201020cin
+Derrick Gore,KAN,3,37,0,2,29,9.7,8,2.7,0,,202201020cin
+Patrick Mahomes,KAN,2,25,0,1,23,11.5,2,1.0,0,,202201020cin
+Blake Bell,KAN,1,2,0,1,1,1.0,1,1.0,0,,202201020cin
+Michael Burton,KAN,1,2,0,1,1,1.0,1,1.0,0,,202201020cin
+Tyreek Hill,KAN,1,2,0,0,1,1.0,1,1.0,0,,202201020cin
+Travis Kelce,KAN,1,-1,0,0,-1,-1.0,0,0.0,0,,202201020cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020cin
+Joe Mixon,CIN,12,46,0,4,27,2.3,19,1.6,0,,202201020cin
+Joe Burrow,CIN,5,10,0,1,1,0.2,9,1.8,0,,202201020cin
+Brandon Allen,CIN,1,0,0,,0,0.0,0,0.0,0,,202201020cin
+Samaje Perine,CIN,1,4,0,,2,2.0,2,2.0,0,,202201020cin
+Taysom Hill,NOR,11,33,0,0,19,1.7,14,1.3,0,,202112190tam
+Alvin Kamara,NOR,11,18,0,4,-1,-0.1,19,1.7,2,5.5,202112190tam
+Mark Ingram,NOR,9,10,0,1,0,0.0,10,1.1,0,,202112190tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190tam
+Leonard Fournette,TAM,9,34,0,0,17,1.9,17,1.9,1,9.0,202112190tam
+Ronald Jones II,TAM,8,63,0,2,39,4.9,24,3.0,2,4.0,202112190tam
+Ke'Shawn Vaughn,TAM,3,19,0,1,1,0.3,18,6.0,1,3.0,202112190tam
+Tom Brady,TAM,1,2,0,0,0,0.0,2,2.0,0,,202112190tam
+Cordarrelle Patterson,ATL,11,18,0,,17,1.5,1,0.1,0,,202112190sfo
+Mike Davis,ATL,6,21,0,1,9,1.5,12,2.0,3,2.0,202112190sfo
+Matt Ryan,ATL,5,20,0,2,19,3.8,1,0.2,0,,202112190sfo
+Qadree Ollison,ATL,1,3,0,,2,2.0,1,1.0,0,,202112190sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190sfo
+Jeff Wilson,SFO,21,110,1,6,79,3.8,31,1.5,1,21.0,202112190sfo
+Deebo Samuel,SFO,6,29,1,2,19,3.2,10,1.7,2,3.0,202112190sfo
+Jimmy Garoppolo,SFO,3,4,0,1,2,0.7,2,0.7,0,,202112190sfo
+Jamycal Hasty,SFO,1,13,0,1,9,9.0,4,4.0,1,1.0,202112190sfo
+Kyle Juszczyk,SFO,1,6,1,1,6,6.0,0,0.0,0,,202112190sfo
+Joe Mixon,CIN,17,58,0,1,45,2.6,13,0.8,1,17.0,202112190den
+Joe Burrow,CIN,5,25,0,3,25,5.0,0,0.0,0,,202112190den
+Samaje Perine,CIN,4,30,0,1,26,6.5,4,1.0,0,,202112190den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190den
+Melvin Gordon,DEN,15,53,0,2,41,2.7,12,0.8,0,,202112190den
+Javonte Williams,DEN,15,72,0,5,54,3.6,18,1.2,1,15.0,202112190den
+Teddy Bridgewater,DEN,3,10,0,3,9,3.0,1,0.3,0,,202112190den
+Drew Lock,DEN,1,-2,0,0,-2,-2.0,0,0.0,0,,202112190den
+Najee Harris,PIT,26,91,1,6,49,1.9,42,1.6,1,26.0,202110310cle
+Chase Claypool,PIT,2,16,0,1,16,8.0,0,0.0,0,,202110310cle
+Kalen Ballage,PIT,1,-3,0,,-3,-3.0,0,0.0,0,,202110310cle
+Ray-Ray McCloud,PIT,1,10,0,,10,10.0,0,0.0,0,,202110310cle
+Anthony McFarland Jr.,PIT,1,1,0,,0,0.0,1,1.0,0,,202110310cle
+Ben Roethlisberger,PIT,1,0,0,0,0,0.0,0,0.0,0,,202110310cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310cle
+Nick Chubb,CLE,16,61,0,4,30,1.9,31,1.9,0,,202110310cle
+D'Ernest Johnson,CLE,4,22,1,1,15,3.8,7,1.8,0,,202110310cle
+Demetric Felton,CLE,1,3,0,0,1,1.0,2,2.0,0,,202110310cle
+Jarvis Landry,CLE,1,5,0,1,1,1.0,4,4.0,1,1.0,202110310cle
+Baker Mayfield,CLE,1,5,0,1,5,5.0,0,0.0,0,,202110310cle
+Melvin Gordon,DEN,8,18,0,1,6,0.8,12,1.5,0,,202110210cle
+Javonte Williams,DEN,4,20,0,0,8,2.0,12,3.0,0,,202110210cle
+Teddy Bridgewater,DEN,2,3,0,2,0,0.0,3,1.5,0,,202110210cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110210cle
+D'Ernest Johnson,CLE,22,146,1,7,63,2.9,83,3.8,1,22.0,202110210cle
+Case Keenum,CLE,4,7,0,2,1,0.3,6,1.5,0,,202110210cle
+Demetric Felton,CLE,2,13,0,0,6,3.0,7,3.5,0,,202110210cle
+John Kelly,CLE,2,13,0,1,7,3.5,6,3.0,0,,202110210cle
+Johnny Stanton,CLE,2,5,0,2,2,1.0,3,1.5,0,,202110210cle
+Anthony Schwartz,CLE,1,-2,0,0,-2,-2.0,0,0.0,0,,202110210cle
+Josh Jacobs,LVR,16,53,1,2,30,1.9,23,1.4,1,16.0,202110170den
+Kenyan Drake,LVR,4,34,1,2,28,7.0,6,1.5,0,,202110170den
+Derek Carr,LVR,2,-1,0,0,-1,-0.5,0,0.0,0,,202110170den
+Jalen Richard,LVR,1,0,0,0,0,0.0,0,0.0,0,,202110170den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170den
+Javonte Williams,DEN,11,53,0,2,34,3.1,19,1.7,2,5.5,202110170den
+Melvin Gordon,DEN,10,50,0,3,30,3.0,20,2.0,1,10.0,202110170den
+Teddy Bridgewater,DEN,2,9,0,1,6,3.0,3,1.5,0,,202110170den
+Carlos Hyde,JAX,9,32,0,1,15,1.7,17,1.9,1,9.0,202110310sea
+James Robinson,JAX,4,22,0,1,10,2.5,12,3.0,1,4.0,202110310sea
+Trevor Lawrence,JAX,3,11,0,0,3,1.0,8,2.7,0,,202110310sea
+Dare Ogunbowale,JAX,2,9,0,,5,2.5,4,2.0,0,,202110310sea
+Laviska Shenault Jr.,JAX,1,8,0,,5,5.0,3,3.0,0,,202110310sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310sea
+Alex Collins,SEA,10,44,0,3,23,2.3,21,2.1,2,5.0,202110310sea
+Rashaad Penny,SEA,7,7,0,,4,0.6,3,0.4,0,,202110310sea
+Travis Homer,SEA,4,9,0,1,3,0.8,6,1.5,0,,202110310sea
+Geno Smith,SEA,2,8,1,1,1,0.5,7,3.5,0,,202110310sea
+DeeJay Dallas,SEA,1,6,0,,1,1.0,5,5.0,0,,202110310sea
+Gerald Everett,SEA,1,-5,0,,-5,-5.0,0,0.0,0,,202110310sea
+Mike Davis,ATL,9,13,0,,4,0.4,9,1.0,0,,202111070nor
+Cordarrelle Patterson,ATL,9,10,0,0,4,0.4,6,0.7,0,,202111070nor
+Matt Ryan,ATL,5,8,1,2,7,1.4,1,0.2,0,,202111070nor
+Feleipe Franks,ATL,2,3,0,,1,0.5,2,1.0,0,,202111070nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070nor
+Alvin Kamara,NOR,13,50,1,3,31,2.4,19,1.5,0,,202111070nor
+Mark Ingram,NOR,9,43,0,1,19,2.1,24,2.7,0,,202111070nor
+Alex Armah,NOR,2,12,0,1,4,2.0,8,4.0,0,,202111070nor
+Taysom Hill,NOR,1,4,0,1,1,1.0,3,3.0,0,,202111070nor
+Myles Gaskin,MIA,23,89,0,4,56,2.4,33,1.4,1,23.0,202111210nyj
+Duke Johnson,MIA,4,18,0,,10,2.5,8,2.0,0,,202111210nyj
+Tua Tagovailoa,MIA,3,6,0,0,4,1.3,2,0.7,0,,202111210nyj
+Patrick Laird,MIA,1,4,0,0,2,2.0,2,2.0,0,,202111210nyj
+Jaylen Waddle,MIA,1,1,1,1,1,1.0,0,0.0,0,,202111210nyj
+Albert Wilson,MIA,1,-3,0,0,-3,-3.0,0,0.0,0,,202111210nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210nyj
+Michael Carter,NYJ,9,63,0,2,7,0.8,56,6.2,1,9.0,202111210nyj
+Tevin Coleman,NYJ,5,16,0,,9,1.8,7,1.4,1,5.0,202111210nyj
+Joe Flacco,NYJ,2,3,0,1,1,0.5,2,1.0,0,,202111210nyj
+Ty Johnson,NYJ,1,5,0,1,1,1.0,4,4.0,0,,202111210nyj
+Elijah Moore,NYJ,1,15,0,1,11,11.0,4,4.0,0,,202111210nyj
+Dare Ogunbowale,JAX,9,36,0,0,20,2.2,16,1.8,0,,202201020nwe
+Ryquell Armstead,JAX,6,28,0,1,16,2.7,12,2.0,0,,202201020nwe
+Trevor Lawrence,JAX,2,16,0,1,16,8.0,0,0.0,0,,202201020nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020nwe
+Rhamondre Stevenson,NWE,19,107,2,7,54,2.8,53,2.8,1,19.0,202201020nwe
+Damien Harris,NWE,9,35,2,5,19,2.1,16,1.8,1,9.0,202201020nwe
+Kendrick Bourne,NWE,2,17,0,1,9,4.5,8,4.0,1,2.0,202201020nwe
+Brian Hoyer,NWE,2,1,0,1,0,0.0,1,0.5,0,,202201020nwe
+Mac Jones,NWE,2,12,0,2,10,5.0,2,1.0,0,,202201020nwe
+Brandon Bolden,NWE,1,4,0,0,1,1.0,3,3.0,0,,202201020nwe
+Jonnu Smith,NWE,1,5,0,0,1,1.0,4,4.0,0,,202201020nwe
+Leonard Fournette,TAM,13,44,0,1,16,1.2,28,2.2,0,,202112050atl
+Giovani Bernard,TAM,1,3,0,0,2,2.0,1,1.0,0,,202112050atl
+Tom Brady,TAM,1,-1,0,0,-1,-1.0,0,0.0,0,,202112050atl
+Chris Godwin,TAM,1,9,0,1,6,6.0,3,3.0,0,,202112050atl
+Ronald Jones II,TAM,1,2,0,,1,1.0,1,1.0,0,,202112050atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050atl
+Cordarrelle Patterson,ATL,13,78,0,3,31,2.4,47,3.6,1,13.0,202112050atl
+Mike Davis,ATL,4,32,1,1,28,7.0,4,1.0,0,,202112050atl
+Matt Ryan,ATL,3,2,0,0,1,0.3,1,0.3,0,,202112050atl
+Qadree Ollison,ATL,2,7,0,0,1,0.5,6,3.0,0,,202112050atl
+Olamide Zaccheaus,ATL,1,2,0,1,0,0.0,2,2.0,0,,202112050atl
+Rhamondre Stevenson,NWE,10,36,0,1,19,1.9,17,1.7,0,,202112180clt
+Brandon Bolden,NWE,4,3,0,0,-2,-0.5,5,1.3,0,,202112180clt
+Kendrick Bourne,NWE,2,19,0,1,15,7.5,4,2.0,0,,202112180clt
+Mac Jones,NWE,1,12,0,1,0,0.0,12,12.0,0,,202112180clt
+Jakobi Meyers,NWE,1,9,0,0,8,8.0,1,1.0,0,,202112180clt
+Jonnu Smith,NWE,1,2,0,,2,2.0,0,0.0,0,,202112180clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112180clt
+Jonathan Taylor,IND,29,170,1,7,104,3.6,66,2.3,0,,202112180clt
+Carson Wentz,IND,8,17,0,4,12,1.5,5,0.6,0,,202112180clt
+Ashton Dulin,IND,2,39,0,1,34,17.0,5,2.5,0,,202112180clt
+Saquon Barkley,NYG,6,25,0,1,10,1.7,15,2.5,0,,202111220tam
+Devontae Booker,NYG,3,15,0,2,9,3.0,6,2.0,0,,202111220tam
+Daniel Jones,NYG,3,10,0,0,4,1.3,6,2.0,0,,202111220tam
+John Ross,NYG,1,16,0,1,13,13.0,3,3.0,0,,202111220tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111220tam
+Leonard Fournette,TAM,10,35,0,3,16,1.6,19,1.9,0,,202111220tam
+Ronald Jones II,TAM,8,33,1,4,19,2.4,14,1.8,0,,202111220tam
+Ke'Shawn Vaughn,TAM,3,4,0,,1,0.3,3,1.0,0,,202111220tam
+Blaine Gabbert,TAM,2,-2,0,0,-2,-1.0,0,0.0,0,,202111220tam
+Tom Brady,TAM,1,10,0,1,10,10.0,0,0.0,0,,202111220tam
+Mike Evans,TAM,1,10,0,1,8,8.0,2,2.0,0,,202111220tam
+Chris Godwin,TAM,1,7,0,1,4,4.0,3,3.0,0,,202111220tam
+Breshad Perriman,TAM,1,-3,0,0,-3,-3.0,0,0.0,0,,202111220tam
+Chuba Hubbard,CAR,11,52,0,3,29,2.6,23,2.1,2,5.5,202109230htx
+Sam Darnold,CAR,8,11,2,4,3,0.4,8,1.0,2,4.0,202109230htx
+Christian McCaffrey,CAR,7,31,0,1,3,0.4,28,4.0,3,2.3,202109230htx
+Royce Freeman,CAR,5,17,0,1,14,2.8,3,0.6,0,,202109230htx
+D.J. Moore,CAR,1,-1,0,0,-1,-1.0,0,0.0,0,,202109230htx
+Tommy Tremble,CAR,1,7,1,1,7,7.0,0,0.0,0,,202109230htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109230htx
+Phillip Lindsay,HOU,7,5,0,1,1,0.1,4,0.6,0,,202109230htx
+Mark Ingram,HOU,6,21,0,1,7,1.2,14,2.3,0,,202109230htx
+David Johnson,HOU,2,11,0,,5,2.5,6,3.0,0,,202109230htx
+Brandin Cooks,HOU,1,5,0,0,3,3.0,2,2.0,0,,202109230htx
+Davis Mills,HOU,1,0,0,0,0,0.0,0,0.0,0,,202109230htx
+Austin Ekeler,LAC,16,64,1,4,22,1.4,42,2.6,1,16.0,202201090rai
+Justin Jackson,LAC,3,20,0,1,6,2.0,14,4.7,0,,202201090rai
+Justin Herbert,LAC,2,1,0,0,1,0.5,0,0.0,0,,202201090rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090rai
+Josh Jacobs,LVR,26,132,1,7,47,1.8,85,3.3,3,8.7,202201090rai
+Marcus Mariota,LVR,4,23,0,1,12,3.0,11,2.8,0,,202201090rai
+Jalen Richard,LVR,2,24,0,1,17,8.5,7,3.5,0,,202201090rai
+Derek Carr,LVR,1,-1,0,0,-1,-1.0,0,0.0,0,,202201090rai
+Hunter Renfrow,LVR,1,-4,0,0,-4,-4.0,0,0.0,0,,202201090rai
+Nick Chubb,CLE,12,58,0,3,35,2.9,23,1.9,0,,202201030pit
+D'Ernest Johnson,CLE,5,13,0,,5,1.0,8,1.6,1,5.0,202201030pit
+Baker Mayfield,CLE,2,16,0,2,16,8.0,0,0.0,0,,202201030pit
+Jarvis Landry,CLE,1,6,0,0,5,5.0,1,1.0,0,,202201030pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201030pit
+Najee Harris,PIT,28,188,1,7,61,2.2,127,4.5,8,3.5,202201030pit
+Ben Roethlisberger,PIT,1,-1,0,0,-1,-1.0,0,0.0,0,,202201030pit
+Benny Snell Jr.,PIT,1,2,0,,1,1.0,1,1.0,0,,202201030pit
+Derek Watt,PIT,1,1,0,1,0,0.0,1,1.0,0,,202201030pit
+Miles Sanders,PHI,15,74,0,3,65,4.3,9,0.6,0,,202109120atl
+Kenneth Gainwell,PHI,9,37,1,3,35,3.9,2,0.2,0,,202109120atl
+Jalen Hurts,PHI,7,62,0,4,51,7.3,11,1.6,1,7.0,202109120atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120atl
+Mike Davis,ATL,15,49,0,2,29,1.9,20,1.3,1,15.0,202109120atl
+Cordarrelle Patterson,ATL,7,54,0,4,35,5.0,19,2.7,1,7.0,202109120atl
+Matt Ryan,ATL,2,8,0,0,8,4.0,0,0.0,0,,202109120atl
+Keith Smith,ATL,2,13,0,1,13,6.5,0,0.0,0,,202109120atl
+Najee Harris,PIT,15,62,1,5,28,1.9,34,2.3,1,15.0,202110030gnb
+Benny Snell Jr.,PIT,1,0,0,,0,0.0,0,0.0,0,,202110030gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030gnb
+AJ Dillon,GNB,15,81,0,5,45,3.0,36,2.4,2,7.5,202110030gnb
+Aaron Jones,GNB,15,48,0,3,28,1.9,20,1.3,1,15.0,202110030gnb
+Aaron Rodgers,GNB,3,2,1,1,2,0.7,0,0.0,0,,202110030gnb
+Trayveon Williams,CIN,9,38,0,3,21,2.3,17,1.9,5,1.8,202201090cle
+Chris Evans,CIN,7,35,0,2,26,3.7,9,1.3,3,2.3,202201090cle
+Brandon Allen,CIN,1,3,0,1,1,1.0,2,2.0,0,,202201090cle
+Stanley Morgan Jr.,CIN,1,3,0,,3,3.0,0,0.0,0,,202201090cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090cle
+D'Ernest Johnson,CLE,25,123,1,8,105,4.2,18,0.7,1,25.0,202201090cle
+Nick Chubb,CLE,9,58,0,3,14,1.6,44,4.9,3,3.0,202201090cle
+Case Keenum,CLE,5,15,0,3,14,2.8,1,0.2,0,,202201090cle
+Demetric Felton,CLE,1,6,0,0,6,6.0,0,0.0,0,,202201090cle
+Anthony Schwartz,CLE,1,3,0,1,3,3.0,0,0.0,0,,202201090cle
+Darrel Williams,KAN,11,43,0,2,31,2.8,12,1.1,0,,202111140rai
+Derrick Gore,KAN,6,19,0,,10,1.7,9,1.5,0,,202111140rai
+Jerick McKinnon,KAN,3,26,0,2,20,6.7,6,2.0,0,,202111140rai
+Chad Henne,KAN,2,-2,0,,-2,-1.0,0,0.0,0,,202111140rai
+Blake Bell,KAN,1,3,0,1,1,1.0,2,2.0,0,,202111140rai
+Mecole Hardman,KAN,1,3,0,0,2,2.0,1,1.0,0,,202111140rai
+Tyreek Hill,KAN,1,2,0,0,2,2.0,0,0.0,0,,202111140rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140rai
+Josh Jacobs,LVR,7,16,0,2,7,1.0,9,1.3,0,,202111140rai
+Kenyan Drake,LVR,4,16,0,1,10,2.5,6,1.5,0,,202111140rai
+Derek Carr,LVR,3,18,0,0,16,5.3,2,0.7,0,,202111140rai
+Devin Singletary,BUF,6,16,0,0,8,1.3,8,1.3,0,,202111070jax
+Josh Allen,BUF,5,50,0,2,41,8.2,9,1.8,0,,202111070jax
+Zack Moss,BUF,3,6,0,0,1,0.3,5,1.7,1,3.0,202111070jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070jax
+Carlos Hyde,JAX,21,67,0,3,42,2.0,25,1.2,0,,202111070jax
+Trevor Lawrence,JAX,3,4,0,1,3,1.0,1,0.3,0,,202111070jax
+Jamal Agnew,JAX,1,11,0,1,11,11.0,0,0.0,0,,202111070jax
+Dare Ogunbowale,JAX,1,1,0,,1,1.0,0,0.0,0,,202111070jax
+Laviska Shenault Jr.,JAX,1,-4,0,0,-4,-4.0,0,0.0,0,,202111070jax
+Ezekiel Elliott,DAL,13,45,0,3,20,1.5,25,1.9,1,13.0,202112020nor
+Tony Pollard,DAL,7,71,1,1,12,1.7,59,8.4,1,7.0,202112020nor
+Dak Prescott,DAL,3,-3,0,0,-3,-1.0,0,0.0,0,,202112020nor
+CeeDee Lamb,DAL,1,33,0,1,27,27.0,6,6.0,0,,202112020nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112020nor
+Taysom Hill,NOR,11,101,0,6,74,6.7,27,2.5,1,11.0,202112020nor
+Mark Ingram,NOR,10,28,0,,18,1.8,10,1.0,0,,202112020nor
+Ty Montgomery,NOR,4,21,0,1,14,3.5,7,1.8,0,,202112020nor
+Deonte Harty,NOR,1,3,0,0,3,3.0,0,0.0,0,,202112020nor
+Dalvin Cook,MIN,29,140,1,8,69,2.4,71,2.4,2,14.5,202110170car
+Alexander Mattison,MIN,3,10,0,,3,1.0,7,2.3,1,3.0,202110170car
+Kirk Cousins,MIN,2,16,0,1,16,8.0,0,0.0,0,,202110170car
+C.J. Ham,MIN,1,30,0,1,22,22.0,8,8.0,0,,202110170car
+Adam Thielen,MIN,1,2,0,0,0,0.0,2,2.0,0,,202110170car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170car
+Chuba Hubbard,CAR,16,61,1,5,23,1.4,38,2.4,0,,202110170car
+Sam Darnold,CAR,4,48,0,3,48,12.0,0,0.0,0,,202110170car
+Royce Freeman,CAR,1,3,0,,2,2.0,1,1.0,0,,202110170car
+D.J. Moore,CAR,1,6,0,0,4,4.0,2,2.0,0,,202110170car
+Tommy Tremble,CAR,1,0,0,,0,0.0,0,0.0,0,,202110170car
+Joe Mixon,CIN,12,59,1,2,39,3.3,20,1.7,1,12.0,202110240rav
+Samaje Perine,CIN,11,52,1,1,11,1.0,41,3.7,0,,202110240rav
+Joe Burrow,CIN,1,0,0,0,0,0.0,0,0.0,0,,202110240rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240rav
+Lamar Jackson,BAL,12,88,0,5,63,5.3,25,2.1,0,,202110240rav
+Le'Veon Bell,BAL,5,5,0,1,1,0.2,4,0.8,0,,202110240rav
+Devonta Freeman,BAL,4,14,1,2,5,1.3,9,2.3,0,,202110240rav
+Ty'Son Williams,BAL,2,10,0,0,5,2.5,5,2.5,0,,202110240rav
+Devin Duvernay,BAL,1,-2,0,0,-2,-2.0,0,0.0,0,,202110240rav
+Elijah Mitchell,SFO,21,85,0,3,27,1.3,58,2.8,3,7.0,202201090ram
+Deebo Samuel,SFO,8,45,1,3,23,2.9,22,2.8,0,,202201090ram
+Jimmy Garoppolo,SFO,1,1,0,1,0,0.0,1,1.0,0,,202201090ram
+Jamycal Hasty,SFO,1,4,0,1,0,0.0,4,4.0,0,,202201090ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090ram
+Sony Michel,LAR,21,43,0,3,13,0.6,30,1.4,0,,202201090ram
+Cam Akers,LAR,5,3,0,,-2,-0.4,5,1.0,0,,202201090ram
+Cooper Kupp,LAR,1,18,0,1,16,16.0,2,2.0,0,,202201090ram
+Mike Davis,ATL,12,50,0,2,17,1.4,33,2.8,2,6.0,202109260nyg
+Cordarrelle Patterson,ATL,7,20,0,1,12,1.7,8,1.1,0,,202109260nyg
+Matt Ryan,ATL,1,-1,0,0,-1,-1.0,0,0.0,0,,202109260nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260nyg
+Saquon Barkley,NYG,16,51,1,4,27,1.7,24,1.5,1,16.0,202109260nyg
+Daniel Jones,NYG,8,39,0,3,36,4.5,3,0.4,0,,202109260nyg
+Elijhaa Penny,NYG,2,6,0,,3,1.5,3,1.5,0,,202109260nyg
+Gary Brightwell,NYG,1,4,0,,3,3.0,1,1.0,0,,202109260nyg
+Ronald Jones II,TAM,10,26,0,2,10,1.0,16,1.6,0,,202201020nyj
+Ke'Shawn Vaughn,TAM,8,31,0,2,17,2.1,14,1.8,0,,202201020nyj
+Le'Veon Bell,TAM,3,5,0,0,3,1.0,2,0.7,0,,202201020nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020nyj
+Austin Walter,NYJ,14,49,0,2,29,2.1,20,1.4,0,,202201020nyj
+Ty Johnson,NYJ,5,35,1,3,34,6.8,1,0.2,0,,202201020nyj
+Michael Carter,NYJ,3,54,0,1,2,0.7,52,17.3,0,,202201020nyj
+Braxton Berrios,NYJ,2,12,1,2,9,4.5,3,1.5,0,,202201020nyj
+Zach Wilson,NYJ,2,0,0,0,0,0.0,0,0.0,0,,202201020nyj
+Jonathan Taylor,IND,27,108,0,4,23,0.9,85,3.1,3,9.0,202112250crd
+Nyheim Hines,IND,3,11,0,,9,3.0,2,0.7,0,,202112250crd
+Carson Wentz,IND,2,4,0,1,4,2.0,0,0.0,0,,202112250crd
+Michael Pittman Jr.,IND,1,3,0,0,3,3.0,0,0.0,0,,202112250crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112250crd
+Chase Edmonds,ARI,16,56,1,5,42,2.6,14,0.9,0,,202112250crd
+Kyler Murray,ARI,4,74,0,2,74,18.5,0,0.0,0,,202112250crd
+Jonathan Ward,ARI,1,3,0,1,2,2.0,1,1.0,0,,202112250crd
+Cordarrelle Patterson,ATL,16,108,2,5,74,4.6,34,2.1,0,,202111280jax
+Mike Davis,ATL,5,16,0,0,9,1.8,7,1.4,0,,202111280jax
+Wayne Gallman,ATL,4,19,0,1,13,3.3,6,1.5,0,,202111280jax
+Matt Ryan,ATL,4,6,0,0,6,1.5,0,0.0,0,,202111280jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280jax
+James Robinson,JAX,17,86,0,4,63,3.7,23,1.4,0,,202111280jax
+Carlos Hyde,JAX,6,16,0,1,10,1.7,6,1.0,1,6.0,202111280jax
+Trevor Lawrence,JAX,5,39,0,2,36,7.2,3,0.6,0,,202111280jax
+Mark Ingram,HOU,18,73,0,5,50,2.8,23,1.3,1,18.0,202110170clt
+Phillip Lindsay,HOU,7,39,0,1,37,5.3,2,0.3,0,,202110170clt
+David Johnson,HOU,2,7,0,0,4,2.0,3,1.5,0,,202110170clt
+Davis Mills,HOU,2,5,0,1,5,2.5,0,0.0,0,,202110170clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170clt
+Jonathan Taylor,IND,14,145,2,6,62,4.4,83,5.9,1,14.0,202110170clt
+Marlon Mack,IND,5,12,0,,6,1.2,6,1.2,0,,202110170clt
+Nyheim Hines,IND,4,13,0,1,8,2.0,5,1.3,0,,202110170clt
+Carson Wentz,IND,2,1,0,0,0,0.0,1,0.5,0,,202110170clt
+Michael Pittman Jr.,IND,1,3,0,0,2,2.0,1,1.0,0,,202110170clt
+Ronald Jones II,TAM,20,65,1,4,38,1.9,27,1.4,0,,202112260car
+Ke'Shawn Vaughn,TAM,7,70,1,2,10,1.4,60,8.6,2,3.5,202112260car
+Le'Veon Bell,TAM,2,-1,0,,-1,-0.5,0,0.0,0,,202112260car
+Tom Brady,TAM,1,11,0,1,11,11.0,0,0.0,0,,202112260car
+Cyril Grayson,TAM,1,14,0,1,14,14.0,0,0.0,0,,202112260car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260car
+Chuba Hubbard,CAR,6,9,0,2,3,0.5,6,1.0,0,,202112260car
+Cam Newton,CAR,5,42,0,1,42,8.4,0,0.0,0,,202112260car
+Ameer Abdullah,CAR,2,1,0,,1,0.5,0,0.0,0,,202112260car
+Reggie Bonnafon,CAR,1,4,0,0,4,4.0,0,0.0,0,,202112260car
+Sam Darnold,CAR,1,11,0,1,11,11.0,0,0.0,0,,202112260car
+Nick Chubb,CLE,14,137,2,6,21,1.5,116,8.3,3,4.7,202111070cin
+D'Ernest Johnson,CLE,8,16,0,,4,0.5,12,1.5,2,4.0,202111070cin
+Jarvis Landry,CLE,1,0,0,,0,0.0,0,0.0,0,,202111070cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070cin
+Joe Mixon,CIN,13,64,2,4,25,1.9,39,3.0,0,,202111070cin
+Samaje Perine,CIN,5,20,0,2,6,1.2,14,2.8,0,,202111070cin
+Joe Burrow,CIN,2,1,0,0,1,0.5,0,0.0,0,,202111070cin
+Ja'Marr Chase,CIN,2,0,0,0,0,0.0,0,0.0,0,,202111070cin
+Brandon Allen,CIN,1,0,0,,0,0.0,0,0.0,0,,202111070cin
+Phillip Lindsay,HOU,8,28,0,3,22,2.8,6,0.8,0,,202111070mia
+David Johnson,HOU,4,11,0,0,6,1.5,5,1.3,0,,202111070mia
+Tyrod Taylor,HOU,3,23,0,0,12,4.0,11,3.7,1,3.0,202111070mia
+Rex Burkhead,HOU,2,9,0,,7,3.5,2,1.0,0,,202111070mia
+Scottie Phillips,HOU,1,2,0,,1,1.0,1,1.0,0,,202111070mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070mia
+Myles Gaskin,MIA,20,34,1,3,20,1.0,14,0.7,0,,202111070mia
+Salvon Ahmed,MIA,4,6,0,,3,0.8,3,0.8,0,,202111070mia
+Jacoby Brissett,MIA,1,7,0,1,5,5.0,2,2.0,0,,202111070mia
+Jalen Hurts,PHI,9,35,0,0,24,2.7,11,1.2,0,,202109270dal
+Miles Sanders,PHI,2,27,0,1,20,10.0,7,3.5,0,,202109270dal
+Kenneth Gainwell,PHI,1,2,0,0,1,1.0,1,1.0,0,,202109270dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109270dal
+Ezekiel Elliott,DAL,17,95,2,6,48,2.8,47,2.8,1,17.0,202109270dal
+Tony Pollard,DAL,11,60,0,3,34,3.1,26,2.4,0,,202109270dal
+Dak Prescott,DAL,9,6,0,0,0,0.0,6,0.7,0,,202109270dal
+Corey Clement,DAL,3,0,0,,-6,-2.0,6,2.0,1,3.0,202109270dal
+CeeDee Lamb,DAL,1,-1,0,0,-1,-1.0,0,0.0,0,,202109270dal
+Patrick Mahomes,KAN,9,54,0,3,54,6.0,0,0.0,0,,202201080den
+Derrick Gore,KAN,7,30,0,,22,3.1,8,1.1,0,,202201080den
+Darrel Williams,KAN,7,17,0,2,11,1.6,6,0.9,0,,202201080den
+Jerick McKinnon,KAN,5,24,0,0,16,3.2,8,1.6,0,,202201080den
+Mecole Hardman,KAN,1,10,0,1,7,7.0,3,3.0,0,,202201080den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201080den
+Melvin Gordon,DEN,12,110,1,2,24,2.0,86,7.2,0,,202201080den
+Javonte Williams,DEN,12,46,0,3,23,1.9,23,1.9,0,,202201080den
+Drew Lock,DEN,4,35,2,3,32,8.0,3,0.8,0,,202201080den
+Cordarrelle Patterson,ATL,9,28,0,2,20,2.2,8,0.9,0,,202201020buf
+Mike Davis,ATL,8,42,1,3,21,2.6,21,2.6,0,,202201020buf
+Qadree Ollison,ATL,3,19,0,2,10,3.3,9,3.0,0,,202201020buf
+Matt Ryan,ATL,2,7,0,0,7,3.5,0,0.0,0,,202201020buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020buf
+Devin Singletary,BUF,23,110,2,7,33,1.4,77,3.3,4,5.8,202201020buf
+Josh Allen,BUF,15,81,2,8,36,2.4,45,3.0,4,3.8,202201020buf
+Zack Moss,BUF,5,39,0,4,21,4.2,18,3.6,1,5.0,202201020buf
+Isaiah McKenzie,BUF,1,3,0,,2,2.0,1,1.0,0,,202201020buf
+Sony Michel,LAR,20,79,0,4,46,2.3,33,1.7,3,6.7,202112130crd
+Van Jefferson,LAR,1,10,0,0,0,0.0,10,10.0,0,,202112130crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112130crd
+James Conner,ARI,13,31,2,2,10,0.8,21,1.6,2,6.5,202112130crd
+Kyler Murray,ARI,7,61,0,3,37,5.3,24,3.4,0,,202112130crd
+Rondale Moore,ARI,2,11,0,0,6,3.0,5,2.5,0,,202112130crd
+Darrell Henderson,LAR,5,31,0,2,22,4.4,9,1.8,0,,202111150sfo
+Sony Michel,LAR,4,20,0,,12,3.0,8,2.0,0,,202111150sfo
+Matthew Stafford,LAR,1,1,0,0,1,1.0,0,0.0,0,,202111150sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111150sfo
+Elijah Mitchell,SFO,27,91,0,4,48,1.8,43,1.6,2,13.5,202111150sfo
+Jeff Wilson,SFO,10,28,0,2,10,1.0,18,1.8,0,,202111150sfo
+Deebo Samuel,SFO,5,36,1,3,24,4.8,12,2.4,1,5.0,202111150sfo
+Jimmy Garoppolo,SFO,2,1,0,1,1,0.5,0,0.0,0,,202111150sfo
+Derrick Henry,TEN,28,68,0,4,13,0.5,55,2.0,0,,202110310clt
+Ryan Tannehill,TEN,2,26,0,2,23,11.5,3,1.5,0,,202110310clt
+Logan Woodside,TEN,1,-1,0,,-1,-1.0,0,0.0,0,,202110310clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310clt
+Jonathan Taylor,IND,16,70,1,7,38,2.4,32,2.0,0,,202110310clt
+Carson Wentz,IND,3,11,0,2,7,2.3,4,1.3,0,,202110310clt
+Nyheim Hines,IND,1,2,0,0,0,0.0,2,2.0,0,,202110310clt
+Chuba Hubbard,CAR,17,55,1,4,35,2.1,20,1.2,2,8.5,202201020nor
+Ameer Abdullah,CAR,6,21,0,2,20,3.3,1,0.2,0,,202201020nor
+Sam Darnold,CAR,2,7,0,1,6,3.0,1,0.5,0,,202201020nor
+Cam Newton,CAR,1,5,0,,2,2.0,3,3.0,1,1.0,202201020nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020nor
+Alvin Kamara,NOR,13,32,0,1,22,1.7,10,0.8,1,13.0,202201020nor
+Taysom Hill,NOR,12,45,0,2,41,3.4,4,0.3,0,,202201020nor
+Tony Jones,NOR,1,-2,0,,-2,-2.0,0,0.0,0,,202201020nor
+Ty Montgomery,NOR,1,-4,0,,-4,-4.0,0,0.0,0,,202201020nor
+Adam Prentice,NOR,1,2,0,1,2,2.0,0,0.0,0,,202201020nor
+Antonio Gibson,WAS,15,26,1,3,13,0.9,13,0.9,0,,202112210phi
+Jaret Patterson,WAS,4,20,1,2,8,2.0,12,3.0,0,,202112210phi
+DeAndre Carter,WAS,1,12,0,0,12,12.0,0,0.0,0,,202112210phi
+Jonathan Williams,WAS,1,5,0,,3,3.0,2,2.0,0,,202112210phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112210phi
+Miles Sanders,PHI,18,131,0,4,74,4.1,57,3.2,2,9.0,202112210phi
+Jordan Howard,PHI,15,69,0,3,35,2.3,34,2.3,1,15.0,202112210phi
+Jalen Hurts,PHI,8,38,2,4,32,4.0,6,0.8,0,,202112210phi
+Mark Ingram,NOR,14,47,1,2,31,2.2,16,1.1,1,14.0,202111140oti
+Taysom Hill,NOR,3,23,0,2,14,4.7,9,3.0,1,3.0,202111140oti
+Dwayne Washington,NOR,2,8,0,,4,2.0,4,2.0,0,,202111140oti
+Deonte Harty,NOR,1,6,0,0,3,3.0,3,3.0,0,,202111140oti
+Ty Montgomery,NOR,1,2,0,1,1,1.0,1,1.0,0,,202111140oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140oti
+D'Onta Foreman,TEN,11,30,0,0,12,1.1,18,1.6,0,,202111140oti
+Adrian Peterson,TEN,8,21,0,1,13,1.6,8,1.0,0,,202111140oti
+Ryan Tannehill,TEN,5,1,1,2,-1,-0.2,2,0.4,0,,202111140oti
+Jeremy McNichols,TEN,4,7,0,,5,1.3,2,0.5,0,,202111140oti
+A.J. Brown,TEN,1,7,0,1,5,5.0,2,2.0,0,,202111140oti
+Antonio Gibson,WAS,14,51,0,2,27,1.9,24,1.7,0,,202110240gnb
+Taylor Heinicke,WAS,10,95,0,5,92,9.2,3,0.3,0,,202110240gnb
+J.D. McKissic,WAS,4,22,0,1,15,3.8,7,1.8,0,,202110240gnb
+DeAndre Carter,WAS,1,27,0,1,27,27.0,0,0.0,0,,202110240gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240gnb
+Aaron Jones,GNB,6,19,0,0,9,1.5,10,1.7,0,,202110240gnb
+AJ Dillon,GNB,3,6,0,,3,1.0,3,1.0,0,,202110240gnb
+Kylin Hill,GNB,3,2,0,,-1,-0.3,3,1.0,0,,202110240gnb
+Aaron Rodgers,GNB,2,17,0,1,2,1.0,15,7.5,0,,202110240gnb
+Equanimeous St. Brown,GNB,1,13,0,1,7,7.0,6,6.0,0,,202110240gnb
+Najee Harris,PIT,19,93,0,4,37,1.9,56,2.9,3,6.3,202112260kan
+Benny Snell Jr.,PIT,5,20,0,1,9,1.8,11,2.2,1,5.0,202112260kan
+Mason Rudolph,PIT,1,17,0,1,17,17.0,0,0.0,0,,202112260kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260kan
+Derrick Gore,KAN,12,43,0,3,18,1.5,25,2.1,1,12.0,202112260kan
+Darrel Williams,KAN,11,55,0,3,35,3.2,20,1.8,0,,202112260kan
+Clyde Edwards-Helaire,KAN,9,27,1,2,6,0.7,21,2.3,1,9.0,202112260kan
+Chad Henne,KAN,2,0,0,,0,0.0,0,0.0,0,,202112260kan
+Michael Burton,KAN,1,2,0,1,1,1.0,1,1.0,0,,202112260kan
+Michael Carter,NYJ,13,49,0,2,33,2.5,16,1.2,1,13.0,202111040clt
+Josh Johnson,NYJ,4,18,0,1,18,4.5,0,0.0,0,,202111040clt
+Ty Johnson,NYJ,4,21,0,0,17,4.3,4,1.0,0,,202111040clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111040clt
+Jonathan Taylor,IND,19,172,2,5,56,2.9,116,6.1,2,9.5,202111040clt
+Nyheim Hines,IND,6,74,1,3,29,4.8,45,7.5,0,,202111040clt
+Carson Wentz,IND,4,13,0,1,11,2.8,2,0.5,0,,202111040clt
+Sam Ehlinger,IND,1,1,0,,1,1.0,0,0.0,0,,202111040clt
+James Robinson,JAX,12,57,1,5,37,3.1,20,1.7,0,,202111140clt
+Trevor Lawrence,JAX,5,33,0,0,32,6.4,1,0.2,0,,202111140clt
+Jamal Agnew,JAX,3,79,1,1,72,24.0,7,2.3,0,,202111140clt
+Carlos Hyde,JAX,2,4,0,,1,0.5,3,1.5,0,,202111140clt
+Laviska Shenault Jr.,JAX,2,6,0,0,2,1.0,4,2.0,0,,202111140clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140clt
+Jonathan Taylor,IND,21,116,1,5,84,4.0,32,1.5,0,,202111140clt
+Carson Wentz,IND,4,-1,0,0,-1,-0.3,0,0.0,0,,202111140clt
+Nyheim Hines,IND,2,12,0,0,9,4.5,3,1.5,0,,202111140clt
+Tevin Coleman,NYJ,16,67,0,4,50,3.1,17,1.1,1,16.0,202111280htx
+Austin Walter,NYJ,9,38,1,3,30,3.3,8,0.9,0,,202111280htx
+Ty Johnson,NYJ,6,42,0,1,30,5.0,12,2.0,0,,202111280htx
+Zach Wilson,NYJ,2,3,1,1,3,1.5,0,0.0,0,,202111280htx
+Elijah Moore,NYJ,1,7,0,1,4,4.0,3,3.0,1,1.0,202111280htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280htx
+Rex Burkhead,HOU,12,27,0,1,18,1.5,9,0.8,0,,202111280htx
+David Johnson,HOU,10,39,0,2,18,1.8,21,2.1,1,10.0,202111280htx
+Tyrod Taylor,HOU,2,30,0,1,15,7.5,15,7.5,1,2.0,202111280htx
+Christian McCaffrey,CAR,10,35,0,1,23,2.3,12,1.2,1,10.0,202111280mia
+Cam Newton,CAR,3,5,1,2,4,1.3,1,0.3,1,3.0,202111280mia
+Ameer Abdullah,CAR,2,4,0,1,4,2.0,0,0.0,0,,202111280mia
+Chuba Hubbard,CAR,2,6,0,,2,1.0,4,2.0,0,,202111280mia
+Sean Chandler,CAR,1,14,0,1,14,14.0,0,0.0,0,,202111280mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280mia
+Myles Gaskin,MIA,16,49,2,3,33,2.1,16,1.0,2,8.0,202111280mia
+Phillip Lindsay,MIA,12,42,0,1,36,3.0,6,0.5,0,,202111280mia
+Salvon Ahmed,MIA,5,17,0,2,17,3.4,0,0.0,0,,202111280mia
+Tua Tagovailoa,MIA,4,0,0,1,0,0.0,0,0.0,0,,202111280mia
+Durham Smythe,MIA,2,3,0,2,3,1.5,0,0.0,0,,202111280mia
+Najee Harris,PIT,8,23,0,0,20,2.5,3,0.4,0,,202111280cin
+Kalen Ballage,PIT,3,21,0,1,17,5.7,4,1.3,0,,202111280cin
+Anthony McFarland Jr.,PIT,2,2,0,0,2,1.0,0,0.0,0,,202111280cin
+Benny Snell Jr.,PIT,2,5,0,,3,1.5,2,1.0,0,,202111280cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280cin
+Joe Mixon,CIN,28,165,2,11,100,3.6,65,2.3,1,28.0,202111280cin
+Chris Evans,CIN,5,23,0,1,15,3.0,8,1.6,0,,202111280cin
+Samaje Perine,CIN,3,3,0,0,3,1.0,0,0.0,0,,202111280cin
+Brandon Allen,CIN,1,-1,0,,-1,-1.0,0,0.0,0,,202111280cin
+Joe Burrow,CIN,1,8,1,1,5,5.0,3,3.0,0,,202111280cin
+D'Onta Foreman,TEN,19,109,0,3,54,2.8,55,2.9,2,9.5,202111280nwe
+Dontrell Hilliard,TEN,12,131,1,4,60,5.0,71,5.9,3,4.0,202111280nwe
+Ryan Tannehill,TEN,5,24,0,3,18,3.6,6,1.2,0,,202111280nwe
+Khari Blasingame,TEN,3,6,0,1,0,0.0,6,2.0,0,,202111280nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280nwe
+Damien Harris,NWE,11,40,1,2,18,1.6,22,2.0,0,,202111280nwe
+Rhamondre Stevenson,NWE,9,46,0,2,11,1.2,35,3.9,3,3.0,202111280nwe
+Mac Jones,NWE,2,11,0,1,9,4.5,2,1.0,0,,202111280nwe
+Brian Hoyer,NWE,1,-1,0,,-1,-1.0,0,0.0,0,,202111280nwe
+Jonnu Smith,NWE,1,9,0,1,6,6.0,3,3.0,0,,202111280nwe
+Alvin Kamara,NOR,27,120,1,7,96,3.6,24,0.9,3,9.0,202112120nyj
+Taysom Hill,NOR,11,73,2,5,73,6.6,0,0.0,0,,202112120nyj
+Tony Jones,NOR,6,10,0,0,10,1.7,0,0.0,0,,202112120nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120nyj
+La'Mical Perine,NYJ,7,28,0,1,21,3.0,7,1.0,0,,202112120nyj
+Ty Johnson,NYJ,6,17,0,0,17,2.8,0,0.0,0,,202112120nyj
+Zach Wilson,NYJ,4,33,0,1,33,8.3,0,0.0,0,,202112120nyj
+Elijah Mitchell,SFO,17,42,0,3,37,2.2,5,0.3,0,,202109190phi
+Jimmy Garoppolo,SFO,11,20,1,5,20,1.8,0,0.0,0,,202109190phi
+Jamycal Hasty,SFO,5,38,0,2,31,6.2,7,1.4,1,5.0,202109190phi
+Deebo Samuel,SFO,2,8,0,0,5,2.5,3,1.5,1,2.0,202109190phi
+Trenton Cannon,SFO,1,-1,0,,-1,-1.0,0,0.0,0,,202109190phi
+Kyle Juszczyk,SFO,1,2,0,0,2,2.0,0,0.0,0,,202109190phi
+Trey Sermon,SFO,1,8,0,,5,5.0,3,3.0,0,,202109190phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190phi
+Miles Sanders,PHI,13,55,0,3,41,3.2,14,1.1,9,1.4,202109190phi
+Jalen Hurts,PHI,10,82,1,5,81,8.1,1,0.1,1,10.0,202109190phi
+Kenneth Gainwell,PHI,6,14,0,0,11,1.8,3,0.5,0,,202109190phi
+Devonta Freeman,BAL,16,49,1,3,32,2.0,17,1.1,0,,202111210chi
+Latavius Murray,BAL,10,32,0,3,21,2.1,11,1.1,0,,202111210chi
+Tyler Huntley,BAL,7,40,0,2,34,4.9,6,0.9,0,,202111210chi
+Patrick Ricard,BAL,1,2,0,1,0,0.0,2,2.0,0,,202111210chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210chi
+David Montgomery,CHI,14,58,0,2,32,2.3,26,1.9,0,,202111210chi
+Justin Fields,CHI,4,23,0,0,17,4.3,6,1.5,0,,202111210chi
+Jakeem Grant,CHI,1,11,0,1,10,10.0,1,1.0,0,,202111210chi
+Khalil Herbert,CHI,1,0,0,,0,0.0,0,0.0,0,,202111210chi
+Jeff Wilson,SFO,19,50,0,5,30,1.6,20,1.1,0,,202111210jax
+Trey Sermon,SFO,10,32,0,2,17,1.7,15,1.5,1,10.0,202111210jax
+Deebo Samuel,SFO,8,79,1,4,38,4.8,41,5.1,0,,202111210jax
+Trey Lance,SFO,3,4,0,1,1,0.3,3,1.0,0,,202111210jax
+Jimmy Garoppolo,SFO,2,6,0,1,6,3.0,0,0.0,0,,202111210jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210jax
+James Robinson,JAX,12,29,1,3,15,1.3,14,1.2,0,,202111210jax
+Trevor Lawrence,JAX,3,23,0,2,20,6.7,3,1.0,0,,202111210jax
+Jamal Agnew,JAX,1,2,0,0,1,1.0,1,1.0,0,,202111210jax
+Antonio Gibson,WAS,14,63,1,5,42,3.0,21,1.5,0,,202110030atl
+J.D. McKissic,WAS,7,15,0,1,10,1.4,5,0.7,0,,202110030atl
+Taylor Heinicke,WAS,5,43,0,2,43,8.6,0,0.0,0,,202110030atl
+Jaret Patterson,WAS,2,1,0,0,0,0.0,1,0.5,0,,202110030atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030atl
+Mike Davis,ATL,13,14,0,1,1,0.1,13,1.0,0,,202110030atl
+Wayne Gallman,ATL,6,29,0,2,19,3.2,10,1.7,1,6.0,202110030atl
+Cordarrelle Patterson,ATL,6,34,0,1,21,3.5,13,2.2,0,,202110030atl
+Feleipe Franks,ATL,1,3,0,,1,1.0,2,2.0,0,,202110030atl
+Matt Ryan,ATL,1,17,0,1,17,17.0,0,0.0,0,,202110030atl
+Keith Smith,ATL,1,2,0,1,1,1.0,1,1.0,0,,202110030atl
+Dalvin Cook,MIN,28,89,0,2,65,2.3,24,0.9,2,14.0,202112200chi
+Kene Nwangwu,MIN,3,33,0,2,23,7.7,10,3.3,1,3.0,202112200chi
+Kirk Cousins,MIN,2,10,0,0,10,5.0,0,0.0,0,,202112200chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112200chi
+David Montgomery,CHI,18,60,0,4,31,1.7,29,1.6,2,9.0,202112200chi
+Justin Fields,CHI,7,35,0,3,32,4.6,3,0.4,0,,202112200chi
+Jakeem Grant,CHI,2,17,0,1,9,4.5,8,4.0,1,2.0,202112200chi
+Darnell Mooney,CHI,1,3,0,0,3,3.0,0,0.0,0,,202112200chi
+Devin Singletary,BUF,15,44,0,4,4,0.3,40,2.7,3,5.0,202111250nor
+Matt Breida,BUF,9,26,0,1,8,0.9,18,2.0,1,9.0,202111250nor
+Josh Allen,BUF,8,43,0,4,27,3.4,16,2.0,0,,202111250nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111250nor
+Tony Jones,NOR,16,27,0,3,2,0.1,25,1.6,0,,202111250nor
+Ty Montgomery,NOR,6,14,0,0,1,0.2,13,2.2,2,3.0,202111250nor
+Trevor Siemian,NOR,3,3,0,1,0,0.0,3,1.0,0,,202111250nor
+Aaron Jones,GNB,13,58,0,2,30,2.3,28,2.2,1,13.0,202112190rav
+AJ Dillon,GNB,7,22,1,2,11,1.6,11,1.6,0,,202112190rav
+Aaron Rodgers,GNB,4,11,0,0,10,2.5,1,0.3,0,,202112190rav
+Allen Lazard,GNB,1,5,0,0,3,3.0,2,2.0,0,,202112190rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190rav
+Tyler Huntley,BAL,13,73,2,7,68,5.2,5,0.4,0,,202112190rav
+Latavius Murray,BAL,7,48,0,3,22,3.1,26,3.7,3,2.3,202112190rav
+Devonta Freeman,BAL,6,22,0,,13,2.2,9,1.5,0,,202112190rav
+Austin Ekeler,LAC,6,7,0,0,2,0.3,5,0.8,0,,202110170rav
+Joshua Kelley,LAC,4,7,0,1,1,0.3,6,1.5,0,,202110170rav
+Justin Herbert,LAC,2,12,0,2,1,0.5,11,5.5,0,,202110170rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170rav
+Devonta Freeman,BAL,9,53,1,3,31,3.4,22,2.4,0,,202110170rav
+Latavius Murray,BAL,9,44,1,4,29,3.2,15,1.7,2,4.5,202110170rav
+Le'Veon Bell,BAL,8,18,1,1,13,1.6,5,0.6,0,,202110170rav
+Lamar Jackson,BAL,8,51,0,4,25,3.1,26,3.3,2,4.0,202110170rav
+Tyler Huntley,BAL,3,10,0,1,7,2.3,3,1.0,0,,202110170rav
+Devin Duvernay,BAL,1,11,0,1,7,7.0,4,4.0,0,,202110170rav
+Alex Collins,SEA,10,41,0,3,21,2.1,20,2.0,0,,202111140gnb
+Russell Wilson,SEA,5,32,0,2,18,3.6,14,2.8,1,5.0,202111140gnb
+Travis Homer,SEA,1,2,0,1,1,1.0,1,1.0,0,,202111140gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140gnb
+AJ Dillon,GNB,21,66,2,8,27,1.3,39,1.9,2,10.5,202111140gnb
+Aaron Jones,GNB,7,25,0,0,12,1.7,13,1.9,0,,202111140gnb
+Aaron Rodgers,GNB,2,8,0,1,8,4.0,0,0.0,0,,202111140gnb
+Patrick Taylor,GNB,2,7,0,1,3,1.5,4,2.0,0,,202111140gnb
+Patrick Mahomes,KAN,6,35,0,1,34,5.7,1,0.2,0,,202110240oti
+Darrel Williams,KAN,5,20,0,2,9,1.8,11,2.2,0,,202110240oti
+Chad Henne,KAN,1,4,0,0,4,4.0,0,0.0,0,,202110240oti
+Tyreek Hill,KAN,1,18,0,1,18,18.0,0,0.0,0,,202110240oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240oti
+Derrick Henry,TEN,29,86,0,6,28,1.0,58,2.0,1,29.0,202110240oti
+Darrynton Evans,TEN,2,7,0,0,2,1.0,5,2.5,0,,202110240oti
+Ryan Tannehill,TEN,2,6,1,2,3,1.5,3,1.5,0,,202110240oti
+Marcus Johnson,TEN,1,5,0,1,1,1.0,4,4.0,0,,202110240oti
+Logan Woodside,TEN,1,-1,0,,-1,-1.0,0,0.0,0,,202110240oti
+Chris Carson,SEA,16,91,0,2,25,1.6,66,4.1,4,4.0,202109120clt
+Russell Wilson,SEA,5,9,0,2,9,1.8,0,0.0,0,,202109120clt
+D'Wayne Eskridge,SEA,2,22,0,1,12,6.0,10,5.0,1,2.0,202109120clt
+Rashaad Penny,SEA,2,8,0,,6,3.0,2,1.0,0,,202109120clt
+DeeJay Dallas,SEA,1,5,0,1,2,2.0,3,3.0,0,,202109120clt
+Freddie Swain,SEA,1,5,0,,3,3.0,2,2.0,0,,202109120clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120clt
+Jonathan Taylor,IND,17,56,0,6,25,1.5,31,1.8,3,5.7,202109120clt
+Nyheim Hines,IND,9,34,0,2,21,2.3,13,1.4,2,4.5,202109120clt
+Carson Wentz,IND,4,23,0,0,23,5.8,0,0.0,0,,202109120clt
+Antonio Gibson,WAS,12,31,0,1,15,1.3,16,1.3,1,12.0,202109260buf
+Taylor Heinicke,WAS,8,21,1,1,21,2.6,0,0.0,0,,202109260buf
+J.D. McKissic,WAS,3,23,0,1,14,4.7,9,3.0,0,,202109260buf
+Dyami Brown,WAS,1,-4,0,,-4,-4.0,0,0.0,0,,202109260buf
+Cam Sims,WAS,1,7,0,0,5,5.0,2,2.0,0,,202109260buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260buf
+Zack Moss,BUF,13,60,0,4,40,3.1,20,1.5,1,13.0,202109260buf
+Devin Singletary,BUF,11,26,0,1,13,1.2,13,1.2,0,,202109260buf
+Josh Allen,BUF,4,9,1,1,5,1.3,4,1.0,1,4.0,202109260buf
+Mitchell Trubisky,BUF,4,19,0,1,19,4.8,0,0.0,0,,202109260buf
+Isaiah McKenzie,BUF,1,8,0,1,6,6.0,2,2.0,0,,202109260buf
+Tevin Coleman,NYJ,9,24,0,2,9,1.0,15,1.7,0,,202109120car
+Michael Carter,NYJ,4,6,0,1,2,0.5,4,1.0,0,,202109120car
+Ty Johnson,NYJ,4,15,0,1,10,2.5,5,1.3,1,4.0,202109120car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120car
+Christian McCaffrey,CAR,21,98,0,2,59,2.8,39,1.9,0,,202109120car
+Sam Darnold,CAR,5,-1,1,1,-1,-0.2,0,0.0,0,,202109120car
+D.J. Moore,CAR,1,14,0,1,12,12.0,2,2.0,0,,202109120car
+James Conner,ARI,16,53,0,2,23,1.4,30,1.9,3,5.3,202109120oti
+Chase Edmonds,ARI,12,63,0,3,57,4.8,6,0.5,0,,202109120oti
+Kyler Murray,ARI,5,20,1,2,20,4.0,0,0.0,0,,202109120oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120oti
+Derrick Henry,TEN,17,58,0,2,41,2.4,17,1.0,0,,202109120oti
+Jeremy McNichols,TEN,2,9,0,,6,3.0,3,1.5,0,,202109120oti
+Ryan Tannehill,TEN,2,17,1,2,14,7.0,3,1.5,0,,202109120oti
+Mekhi Sargent,TEN,1,2,0,1,1,1.0,1,1.0,0,,202109120oti
+AJ Dillon,GNB,11,53,0,2,43,3.9,10,0.9,0,,202111210min
+Patrick Taylor,GNB,4,11,0,,7,1.8,4,1.0,0,,202111210min
+Aaron Rodgers,GNB,2,21,0,1,21,10.5,0,0.0,0,,202111210min
+Jordan Love,GNB,1,-1,0,,-1,-1.0,0,0.0,0,,202111210min
+Equanimeous St. Brown,GNB,1,11,0,1,4,4.0,7,7.0,0,,202111210min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210min
+Dalvin Cook,MIN,22,86,1,6,48,2.2,38,1.7,0,,202111210min
+Alexander Mattison,MIN,3,5,0,,3,1.0,2,0.7,0,,202111210min
+Kirk Cousins,MIN,2,-4,0,0,-4,-2.0,0,0.0,0,,202111210min
+C.J. Ham,MIN,1,0,0,,0,0.0,0,0.0,0,,202111210min
+Justin Jefferson,MIN,1,3,0,0,3,3.0,0,0.0,0,,202111210min
+Melvin Gordon,DEN,21,80,1,6,46,2.2,34,1.6,3,7.0,202111070dal
+Javonte Williams,DEN,17,111,0,5,59,3.5,52,3.1,4,4.3,202111070dal
+Teddy Bridgewater,DEN,3,-1,1,1,-2,-0.7,1,0.3,0,,202111070dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070dal
+Ezekiel Elliott,DAL,10,51,0,2,32,3.2,19,1.9,1,10.0,202111070dal
+Tony Pollard,DAL,4,11,0,0,11,2.8,0,0.0,0,,202111070dal
+Dak Prescott,DAL,2,16,0,0,16,8.0,0,0.0,0,,202111070dal
+Lamar Jackson,BAL,12,86,0,4,36,3.0,50,4.2,3,4.0,202109130rai
+Latavius Murray,BAL,10,28,1,1,4,0.4,24,2.4,1,10.0,202109130rai
+Ty'Son Williams,BAL,9,65,1,2,14,1.6,51,5.7,0,,202109130rai
+Trenton Cannon,BAL,2,5,0,,3,1.5,2,1.0,0,,202109130rai
+Marquise Brown,BAL,1,5,0,1,2,2.0,3,3.0,0,,202109130rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109130rai
+Josh Jacobs,LVR,10,34,2,4,14,1.4,20,2.0,2,5.0,202109130rai
+Kenyan Drake,LVR,6,11,0,1,4,0.7,7,1.2,1,6.0,202109130rai
+Derek Carr,LVR,4,6,0,0,5,1.3,1,0.3,0,,202109130rai
+Marcus Mariota,LVR,1,31,0,1,28,28.0,3,3.0,0,,202109130rai
+Peyton Barber,LVR,13,32,0,2,12,0.9,20,1.5,3,4.3,202109190pit
+Kenyan Drake,LVR,7,9,0,0,4,0.6,5,0.7,1,7.0,202109190pit
+Derek Carr,LVR,4,9,0,2,9,2.3,0,0.0,0,,202109190pit
+Henry Ruggs III,LVR,1,2,0,0,2,2.0,0,0.0,0,,202109190pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190pit
+Najee Harris,PIT,10,38,0,2,21,2.1,17,1.7,3,3.3,202109190pit
+Benny Snell Jr.,PIT,2,1,0,,1,0.5,0,0.0,0,,202109190pit
+Chase Claypool,PIT,1,-3,0,0,-3,-3.0,0,0.0,0,,202109190pit
+JuJu Smith-Schuster,PIT,1,3,1,1,0,0.0,3,3.0,1,1.0,202109190pit
+Javonte Williams,DEN,23,102,0,8,45,2.0,57,2.5,7,3.3,202112050kan
+Mike Boone,DEN,4,35,0,2,27,6.8,8,2.0,0,,202112050kan
+Teddy Bridgewater,DEN,4,17,0,2,10,2.5,7,1.8,0,,202112050kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050kan
+Clyde Edwards-Helaire,KAN,14,54,0,4,32,2.3,22,1.6,0,,202112050kan
+Darrel Williams,KAN,5,20,0,1,10,2.0,10,2.0,0,,202112050kan
+Patrick Mahomes,KAN,4,12,1,1,12,3.0,0,0.0,0,,202112050kan
+Michael Burton,KAN,1,3,0,1,1,1.0,2,2.0,0,,202112050kan
+Nick Chubb,CLE,15,83,2,4,48,3.2,35,2.3,2,7.5,202109120kan
+Kareem Hunt,CLE,6,33,1,2,20,3.3,13,2.2,0,,202109120kan
+Jarvis Landry,CLE,2,13,1,2,9,4.5,4,2.0,0,,202109120kan
+Jamie Gillan,CLE,1,0,0,,0,0.0,0,0.0,0,,202109120kan
+Baker Mayfield,CLE,1,7,0,0,6,6.0,1,1.0,0,,202109120kan
+Anthony Schwartz,CLE,1,17,0,1,17,17.0,0,0.0,0,,202109120kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120kan
+Clyde Edwards-Helaire,KAN,14,43,0,0,31,2.2,12,0.9,0,,202109120kan
+Patrick Mahomes,KAN,5,18,1,2,18,3.6,0,0.0,0,,202109120kan
+Blake Bell,KAN,1,2,0,1,2,2.0,0,0.0,0,,202109120kan
+Michael Burton,KAN,1,2,0,1,2,2.0,0,0.0,0,,202109120kan
+Tyreek Hill,KAN,1,4,0,0,2,2.0,2,2.0,0,,202109120kan
+Darrel Williams,KAN,1,4,0,,4,4.0,0,0.0,0,,202109120kan
+Damien Harris,NWE,16,62,1,4,19,1.2,43,2.7,2,8.0,202109190nyj
+James White,NWE,5,20,1,1,17,3.4,3,0.6,0,,202109190nyj
+J.J. Taylor,NWE,2,3,0,,3,1.5,0,0.0,0,,202109190nyj
+Kendrick Bourne,NWE,1,16,0,1,10,10.0,6,6.0,1,1.0,202109190nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190nyj
+Ty Johnson,NYJ,12,50,0,3,34,2.8,16,1.3,1,12.0,202109190nyj
+Michael Carter,NYJ,11,59,0,4,44,4.0,15,1.4,0,,202109190nyj
+Tevin Coleman,NYJ,5,24,0,1,15,3.0,9,1.8,0,,202109190nyj
+Zach Wilson,NYJ,3,19,0,1,19,6.3,0,0.0,0,,202109190nyj
+Melvin Gordon,DEN,9,34,0,1,21,2.3,13,1.4,0,,202110100pit
+Javonte Williams,DEN,8,61,0,2,40,5.0,21,2.6,0,,202110100pit
+Teddy Bridgewater,DEN,1,11,0,0,8,8.0,3,3.0,0,,202110100pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100pit
+Najee Harris,PIT,23,122,1,5,69,3.0,53,2.3,2,11.5,202110100pit
+Benny Snell Jr.,PIT,5,20,0,,14,2.8,6,1.2,1,5.0,202110100pit
+Kalen Ballage,PIT,4,0,0,,-2,-0.5,2,0.5,0,,202110100pit
+JuJu Smith-Schuster,PIT,2,6,0,,5,2.5,1,0.5,0,,202110100pit
+Ben Roethlisberger,PIT,1,-1,0,0,-1,-1.0,0,0.0,0,,202110100pit
+D'Andre Swift,DET,13,48,0,1,25,1.9,23,1.8,1,13.0,202110240ram
+Jamaal Williams,DET,12,57,0,5,25,2.1,32,2.7,1,12.0,202110240ram
+Jared Goff,DET,1,3,0,0,2,2.0,1,1.0,0,,202110240ram
+C.J. Moore,DET,1,28,0,1,28,28.0,0,0.0,0,,202110240ram
+Kalif Raymond,DET,1,1,0,0,0,0.0,1,1.0,0,,202110240ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240ram
+Darrell Henderson,LAR,15,45,0,2,18,1.2,27,1.8,0,,202110240ram
+Sony Michel,LAR,2,4,0,,1,0.5,3,1.5,0,,202110240ram
+Matthew Stafford,LAR,2,-2,0,0,-2,-1.0,0,0.0,0,,202110240ram
+Jeff Wilson,SFO,14,45,1,3,38,2.7,7,0.5,1,14.0,202112230oti
+Deebo Samuel,SFO,5,32,0,2,21,4.2,11,2.2,1,5.0,202112230oti
+Jimmy Garoppolo,SFO,1,3,0,1,3,3.0,0,0.0,0,,202112230oti
+Jamycal Hasty,SFO,1,3,0,0,3,3.0,0,0.0,0,,202112230oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112230oti
+D'Onta Foreman,TEN,9,17,1,1,11,1.2,6,0.7,1,9.0,202112230oti
+Jeremy McNichols,TEN,7,31,0,2,23,3.3,8,1.1,0,,202112230oti
+Dontrell Hilliard,TEN,5,20,0,,18,3.6,2,0.4,0,,202112230oti
+Ryan Tannehill,TEN,3,22,0,1,0,0.0,22,7.3,0,,202112230oti
+Benny Snell Jr.,PIT,12,22,0,1,9,0.8,13,1.1,0,,202201090rav
+Najee Harris,PIT,11,28,0,1,9,0.8,19,1.7,1,11.0,202201090rav
+Chase Claypool,PIT,3,33,0,3,30,10.0,3,1.0,0,,202201090rav
+Ben Roethlisberger,PIT,3,-4,0,0,-4,-1.3,0,0.0,0,,202201090rav
+Kalen Ballage,PIT,1,0,0,,0,0.0,0,0.0,0,,202201090rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090rav
+Latavius Murray,BAL,16,150,1,7,91,5.7,59,3.7,2,8.0,202201090rav
+Tyler Huntley,BAL,12,72,0,6,55,4.6,17,1.4,2,6.0,202201090rav
+Devonta Freeman,BAL,5,21,0,1,19,3.8,2,0.4,1,5.0,202201090rav
+Mark Andrews,BAL,1,0,0,0,0,0.0,0,0.0,0,,202201090rav
+Devin Duvernay,BAL,1,2,0,,2,2.0,0,0.0,0,,202201090rav
+Ty'Son Williams,BAL,1,4,0,,3,3.0,1,1.0,0,,202201090rav
+Devontae Booker,NYG,15,60,0,3,37,2.5,23,1.5,0,,202111010kan
+Daniel Jones,NYG,5,12,0,0,10,2.0,2,0.4,0,,202111010kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111010kan
+Darrel Williams,KAN,13,49,0,4,31,2.4,18,1.4,0,,202111010kan
+Derrick Gore,KAN,11,48,1,5,32,2.9,16,1.5,0,,202111010kan
+Patrick Mahomes,KAN,3,10,0,1,10,3.3,0,0.0,0,,202111010kan
+Joe Mixon,CIN,18,90,0,3,34,1.9,56,3.1,1,18.0,202109260pit
+Joe Burrow,CIN,5,7,0,1,4,0.8,3,0.6,0,,202109260pit
+Samaje Perine,CIN,1,-1,0,,-1,-1.0,0,0.0,0,,202109260pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260pit
+Najee Harris,PIT,14,40,0,1,14,1.0,26,1.9,1,14.0,202109260pit
+Ben Roethlisberger,PIT,1,5,0,1,5,5.0,0,0.0,0,,202109260pit
+David Montgomery,CHI,16,108,1,6,27,1.7,81,5.1,2,8.0,202109120ram
+Damien Williams,CHI,6,12,0,2,1,0.2,11,1.8,1,6.0,202109120ram
+Andy Dalton,CHI,2,13,0,1,13,6.5,0,0.0,0,,202109120ram
+Justin Fields,CHI,1,3,1,1,1,1.0,2,2.0,0,,202109120ram
+Marquise Goodwin,CHI,1,-2,0,0,-2,-2.0,0,0.0,0,,202109120ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120ram
+Darrell Henderson,LAR,16,70,1,4,48,3.0,22,1.4,0,,202109120ram
+Matthew Stafford,LAR,5,-5,0,0,-5,-1.0,0,0.0,0,,202109120ram
+Sony Michel,LAR,1,2,0,,1,1.0,1,1.0,0,,202109120ram
+Robert Woods,LAR,1,7,0,0,3,3.0,4,4.0,0,,202109120ram
+Alvin Kamara,NOR,20,51,0,1,29,1.5,22,1.1,0,,202110250sea
+Jameis Winston,NOR,8,40,0,5,25,3.1,15,1.9,0,,202110250sea
+Alex Armah,NOR,1,2,0,1,1,1.0,1,1.0,0,,202110250sea
+Ty Montgomery,NOR,1,4,0,,2,2.0,2,2.0,0,,202110250sea
+Devine Ozigbo,NOR,1,-3,0,0,-3,-3.0,0,0.0,0,,202110250sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110250sea
+Alex Collins,SEA,16,35,0,0,15,0.9,20,1.3,1,16.0,202110250sea
+Rashaad Penny,SEA,6,9,0,,3,0.5,6,1.0,0,,202110250sea
+Geno Smith,SEA,3,12,0,2,11,3.7,1,0.3,0,,202110250sea
+Gerald Everett,SEA,1,12,0,1,7,7.0,5,5.0,0,,202110250sea
+Travis Homer,SEA,1,14,0,,9,9.0,5,5.0,0,,202110250sea
+Freddie Swain,SEA,1,8,0,1,6,6.0,2,2.0,0,,202110250sea
+Chris Carson,SEA,13,30,0,2,10,0.8,20,1.5,0,,202110030sfo
+Alex Collins,SEA,10,44,1,3,30,3.0,14,1.4,0,,202110030sfo
+Russell Wilson,SEA,4,26,1,2,26,6.5,0,0.0,0,,202110030sfo
+Travis Homer,SEA,1,5,0,,1,1.0,4,4.0,1,1.0,202110030sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030sfo
+Trey Sermon,SFO,19,89,0,4,51,2.7,38,2.0,0,,202110030sfo
+Trey Lance,SFO,7,41,0,2,36,5.1,5,0.7,0,,202110030sfo
+Jacques Patrick,SFO,2,12,0,1,8,4.0,4,2.0,0,,202110030sfo
+Deebo Samuel,SFO,1,1,0,0,0,0.0,1,1.0,0,,202110030sfo
+Latavius Murray,BAL,18,59,1,4,37,2.1,22,1.2,1,18.0,202110030den
+Lamar Jackson,BAL,7,28,0,2,25,3.6,3,0.4,0,,202110030den
+Le'Veon Bell,BAL,4,11,0,,10,2.5,1,0.3,0,,202110030den
+Devonta Freeman,BAL,1,4,0,,4,4.0,0,0.0,0,,202110030den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030den
+Melvin Gordon,DEN,9,56,0,3,30,3.3,26,2.9,4,2.3,202110030den
+Javonte Williams,DEN,7,48,0,2,8,1.1,40,5.7,4,1.8,202110030den
+Teddy Bridgewater,DEN,1,2,0,0,2,2.0,0,0.0,0,,202110030den
+Carlos Hyde,JAX,9,24,1,1,19,2.1,5,0.6,0,,202112050ram
+James Robinson,JAX,8,24,0,1,21,2.6,3,0.4,0,,202112050ram
+Trevor Lawrence,JAX,4,10,0,1,6,1.5,4,1.0,0,,202112050ram
+Laviska Shenault Jr.,JAX,3,1,0,0,0,0.0,1,0.3,0,,202112050ram
+C.J. Beathard,JAX,1,2,0,,2,2.0,0,0.0,0,,202112050ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050ram
+Sony Michel,LAR,24,121,1,6,70,2.9,51,2.1,0,,202112050ram
+Mekhi Sargent,LAR,2,5,0,,3,1.5,2,1.0,0,,202112050ram
+Matthew Stafford,LAR,1,2,0,1,1,1.0,1,1.0,0,,202112050ram
+Antonio Gibson,WAS,23,88,0,6,51,2.2,37,1.6,1,23.0,202112050rai
+Taylor Heinicke,WAS,3,10,0,1,8,2.7,2,0.7,0,,202112050rai
+Curtis Samuel,WAS,2,-1,0,,-2,-1.0,1,0.5,0,,202112050rai
+Jaret Patterson,WAS,1,2,0,,2,2.0,0,0.0,0,,202112050rai
+Wendell Smallwood,WAS,1,13,0,,11,11.0,2,2.0,0,,202112050rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050rai
+Josh Jacobs,LVR,13,52,1,4,25,1.9,27,2.1,2,6.5,202112050rai
+Derek Carr,LVR,2,24,0,1,23,11.5,1,0.5,0,,202112050rai
+Kenyan Drake,LVR,1,0,0,,0,0.0,0,0.0,0,,202112050rai
+Alvin Kamara,NOR,30,146,0,7,76,2.5,70,2.3,4,7.5,202201090atl
+Tony Jones,NOR,7,22,0,,16,2.3,6,0.9,0,,202201090atl
+Taysom Hill,NOR,5,18,0,2,13,2.6,5,1.0,0,,202201090atl
+Trevor Siemian,NOR,2,-1,0,0,-1,-0.5,0,0.0,0,,202201090atl
+Deonte Harty,NOR,1,9,0,0,8,8.0,1,1.0,0,,202201090atl
+Adam Prentice,NOR,1,1,0,1,0,0.0,1,1.0,0,,202201090atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090atl
+Mike Davis,ATL,6,30,0,1,20,3.3,10,1.7,1,6.0,202201090atl
+Cordarrelle Patterson,ATL,4,11,0,1,7,1.8,4,1.0,0,,202201090atl
+Qadree Ollison,ATL,1,19,1,1,9,9.0,10,10.0,1,1.0,202201090atl
+Matt Ryan,ATL,1,2,0,0,2,2.0,0,0.0,0,,202201090atl
+Alex Collins,SEA,7,14,0,,6,0.9,8,1.1,0,,202111290was
+DeeJay Dallas,SEA,3,4,0,0,1,0.3,3,1.0,0,,202111290was
+Russell Wilson,SEA,2,16,0,1,9,4.5,7,3.5,0,,202111290was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111290was
+Antonio Gibson,WAS,29,111,0,8,45,1.6,66,2.3,4,7.3,202111290was
+J.D. McKissic,WAS,7,30,1,2,20,2.9,10,1.4,0,,202111290was
+Taylor Heinicke,WAS,4,3,0,0,-1,-0.3,4,1.0,0,,202111290was
+DeAndre Carter,WAS,1,4,0,0,2,2.0,2,2.0,0,,202111290was
+Jaret Patterson,WAS,1,0,0,,0,0.0,0,0.0,0,,202111290was
+Curtis Samuel,WAS,1,4,0,0,2,2.0,2,2.0,0,,202111290was
+Austin Ekeler,LAC,17,59,0,6,24,1.4,35,2.1,2,8.5,202111070phi
+Justin Herbert,LAC,5,14,1,3,14,2.8,0,0.0,0,,202111070phi
+Joshua Kelley,LAC,3,6,0,,3,1.0,3,1.0,0,,202111070phi
+Andre Roberts,LAC,1,9,0,,8,8.0,1,1.0,0,,202111070phi
+Larry Rountree,LAC,1,1,0,,1,1.0,0,0.0,0,,202111070phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070phi
+Jordan Howard,PHI,17,71,1,4,42,2.5,29,1.7,2,8.5,202111070phi
+Jalen Hurts,PHI,10,62,0,6,55,5.5,7,0.7,0,,202111070phi
+Boston Scott,PHI,10,40,0,2,21,2.1,19,1.9,2,5.0,202111070phi
+Kenneth Gainwell,PHI,2,3,1,1,2,1.0,1,0.5,0,,202111070phi
+Elijah Mitchell,SFO,22,66,1,5,28,1.3,38,1.7,1,22.0,202112050sea
+Jimmy Garoppolo,SFO,2,0,0,1,0,0.0,0,0.0,0,,202112050sea
+George Kittle,SFO,1,5,0,0,3,3.0,2,2.0,0,,202112050sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050sea
+Adrian Peterson,SEA,11,16,1,2,5,0.5,11,1.0,1,11.0,202112050sea
+Rashaad Penny,SEA,10,35,0,1,22,2.2,13,1.3,0,,202112050sea
+Travis Homer,SEA,3,80,1,2,78,26.0,2,0.7,0,,202112050sea
+Russell Wilson,SEA,3,15,0,0,15,5.0,0,0.0,0,,202112050sea
+Alvin Kamara,NOR,24,89,0,4,56,2.3,33,1.4,4,6.0,202109260nwe
+Taysom Hill,NOR,6,32,1,3,16,2.7,16,2.7,2,3.0,202109260nwe
+Jameis Winston,NOR,5,4,0,1,1,0.2,3,0.6,0,,202109260nwe
+Tony Jones,NOR,2,12,0,1,9,4.5,3,1.5,0,,202109260nwe
+Alex Armah,NOR,1,5,0,1,3,3.0,2,2.0,0,,202109260nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260nwe
+Damien Harris,NWE,6,14,0,,8,1.3,6,1.0,1,6.0,202109260nwe
+Mac Jones,NWE,6,28,0,4,28,4.7,0,0.0,0,,202109260nwe
+Brandon Bolden,NWE,3,-1,0,0,-1,-0.3,0,0.0,0,,202109260nwe
+J.J. Taylor,NWE,1,2,0,,1,1.0,1,1.0,0,,202109260nwe
+James White,NWE,1,6,0,1,5,5.0,1,1.0,0,,202109260nwe
+Dalvin Cook,MIN,22,131,0,8,70,3.2,61,2.8,0,,202109190crd
+Alexander Mattison,MIN,3,11,0,1,6,2.0,5,1.7,0,,202109190crd
+Kirk Cousins,MIN,2,35,0,2,33,16.5,2,1.0,0,,202109190crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190crd
+James Conner,ARI,8,26,0,2,11,1.4,15,1.9,1,8.0,202109190crd
+Chase Edmonds,ARI,8,46,0,1,22,2.8,24,3.0,1,8.0,202109190crd
+Kyler Murray,ARI,5,31,1,2,28,5.6,3,0.6,0,,202109190crd
+Aaron Jones,GNB,14,103,0,3,31,2.2,72,5.1,1,14.0,202110100cin
+AJ Dillon,GNB,8,30,0,1,11,1.4,19,2.4,0,,202110100cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100cin
+Samaje Perine,CIN,11,59,0,3,22,2.0,37,3.4,2,5.5,202110100cin
+Joe Mixon,CIN,10,33,1,2,23,2.3,10,1.0,0,,202110100cin
+Joe Burrow,CIN,3,11,0,1,8,2.7,3,1.0,0,,202110100cin
+Damien Harris,NWE,14,58,1,2,15,1.1,43,3.1,0,,202110100htx
+Rhamondre Stevenson,NWE,11,23,0,1,7,0.6,16,1.5,0,,202110100htx
+Brandon Bolden,NWE,2,25,0,1,19,9.5,6,3.0,0,,202110100htx
+Kendrick Bourne,NWE,1,12,0,1,0,0.0,12,12.0,0,,202110100htx
+Mac Jones,NWE,1,3,0,1,1,1.0,2,2.0,0,,202110100htx
+Jonnu Smith,NWE,1,5,0,0,0,0.0,5,5.0,0,,202110100htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100htx
+Mark Ingram,HOU,16,41,0,1,16,1.0,25,1.6,0,,202110100htx
+Phillip Lindsay,HOU,5,19,0,,13,2.6,6,1.2,0,,202110100htx
+David Johnson,HOU,2,5,0,0,2,1.0,3,1.5,0,,202110100htx
+Davis Mills,HOU,1,2,0,1,1,1.0,1,1.0,0,,202110100htx
+Jalen Hurts,PHI,13,61,0,4,56,4.3,5,0.4,0,,202110240rai
+Boston Scott,PHI,7,24,1,2,9,1.3,15,2.1,0,,202110240rai
+Miles Sanders,PHI,6,30,0,2,16,2.7,14,2.3,0,,202110240rai
+Kenneth Gainwell,PHI,5,20,0,0,11,2.2,9,1.8,0,,202110240rai
+Jalen Reagor,PHI,1,0,0,0,0,0.0,0,0.0,0,,202110240rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240rai
+Kenyan Drake,LVR,14,69,1,5,36,2.6,33,2.4,0,,202110240rai
+Josh Jacobs,LVR,6,29,1,1,21,3.5,8,1.3,0,,202110240rai
+Jalen Richard,LVR,4,8,0,,2,0.5,6,1.5,0,,202110240rai
+Derek Carr,LVR,2,1,0,0,1,0.5,0,0.0,0,,202110240rai
+Alec Ingold,LVR,1,1,0,1,1,1.0,0,0.0,0,,202110240rai
+Marcus Mariota,LVR,1,4,0,,3,3.0,1,1.0,0,,202110240rai
+Henry Ruggs III,LVR,1,7,0,0,7,7.0,0,0.0,0,,202110240rai
+Trey Lance,SFO,16,89,0,3,50,3.1,39,2.4,0,,202110100crd
+Elijah Mitchell,SFO,9,43,0,3,9,1.0,34,3.8,1,9.0,202110100crd
+Kyle Juszczyk,SFO,1,0,0,0,0,0.0,0,0.0,0,,202110100crd
+Deebo Samuel,SFO,1,13,1,1,7,7.0,6,6.0,1,1.0,202110100crd
+Trey Sermon,SFO,1,7,0,,0,0.0,7,7.0,1,1.0,202110100crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100crd
+James Conner,ARI,10,29,1,3,8,0.8,21,2.1,0,,202110100crd
+Kyler Murray,ARI,7,1,0,1,-3,-0.4,4,0.6,0,,202110100crd
+Chase Edmonds,ARI,6,15,0,2,5,0.8,10,1.7,0,,202110100crd
+Rondale Moore,ARI,3,38,0,1,4,1.3,34,11.3,2,1.5,202110100crd
+Christian Kirk,ARI,1,11,0,1,9,9.0,2,2.0,0,,202110100crd
+Joe Mixon,CIN,18,94,0,5,20,1.1,74,4.1,1,18.0,202110170det
+Trayveon Williams,CIN,6,13,0,1,5,0.8,8,1.3,0,,202110170det
+Joe Burrow,CIN,5,20,0,2,15,3.0,5,1.0,1,5.0,202110170det
+Chris Evans,CIN,4,18,0,0,9,2.3,9,2.3,0,,202110170det
+Brandon Allen,CIN,3,-3,0,0,-3,-1.0,0,0.0,0,,202110170det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170det
+D'Andre Swift,DET,13,24,1,1,12,0.9,12,0.9,0,,202110170det
+Jamaal Williams,DET,4,11,0,2,7,1.8,4,1.0,0,,202110170det
+Jared Goff,DET,1,1,0,0,0,0.0,1,1.0,0,,202110170det
+Chuba Hubbard,CAR,24,82,1,5,31,1.3,51,2.1,0,,202110310atl
+Ameer Abdullah,CAR,8,31,0,1,16,2.0,15,1.9,0,,202110310atl
+Sam Darnold,CAR,8,66,0,5,58,7.3,8,1.0,0,,202110310atl
+Royce Freeman,CAR,6,25,0,1,9,1.5,16,2.7,0,,202110310atl
+P.J. Walker,CAR,1,-1,0,,-1,-1.0,0,0.0,0,,202110310atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310atl
+Mike Davis,ATL,9,44,0,1,27,3.0,17,1.9,0,,202110310atl
+Cordarrelle Patterson,ATL,9,35,0,1,13,1.4,22,2.4,1,9.0,202110310atl
+Matt Ryan,ATL,2,3,0,0,0,0.0,3,1.5,0,,202110310atl
+James Conner,ARI,8,39,0,3,17,2.1,22,2.8,2,4.0,202112190det
+Chase Edmonds,ARI,6,53,0,2,34,5.7,19,3.2,1,6.0,202112190det
+Kyler Murray,ARI,4,3,0,0,3,0.8,0,0.0,0,,202112190det
+Colt McCoy,ARI,1,3,0,1,3,3.0,0,0.0,0,,202112190det
+Rondale Moore,ARI,1,1,0,0,1,1.0,0,0.0,0,,202112190det
+Jonathan Ward,ARI,1,6,0,,3,3.0,3,3.0,0,,202112190det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190det
+Craig Reynolds,DET,26,112,0,5,54,2.1,58,2.2,2,13.0,202112190det
+Jermar Jefferson,DET,5,9,0,,4,0.8,5,1.0,0,,202112190det
+Godwin Igwebuike,DET,2,0,0,0,0,0.0,0,0.0,0,,202112190det
+Amon-Ra St. Brown,DET,1,5,0,0,3,3.0,2,2.0,0,,202112190det
+Rhamondre Stevenson,NWE,24,78,0,5,19,0.8,59,2.5,7,3.4,202112060buf
+Damien Harris,NWE,10,111,1,3,35,3.5,76,7.6,0,,202112060buf
+Mac Jones,NWE,5,-3,0,1,-7,-1.4,4,0.8,0,,202112060buf
+Brandon Bolden,NWE,4,28,0,1,12,3.0,16,4.0,0,,202112060buf
+Nelson Agholor,NWE,1,6,0,,1,1.0,5,5.0,1,1.0,202112060buf
+Kendrick Bourne,NWE,1,3,0,,0,0.0,3,3.0,0,,202112060buf
+Jonnu Smith,NWE,1,-1,0,0,-1,-1.0,0,0.0,0,,202112060buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112060buf
+Devin Singletary,BUF,10,36,0,2,6,0.6,30,3.0,0,,202112060buf
+Zack Moss,BUF,8,21,0,1,11,1.4,10,1.3,0,,202112060buf
+Josh Allen,BUF,6,39,0,2,19,3.2,20,3.3,0,,202112060buf
+Matt Breida,BUF,1,3,0,0,1,1.0,2,2.0,0,,202112060buf
+Devin Singletary,BUF,13,82,1,1,68,5.2,14,1.1,0,,202109190mia
+Zack Moss,BUF,8,26,2,4,6,0.8,20,2.5,5,1.6,202109190mia
+Josh Allen,BUF,5,35,0,5,31,6.2,4,0.8,0,,202109190mia
+Reggie Gilliam,BUF,2,2,0,,0,0.0,2,1.0,0,,202109190mia
+Mitchell Trubisky,BUF,2,-2,0,,-2,-1.0,0,0.0,0,,202109190mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190mia
+Salvon Ahmed,MIA,6,17,0,,9,1.5,8,1.3,0,,202109190mia
+Malcolm Brown,MIA,5,21,0,1,6,1.2,15,3.0,0,,202109190mia
+Myles Gaskin,MIA,5,25,0,1,22,4.4,3,0.6,0,,202109190mia
+Jacoby Brissett,MIA,4,8,0,0,6,1.5,2,0.5,0,,202109190mia
+D'Andre Swift,DET,8,37,0,3,35,4.4,2,0.3,0,,202109200gnb
+Jamaal Williams,DET,7,25,0,2,24,3.4,1,0.1,0,,202109200gnb
+Jared Goff,DET,4,46,0,2,46,11.5,0,0.0,0,,202109200gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109200gnb
+Aaron Jones,GNB,17,67,1,5,42,2.5,25,1.5,1,17.0,202109200gnb
+AJ Dillon,GNB,5,18,0,0,8,1.6,10,2.0,1,5.0,202109200gnb
+Aaron Rodgers,GNB,4,6,0,0,6,1.5,0,0.0,0,,202109200gnb
+Jordan Love,GNB,3,-3,0,,-3,-1.0,0,0.0,0,,202109200gnb
+Kylin Hill,GNB,2,8,0,,8,4.0,0,0.0,0,,202109200gnb
+Corey Clement,DAL,13,44,0,2,23,1.8,21,1.6,0,,202112120was
+Ezekiel Elliott,DAL,12,45,0,2,23,1.9,22,1.8,0,,202112120was
+Dak Prescott,DAL,7,15,0,2,15,2.1,0,0.0,0,,202112120was
+CeeDee Lamb,DAL,2,15,0,1,13,6.5,2,1.0,0,,202112120was
+JaQuan Hardy,DAL,1,3,0,,3,3.0,0,0.0,0,,202112120was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120was
+Antonio Gibson,WAS,10,36,0,2,18,1.8,18,1.8,0,,202112120was
+Jaret Patterson,WAS,4,29,0,2,15,3.8,14,3.5,0,,202112120was
+Jonathan Williams,WAS,4,16,1,1,9,2.3,7,1.8,0,,202112120was
+Taylor Heinicke,WAS,3,8,0,0,8,2.7,0,0.0,0,,202112120was
+Kyle Allen,WAS,2,11,0,1,11,5.5,0,0.0,0,,202112120was
+James Conner,ARI,11,43,2,4,19,1.7,24,2.2,1,11.0,202109260jax
+Chase Edmonds,ARI,11,26,0,2,11,1.0,15,1.4,0,,202109260jax
+Kyler Murray,ARI,7,19,1,2,18,2.6,1,0.1,0,,202109260jax
+Rondale Moore,ARI,1,3,0,,0,0.0,3,3.0,0,,202109260jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260jax
+James Robinson,JAX,15,88,1,5,31,2.1,57,3.8,0,,202109260jax
+Carlos Hyde,JAX,8,44,0,4,12,1.5,32,4.0,1,8.0,202109260jax
+Trevor Lawrence,JAX,6,27,0,0,16,2.7,11,1.8,0,,202109260jax
+Chase Edmonds,ARI,18,53,0,4,31,1.7,22,1.2,0,,202201020dal
+Kyler Murray,ARI,9,44,0,4,43,4.8,1,0.1,0,,202201020dal
+Eno Benjamin,ARI,2,3,0,,1,0.5,2,1.0,0,,202201020dal
+Jonathan Ward,ARI,2,3,0,0,1,0.5,2,1.0,0,,202201020dal
+Greg Dortch,ARI,1,24,0,1,23,23.0,1,1.0,0,,202201020dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020dal
+Ezekiel Elliott,DAL,9,16,0,1,9,1.0,7,0.8,0,,202201020dal
+Dak Prescott,DAL,5,20,0,1,8,1.6,12,2.4,0,,202201020dal
+Tony Pollard,DAL,3,9,0,0,5,1.7,4,1.3,0,,202201020dal
+Jonathan Taylor,IND,18,107,1,6,40,2.2,67,3.7,3,6.0,202110240sfo
+Nyheim Hines,IND,8,14,0,,7,0.9,7,0.9,0,,202110240sfo
+Carson Wentz,IND,4,23,1,2,15,3.8,8,2.0,0,,202110240sfo
+Marlon Mack,IND,3,4,0,,1,0.3,3,1.0,0,,202110240sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240sfo
+Elijah Mitchell,SFO,18,107,1,5,58,3.2,49,2.7,2,9.0,202110240sfo
+Jamycal Hasty,SFO,3,1,0,,1,0.3,0,0.0,0,,202110240sfo
+Jimmy Garoppolo,SFO,2,0,0,0,0,0.0,0,0.0,0,,202110240sfo
+Brandon Aiyuk,SFO,1,3,0,,0,0.0,3,3.0,0,,202110240sfo
+Khalil Herbert,CHI,18,100,0,5,49,2.7,51,2.8,2,9.0,202110240tam
+Justin Fields,CHI,8,38,0,1,26,3.3,12,1.5,0,,202110240tam
+Damien Williams,CHI,3,5,0,,3,1.0,2,0.7,0,,202110240tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240tam
+Leonard Fournette,TAM,15,81,1,7,41,2.7,40,2.7,3,5.0,202110240tam
+Ronald Jones II,TAM,10,63,0,3,45,4.5,18,1.8,1,10.0,202110240tam
+Ke'Shawn Vaughn,TAM,5,27,0,1,13,2.6,14,2.8,2,2.5,202110240tam
+Jaelon Darden,TAM,1,11,0,1,10,10.0,1,1.0,0,,202110240tam
+Kenneth Gainwell,PHI,13,27,0,2,2,0.2,25,1.9,2,6.5,202110310det
+Jordan Howard,PHI,12,57,2,6,28,2.3,29,2.4,2,6.0,202110310det
+Boston Scott,PHI,12,60,2,5,45,3.8,15,1.3,0,,202110310det
+Jalen Hurts,PHI,7,71,0,4,49,7.0,22,3.1,2,3.5,202110310det
+Jalen Reagor,PHI,2,21,0,2,21,10.5,0,0.0,0,,202110310det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310det
+D'Andre Swift,DET,12,27,0,1,19,1.6,8,0.7,2,6.0,202110310det
+Godwin Igwebuike,DET,3,18,0,1,14,4.7,4,1.3,0,,202110310det
+Jermar Jefferson,DET,2,6,1,1,3,1.5,3,1.5,0,,202110310det
+David Blough,DET,1,6,0,,2,2.0,4,4.0,0,,202110310det
+Josh Jacobs,LVR,13,76,0,4,42,3.2,34,2.6,3,4.3,202111070nyg
+Kenyan Drake,LVR,4,30,0,2,23,5.8,7,1.8,0,,202111070nyg
+Derek Carr,LVR,2,5,0,1,5,2.5,0,0.0,0,,202111070nyg
+Marcus Mariota,LVR,1,6,0,1,2,2.0,4,4.0,0,,202111070nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070nyg
+Devontae Booker,NYG,21,99,0,5,63,3.0,36,1.7,0,,202111070nyg
+Elijhaa Penny,NYG,5,35,0,2,16,3.2,19,3.8,0,,202111070nyg
+Daniel Jones,NYG,4,17,0,1,10,2.5,7,1.8,0,,202111070nyg
+Kadarius Toney,NYG,1,-2,0,0,-2,-2.0,0,0.0,0,,202111070nyg
+Leonard Fournette,TAM,22,81,2,6,37,1.7,44,2.0,1,22.0,202110140phi
+Ronald Jones II,TAM,5,20,0,1,10,2.0,10,2.0,0,,202110140phi
+Tom Brady,TAM,4,1,0,1,1,0.3,0,0.0,0,,202110140phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110140phi
+Jalen Hurts,PHI,10,44,2,3,38,3.8,6,0.6,1,10.0,202110140phi
+Miles Sanders,PHI,9,56,0,5,39,4.3,17,1.9,0,,202110140phi
+Derrick Henry,TEN,29,130,3,8,79,2.7,51,1.8,4,7.3,202110100jax
+Ryan Tannehill,TEN,3,21,0,2,20,6.7,1,0.3,0,,202110100jax
+Cameron Batson,TEN,2,15,0,1,11,5.5,4,2.0,0,,202110100jax
+Jeremy McNichols,TEN,1,9,0,1,6,6.0,3,3.0,0,,202110100jax
+Chester Rogers,TEN,1,9,0,0,5,5.0,4,4.0,0,,202110100jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100jax
+James Robinson,JAX,18,149,1,7,101,5.6,48,2.7,6,3.0,202110100jax
+Trevor Lawrence,JAX,7,28,1,1,27,3.9,1,0.1,0,,202110100jax
+Carlos Hyde,JAX,5,13,0,1,10,2.0,3,0.6,0,,202110100jax
+Jamal Agnew,JAX,1,8,0,0,8,8.0,0,0.0,0,,202110100jax
+James Conner,ARI,18,50,2,6,25,1.4,25,1.4,0,,202110030ram
+Chase Edmonds,ARI,12,120,0,6,96,8.0,24,2.0,1,12.0,202110030ram
+Kyler Murray,ARI,6,39,0,2,39,6.5,0,0.0,0,,202110030ram
+Colt McCoy,ARI,2,-2,0,,-2,-1.0,0,0.0,0,,202110030ram
+Rondale Moore,ARI,2,9,0,1,7,3.5,2,1.0,0,,202110030ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030ram
+Darrell Henderson,LAR,14,89,0,4,62,4.4,27,1.9,1,14.0,202110030ram
+Matthew Stafford,LAR,6,21,0,3,19,3.2,2,0.3,0,,202110030ram
+Sony Michel,LAR,3,11,0,1,9,3.0,2,0.7,0,,202110030ram
+Boston Scott,PHI,14,47,2,5,15,1.1,32,2.3,0,,202201020was
+Jordan Howard,PHI,11,26,0,1,8,0.7,18,1.6,0,,202201020was
+Jalen Hurts,PHI,7,44,0,2,33,4.7,11,1.6,0,,202201020was
+Kenneth Gainwell,PHI,1,4,0,1,1,1.0,3,3.0,0,,202201020was
+Jalen Reagor,PHI,1,-3,0,,-3,-3.0,0,0.0,0,,202201020was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020was
+Jaret Patterson,WAS,12,57,1,4,26,2.2,31,2.6,0,,202201020was
+Wendell Smallwood,WAS,4,12,0,2,6,1.5,6,1.5,0,,202201020was
+Taylor Heinicke,WAS,2,14,0,1,14,7.0,0,0.0,0,,202201020was
+Jonathan Williams,WAS,2,4,0,1,1,0.5,3,1.5,0,,202201020was
+DeAndre Carter,WAS,1,6,0,,5,5.0,1,1.0,0,,202201020was
+Dax Milne,WAS,1,1,0,,1,1.0,0,0.0,0,,202201020was
+Joe Mixon,CIN,20,69,0,2,33,1.7,36,1.8,2,10.0,202109190chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190chi
+David Montgomery,CHI,20,61,0,3,29,1.5,32,1.6,2,10.0,202109190chi
+Justin Fields,CHI,10,31,0,2,16,1.6,15,1.5,2,5.0,202109190chi
+Andy Dalton,CHI,2,25,0,1,25,12.5,0,0.0,0,,202109190chi
+Damien Williams,CHI,2,6,0,,3,1.5,3,1.5,0,,202109190chi
+Melvin Gordon,DEN,13,31,0,2,19,1.5,12,0.9,0,,202109190jax
+Javonte Williams,DEN,13,64,0,5,29,2.2,35,2.7,4,3.3,202109190jax
+Teddy Bridgewater,DEN,4,1,0,2,0,0.0,1,0.3,0,,202109190jax
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190jax
+James Robinson,JAX,11,47,0,1,30,2.7,17,1.5,1,11.0,202109190jax
+Carlos Hyde,JAX,2,7,0,,3,1.5,4,2.0,0,,202109190jax
+Trevor Lawrence,JAX,2,21,0,2,17,8.5,4,2.0,0,,202109190jax
+Laviska Shenault Jr.,JAX,1,0,0,0,0,0.0,0,0.0,0,,202109190jax
+Mark Ingram,NOR,16,88,0,4,26,1.6,62,3.9,1,16.0,202111210phi
+Tony Jones,NOR,3,2,0,,-1,-0.3,3,1.0,0,,202111210phi
+Trevor Siemian,NOR,2,16,1,1,1,0.5,15,7.5,0,,202111210phi
+Dwayne Washington,NOR,1,3,0,,1,1.0,2,2.0,0,,202111210phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111210phi
+Jalen Hurts,PHI,18,69,3,7,58,3.2,11,0.6,0,,202111210phi
+Miles Sanders,PHI,16,94,0,3,70,4.4,24,1.5,0,,202111210phi
+Jordan Howard,PHI,10,63,0,4,35,3.5,28,2.8,0,,202111210phi
+Boston Scott,PHI,6,16,0,,7,1.2,9,1.5,0,,202111210phi
+Boston Scott,PHI,15,64,1,4,36,2.4,28,1.9,0,,202111280nyg
+Miles Sanders,PHI,9,64,0,2,47,5.2,17,1.9,0,,202111280nyg
+Jalen Hurts,PHI,8,77,0,5,66,8.3,11,1.4,0,,202111280nyg
+Quez Watkins,PHI,1,3,0,0,3,3.0,0,0.0,0,,202111280nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280nyg
+Saquon Barkley,NYG,13,40,0,1,29,2.2,11,0.8,0,,202111280nyg
+Daniel Jones,NYG,9,30,0,2,24,2.7,6,0.7,0,,202111280nyg
+Devontae Booker,NYG,3,10,0,1,5,1.7,5,1.7,0,,202111280nyg
+Pharoh Cooper,NYG,1,3,0,,3,3.0,0,0.0,0,,202111280nyg
+Darius Slayton,NYG,1,-13,0,0,-13,-13.0,0,0.0,0,,202111280nyg
+Jamaal Williams,DET,19,77,0,3,43,2.3,34,1.8,3,6.3,202112260atl
+Craig Reynolds,DET,11,29,0,2,11,1.0,18,1.6,0,,202112260atl
+Amon-Ra St. Brown,DET,2,19,0,1,15,7.5,4,2.0,0,,202112260atl
+Kalif Raymond,DET,1,5,0,0,3,3.0,2,2.0,0,,202112260atl
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260atl
+Mike Davis,ATL,7,28,0,1,14,2.0,14,2.0,0,,202112260atl
+Cordarrelle Patterson,ATL,7,14,1,1,6,0.9,8,1.1,1,7.0,202112260atl
+Matt Ryan,ATL,4,5,0,2,4,1.0,1,0.3,0,,202112260atl
+AJ Dillon,GNB,14,63,0,3,38,2.7,25,1.8,1,14.0,202201090det
+Patrick Taylor,GNB,11,53,1,3,29,2.6,24,2.2,1,11.0,202201090det
+Jordan Love,GNB,1,-1,0,0,-1,-1.0,0,0.0,0,,202201090det
+Aaron Rodgers,GNB,1,7,0,0,7,7.0,0,0.0,0,,202201090det
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090det
+Jamaal Williams,DET,13,43,0,4,25,1.9,18,1.4,0,,202201090det
+D'Andre Swift,DET,7,30,1,2,22,3.1,8,1.1,0,,202201090det
+Craig Reynolds,DET,3,2,0,,-1,-0.3,3,1.0,0,,202201090det
+Tim Boyle,DET,1,-1,0,,-1,-1.0,0,0.0,0,,202201090det
+Kalif Raymond,DET,1,13,0,1,9,9.0,4,4.0,0,,202201090det
+Amon-Ra St. Brown,DET,1,12,0,0,12,12.0,0,0.0,0,,202201090det
+Aaron Jones,GNB,19,82,1,4,41,2.2,41,2.2,2,9.5,202109260sfo
+AJ Dillon,GNB,6,18,0,1,10,1.7,8,1.3,0,,202109260sfo
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260sfo
+Trey Sermon,SFO,10,31,1,3,15,1.5,16,1.6,1,10.0,202109260sfo
+Kyle Juszczyk,SFO,5,14,0,2,6,1.2,8,1.6,0,,202109260sfo
+Deebo Samuel,SFO,2,0,0,0,0,0.0,0,0.0,0,,202109260sfo
+Brandon Aiyuk,SFO,1,8,0,0,5,5.0,3,3.0,0,,202109260sfo
+Jimmy Garoppolo,SFO,1,4,0,0,4,4.0,0,0.0,0,,202109260sfo
+George Kittle,SFO,1,9,0,0,5,5.0,4,4.0,0,,202109260sfo
+Trey Lance,SFO,1,1,1,1,0,0.0,1,1.0,0,,202109260sfo
+Michael Carter,NYJ,9,24,0,0,12,1.3,12,1.3,3,3.0,202109260den
+Ty Johnson,NYJ,3,17,0,0,13,4.3,4,1.3,1,3.0,202109260den
+Zach Wilson,NYJ,1,2,0,1,2,2.0,0,0.0,0,,202109260den
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260den
+Melvin Gordon,DEN,18,60,1,4,30,1.7,30,1.7,3,6.0,202109260den
+Javonte Williams,DEN,12,29,1,3,23,1.9,6,0.5,0,,202109260den
+Teddy Bridgewater,DEN,4,24,0,2,19,4.8,5,1.3,1,4.0,202109260den
+Damarea Crockett,DEN,3,7,0,,7,2.3,0,0.0,0,,202109260den
+David Montgomery,CHI,20,72,0,4,36,1.8,36,1.8,0,,202201090min
+Khalil Herbert,CHI,4,11,0,1,5,1.3,6,1.5,0,,202201090min
+Andy Dalton,CHI,1,7,0,0,7,7.0,0,0.0,0,,202201090min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090min
+Dalvin Cook,MIN,14,79,0,3,62,4.4,17,1.2,0,,202201090min
+Alexander Mattison,MIN,5,18,0,,11,2.2,7,1.4,0,,202201090min
+Kirk Cousins,MIN,1,-1,0,0,-1,-1.0,0,0.0,0,,202201090min
+Justin Jefferson,MIN,1,4,0,0,2,2.0,2,2.0,0,,202201090min
+Kene Nwangwu,MIN,1,4,0,,2,2.0,2,2.0,0,,202201090min
+Wayne Gallman,ATL,15,55,0,2,40,2.7,15,1.0,1,15.0,202111140dal
+Mike Davis,ATL,4,18,0,,16,4.0,2,0.5,0,,202111140dal
+Cordarrelle Patterson,ATL,4,25,0,1,20,5.0,5,1.3,0,,202111140dal
+Keith Smith,ATL,1,5,0,,0,0.0,5,5.0,0,,202111140dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140dal
+Ezekiel Elliott,DAL,14,41,2,4,29,2.1,12,0.9,2,7.0,202111140dal
+Tony Pollard,DAL,11,42,0,2,21,1.9,21,1.9,2,5.5,202111140dal
+Corey Clement,DAL,6,20,0,1,12,2.0,8,1.3,0,,202111140dal
+Cooper Rush,DAL,3,-6,0,,-6,-2.0,0,0.0,0,,202111140dal
+Dak Prescott,DAL,2,5,1,1,4,2.0,1,0.5,0,,202111140dal
+CeeDee Lamb,DAL,1,12,0,0,12,12.0,0,0.0,0,,202111140dal
+Derrick Henry,TEN,33,157,1,8,77,2.3,80,2.4,2,16.5,202110030nyj
+Ryan Tannehill,TEN,3,9,0,1,8,2.7,1,0.3,0,,202110030nyj
+Jeremy McNichols,TEN,1,11,0,1,11,11.0,0,0.0,0,,202110030nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030nyj
+Michael Carter,NYJ,13,38,1,3,8,0.6,30,2.3,0,,202110030nyj
+Tevin Coleman,NYJ,4,14,0,1,4,1.0,10,2.5,0,,202110030nyj
+Ty Johnson,NYJ,3,1,0,0,-2,-0.7,3,1.0,0,,202110030nyj
+Zach Wilson,NYJ,3,-2,0,0,-4,-1.3,2,0.7,0,,202110030nyj
+Braxton Berrios,NYJ,2,15,0,,11,5.5,4,2.0,0,,202110030nyj
+Dalvin Cook,MIN,17,110,0,3,76,4.5,34,2.0,0,,202111070rav
+Alexander Mattison,MIN,4,0,0,,-2,-0.5,2,0.5,0,,202111070rav
+Kirk Cousins,MIN,1,1,1,1,1,1.0,0,0.0,0,,202111070rav
+Justin Jefferson,MIN,1,11,0,1,4,4.0,7,7.0,0,,202111070rav
+Kene Nwangwu,MIN,1,9,0,1,0,0.0,9,9.0,0,,202111070rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111070rav
+Lamar Jackson,BAL,21,120,0,7,81,3.9,39,1.9,0,,202111070rav
+Devonta Freeman,BAL,13,79,0,4,36,2.8,43,3.3,0,,202111070rav
+Le'Veon Bell,BAL,11,48,1,6,22,2.0,26,2.4,2,5.5,202111070rav
+Ezekiel Elliott,DAL,18,87,0,4,79,4.4,8,0.4,0,,202201080phi
+Corey Clement,DAL,7,58,0,3,26,3.7,32,4.6,1,7.0,202201080phi
+JaQuan Hardy,DAL,3,26,1,1,12,4.0,14,4.7,0,,202201080phi
+Cooper Rush,DAL,3,-4,0,,-4,-1.3,0,0.0,0,,202201080phi
+Ito Smith,DAL,1,4,1,1,4,4.0,0,0.0,0,,202201080phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201080phi
+Jason Huntley,PHI,13,51,0,2,38,2.9,13,1.0,0,,202201080phi
+Kenneth Gainwell,PHI,12,78,1,6,70,5.8,8,0.7,0,,202201080phi
+Gardner Minshew II,PHI,5,10,0,1,10,2.0,0,0.0,0,,202201080phi
+Jalen Reagor,PHI,3,10,0,0,7,2.3,3,1.0,0,,202201080phi
+James Conner,ARI,20,75,0,4,36,1.8,39,2.0,2,10.0,202112050chi
+Kyler Murray,ARI,10,59,2,3,54,5.4,5,0.5,0,,202112050chi
+Rondale Moore,ARI,3,2,0,,0,0.0,2,0.7,0,,202112050chi
+Eno Benjamin,ARI,2,1,0,0,0,0.0,1,0.5,0,,202112050chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050chi
+David Montgomery,CHI,21,90,1,7,55,2.6,35,1.7,2,10.5,202112050chi
+Khalil Herbert,CHI,4,16,0,1,4,1.0,12,3.0,1,4.0,202112050chi
+Andy Dalton,CHI,2,6,0,0,6,3.0,0,0.0,0,,202112050chi
+Myles Gaskin,MIA,5,25,0,2,20,4.0,5,1.0,0,,202110100tam
+Salvon Ahmed,MIA,2,5,0,0,1,0.5,4,2.0,1,2.0,202110100tam
+Jaylen Waddle,MIA,1,2,0,0,1,1.0,1,1.0,0,,202110100tam
+Preston Williams,MIA,1,7,0,0,3,3.0,4,4.0,1,1.0,202110100tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100tam
+Leonard Fournette,TAM,12,67,1,3,28,2.3,39,3.3,0,,202110100tam
+Ronald Jones II,TAM,5,21,0,0,14,2.8,7,1.4,0,,202110100tam
+Giovani Bernard,TAM,4,21,0,1,9,2.3,12,3.0,0,,202110100tam
+Blaine Gabbert,TAM,3,-1,0,0,-1,-0.3,0,0.0,0,,202110100tam
+Tom Brady,TAM,1,13,0,1,11,11.0,2,2.0,0,,202110100tam
+Nick Chubb,CLE,21,161,1,6,50,2.4,111,5.3,4,5.3,202110100sdg
+Kareem Hunt,CLE,12,61,2,4,15,1.3,46,3.8,1,12.0,202110100sdg
+Baker Mayfield,CLE,2,8,0,0,1,0.5,7,3.5,0,,202110100sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100sdg
+Austin Ekeler,LAC,17,66,2,5,34,2.0,32,1.9,1,17.0,202110100sdg
+Justin Herbert,LAC,4,29,1,3,18,4.5,11,2.8,0,,202110100sdg
+Joshua Kelley,LAC,2,17,0,1,13,6.5,4,2.0,0,,202110100sdg
+Ezekiel Elliott,DAL,16,50,0,1,26,1.6,24,1.5,1,16.0,202110310min
+Tony Pollard,DAL,7,26,0,3,11,1.6,15,2.1,1,7.0,202110310min
+Cooper Rush,DAL,1,2,0,0,2,2.0,0,0.0,0,,202110310min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110310min
+Dalvin Cook,MIN,18,78,0,3,37,2.1,41,2.3,4,4.5,202110310min
+Kirk Cousins,MIN,3,18,0,1,15,5.0,3,1.0,0,,202110310min
+Alexander Mattison,MIN,2,5,0,,2,1.0,3,1.5,0,,202110310min
+C.J. Ham,MIN,1,0,0,,0,0.0,0,0.0,0,,202110310min
+Mike Davis,ATL,9,38,0,1,20,2.2,18,2.0,0,,202109190tam
+Cordarrelle Patterson,ATL,7,11,1,1,-1,-0.1,12,1.7,1,7.0,202109190tam
+Matt Ryan,ATL,2,3,0,0,0,0.0,3,1.5,0,,202109190tam
+Keith Smith,ATL,2,3,0,,3,1.5,0,0.0,0,,202109190tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190tam
+Leonard Fournette,TAM,11,52,0,2,24,2.2,28,2.5,0,,202109190tam
+Ronald Jones II,TAM,6,27,0,2,17,2.8,10,1.7,0,,202109190tam
+Blaine Gabbert,TAM,3,-3,0,,-3,-1.0,0,0.0,0,,202109190tam
+Tom Brady,TAM,1,6,0,1,6,6.0,0,0.0,0,,202109190tam
+Ezekiel Elliott,DAL,11,33,0,2,20,1.8,13,1.2,0,,202109090tam
+Dak Prescott,DAL,4,13,0,0,8,2.0,5,1.3,0,,202109090tam
+Tony Pollard,DAL,3,14,0,2,10,3.3,4,1.3,0,,202109090tam
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109090tam
+Leonard Fournette,TAM,9,32,0,1,14,1.6,18,2.0,1,9.0,202109090tam
+Ronald Jones II,TAM,4,14,0,,7,1.8,7,1.8,0,,202109090tam
+Antonio Brown,TAM,1,6,0,0,5,5.0,1,1.0,0,,202109090tam
+Ezekiel Elliott,DAL,16,71,1,4,41,2.6,30,1.9,0,,202109190sdg
+Tony Pollard,DAL,13,109,1,6,45,3.5,64,4.9,2,6.5,202109190sdg
+CeeDee Lamb,DAL,1,13,0,1,10,10.0,3,3.0,0,,202109190sdg
+Cedrick Wilson Jr.,DAL,1,5,0,0,4,4.0,1,1.0,0,,202109190sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190sdg
+Austin Ekeler,LAC,9,54,0,2,22,2.4,32,3.6,2,4.5,202109190sdg
+Justin Herbert,LAC,4,12,0,2,6,1.5,6,1.5,1,4.0,202109190sdg
+Justin Jackson,LAC,4,21,0,2,9,2.3,12,3.0,0,,202109190sdg
+Jalen Guyton,LAC,1,9,0,1,8,8.0,1,1.0,0,,202109190sdg
+Larry Rountree,LAC,1,-1,0,,-1,-1.0,0,0.0,0,,202109190sdg
+Nick Chubb,CLE,8,16,0,0,0,0.0,16,2.0,0,,202111280rav
+Kareem Hunt,CLE,7,20,0,1,4,0.6,16,2.3,1,7.0,202111280rav
+Baker Mayfield,CLE,2,4,0,1,1,0.5,3,1.5,0,,202111280rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280rav
+Lamar Jackson,BAL,17,68,0,5,48,2.8,20,1.2,0,,202111280rav
+Devonta Freeman,BAL,16,52,0,4,29,1.8,23,1.4,0,,202111280rav
+Latavius Murray,BAL,8,14,0,2,5,0.6,9,1.1,0,,202111280rav
+Devin Duvernay,BAL,1,13,0,1,7,7.0,6,6.0,0,,202111280rav
+Ty'Son Williams,BAL,1,1,0,,0,0.0,1,1.0,0,,202111280rav
+Nick Chubb,CLE,17,126,1,7,77,4.5,49,2.9,2,8.5,202112250gnb
+D'Ernest Johnson,CLE,4,58,0,2,35,8.8,23,5.8,1,4.0,202112250gnb
+Baker Mayfield,CLE,2,11,0,1,11,5.5,0,0.0,0,,202112250gnb
+Anthony Schwartz,CLE,2,24,0,2,21,10.5,3,1.5,0,,202112250gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112250gnb
+Aaron Jones,GNB,12,66,0,4,28,2.3,38,3.2,4,3.0,202112250gnb
+AJ Dillon,GNB,9,41,0,3,20,2.2,21,2.3,0,,202112250gnb
+Allen Lazard,GNB,1,13,0,1,13,13.0,0,0.0,0,,202112250gnb
+Aaron Rodgers,GNB,1,-1,0,0,-1,-1.0,0,0.0,0,,202112250gnb
+Equanimeous St. Brown,GNB,1,-10,0,,-10,-10.0,0,0.0,0,,202112250gnb
+Leonard Fournette,TAM,11,47,0,3,27,2.5,20,1.8,0,,202111140was
+Giovani Bernard,TAM,1,4,0,1,3,3.0,1,1.0,0,,202111140was
+Tom Brady,TAM,1,2,0,1,2,2.0,0,0.0,0,,202111140was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111140was
+Antonio Gibson,WAS,24,64,2,7,31,1.3,33,1.4,1,24.0,202111140was
+Jaret Patterson,WAS,4,7,0,,5,1.3,2,0.5,0,,202111140was
+Taylor Heinicke,WAS,3,15,0,1,5,1.7,10,3.3,0,,202111140was
+J.D. McKissic,WAS,2,4,0,0,2,1.0,2,1.0,0,,202111140was
+DeAndre Carter,WAS,1,4,0,0,4,4.0,0,0.0,0,,202111140was
+Khalil Herbert,CHI,18,75,0,4,63,3.5,12,0.7,0,,202110100rai
+Damien Williams,CHI,16,64,1,3,57,3.6,7,0.4,1,16.0,202110100rai
+Justin Fields,CHI,3,4,0,0,2,0.7,2,0.7,0,,202110100rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100rai
+Josh Jacobs,LVR,15,48,1,3,45,3.0,3,0.2,0,,202110100rai
+Derek Carr,LVR,3,10,0,1,10,3.3,0,0.0,0,,202110100rai
+Kenyan Drake,LVR,2,11,0,1,9,4.5,2,1.0,0,,202110100rai
+Nathan Peterman,LVR,2,2,0,1,2,1.0,0,0.0,0,,202110100rai
+David Johnson,HOU,7,25,0,0,21,3.0,4,0.6,1,7.0,202110240crd
+Mark Ingram,HOU,6,9,0,0,8,1.3,1,0.2,0,,202110240crd
+Phillip Lindsay,HOU,2,8,0,,8,4.0,0,0.0,0,,202110240crd
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240crd
+Chase Edmonds,ARI,15,81,0,4,51,3.4,30,2.0,2,7.5,202110240crd
+James Conner,ARI,10,64,1,2,40,4.0,24,2.4,2,5.0,202110240crd
+Kyler Murray,ARI,6,10,0,0,10,1.7,0,0.0,0,,202110240crd
+Eno Benjamin,ARI,2,7,0,,6,3.0,1,0.5,0,,202110240crd
+Colt McCoy,ARI,2,-1,0,,-1,-0.5,0,0.0,0,,202110240crd
+Zach Ertz,ARI,1,4,0,0,4,4.0,0,0.0,0,,202110240crd
+Jonathan Ward,ARI,1,7,0,1,7,7.0,0,0.0,0,,202110240crd
+Cordarrelle Patterson,ATL,14,60,1,4,21,1.5,39,2.8,1,14.0,202110240mia
+Mike Davis,ATL,4,10,0,1,3,0.8,7,1.8,1,4.0,202110240mia
+Matt Ryan,ATL,3,0,0,0,-2,-0.7,2,0.7,0,,202110240mia
+Wayne Gallman,ATL,1,2,0,,0,0.0,2,2.0,0,,202110240mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240mia
+Myles Gaskin,MIA,15,67,0,4,45,3.0,22,1.5,2,7.5,202110240mia
+Salvon Ahmed,MIA,7,26,0,3,15,2.1,11,1.6,1,7.0,202110240mia
+Tua Tagovailoa,MIA,4,29,0,2,17,4.3,12,3.0,0,,202110240mia
+Malcolm Brown,MIA,3,10,0,,6,2.0,4,1.3,1,3.0,202110240mia
+Derrick Henry,TEN,35,182,3,9,93,2.7,89,2.5,1,35.0,202109190sea
+Ryan Tannehill,TEN,4,27,0,2,26,6.5,1,0.3,0,,202109190sea
+Jeremy McNichols,TEN,1,3,0,0,1,1.0,2,2.0,0,,202109190sea
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190sea
+Chris Carson,SEA,13,31,2,3,14,1.1,17,1.3,3,4.3,202109190sea
+Russell Wilson,SEA,3,16,0,1,13,4.3,3,1.0,0,,202109190sea
+Alex Collins,SEA,1,25,0,1,23,23.0,2,2.0,0,,202109190sea
+Freddie Swain,SEA,1,5,0,0,4,4.0,1,1.0,0,,202109190sea
+Najee Harris,PIT,20,94,1,6,37,1.9,57,2.9,3,6.7,202112090min
+Chase Claypool,PIT,1,2,0,0,0,0.0,2,2.0,0,,202112090min
+Diontae Johnson,PIT,1,7,0,0,6,6.0,1,1.0,0,,202112090min
+Ben Roethlisberger,PIT,1,5,0,1,3,3.0,2,2.0,0,,202112090min
+Benny Snell Jr.,PIT,1,-2,0,,-2,-2.0,0,0.0,1,1.0,202112090min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112090min
+Dalvin Cook,MIN,27,205,2,8,141,5.2,64,2.4,3,9.0,202112090min
+Alexander Mattison,MIN,6,27,0,3,19,3.2,8,1.3,0,,202112090min
+Kirk Cousins,MIN,2,14,0,2,3,1.5,11,5.5,0,,202112090min
+Justin Jefferson,MIN,1,-4,0,0,-4,-4.0,0,0.0,0,,202112090min
+Michael Carter,NYJ,11,37,0,2,11,1.0,26,2.4,1,11.0,202110240nwe
+Ty Johnson,NYJ,5,6,0,0,5,1.0,1,0.2,0,,202110240nwe
+Elijah Moore,NYJ,1,19,1,1,17,17.0,2,2.0,0,,202110240nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110240nwe
+Damien Harris,NWE,14,106,2,7,76,5.4,30,2.1,0,,202110240nwe
+J.J. Taylor,NWE,9,21,2,3,16,1.8,5,0.6,0,,202110240nwe
+Brian Hoyer,NWE,3,-3,0,0,-3,-1.0,0,0.0,0,,202110240nwe
+Mac Jones,NWE,3,19,0,2,19,6.3,0,0.0,0,,202110240nwe
+Brandon Bolden,NWE,2,0,0,0,0,0.0,0,0.0,0,,202110240nwe
+Jonnu Smith,NWE,1,5,0,0,4,4.0,1,1.0,0,,202110240nwe
+Mark Ingram,HOU,14,41,0,2,3,0.2,38,2.7,3,4.7,202109190cle
+David Johnson,HOU,6,25,0,1,7,1.2,18,3.0,0,,202109190cle
+Phillip Lindsay,HOU,5,2,0,1,0,0.0,2,0.4,0,,202109190cle
+Davis Mills,HOU,2,-1,0,0,-3,-1.5,2,1.0,0,,202109190cle
+Tyrod Taylor,HOU,1,15,1,1,15,15.0,0,0.0,0,,202109190cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190cle
+Kareem Hunt,CLE,13,51,0,3,23,1.8,28,2.2,2,6.5,202109190cle
+Nick Chubb,CLE,11,95,1,5,34,3.1,61,5.5,1,11.0,202109190cle
+Baker Mayfield,CLE,8,10,1,2,10,1.3,0,0.0,0,,202109190cle
+Andy Janovich,CLE,2,0,1,1,-1,-0.5,1,0.5,0,,202109190cle
+Austin Ekeler,LAC,14,59,1,2,27,1.9,32,2.3,0,,202112050cin
+Justin Jackson,LAC,6,15,0,2,5,0.8,10,1.7,0,,202112050cin
+Jalen Guyton,LAC,1,-1,0,0,-1,-1.0,0,0.0,0,,202112050cin
+Justin Herbert,LAC,1,6,0,1,6,6.0,0,0.0,0,,202112050cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050cin
+Joe Mixon,CIN,19,54,1,3,25,1.3,29,1.5,0,,202112050cin
+Samaje Perine,CIN,5,36,0,2,18,3.6,18,3.6,0,,202112050cin
+Joe Burrow,CIN,1,6,1,1,6,6.0,0,0.0,0,,202112050cin
+Saquon Barkley,NYG,11,55,0,5,35,3.2,20,1.8,0,,202112050mia
+Devontae Booker,NYG,6,36,0,1,24,4.0,12,2.0,0,,202112050mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050mia
+Myles Gaskin,MIA,15,44,0,,29,1.9,15,1.0,0,,202112050mia
+Salvon Ahmed,MIA,8,23,0,1,17,2.1,6,0.8,0,,202112050mia
+Tua Tagovailoa,MIA,2,1,0,0,-1,-0.5,2,1.0,0,,202112050mia
+Jonathan Taylor,IND,32,143,2,12,92,2.9,51,1.6,2,16.0,202112050htx
+Deon Jackson,IND,6,19,1,2,10,1.7,9,1.5,1,6.0,202112050htx
+Nyheim Hines,IND,3,24,0,2,11,3.7,13,4.3,2,1.5,202112050htx
+Carson Wentz,IND,3,8,0,1,5,1.7,3,1.0,0,,202112050htx
+Michael Pittman Jr.,IND,2,33,0,1,29,14.5,4,2.0,0,,202112050htx
+Sam Ehlinger,IND,1,-1,0,,-1,-1.0,0,0.0,0,,202112050htx
+Zach Pascal,IND,1,12,0,,10,10.0,2,2.0,0,,202112050htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050htx
+Rex Burkhead,HOU,8,30,0,0,22,2.8,8,1.0,0,,202112050htx
+Royce Freeman,HOU,3,10,0,0,8,2.7,2,0.7,0,,202112050htx
+Tyrod Taylor,HOU,3,15,0,1,8,2.7,7,2.3,1,3.0,202112050htx
+Davis Mills,HOU,2,11,0,1,11,5.5,0,0.0,0,,202112050htx
+Jaylen Samuels,HOU,2,2,0,,0,0.0,2,1.0,0,,202112050htx
+Brandin Cooks,HOU,1,16,0,1,12,12.0,4,4.0,0,,202112050htx
+Myles Gaskin,MIA,13,65,0,1,41,3.2,24,1.8,0,,202109260rai
+Jacoby Brissett,MIA,7,37,1,3,37,5.3,0,0.0,0,,202109260rai
+Malcolm Brown,MIA,7,31,1,1,25,3.6,6,0.9,0,,202109260rai
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260rai
+Peyton Barber,LVR,23,111,1,7,76,3.3,35,1.5,0,,202109260rai
+Kenyan Drake,LVR,8,24,0,0,10,1.3,14,1.8,1,8.0,202109260rai
+Derek Carr,LVR,2,-2,0,0,-2,-1.0,0,0.0,0,,202109260rai
+Alec Ingold,LVR,1,0,0,0,0,0.0,0,0.0,0,,202109260rai
+Henry Ruggs III,LVR,1,7,0,0,6,6.0,1,1.0,0,,202109260rai
+Carlos Hyde,JAX,9,44,0,3,26,2.9,18,2.0,0,,202109120htx
+James Robinson,JAX,5,25,0,2,12,2.4,13,2.6,0,,202109120htx
+Trevor Lawrence,JAX,1,-2,0,0,-2,-2.0,0,0.0,0,,202109120htx
+Laviska Shenault Jr.,JAX,1,9,0,0,9,9.0,0,0.0,0,,202109120htx
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120htx
+Mark Ingram,HOU,26,85,1,4,27,1.0,58,2.2,1,26.0,202109120htx
+Phillip Lindsay,HOU,8,25,1,1,17,2.1,8,1.0,0,,202109120htx
+Tyrod Taylor,HOU,4,40,0,0,16,4.0,24,6.0,1,4.0,202109120htx
+David Johnson,HOU,3,10,0,1,8,2.7,2,0.7,0,,202109120htx
+Saquon Barkley,NYG,13,52,1,3,25,1.9,27,2.1,1,13.0,202110030nor
+Daniel Jones,NYG,4,27,0,1,27,6.8,0,0.0,0,,202110030nor
+Devontae Booker,NYG,1,6,0,,3,3.0,3,3.0,0,,202110030nor
+Evan Engram,NYG,1,-3,0,,-3,-3.0,0,0.0,0,,202110030nor
+Kadarius Toney,NYG,1,1,0,0,0,0.0,1,1.0,0,,202110030nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030nor
+Alvin Kamara,NOR,26,120,0,4,58,2.2,62,2.4,3,8.7,202110030nor
+Taysom Hill,NOR,6,28,2,3,15,2.5,13,2.2,3,2.0,202110030nor
+Tony Jones,NOR,3,8,0,1,8,2.7,0,0.0,0,,202110030nor
+Ty Montgomery,NOR,2,7,0,0,5,2.5,2,1.0,0,,202110030nor
+Alex Armah,NOR,1,2,0,1,1,1.0,1,1.0,0,,202110030nor
+Dwayne Washington,NOR,1,5,0,,0,0.0,5,5.0,0,,202110030nor
+Dalvin Cook,MIN,20,61,1,5,32,1.6,29,1.5,1,20.0,202109120cin
+Ameer Abdullah,MIN,1,4,0,0,3,3.0,1,1.0,0,,202109120cin
+Alexander Mattison,MIN,1,2,0,,1,1.0,1,1.0,0,,202109120cin
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120cin
+Joe Mixon,CIN,29,127,1,6,81,2.8,46,1.6,6,4.8,202109120cin
+Samaje Perine,CIN,5,22,0,,17,3.4,5,1.0,0,,202109120cin
+Joe Burrow,CIN,1,2,0,1,1,1.0,1,1.0,0,,202109120cin
+Ja'Marr Chase,CIN,1,-2,0,0,-2,-2.0,0,0.0,1,1.0,202109120cin
+Mark Ingram,HOU,6,24,0,1,13,2.2,11,1.8,0,,202110030buf
+David Johnson,HOU,5,21,0,0,9,1.8,12,2.4,1,5.0,202110030buf
+Phillip Lindsay,HOU,4,-1,0,,-3,-0.8,2,0.5,0,,202110030buf
+Jordan Akins,HOU,1,3,0,1,0,0.0,3,3.0,0,,202110030buf
+Rex Burkhead,HOU,1,-1,0,,-1,-1.0,0,0.0,0,,202110030buf
+Davis Mills,HOU,1,2,0,0,2,2.0,0,0.0,0,,202110030buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030buf
+Zack Moss,BUF,14,61,1,3,16,1.1,45,3.2,0,,202110030buf
+Devin Singletary,BUF,14,79,0,4,29,2.1,50,3.6,1,14.0,202110030buf
+Josh Allen,BUF,6,41,0,2,25,4.2,16,2.7,0,,202110030buf
+Mitchell Trubisky,BUF,4,10,1,2,10,2.5,0,0.0,0,,202110030buf
+Reggie Gilliam,BUF,1,1,0,,0,0.0,1,1.0,0,,202110030buf
+Emmanuel Sanders,BUF,1,7,0,1,3,3.0,4,4.0,0,,202110030buf
+Myles Gaskin,MIA,9,49,0,2,25,2.8,24,2.7,1,9.0,202109120nwe
+Malcolm Brown,MIA,5,16,0,2,6,1.2,10,2.0,0,,202109120nwe
+Tua Tagovailoa,MIA,4,1,1,1,1,0.3,0,0.0,0,,202109120nwe
+Salvon Ahmed,MIA,3,4,0,0,-2,-0.7,6,2.0,0,,202109120nwe
+Jacoby Brissett,MIA,2,4,0,2,0,0.0,4,2.0,0,,202109120nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120nwe
+Damien Harris,NWE,23,100,0,6,52,2.3,48,2.1,1,23.0,202109120nwe
+James White,NWE,4,12,0,2,8,2.0,4,1.0,0,,202109120nwe
+Brandon Bolden,NWE,1,5,0,,1,1.0,4,4.0,1,1.0,202109120nwe
+Jonnu Smith,NWE,1,6,0,0,2,2.0,4,4.0,0,,202109120nwe
+Rhamondre Stevenson,NWE,1,2,0,,0,0.0,2,2.0,0,,202109120nwe
+Darrel Williams,KAN,21,62,2,5,39,1.9,23,1.1,0,,202110170was
+Patrick Mahomes,KAN,3,31,0,2,31,10.3,0,0.0,0,,202110170was
+Jerick McKinnon,KAN,3,10,0,0,7,2.3,3,1.0,0,,202110170was
+Mecole Hardman,KAN,1,6,0,0,4,4.0,2,2.0,0,,202110170was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170was
+Antonio Gibson,WAS,10,44,0,3,23,2.3,21,2.1,1,10.0,202110170was
+J.D. McKissic,WAS,8,45,0,3,33,4.1,12,1.5,0,,202110170was
+Jaret Patterson,WAS,1,5,0,,4,4.0,1,1.0,0,,202110170was
+David Montgomery,CHI,10,34,0,2,26,2.6,8,0.8,0,,202109260cle
+Justin Fields,CHI,3,12,0,0,12,4.0,0,0.0,0,,202109260cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260cle
+Nick Chubb,CLE,22,84,0,4,64,2.9,20,0.9,1,22.0,202109260cle
+Kareem Hunt,CLE,10,81,1,4,33,3.3,48,4.8,3,3.3,202109260cle
+Baker Mayfield,CLE,4,31,0,1,31,7.8,0,0.0,0,,202109260cle
+Case Keenum,CLE,3,0,0,1,0,0.0,0,0.0,0,,202109260cle
+D'Ernest Johnson,CLE,2,9,0,,6,3.0,3,1.5,0,,202109260cle
+Odell Beckham Jr.,CLE,1,10,0,1,10,10.0,0,0.0,0,,202109260cle
+Jaret Patterson,WAS,9,33,0,1,28,3.1,5,0.6,1,9.0,202112260dal
+Antonio Gibson,WAS,6,29,0,1,25,4.2,4,0.7,0,,202112260dal
+Jonathan Williams,WAS,3,9,0,1,4,1.3,5,1.7,1,3.0,202112260dal
+DeAndre Carter,WAS,1,15,0,1,15,15.0,0,0.0,0,,202112260dal
+Taylor Heinicke,WAS,1,-1,0,0,-1,-1.0,0,0.0,0,,202112260dal
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260dal
+Ezekiel Elliott,DAL,9,37,1,3,30,3.3,7,0.8,2,4.5,202112260dal
+Tony Pollard,DAL,8,34,0,1,29,3.6,5,0.6,0,,202112260dal
+Corey Clement,DAL,4,18,0,1,10,2.5,8,2.0,1,4.0,202112260dal
+Dak Prescott,DAL,4,21,0,2,20,5.0,1,0.3,0,,202112260dal
+Cooper Rush,DAL,2,0,0,0,0,0.0,0,0.0,0,,202112260dal
+CeeDee Lamb,DAL,1,-2,0,0,-2,-2.0,0,0.0,0,,202112260dal
+Josh Allen,BUF,9,26,0,1,14,1.6,12,1.3,1,9.0,202110180oti
+Zack Moss,BUF,8,24,0,0,10,1.3,14,1.8,1,8.0,202110180oti
+Devin Singletary,BUF,5,27,0,2,6,1.2,21,4.2,1,5.0,202110180oti
+Isaiah McKenzie,BUF,1,5,0,,3,3.0,2,2.0,0,,202110180oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110180oti
+Derrick Henry,TEN,20,143,3,5,47,2.4,96,4.8,1,20.0,202110180oti
+Ryan Tannehill,TEN,2,3,1,1,1,0.5,2,1.0,1,2.0,202110180oti
+Devonta Freeman,BAL,10,35,0,3,17,1.7,18,1.8,1,10.0,202111110mia
+Lamar Jackson,BAL,9,39,0,3,23,2.6,16,1.8,0,,202111110mia
+Le'Veon Bell,BAL,3,1,0,,0,0.0,1,0.3,1,3.0,202111110mia
+Devin Duvernay,BAL,1,19,0,1,19,19.0,0,0.0,0,,202111110mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111110mia
+Myles Gaskin,MIA,14,31,0,1,20,1.4,11,0.8,0,,202111110mia
+Tua Tagovailoa,MIA,3,0,1,1,0,0.0,0,0.0,0,,202111110mia
+Salvon Ahmed,MIA,2,6,0,1,4,2.0,2,1.0,0,,202111110mia
+Albert Wilson,MIA,2,19,0,1,0,0.0,19,9.5,1,2.0,202111110mia
+Jacoby Brissett,MIA,1,4,0,0,0,0.0,4,4.0,0,,202111110mia
+Darrell Henderson,LAR,16,55,0,4,27,1.7,28,1.8,0,,202111280gnb
+Sony Michel,LAR,3,14,0,1,5,1.7,9,3.0,0,,202111280gnb
+Matthew Stafford,LAR,1,-1,0,0,-1,-1.0,0,0.0,0,,202111280gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111280gnb
+AJ Dillon,GNB,20,69,0,4,22,1.1,47,2.4,5,4.0,202111280gnb
+Aaron Jones,GNB,10,23,0,,6,0.6,17,1.7,0,,202111280gnb
+Aaron Rodgers,GNB,2,0,1,1,0,0.0,0,0.0,0,,202111280gnb
+Sony Michel,LAR,27,131,1,8,70,2.6,61,2.3,1,27.0,202112260min
+Matthew Stafford,LAR,3,8,0,2,6,2.0,2,0.7,0,,202112260min
+Jake Funk,LAR,1,-1,0,,-1,-1.0,0,0.0,0,,202112260min
+Darrell Henderson,LAR,1,17,0,1,12,12.0,5,5.0,0,,202112260min
+Cooper Kupp,LAR,1,4,0,0,2,2.0,2,2.0,0,,202112260min
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260min
+Alexander Mattison,MIN,13,41,1,5,13,1.0,28,2.2,2,6.5,202112260min
+Kene Nwangwu,MIN,5,8,0,,3,0.6,5,1.0,0,,202112260min
+Kirk Cousins,MIN,4,17,0,0,15,3.8,2,0.5,0,,202112260min
+David Montgomery,CHI,10,42,0,2,25,2.5,17,1.7,0,,202112120gnb
+Justin Fields,CHI,9,74,0,4,59,6.6,15,1.7,1,9.0,202112120gnb
+Damien Williams,CHI,2,13,0,1,8,4.0,5,2.5,0,,202112120gnb
+Jakeem Grant,CHI,1,5,0,0,0,0.0,5,5.0,1,1.0,202112120gnb
+Khalil Herbert,CHI,1,3,0,,2,2.0,1,1.0,0,,202112120gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112120gnb
+AJ Dillon,GNB,15,71,0,3,35,2.3,36,2.4,1,15.0,202112120gnb
+Aaron Jones,GNB,5,35,1,3,16,3.2,19,3.8,1,5.0,202112120gnb
+Kurt Benkert,GNB,2,-1,0,,-1,-0.5,0,0.0,0,,202112120gnb
+Allen Lazard,GNB,1,14,0,1,13,13.0,1,1.0,0,,202112120gnb
+Aaron Rodgers,GNB,1,0,0,0,0,0.0,0,0.0,0,,202112120gnb
+Miles Sanders,PHI,24,120,0,5,35,1.5,85,3.5,0,,202112050nyj
+Kenneth Gainwell,PHI,12,54,1,3,24,2.0,30,2.5,2,6.0,202112050nyj
+Gardner Minshew II,PHI,4,11,0,1,9,2.3,2,0.5,0,,202112050nyj
+Jalen Reagor,PHI,1,0,0,,0,0.0,0,0.0,0,,202112050nyj
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050nyj
+Tevin Coleman,NYJ,11,58,0,2,12,1.1,46,4.2,0,,202112050nyj
+Zach Wilson,NYJ,3,0,1,1,-1,-0.3,1,0.3,0,,202112050nyj
+Ty Johnson,NYJ,1,1,0,1,0,0.0,1,1.0,0,,202112050nyj
+Elijah Moore,NYJ,1,9,0,0,8,8.0,1,1.0,0,,202112050nyj
+Austin Walter,NYJ,1,2,0,0,1,1.0,1,1.0,0,,202112050nyj
+Josh Allen,BUF,11,59,1,5,50,4.5,9,0.8,0,,202110100kan
+Zack Moss,BUF,11,37,0,2,15,1.4,22,2.0,3,3.7,202110100kan
+Devin Singletary,BUF,6,25,0,,10,1.7,15,2.5,0,,202110100kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100kan
+Patrick Mahomes,KAN,8,61,0,5,58,7.3,3,0.4,0,,202110100kan
+Clyde Edwards-Helaire,KAN,7,13,0,1,6,0.9,7,1.0,0,,202110100kan
+Darrel Williams,KAN,5,27,0,1,20,4.0,7,1.4,0,,202110100kan
+Michael Burton,KAN,1,2,0,1,2,2.0,0,0.0,0,,202110100kan
+Tyreek Hill,KAN,1,15,0,0,7,7.0,8,8.0,0,,202110100kan
+Jerick McKinnon,KAN,1,2,0,,0,0.0,2,2.0,0,,202110100kan
+Devonta Freeman,BAL,14,52,1,3,31,2.2,21,1.5,1,14.0,202112050pit
+Lamar Jackson,BAL,8,55,0,4,42,5.3,13,1.6,1,8.0,202112050pit
+Latavius Murray,BAL,2,1,0,0,-1,-0.5,2,1.0,0,,202112050pit
+Nate McCrary,BAL,1,-1,0,,-1,-1.0,0,0.0,0,,202112050pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112050pit
+Najee Harris,PIT,21,71,0,4,23,1.1,48,2.3,2,10.5,202112050pit
+Benny Snell Jr.,PIT,2,13,0,,8,4.0,5,2.5,0,,202112050pit
+Chase Claypool,PIT,1,2,0,0,0,0.0,2,2.0,0,,202112050pit
+Ben Roethlisberger,PIT,1,-1,0,0,-1,-1.0,0,0.0,0,,202112050pit
+Rashaad Penny,SEA,11,39,0,2,25,2.3,14,1.3,0,,202112210ram
+DeeJay Dallas,SEA,8,41,1,3,16,2.0,25,3.1,1,8.0,202112210ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112210ram
+Sony Michel,LAR,18,92,0,4,30,1.7,62,3.4,6,3.0,202112210ram
+Darrell Henderson,LAR,6,23,0,2,13,2.2,10,1.7,0,,202112210ram
+Matthew Stafford,LAR,3,-3,0,0,-3,-1.0,0,0.0,0,,202112210ram
+Van Jefferson,LAR,1,10,0,1,7,7.0,3,3.0,0,,202112210ram
+Cooper Kupp,LAR,1,1,0,0,0,0.0,1,1.0,0,,202112210ram
+Ronald Jones II,TAM,5,11,0,1,6,1.2,5,1.0,0,,202109260ram
+Leonard Fournette,TAM,4,8,0,0,6,1.5,2,0.5,0,,202109260ram
+Tom Brady,TAM,3,14,1,1,12,4.0,2,0.7,0,,202109260ram
+Chris Godwin,TAM,1,2,1,1,2,2.0,0,0.0,0,,202109260ram
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260ram
+Sony Michel,LAR,20,67,0,5,34,1.7,33,1.7,3,6.7,202109260ram
+Matthew Stafford,LAR,2,-2,0,0,-2,-1.0,0,0.0,0,,202109260ram
+Jake Funk,LAR,1,6,0,,3,3.0,3,3.0,0,,202109260ram
+Robert Woods,LAR,1,5,0,0,1,1.0,4,4.0,0,,202109260ram
+Antonio Gibson,WAS,21,146,1,6,68,3.2,78,3.7,0,,202201090nyg
+Jonathan Williams,WAS,7,45,0,4,9,1.3,36,5.1,1,7.0,202201090nyg
+Jaret Patterson,WAS,6,21,0,,12,2.0,9,1.5,0,,202201090nyg
+Taylor Heinicke,WAS,2,3,0,1,3,1.5,0,0.0,0,,202201090nyg
+DeAndre Carter,WAS,1,11,0,1,8,8.0,3,3.0,0,,202201090nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201090nyg
+Saquon Barkley,NYG,11,30,0,0,16,1.5,14,1.3,0,,202201090nyg
+Devontae Booker,NYG,8,14,0,1,3,0.4,11,1.4,0,,202201090nyg
+Jake Fromm,NYG,5,53,0,3,20,4.0,33,6.6,0,,202201090nyg
+Alex Bachman,NYG,1,-3,0,,-3,-3.0,0,0.0,0,,202201090nyg
+Sony Michel,LAR,19,74,1,6,40,2.1,34,1.8,0,,202201020rav
+Matthew Stafford,LAR,1,-1,0,0,-1,-1.0,0,0.0,0,,202201020rav
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020rav
+Devonta Freeman,BAL,14,76,0,3,57,4.1,19,1.4,0,,202201020rav
+Latavius Murray,BAL,11,31,0,3,19,1.7,12,1.1,0,,202201020rav
+Tyler Huntley,BAL,6,54,0,4,45,7.5,9,1.5,0,,202201020rav
+Devin Duvernay,BAL,1,4,0,,4,4.0,0,0.0,0,,202201020rav
+Austin Ekeler,LAC,11,55,0,2,34,3.1,21,1.9,0,,202109260kan
+Justin Herbert,LAC,4,16,0,1,15,3.8,1,0.3,0,,202109260kan
+Larry Rountree,LAC,4,3,0,,2,0.5,1,0.3,0,,202109260kan
+Justin Jackson,LAC,2,0,0,,0,0.0,0,0.0,0,,202109260kan
+Jalen Guyton,LAC,1,3,0,,2,2.0,1,1.0,0,,202109260kan
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260kan
+Clyde Edwards-Helaire,KAN,17,100,0,5,68,4.0,32,1.9,0,,202109260kan
+Darrel Williams,KAN,7,28,0,3,22,3.1,6,0.9,0,,202109260kan
+Patrick Mahomes,KAN,4,45,0,3,44,11.0,1,0.3,0,,202109260kan
+Mecole Hardman,KAN,1,2,0,0,2,2.0,0,0.0,0,,202109260kan
+Tyreek Hill,KAN,1,11,0,1,11,11.0,0,0.0,0,,202109260kan
+Saquon Barkley,NYG,15,32,0,1,9,0.6,23,1.5,1,15.0,202112260phi
+Devontae Booker,NYG,6,27,0,2,9,1.5,18,3.0,0,,202112260phi
+Jake Fromm,NYG,3,12,0,1,10,3.3,2,0.7,0,,202112260phi
+Mike Glennon,NYG,2,11,0,0,11,5.5,0,0.0,0,,202112260phi
+Elijhaa Penny,NYG,1,2,0,0,1,1.0,1,1.0,0,,202112260phi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112260phi
+Boston Scott,PHI,12,41,1,2,29,2.4,12,1.0,0,,202112260phi
+Jordan Howard,PHI,9,37,0,1,19,2.1,18,2.0,0,,202112260phi
+Miles Sanders,PHI,7,45,0,3,34,4.9,11,1.6,0,,202112260phi
+Jalen Hurts,PHI,2,7,0,0,7,3.5,0,0.0,0,,202112260phi
+Clyde Edwards-Helaire,KAN,9,32,0,0,20,2.2,12,1.3,0,,202112160sdg
+Darrel Williams,KAN,5,12,0,1,9,1.8,3,0.6,0,,202112160sdg
+Patrick Mahomes,KAN,3,32,0,1,31,10.3,1,0.3,0,,202112160sdg
+Blake Bell,KAN,1,3,0,1,3,3.0,0,0.0,0,,202112160sdg
+Michael Burton,KAN,1,7,1,1,3,3.0,4,4.0,0,,202112160sdg
+Mecole Hardman,KAN,1,0,0,,0,0.0,0,0.0,0,,202112160sdg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112160sdg
+Justin Jackson,LAC,13,86,0,6,53,4.1,33,2.5,0,,202112160sdg
+Austin Ekeler,LAC,12,59,1,4,27,2.3,32,2.7,0,,202112160sdg
+Joshua Kelley,LAC,7,21,0,1,14,2.0,7,1.0,0,,202112160sdg
+Justin Herbert,LAC,5,16,1,3,15,3.0,1,0.2,0,,202112160sdg
+Gabe Nabers,LAC,1,4,0,,3,3.0,1,1.0,0,,202112160sdg
+Andre Roberts,LAC,1,6,0,,4,4.0,2,2.0,0,,202112160sdg
+Josh Jacobs,LVR,15,52,0,3,20,1.3,32,2.1,1,15.0,202112200cle
+Peyton Barber,LVR,5,34,0,1,18,3.6,16,3.2,1,5.0,202112200cle
+Derek Carr,LVR,3,7,0,0,5,1.7,2,0.7,0,,202112200cle
+Dallin Leavitt,LVR,1,2,0,1,1,1.0,1,1.0,0,,202112200cle
+Marcus Mariota,LVR,1,3,0,,2,2.0,1,1.0,0,,202112200cle
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112200cle
+Nick Chubb,CLE,23,91,1,3,43,1.9,48,2.1,1,23.0,202112200cle
+D'Ernest Johnson,CLE,1,-2,0,,-2,-2.0,0,0.0,0,,202112200cle
+Jamaal Williams,DET,14,66,0,4,39,2.8,27,1.9,3,4.7,202110030chi
+D'Andre Swift,DET,8,16,0,0,12,1.5,4,0.5,0,,202110030chi
+Jared Goff,DET,3,8,0,0,8,2.7,0,0.0,0,,202110030chi
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030chi
+David Montgomery,CHI,23,106,2,7,51,2.2,55,2.4,3,7.7,202110030chi
+Damien Williams,CHI,8,55,1,4,44,5.5,11,1.4,1,8.0,202110030chi
+Justin Fields,CHI,3,9,0,1,9,3.0,0,0.0,0,,202110030chi
+Khalil Herbert,CHI,3,7,0,,4,1.3,3,1.0,0,,202110030chi
+Marquise Goodwin,CHI,1,1,0,,0,0.0,1,1.0,0,,202110030chi
+Darnell Mooney,CHI,1,10,0,1,7,7.0,3,3.0,1,1.0,202110030chi
+Jonathan Taylor,IND,10,64,0,6,36,3.6,28,2.8,0,,202109260oti
+Nyheim Hines,IND,6,25,1,1,23,3.8,2,0.3,0,,202109260oti
+Ashton Dulin,IND,1,-7,0,,-7,-7.0,0,0.0,1,1.0,202109260oti
+Michael Pittman Jr.,IND,1,5,0,0,5,5.0,0,0.0,0,,202109260oti
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109260oti
+Derrick Henry,TEN,28,113,0,7,72,2.6,41,1.5,1,28.0,202109260oti
+Ryan Tannehill,TEN,5,56,0,3,53,10.6,3,0.6,0,,202109260oti
+Jeremy McNichols,TEN,2,6,0,0,2,1.0,4,2.0,0,,202109260oti
+A.J. Brown,TEN,1,3,0,,1,1.0,2,2.0,0,,202109260oti
+Mekhi Sargent,TEN,1,2,0,,2,2.0,0,0.0,0,,202109260oti
+David Montgomery,CHI,13,63,0,4,39,3.0,24,1.8,0,,202111080pit
+Justin Fields,CHI,8,45,0,2,43,5.4,2,0.3,0,,202111080pit
+Khalil Herbert,CHI,4,13,0,,4,1.0,9,2.3,0,,202111080pit
+Darnell Mooney,CHI,1,15,1,1,15,15.0,0,0.0,0,,202111080pit
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202111080pit
+Najee Harris,PIT,22,62,1,5,40,1.8,22,1.0,4,5.5,202111080pit
+Chase Claypool,PIT,2,13,0,2,9,4.5,4,2.0,0,,202111080pit
+Diontae Johnson,PIT,2,11,0,0,11,5.5,0,0.0,0,,202111080pit
+Ben Roethlisberger,PIT,2,0,0,0,-1,-0.5,1,0.5,0,,202111080pit
+Benny Snell Jr.,PIT,2,6,0,1,5,2.5,1,0.5,0,,202111080pit
+James Washington,PIT,2,13,0,0,10,5.0,3,1.5,0,,202111080pit
+Darrell Henderson,LAR,21,78,1,4,43,2.0,35,1.7,0,,202110170nyg
+Sony Michel,LAR,9,42,0,1,17,1.9,25,2.8,1,9.0,202110170nyg
+Matthew Stafford,LAR,2,12,0,1,12,6.0,0,0.0,0,,202110170nyg
+John Wolford,LAR,2,-1,0,,-1,-0.5,0,0.0,0,,202110170nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110170nyg
+Devontae Booker,NYG,12,41,0,2,22,1.8,19,1.6,0,,202110170nyg
+Daniel Jones,NYG,3,4,0,1,3,1.0,1,0.3,0,,202110170nyg
+Elijhaa Penny,NYG,3,15,1,1,8,2.7,7,2.3,0,,202110170nyg
+Ezekiel Elliott,DAL,16,52,1,4,24,1.5,28,1.8,0,,202112190nyg
+Tony Pollard,DAL,12,74,0,5,56,4.7,18,1.5,0,,202112190nyg
+Dak Prescott,DAL,2,-1,0,0,-1,-0.5,0,0.0,0,,202112190nyg
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202112190nyg
+Saquon Barkley,NYG,15,50,0,1,25,1.7,25,1.7,0,,202112190nyg
+Devontae Booker,NYG,8,74,0,2,61,7.6,13,1.6,0,,202112190nyg
+Mike Glennon,NYG,1,0,0,0,0,0.0,0,0.0,0,,202112190nyg
+Dalvin Cook,MIN,9,13,0,,13,1.4,0,0.0,0,,202201020gnb
+Sean Mannion,MIN,2,14,0,2,11,5.5,3,1.5,0,,202201020gnb
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202201020gnb
+AJ Dillon,GNB,14,63,2,5,41,2.9,22,1.6,1,14.0,202201020gnb
+Aaron Jones,GNB,8,76,0,2,49,6.1,27,3.4,1,8.0,202201020gnb
+Patrick Taylor,GNB,6,18,0,1,14,2.3,4,0.7,1,6.0,202201020gnb
+Jordan Love,GNB,2,9,0,1,9,4.5,0,0.0,0,,202201020gnb
+Aaron Rodgers,GNB,2,8,0,2,8,4.0,0,0.0,0,,202201020gnb
+Darrell Henderson,LAR,13,53,1,4,33,2.5,20,1.5,0,,202109190clt
+Sony Michel,LAR,10,46,0,2,33,3.3,13,1.3,1,10.0,202109190clt
+Matthew Stafford,LAR,2,1,0,0,1,0.5,0,0.0,0,,202109190clt
+Robert Woods,LAR,2,6,0,0,3,1.5,3,1.5,0,,202109190clt
+Johnny Hekker,LAR,1,0,0,,0,0.0,0,0.0,0,,202109190clt
+Cooper Kupp,LAR,1,-5,0,0,-5,-5.0,0,0.0,0,,202109190clt
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190clt
+Jonathan Taylor,IND,15,51,0,4,39,2.6,12,0.8,0,,202109190clt
+Marlon Mack,IND,5,16,0,1,9,1.8,7,1.4,0,,202109190clt
+Carson Wentz,IND,5,37,0,2,36,7.2,1,0.2,0,,202109190clt
+Nyheim Hines,IND,1,5,0,1,3,3.0,2,2.0,0,,202109190clt
+Leonard Fournette,TAM,20,92,0,5,62,3.1,30,1.5,4,5.0,202110030nwe
+Ronald Jones II,TAM,6,25,1,2,11,1.8,14,2.3,1,6.0,202110030nwe
+Tom Brady,TAM,4,3,0,1,0,0.0,3,0.8,0,,202110030nwe
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030nwe
+Damien Harris,NWE,4,-4,0,1,-5,-1.3,1,0.3,0,,202110030nwe
+Nelson Agholor,NWE,1,4,0,0,4,4.0,0,0.0,1,1.0,202110030nwe
+Brandon Bolden,NWE,1,0,0,0,0,0.0,0,0.0,0,,202110030nwe
+Mac Jones,NWE,1,-1,0,0,-1,-1.0,0,0.0,0,,202110030nwe
+J.J. Taylor,NWE,1,0,0,,0,0.0,0,0.0,0,,202110030nwe
+Miles Sanders,PHI,11,45,0,2,27,2.5,18,1.6,0,,202110100car
+Jalen Hurts,PHI,9,30,2,4,27,3.0,3,0.3,0,,202110100car
+Kenneth Gainwell,PHI,2,16,0,0,14,7.0,2,1.0,0,,202110100car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110100car
+Chuba Hubbard,CAR,24,101,0,5,45,1.9,56,2.3,2,12.0,202110100car
+Royce Freeman,CAR,3,2,0,,-1,-0.3,3,1.0,0,,202110100car
+Sam Darnold,CAR,2,10,0,1,10,5.0,0,0.0,0,,202110100car
+D.J. Moore,CAR,1,-4,0,0,-4,-4.0,0,0.0,0,,202110100car
+Saquon Barkley,NYG,13,57,0,1,23,1.8,34,2.6,1,13.0,202109160was
+Daniel Jones,NYG,9,95,1,4,90,10.0,5,0.6,1,9.0,202109160was
+Devontae Booker,NYG,2,9,0,,5,2.5,4,2.0,0,,202109160was
+Elijhaa Penny,NYG,2,5,0,2,3,1.5,2,1.0,0,,202109160was
+C.J. Board,NYG,1,6,0,,4,4.0,2,2.0,0,,202109160was
+Sterling Shepard,NYG,1,-9,0,0,-9,-9.0,0,0.0,1,1.0,202109160was
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109160was
+Antonio Gibson,WAS,13,69,0,4,34,2.6,35,2.7,4,3.3,202109160was
+Taylor Heinicke,WAS,4,6,0,1,5,1.3,1,0.3,1,4.0,202109160was
+J.D. McKissic,WAS,4,10,1,3,10,2.5,0,0.0,0,,202109160was
+DeAndre Carter,WAS,1,2,0,,2,2.0,0,0.0,0,,202109160was
+Alvin Kamara,NOR,8,5,0,,-3,-0.4,8,1.0,1,8.0,202109190car
+Tony Jones,NOR,3,7,0,,4,1.3,3,1.0,2,1.5,202109190car
+Jameis Winston,NOR,3,19,1,1,17,5.7,2,0.7,0,,202109190car
+Taysom Hill,NOR,2,16,0,1,3,1.5,13,6.5,1,2.0,202109190car
+Deonte Harty,NOR,1,1,0,,1,1.0,0,0.0,0,,202109190car
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109190car
+Christian McCaffrey,CAR,24,72,1,4,27,1.1,45,1.9,6,4.0,202109190car
+Chuba Hubbard,CAR,8,10,0,,-1,-0.1,11,1.4,0,,202109190car
+Sam Darnold,CAR,1,7,0,0,7,7.0,0,0.0,0,,202109190car
+Kylin Hill,GNB,5,14,0,1,8,1.6,6,1.2,0,,202109120nor
+Aaron Jones,GNB,5,9,0,,5,1.0,4,0.8,0,,202109120nor
+AJ Dillon,GNB,4,19,0,1,10,2.5,9,2.3,0,,202109120nor
+Randall Cobb,GNB,1,1,0,0,0,0.0,1,1.0,1,1.0,202109120nor
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120nor
+Alvin Kamara,NOR,20,83,0,4,56,2.8,27,1.4,0,,202109120nor
+Tony Jones,NOR,11,50,0,2,28,2.5,22,2.0,0,,202109120nor
+Jameis Winston,NOR,6,37,0,4,19,3.2,18,3.0,0,,202109120nor
+Taysom Hill,NOR,2,1,0,1,0,0.0,1,0.5,0,,202109120nor
+Jonathan Taylor,IND,16,103,1,4,56,3.5,47,2.9,4,4.0,202110030mia
+Marlon Mack,IND,10,22,0,2,18,1.8,4,0.4,1,10.0,202110030mia
+Carson Wentz,IND,5,8,0,2,8,1.6,0,0.0,0,,202110030mia
+Nyheim Hines,IND,2,6,0,1,0,0.0,6,3.0,0,,202110030mia
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202110030mia
+Malcolm Brown,MIA,8,23,0,,14,1.8,9,1.1,2,4.0,202110030mia
+Salvon Ahmed,MIA,3,1,0,,1,0.3,0,0.0,0,,202110030mia
+Jacoby Brissett,MIA,3,8,0,2,8,2.7,0,0.0,0,,202110030mia
+Myles Gaskin,MIA,2,3,0,,3,1.5,0,0.0,0,,202110030mia
+Najee Harris,PIT,16,45,0,3,23,1.4,22,1.4,1,16.0,202109120buf
+Ben Roethlisberger,PIT,4,5,0,0,5,1.3,0,0.0,0,,202109120buf
+Chase Claypool,PIT,1,25,0,1,22,22.0,3,3.0,0,,202109120buf
+Player,Tm,Att,Yds,TD,1D,YBC,YBC/Att,YAC,YAC/Att,BrkTkl,Att/Br,202109120buf
+Devin Singletary,BUF,11,72,0,4,54,4.9,18,1.6,1,11.0,202109120buf
+Josh Allen,BUF,9,44,0,4,30,3.3,14,1.6,1,9.0,202109120buf
+Matt Breida,BUF,4,4,0,,2,0.5,2,0.5,0,,202109120buf
+Isaiah McKenzie,BUF,1,-3,0,,-3,-3.0,0,0.0,0,,202109120buf

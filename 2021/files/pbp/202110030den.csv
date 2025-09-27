@@ -1,0 +1,184 @@
+Quarter,Time,Down,ToGo,Location,BAL,DEN,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Ravens won the coin toss and deferred, Broncos to receive the opening kickoff.",,
+1,15:00,,,BAL 35,0,0,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,DEN 25,0,0,Teddy Bridgewater pass complete short right to Tim Patrick for 11 yards (tackle by Anthony Averett),0.610,1.330
+1,14:24,1,10,DEN 36,0,0,Melvin Gordon up the middle for 7 yards (tackle by Patrick Queen and Malik Harrison),1.330,1.670
+1,13:43,2,4,DEN 43,0,0,Melvin Gordon right tackle for 8 yards (tackle by Calais Campbell),1.670,2.460
+1,13:03,1,10,BAL 47,0,0,Teddy Bridgewater pass incomplete deep left intended for Noah Fant,2.460,1.910
+1,12:56,2,10,BAL 47,0,0,Teddy Bridgewater pass incomplete deep right intended for Albert Okwuegbunam,1.910,1.090
+1,12:51,3,10,BAL 49,0,0,Teddy Bridgewater sacked by Odafe Oweh for -9 yards,1.090,-0.590
+1,12:11,4,21,DEN 42,0,0,"Sam Martin punts 50 yards, returned by Devin Duvernay for 12 yards (tackle by P.J. Locke and Jacob Bobenmoyer)",-0.590,-0.280
+1,11:58,1,10,BAL 20,0,0,Latavius Murray right tackle for -1 yards (tackle by Dre'Mont Jones),0.280,-0.460
+1,11:25,2,11,BAL 19,0,0,Latavius Murray left end for 7 yards (tackle by Justin Simmons),-0.460,-0.160
+1,10:51,3,4,BAL 26,0,0,Lamar Jackson up the middle for 5 yards (tackle by Kyle Fuller),-0.160,1.000
+1,10:08,1,10,BAL 31,0,0,Latavius Murray right end for 2 yards (tackle by Justin Simmons and Von Miller),1.000,0.660
+1,9:28,2,9,BAL 33,0,0,Lamar Jackson pass incomplete deep middle intended for Marquise Brown,0.660,0.040
+1,9:20,3,8,BAL 33,0,0,Lamar Jackson pass incomplete short left intended for Sammy Watkins,0.040,-1.180
+1,9:16,4,8,BAL 33,0,0,Sam Koch punts 34 yards out of bounds,-1.180,-1.140
+1,9:08,1,10,DEN 33,0,0,Teddy Bridgewater pass complete short left to Tim Patrick for 19 yards (tackle by Chuck Clark and Marlon Humphrey),1.140,2.390
+1,8:33,1,10,BAL 48,0,0,Javonte Williams left end for 1 yard (tackle by Calais Campbell and Brandon Williams),2.390,1.850
+1,7:56,2,10,BAL 48,0,0,Teddy Bridgewater pass incomplete short left intended for Courtland Sutton,1.850,1.160
+1,7:51,3,10,BAL 48,0,0,Teddy Bridgewater pass incomplete short left intended for Noah Fant (defended by Jimmy Smith),1.160,0.130
+1,7:48,4,9,BAL 47,0,0,"Sam Martin punts 47 yards, touchback.",0.130,-0.280
+1,7:38,1,10,BAL 20,0,0,Lamar Jackson pass complete deep middle to Sammy Watkins for 20 yards (tackle by Patrick Surtain),0.280,1.600
+1,7:00,1,10,BAL 40,0,0,Lamar Jackson pass complete short left to Marquise Brown for 6 yards (tackle by Patrick Surtain),1.600,1.860
+1,6:27,2,4,BAL 46,0,0,Latavius Murray right guard for 1 yard (tackle by Alexander Johnson),1.860,1.290
+1,5:45,3,3,BAL 47,0,0,Le'Veon Bell left tackle for 1 yard (tackle by Justin Simmons),1.290,-0.190
+1,5:07,4,2,BAL 48,0,0,"Sam Koch punts 52 yards, touchback.",-0.190,-0.280
+1,4:57,1,10,DEN 20,0,0,Melvin Gordon left tackle for 4 yards (tackle by Patrick Queen),0.280,0.210
+1,4:25,2,7,DEN 24,0,0,Melvin Gordon right guard for 14 yards (tackle by Chuck Clark and Brandon Stephens),0.210,1.470
+1,3:47,1,10,DEN 38,0,0,Javonte Williams right tackle for 3 yards (tackle by Chuck Clark),1.470,1.330
+1,3:03,2,7,DEN 41,0,0,Teddy Bridgewater pass incomplete deep left intended for Tim Patrick,1.330,0.630
+1,2:56,3,7,DEN 41,0,0,"Penalty on Quinn Meinerz: False Start, 5 yards (accepted) (no play)",0.630,-0.030
+1,2:56,3,12,DEN 36,0,0,"Teddy Bridgewater pass complete to Melvin Gordon for 3 yards (tackle by Chris Board). Penalty on Melvin Gordon: Face Mask (15 Yards), 15 yards (declined)",-0.030,-0.780
+1,2:32,4,9,DEN 39,0,0,"Sam Martin punts 57 yards, fair catch by Devin Duvernay at BAL-4",-0.780,0.380
+1,2:23,1,10,BAL 4,0,0,Le'Veon Bell right tackle for 3 yards (tackle by Shamar Stephen and Alexander Johnson),-0.380,-0.560
+1,1:45,2,7,BAL 7,0,0,Lamar Jackson pass incomplete short left intended for Le'Veon Bell,-0.560,-1.070
+1,1:40,3,7,BAL 7,0,0,Lamar Jackson pass incomplete short right intended for Devin Duvernay,-1.070,-2.490
+1,1:36,4,7,BAL 7,0,0,"Sam Koch punts 55 yards, returned by Diontae Spencer for 5 yards (tackle by Tylan Wallace)",-2.490,-1.800
+1,1:25,1,10,DEN 43,0,0,"Teddy Bridgewater scrambles right end for 2 yards (tackle by Justin Madubuike). Penalty on Justin Madubuike: Unnecessary Roughness / Defense, 15 yards (accepted)",1.800,2.920
+1,1:03,1,10,BAL 40,0,0,Javonte Williams right tackle for 31 yards (tackle by Marlon Humphrey),2.920,5.140
+1,0:18,1,9,BAL 9,0,0,Javonte Williams left tackle for 3 yards (tackle by Brandon Stephens and Anthony Averett),5.140,4.950
+Quarter,Time,Down,ToGo,Location,BAL,DEN,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,6,BAL 6,0,0,Melvin Gordon left guard for 3 yards (tackle by Calais Campbell and Chris Board),4.950,4.720
+2,14:25,3,3,BAL 3,0,6,"Teddy Bridgewater pass complete short left to Noah Fant for 3 yards, touchdown",4.720,7.000
+2,14:16,,,BAL 15,0,7,Brandon McManus kicks extra point good,0.000,0.000
+2,14:18,,,DEN 35,0,7,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+2,14:18,1,10,BAL 25,0,7,Devonta Freeman left tackle for 4 yards (tackle by Alexander Johnson),0.610,0.600
+2,13:37,2,6,BAL 29,0,7,Lamar Jackson pass complete short middle to James Proche for 12 yards (tackle by Kareem Jackson),0.600,1.660
+2,12:52,1,10,BAL 41,0,7,Latavius Murray left guard for 5 yards (tackle by Alexander Johnson),1.660,1.800
+2,12:09,2,5,BAL 46,0,7,Lamar Jackson pass incomplete deep left intended for Josh Oliver (defended by Justin Simmons),1.800,1.090
+2,12:02,3,5,BAL 46,0,7,"Lamar Jackson scrambles right guard for 7 yards (tackle by Kareem Jackson). Penalty on Von Miller: Defensive Offside, 5 yards (declined)",1.090,2.460
+2,11:37,1,10,DEN 47,0,7,Lamar Jackson pass complete deep left to Mark Andrews for 24 yards (tackle by Justin Simmons),2.460,4.040
+2,11:08,1,10,DEN 23,0,7,Lamar Jackson pass complete short right to Mark Andrews for 12 yards (tackle by Justin Simmons),4.040,4.840
+2,10:31,1,10,DEN 11,6,7,"Latavius Murray left end for 11 yards, touchdown",4.840,7.000
+2,10:24,,,DEN 15,7,7,Justin Tucker kicks extra point good,0.000,0.000
+2,10:21,,,BAL 35,7,7,"Justin Tucker kicks off 58 yards, returned by Diontae Spencer for 17 yards (tackle by Chuck Clark)",0.000,0.540
+2,10:15,1,10,DEN 24,7,7,Teddy Bridgewater pass incomplete short left intended for Melvin Gordon (defended by Justin Madubuike),0.540,0.000
+2,10:11,2,10,DEN 24,7,7,Melvin Gordon left end for 3 yards (tackle by Justin Houston and Broderick Washington),0.000,-0.300
+2,9:31,3,7,DEN 27,7,7,Teddy Bridgewater sacked by Tyus Bowser for -6 yards,-0.300,-1.960
+2,8:50,4,13,DEN 21,7,7,"Sam Martin punts 49 yards, returned by Devin Duvernay for 10 yards (tackle by Caden Sterns)",-1.960,-1.600
+2,8:36,1,10,BAL 40,7,7,Lamar Jackson pass complete short middle to Sammy Watkins for 9 yards (tackle by Patrick Surtain),1.600,2.270
+2,8:05,2,1,BAL 49,7,7,Latavius Murray up the middle for 2 yards (tackle by Justin Strnad),2.270,2.320
+2,7:25,1,10,DEN 49,7,7,Lamar Jackson pass incomplete short left intended for Sammy Watkins,2.320,1.780
+2,7:18,2,10,DEN 49,13,7,"Lamar Jackson pass complete deep left to Marquise Brown for 49 yards, touchdown",1.780,7.000
+2,7:06,,,DEN 15,14,7,Justin Tucker kicks extra point good,0.000,0.000
+2,7:09,,,BAL 35,14,7,"Justin Tucker kicks off 63 yards, returned by Diontae Spencer for 19 yards (tackle by Tavon Young)",0.000,0.340
+2,7:04,1,10,DEN 21,14,7,Teddy Bridgewater pass complete short right to Courtland Sutton for 12 yards (tackle by Anthony Averett),0.340,1.140
+2,6:29,1,10,DEN 33,14,7,Teddy Bridgewater pass complete short middle to Noah Fant for 14 yards (tackle by Chuck Clark),1.140,2.060
+2,5:56,1,10,DEN 47,14,7,Javonte Williams left end for 3 yards (tackle by Tyus Bowser and Malik Harrison),2.060,1.920
+2,5:17,2,7,DEN 50,14,7,Javonte Williams left tackle for -3 yards (tackle by Malik Harrison and Calais Campbell),1.920,0.830
+2,4:31,3,10,DEN 47,14,7,"Teddy Bridgewater pass complete to Courtland Sutton for 3 yards (tackle by Calais Campbell). Penalty on Tim Patrick: Offensive Illegal Block Above the Waist, 15 yards (declined)",0.830,-0.060
+2,4:07,4,8,DEN 50,14,7,"Sam Martin punts 39 yards, fair catch by Devin Duvernay at BAL-11",-0.060,0.370
+2,3:59,1,10,BAL 11,14,7,Lamar Jackson pass complete deep middle to Marquise Brown for 32 yards (tackle by Kareem Jackson),-0.370,1.800
+2,3:15,1,10,BAL 43,14,7,Lamar Jackson right end for 1 yard (tackle by Kyle Fuller),1.800,1.460
+2,2:31,2,8,BAL 44,14,7,Lamar Jackson pass complete short left to Devin Duvernay for 7 yards (tackle by Kareem Jackson),1.460,1.690
+2,2:00,3,1,DEN 49,14,7,Latavius Murray right guard for -1 yards (tackle by Mike Purcell and Von Miller),1.690,-0.060
+2,1:13,4,1,DEN 50,14,7,"Penalty on BAL: Delay of Game, 5 yards (accepted) (no play)",-0.060,-0.390
+2,1:13,4,8,BAL 45,14,7,"Sam Koch punts 46 yards, returned by Diontae Spencer for 8 yards (tackle by Chris Board and Tyus Bowser)",-0.390,0.060
+2,1:02,1,10,DEN 17,14,7,Teddy Bridgewater pass incomplete short middle intended for Melvin Gordon,-0.060,-0.580
+2,0:58,2,10,DEN 17,14,7,Teddy Bridgewater pass incomplete short right intended for Diontae Spencer,-0.580,-1.250
+2,0:53,3,10,DEN 17,14,7,Teddy Bridgewater pass incomplete deep middle intended for Kendall Hinton,-1.250,-2.320
+2,0:48,4,10,DEN 17,14,7,"Penalty on Eric Saubert: False Start, 5 yards (accepted) (no play)",-2.320,-2.490
+2,0:48,4,15,DEN 12,14,7,"Sam Martin punts 56 yards, returned by Devin Duvernay for 42 yards (tackle by Micah Kiser)",-2.490,-3.840
+2,0:31,1,10,DEN 26,14,7,Lamar Jackson pass complete short left to Mark Andrews for 13 yards (tackle by Bryce Callahan),3.840,4.710
+2,0:25,,,,,,Timeout #1 by Baltimore Ravens,,
+2,0:25,1,10,DEN 13,14,7,Lamar Jackson pass incomplete short right intended for Mark Andrews (defended by Justin Simmons),4.710,4.050
+2,0:21,2,10,DEN 13,14,7,Lamar Jackson pass incomplete short right intended for Mark Andrews,4.050,3.120
+2,0:18,3,10,DEN 13,14,7,"Penalty on BAL: Offensive Too Many Men on Field, 5 yards (accepted) (no play)",3.120,2.790
+2,0:18,,,,,,Timeout #1 by Denver Broncos,,
+2,0:18,3,15,DEN 18,14,7,Lamar Jackson sacked by Caden Sterns for -4 yards,2.790,1.990
+2,0:02,,,,,,Timeout #2 by Baltimore Ravens,,
+2,0:02,4,19,DEN 22,17,7,Justin Tucker 40 yard field goal good,1.990,3.000
+Quarter,Time,Down,ToGo,Location,BAL,DEN,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,DEN 35,17,7,"Brandon McManus kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,BAL 25,17,7,Latavius Murray up the middle for 6 yards (tackle by Kareem Jackson and Shelby Harris),0.610,0.870
+3,14:21,2,4,BAL 31,17,7,Latavius Murray right end for -2 yards (tackle by Von Miller),0.870,-0.100
+3,13:40,3,6,BAL 29,17,7,Lamar Jackson pass incomplete deep right intended for Sammy Watkins (defended by Caden Sterns),-0.100,-1.440
+3,13:19,4,6,BAL 29,17,7,"Sam Koch punts 49 yards, fair catch by Kendall Hinton at DEN-22",-1.440,-0.410
+3,13:21,1,10,DEN 22,17,7,Melvin Gordon left tackle for 6 yards (tackle by Malik Harrison and Brandon Williams),0.410,0.610
+3,12:44,2,5,DEN 28,17,7,Drew Lock sacked by Justin Madubuike for -6 yards,0.610,-0.890
+3,11:55,3,11,DEN 22,17,7,Drew Lock pass complete short left to Noah Fant for 11 yards (tackle by Jimmy Smith),-0.890,1.140
+3,11:20,1,10,DEN 33,17,7,Drew Lock pass incomplete short right intended for Noah Fant,1.140,0.590
+3,11:12,2,10,DEN 33,17,7,Drew Lock pass complete short middle to Albert Okwuegbunam for 11 yards (tackle by Brandon Stephens),0.590,1.860
+3,10:29,1,10,DEN 44,17,7,Drew Lock sacked by Tyus Bowser for -8 yards,1.860,0.240
+3,9:42,2,18,DEN 36,17,7,Drew Lock pass complete short right to Melvin Gordon for 8 yards (tackle by Pernell McPhee),0.240,0.630
+3,8:54,3,10,DEN 44,17,7,Drew Lock pass incomplete short left intended for Noah Fant,0.630,-0.460
+3,8:45,4,10,DEN 44,17,7,"Sam Martin punts 44 yards, fair catch by Devin Duvernay at BAL-12",-0.460,0.350
+3,8:37,1,10,BAL 12,17,7,Lamar Jackson pass complete short middle to Mark Andrews for 14 yards (tackle by Kareem Jackson),-0.350,0.670
+3,8:14,1,10,BAL 26,17,7,Lamar Jackson pass complete short right to Marquise Brown for 4 yards (tackle by Kyle Fuller),0.670,0.670
+3,7:37,2,6,BAL 30,17,7,Lamar Jackson pass incomplete short right intended for James Proche,0.670,-0.030
+3,7:33,3,6,BAL 30,17,7,"Penalty on Patrick Mekari: False Start, 5 yards (accepted) (no play)",-0.030,-0.690
+3,7:33,3,11,BAL 25,17,7,Lamar Jackson sacked by Caden Sterns for -8 yards,-0.690,-2.320
+3,7:03,4,19,BAL 17,17,7,"Sam Koch punts 57 yards, returned by Kendall Hinton for 9 yards (tackle by Chris Board)",-2.320,-1.270
+3,6:55,1,10,DEN 35,17,7,Drew Lock pass incomplete deep right intended for Courtland Sutton,1.270,0.720
+3,6:48,2,10,DEN 35,17,7,Javonte Williams right guard for 10 yards (tackle by Marlon Humphrey),0.720,1.930
+3,6:14,1,10,DEN 45,17,7,"Javonte Williams up the middle for no gain (tackle by Chuck Clark). Penalty on Kendall Hinton: Illegal Shift, 5 yards (accepted) (no play)",1.930,1.600
+3,5:55,1,15,DEN 40,17,7,Drew Lock pass incomplete short left intended for Tim Patrick,1.600,0.710
+3,5:49,2,15,DEN 40,17,7,Drew Lock pass complete short right to Noah Fant for 3 yards (tackle by Malik Harrison),0.710,0.430
+3,5:04,3,12,DEN 43,17,7,Drew Lock pass complete short right to Javonte Williams for 5 yards (tackle by Chris Board),0.430,-0.190
+3,4:25,4,7,DEN 48,17,7,Sam Martin punts 28 yards out of bounds,-0.190,-0.540
+3,4:18,1,10,BAL 24,17,7,Latavius Murray right end for 3 yards (tackle by Shamar Stephen and DeShawn Williams),0.540,0.400
+3,3:42,2,7,BAL 27,17,7,Lamar Jackson pass incomplete deep left intended for Devin Duvernay,0.400,-0.300
+3,3:33,3,7,BAL 27,17,7,Lamar Jackson pass complete short right to James Proche for 8 yards (tackle by Kyle Fuller),-0.300,1.270
+3,2:58,1,10,BAL 35,17,7,Lamar Jackson pass complete short right to Sammy Watkins for 13 yards (tackle by Patrick Surtain),1.270,2.130
+3,2:24,1,10,BAL 48,17,7,Le'Veon Bell left guard for 4 yards (tackle by Shelby Harris),2.130,2.120
+3,1:50,2,6,DEN 48,17,7,Lamar Jackson pass incomplete short left,2.120,1.420
+3,1:38,3,6,DEN 48,17,7,Lamar Jackson pass complete short left to Devin Duvernay for 7 yards (tackle by Patrick Surtain),1.420,2.850
+3,0:59,1,10,DEN 41,17,7,Lamar Jackson pass complete short right to James Proche for 8 yards (tackle by Alexander Johnson),2.850,3.390
+3,0:21,2,2,DEN 33,17,7,Latavius Murray right tackle for 3 yards (tackle by Mike Purcell and Alexander Johnson),3.390,3.580
+Quarter,Time,Down,ToGo,Location,BAL,DEN,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,DEN 30,17,7,"Lamar Jackson pass complete deep right to Mark Andrews for no gain, touchdown. Penalty on Andre Smith: Face Mask (15 Yards), 15 yards (accepted) (no play)",3.580,2.590
+4,14:54,1,25,DEN 45,17,7,Lamar Jackson sacked by and Von Miller for no gain and McTelvin Agim for no gain,2.590,1.080
+4,14:15,2,24,DEN 45,17,7,Lamar Jackson pass incomplete intended for Mark Andrews (defended by McTelvin Agim),1.080,0.430
+4,14:11,3,24,DEN 45,17,7,Lamar Jackson pass complete short left to Devin Duvernay for 17 yards (tackle by Kareem Jackson),0.430,1.590
+4,13:42,4,8,DEN 28,20,7,Justin Tucker 46 yard field goal good,1.590,3.000
+4,13:37,,,BAL 35,20,7,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,13:37,1,10,DEN 25,20,7,Melvin Gordon right guard for -1 yards (tackle by Chuck Clark),0.610,0.000
+4,13:15,2,10,DEN 24,20,7,Drew Lock pass complete short right to Noah Fant for 6 yards (tackle by Chuck Clark),0.000,0.100
+4,12:52,3,4,DEN 30,20,7,Drew Lock pass incomplete deep left intended for Courtland Sutton,0.100,-1.370
+4,12:44,4,4,DEN 30,20,7,Sam Martin punts 68 yards downed by Mike Ford,-1.370,0.380
+4,12:33,1,10,BAL 2,20,7,Latavius Murray left guard for 5 yards (tackle by Mike Purcell),-0.380,-0.420
+4,12:04,2,5,BAL 7,20,7,Latavius Murray right guard for 4 yards (tackle by Mike Purcell),-0.420,-0.370
+4,11:27,3,1,BAL 11,20,7,Latavius Murray up the middle for no gain (tackle by Von Miller and Kyle Fuller),-0.370,-2.490
+4,10:36,4,1,BAL 11,20,7,"Sam Koch punts 42 yards, fair catch by Kendall Hinton at DEN-47",-2.490,-2.060
+4,10:27,1,10,DEN 47,20,7,Drew Lock pass complete short middle to Kendall Hinton for 13 yards (tackle by Chris Board),2.060,2.920
+4,10:02,1,10,BAL 40,20,7,Drew Lock pass incomplete deep right intended for Tim Patrick (defended by Marlon Humphrey),2.920,2.370
+4,9:57,2,10,BAL 40,20,7,Drew Lock pass complete to Javonte Williams for -3 yards (tackle by Patrick Queen),2.370,1.290
+4,9:15,3,13,BAL 43,20,7,"Drew Lock pass complete to Kendall Hinton for no gain (tackle by Tavon Young). Penalty on Garett Bolles: Offensive Holding, 10 yards (accepted) (no play)",1.290,-0.030
+4,8:34,3,23,DEN 47,20,7,Drew Lock pass incomplete deep left intended for Courtland Sutton,-0.030,-0.260
+4,8:34,4,23,DEN 47,20,7,"Sam Martin punts 53 yards, touchback.",-0.260,-0.280
+4,8:26,1,10,BAL 20,20,7,Lamar Jackson scrambles right end for 2 yards (tackle by DeShawn Williams),0.280,0.000
+4,7:48,2,8,BAL 22,20,7,Lamar Jackson pass complete short left to Patrick Ricard for 4 yards (tackle by Kareem Jackson),0.000,-0.160
+4,7:06,3,4,BAL 26,20,7,Lamar Jackson pass complete short left to Sammy Watkins for 7 yards (tackle by Patrick Surtain),-0.160,1.140
+4,6:29,1,10,BAL 33,20,7,"Le'Veon Bell left guard for no gain (tackle by Justin Simmons). Penalty on Ben Cleveland: Offensive Holding, 10 yards (accepted) (no play)",1.140,0.480
+4,6:01,1,20,BAL 23,20,7,Lamar Jackson pass complete short left to James Proche for 14 yards (tackle by Justin Simmons and Kareem Jackson),0.480,1.130
+4,5:15,2,6,BAL 37,20,7,Lamar Jackson right tackle for 3 yards (tackle by Justin Strnad),1.130,0.830
+4,4:38,3,3,BAL 40,20,7,Lamar Jackson pass complete short left to James Proche for 32 yards (tackle by Kareem Jackson),0.830,3.710
+4,4:28,1,10,DEN 28,20,7,Latavius Murray left end for 5 yards (tackle by Alexander Johnson),3.710,3.840
+4,4:22,2,5,DEN 23,20,7,Le'Veon Bell right tackle for 3 yards (tackle by Jonathon Cooper and Mike Purcell),3.840,3.530
+4,3:43,3,2,DEN 20,20,7,Lamar Jackson pass complete short right to Mark Andrews for 4 yards (tackle by Justin Simmons),3.530,4.510
+4,3:38,1,10,DEN 16,20,7,Lamar Jackson left end for 5 yards (tackle by Shelby Harris),4.510,4.760
+4,2:55,2,5,DEN 11,20,7,Latavius Murray left tackle for 5 yards (tackle by Kareem Jackson and Alexander Johnson),4.760,5.830
+4,2:14,1,6,DEN 6,20,7,Lamar Jackson pass incomplete short left intended for Devin Duvernay (defended by Bryce Callahan),5.830,4.950
+4,2:08,2,6,DEN 6,20,7,Latavius Murray right tackle for 4 yards (tackle by Justin Simmons),4.950,4.950
+4,2:00,3,2,DEN 2,20,7,Lamar Jackson pass incomplete short right,4.950,3.250
+4,1:54,4,2,DEN 2,23,7,Justin Tucker 20 yard field goal good,3.250,3.000
+4,1:51,,,BAL 35,23,7,"Justin Tucker kicks off 65 yards, touchback.",0.000,0.610
+4,1:51,1,10,DEN 25,23,7,Drew Lock sacked by Justin Houston for -1 yards,0.610,-0.070
+4,1:26,2,11,DEN 24,23,7,Drew Lock pass complete short right to Tim Patrick for 9 yards (tackle by Kevon Seymour),-0.070,0.370
+4,0:55,3,3,DEN 33,23,7,Melvin Gordon left end for 12 yards (tackle by Chris Board),0.370,1.930
+4,0:38,1,10,DEN 45,23,7,Drew Lock pass complete short right to Noah Fant for 9 yards (tackle by Chris Board),1.930,2.600
+4,0:28,,,,,,Timeout #1 by Denver Broncos,,
+4,0:28,2,1,BAL 46,23,7,Drew Lock pass complete deep left to Courtland Sutton for 32 yards (tackle by Anthony Averett),2.600,4.650
+4,0:20,,,,,,Timeout #2 by Denver Broncos,,
+4,0:20,1,10,BAL 14,23,7,Drew Lock pass complete short right to Javonte Williams for 9 yards (tackle by Kevon Seymour and Chris Board),4.650,5.670
+4,0:13,,,,,,Timeout #3 by Denver Broncos,,
+4,0:13,2,1,BAL 5,23,7,Drew Lock pass incomplete short middle intended for Kendall Hinton,5.670,4.960
+4,0:10,3,1,BAL 5,23,7,Drew Lock pass short left intended for Courtland Sutton is intercepted by Anthony Averett in end zone and returned for no gain,4.960,-0.280
+4,0:03,1,10,BAL 20,23,7,Lamar Jackson left end for 5 yards (tackle by Aaron Patrick),0.280,0.410
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

@@ -1,0 +1,187 @@
+Quarter,Time,Down,ToGo,Location,TAM,CAR,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Panthers won the coin toss and deferred, Buccaneers to receive the opening kickoff.",,
+1,15:00,,,CAR 35,0,0,"Lirim Hajrullahu kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,TAM 25,0,0,Ronald Jones up the middle for 5 yards (tackle by Myles Hartsfield),0.610,0.740
+1,14:27,2,5,TAM 30,0,0,Tom Brady pass complete short right to Antonio Brown for 4 yards,0.740,0.560
+1,13:45,3,1,TAM 34,0,0,Ronald Jones up the middle for 3 yards (tackle by Morgan Fox and DaQuan Jones),0.560,1.400
+1,13:13,1,10,TAM 37,0,0,Ronald Jones up the middle for 4 yards (tackle by Juston Burris and Shaq Thompson),1.400,1.400
+1,12:42,2,6,TAM 41,0,0,Tom Brady pass incomplete short left intended for Antonio Brown,1.400,0.700
+1,12:36,3,6,TAM 41,0,0,Tom Brady pass incomplete short left intended for Antonio Brown,0.700,-0.650
+1,12:31,4,6,TAM 41,0,0,"Sterling Hofrichter punts 45 yards, returned by Alex Erickson for 16 yards (tackle by Grant Stuard)",-0.650,-0.940
+1,12:21,1,10,CAR 30,0,0,Cam Newton pass complete short right to Tommy Tremble for 14 yards (tackle by Carlton Davis),0.940,1.860
+1,11:46,1,10,CAR 44,0,0,Cam Newton sacked by William Gholston for -6 yards,1.860,0.510
+1,11:02,2,16,CAR 38,0,0,Cam Newton pass complete short right to Robbie Anderson for 8 yards (tackle by Jordan Whitehead),0.510,0.890
+1,10:17,,,,,,Timeout #1 by Carolina Panthers,,
+1,10:17,3,8,CAR 46,0,0,Cam Newton pass complete short left to D.J. Moore for 10 yards (tackle by Jamel Dean),0.890,2.650
+1,9:41,1,10,TAM 44,0,0,Cam Newton left guard for 33 yards (tackle by Mike Edwards),2.650,4.840
+1,9:02,1,10,TAM 11,0,0,Chuba Hubbard right tackle for 2 yards (tackle by Devin White and Shaquil Barrett),4.840,4.510
+1,8:18,2,8,TAM 9,0,0,"Penalty on Shaquil Barrett: Neutral Zone Infraction, 5 yards (accepted) (no play)",4.510,5.470
+1,8:06,2,3,TAM 4,0,0,Ameer Abdullah right tackle for -2 yards (tackle by Shaquil Barrett),5.470,4.210
+1,7:26,3,5,TAM 6,0,0,Cam Newton pass incomplete short left intended for Ameer Abdullah,4.210,2.990
+1,7:21,4,5,TAM 6,0,3,Lirim Hajrullahu 24 yard field goal good,2.990,3.000
+1,7:17,,,CAR 35,0,3,"Lirim Hajrullahu kicks off 65 yards, touchback.",0.000,0.610
+1,7:17,1,10,TAM 25,0,3,Ronald Jones up the middle for 5 yards (tackle by DaQuan Jones and Jeremy Chinn),0.610,0.740
+1,6:42,2,5,TAM 30,0,3,Tom Brady pass complete short left to Ronald Jones for 3 yards (tackle by Jermaine Carter),0.740,0.430
+1,5:56,3,2,TAM 33,0,3,Tom Brady pass complete short right to Antonio Brown for 4 yards (tackle by Stephon Gilmore),0.430,1.400
+1,5:20,1,10,TAM 37,0,3,"Penalty on Rob Gronkowski: False Start, 5 yards (accepted) (no play)",1.400,1.070
+1,5:01,1,15,TAM 32,0,3,Tom Brady pass complete short left to Ronald Jones for 13 yards (tackle by Shaq Thompson),1.070,1.940
+1,4:25,2,2,TAM 45,6,3,"Ke'Shawn Vaughn left tackle for 55 yards, touchdown",1.940,7.000
+1,4:13,,,CAR 15,7,3,Ryan Succop kicks extra point good,0.000,0.000
+1,4:13,,,TAM 35,7,3,"Sterling Hofrichter kicks off 65 yards, touchback.",0.000,0.610
+1,4:13,1,10,CAR 25,7,3,Cam Newton pass complete short right to Robbie Anderson for 5 yards (tackle by Kevin Minter and Jordan Whitehead),0.610,0.740
+1,3:49,2,5,CAR 30,7,3,Cam Newton right end for 1 yard (tackle by Jordan Whitehead),0.740,0.170
+1,3:09,3,4,CAR 31,7,3,Cam Newton pass complete short middle to D.J. Moore for 15 yards (tackle by Sean Murphy-Bunting and Mike Edwards),0.170,1.990
+1,2:30,1,10,CAR 46,7,3,Cam Newton pass incomplete short left intended for Robbie Anderson (defended by Sean Murphy-Bunting),1.990,1.450
+1,2:25,2,10,CAR 46,7,3,Cam Newton right guard for 6 yards (tackle by Mike Edwards),1.450,1.550
+1,1:49,3,4,TAM 48,7,3,Cam Newton pass short left (defended by Shaquil Barrett) intended for Shi Smith is intercepted by Jordan Whitehead at TB-42 and returned for 7 yards (tackle by Shi Smith),1.550,-2.190
+1,1:41,1,10,TAM 49,7,3,Ronald Jones left guard for no gain (tackle by Marquis Haynes and Frankie Luvu),2.190,1.650
+1,1:00,2,10,TAM 49,7,3,"Tom Brady pass complete short right to O.J. Howard for no gain (tackle by Myles Hartsfield). Penalty on Antonio Brown: Offensive Pass Interference, 10 yards (accepted) (no play)",1.650,0.300
+1,0:30,2,20,TAM 39,7,3,Tom Brady pass complete short left to Antonio Brown for 7 yards (tackle by Jermaine Carter and Brian Burns),0.300,0.560
+Quarter,Time,Down,ToGo,Location,TAM,CAR,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,3,13,TAM 46,7,3,Tom Brady pass complete deep left to Antonio Brown for 19 yards (tackle by Stephon Gilmore),0.560,3.250
+2,14:19,1,10,CAR 35,7,3,Ronald Jones up the middle for 4 yards (tackle by Derrick Brown and Frankie Luvu),3.250,3.240
+2,13:42,2,6,CAR 31,7,3,Ronald Jones up the middle for 4 yards (tackle by DaQuan Jones and Haason Reddick),3.240,3.070
+2,13:01,3,2,CAR 27,7,3,Ronald Jones right tackle for 4 yards (tackle by Kenny Robinson),3.070,4.040
+2,12:20,1,10,CAR 23,7,3,Ronald Jones right tackle for -2 yards (tackle by Morgan Fox),4.040,3.230
+2,11:47,2,12,CAR 25,7,3,Tom Brady pass incomplete deep right intended for Cameron Brate,3.230,2.540
+2,11:40,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+2,11:40,3,12,CAR 25,7,3,Tom Brady pass complete short right to Cameron Brate for 7 yards (tackle by Stephon Gilmore and Shaq Thompson),2.540,2.300
+2,10:57,4,5,CAR 18,10,3,Ryan Succop 36 yard field goal good,2.300,3.000
+2,10:54,,,TAM 35,10,3,"Sterling Hofrichter kicks off 65 yards, touchback.",0.000,0.610
+2,10:54,1,10,CAR 25,10,3,Chuba Hubbard left tackle for 2 yards (tackle by Ndamukong Suh),0.610,0.330
+2,10:15,2,8,CAR 27,10,3,Sam Darnold pass complete deep right to Shi Smith for 63 yards (tackle by Jamel Dean),0.330,4.910
+2,9:24,,,,,,Timeout #2 by Carolina Panthers,,
+2,9:24,1,10,TAM 10,10,3,Cam Newton right tackle for 2 yards (tackle by Devin White),4.910,4.570
+2,8:44,2,8,TAM 8,10,3,Cam Newton pass complete short left to Ameer Abdullah for no gain (tackle by Jordan Whitehead and Sean Murphy-Bunting),4.570,3.580
+2,8:03,3,8,TAM 8,10,3,Sam Darnold sacked by Shaquil Barrett for -3 yards,3.580,2.700
+2,7:25,4,11,TAM 11,10,6,Lirim Hajrullahu 29 yard field goal good,2.700,3.000
+2,7:20,,,CAR 35,10,6,"Lirim Hajrullahu kicks off 65 yards, touchback.",0.000,0.610
+2,7:20,1,10,TAM 25,10,6,Ronald Jones right tackle for 9 yards (tackle by Haason Reddick),0.610,1.280
+2,6:43,2,1,TAM 34,10,6,Tom Brady pass complete short left to Antonio Brown for 1 yard (tackle by Myles Hartsfield),1.280,1.270
+2,5:52,1,10,TAM 35,10,6,Ke'Shawn Vaughn right tackle for 1 yard (tackle by Shaq Thompson and Bravvion Roy),1.270,0.860
+2,5:16,2,9,TAM 36,10,6,Tom Brady pass complete short left to Antonio Brown for 10 yards (tackle by Myles Hartsfield),0.860,1.990
+2,4:35,1,10,TAM 46,10,6,Tom Brady pass complete deep left to Antonio Brown for 22 yards,1.990,3.450
+2,3:58,1,10,CAR 32,10,6,"Ronald Jones right guard for no gain (tackle by DaQuan Jones and Haason Reddick). Penalty on Yetur Gross-Matos: Defensive Offside, 5 yards (accepted) (no play)",3.450,4.180
+2,3:35,1,5,CAR 27,10,6,Ronald Jones left guard for 2 yards (tackle by Frankie Luvu and Brian Burns),4.180,3.850
+2,2:52,2,3,CAR 25,10,6,Tom Brady pass incomplete short right,3.850,3.140
+2,2:48,3,3,CAR 25,10,6,Tom Brady pass incomplete short right intended for Cameron Brate,3.140,1.900
+2,2:44,4,3,CAR 25,13,6,Ryan Succop 43 yard field goal good,1.900,3.000
+2,2:40,,,TAM 35,13,6,"Sterling Hofrichter kicks off 65 yards, touchback.",0.000,0.610
+2,2:40,1,10,CAR 25,13,6,Chuba Hubbard right tackle for -2 yards (tackle by Sean Murphy-Bunting and Shaquil Barrett),0.610,-0.210
+2,2:00,2,12,CAR 23,13,6,Sam Darnold pass complete short right to Ian Thomas for 4 yards (tackle by Jordan Whitehead),-0.210,-0.360
+2,1:53,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+2,1:53,3,8,CAR 27,13,6,Sam Darnold pass complete short left to Terrace Marshall for 6 yards (tackle by Sean Murphy-Bunting),-0.360,-1.180
+2,1:48,,,,,,Timeout #3 by Tampa Bay Buccaneers,,
+2,1:48,4,2,CAR 33,13,6,"Lac Edwards punts 40 yards, returned by Kenjon Barner for 4 yards (tackle by Jermaine Carter)",-1.180,-1.000
+2,1:41,1,10,TAM 31,13,6,"Tom Brady pass complete deep right to Cyril Grayson for 62 yards (tackle by Keith Taylor). Penalty on Keith Taylor: Illegal Contact, 5 yards (declined)",1.000,5.600
+2,1:33,1,7,CAR 7,13,6,Ke'Shawn Vaughn up the middle for 3 yards (tackle by Kenny Robinson),5.600,5.340
+2,1:25,,,,,,Timeout #3 by Carolina Panthers,,
+2,1:25,2,4,CAR 4,13,6,Tom Brady pass incomplete short right intended for Ronald Jones,5.340,4.490
+2,1:22,3,4,CAR 4,19,6,"Tom Brady pass complete short right to Cameron Brate for 4 yards, touchdown",4.490,7.000
+2,1:19,,,CAR 15,19,6,"Penalty on C.J. Henderson: Neutral Zone Infraction, 1 yard (accepted) (no play)",0.000,1.000
+2,1:19,1,1,CAR 2,19,6,Two Point Attempt: Tom Brady pass incomplete intended for intended for Tyler Johnson,1.000,-1.000
+2,1:19,,,TAM 35,19,6,"Sterling Hofrichter kicks off 65 yards, touchback.",0.000,0.610
+2,1:19,1,10,CAR 25,19,6,"Sam Darnold pass incomplete short middle intended for Tommy Tremble. Penalty on Jordan Whitehead: Roughing the Passer, 15 yards (accepted) (no play)",0.610,1.600
+2,1:15,1,10,CAR 40,19,6,Sam Darnold pass complete short left to Ameer Abdullah for 2 yards (tackle by Kevin Minter),1.600,1.320
+2,0:54,2,8,CAR 42,19,6,Sam Darnold pass incomplete short left intended for Robbie Anderson (defended by Jamel Dean),1.320,0.630
+2,0:49,3,8,CAR 42,19,6,Sam Darnold pass incomplete short left intended for D.J. Moore (defended by Shaquil Barrett),0.630,-0.590
+2,0:44,4,8,CAR 42,19,6,"Lac Edwards punts 50 yards, returned by Kenjon Barner for 9 yards (tackle by Giovanni Ricci)",-0.590,0.060
+2,0:35,1,10,TAM 17,19,6,Ke'Shawn Vaughn left guard for -1 yards (tackle by Shaq Thompson),-0.060,-0.730
+Quarter,Time,Down,ToGo,Location,TAM,CAR,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,TAM 35,19,6,"Sterling Hofrichter kicks off 66 yards, returned by Ameer Abdullah for 25 yards (tackle by Grant Stuard and Cam Gill). Penalty on Sean Chandler: Offensive Holding, 10 yards (accepted)",0.000,-0.280
+3,14:55,1,10,CAR 14,19,6,Cam Newton pass complete short left to D.J. Moore for 9 yards (tackle by Carlton Davis),-0.280,0.550
+3,14:19,2,1,CAR 23,19,6,Chuba Hubbard left guard for no gain (tackle by Vita Vea),0.550,-0.320
+3,13:40,3,1,CAR 23,19,6,Chuba Hubbard right guard for 4 yards (tackle by Jordan Whitehead),-0.320,0.740
+3,13:11,1,10,CAR 27,19,6,Cam Newton pass incomplete deep right intended for Robbie Anderson,0.740,0.200
+3,13:07,2,10,CAR 27,19,6,Cam Newton pass incomplete short left intended for Alex Erickson,0.200,-0.490
+3,13:04,3,10,CAR 27,19,6,Cam Newton sacked by Anthony Nelson for -8 yards,-0.490,-2.140
+3,12:40,4,19,CAR 19,19,6,"Lac Edwards punts 55 yards, returned by Kenjon Barner for 20 yards (tackle by Tommy Tremble and J.J. Jansen)",-2.140,-1.990
+3,12:30,1,10,TAM 46,19,6,Ronald Jones right end for 3 yards (tackle by Jeremy Chinn),1.990,1.860
+3,11:56,2,7,TAM 49,19,6,Tom Brady pass incomplete short left intended for Antonio Brown,1.860,1.160
+3,11:49,3,7,TAM 49,19,6,Tom Brady pass complete short right to Antonio Brown for 13 yards (tackle by Jeremy Chinn),1.160,3.050
+3,11:05,1,10,CAR 38,19,6,Ke'Shawn Vaughn left tackle for 1 yard (tackle by Jeremy Chinn and Brian Burns),3.050,2.640
+3,10:29,2,9,CAR 37,19,6,"Cyril Grayson right end for no gain (tackle by C.J. Henderson). Penalty on Derrick Brown: Defensive Offside, 5 yards (accepted) (no play)",2.640,3.320
+3,9:58,2,4,CAR 32,19,6,Tom Brady pass complete deep right to Rob Gronkowski for 23 yards (tackle by Myles Hartsfield),3.320,5.140
+3,9:38,1,9,CAR 9,19,6,"Tom Brady pass incomplete short right intended for Antonio Brown. Penalty on Jeremy Chinn: Defensive Holding, 5 yards (accepted) (no play)",5.140,6.280
+3,9:33,1,4,CAR 4,19,6,Tom Brady pass incomplete short middle,6.280,5.340
+3,9:29,2,4,CAR 4,19,6,Ronald Jones left guard for 1 yard (tackle by DaQuan Jones),5.340,4.720
+3,8:43,,,,,,Timeout #1 by Tampa Bay Buccaneers,,
+3,8:43,3,3,CAR 3,19,6,Tom Brady pass incomplete intended for Rob Gronkowski (defended by Myles Hartsfield),4.720,3.040
+3,8:39,4,3,CAR 3,22,6,Ryan Succop 21 yard field goal good,3.040,3.000
+3,8:34,,,TAM 35,22,6,"Sterling Hofrichter kicks off 65 yards, touchback.",0.000,0.610
+3,8:34,1,10,CAR 25,22,6,"Chuba Hubbard left guard for no gain (tackle by Kevin Minter and Steve McLendon). Penalty on Michael Jordan: Offensive Holding, 10 yards (offset) . Penalty on Ndamukong Suh: Tripping / Defense, 10 yards (offset) (no play)",0.610,0.610
+3,8:05,1,10,CAR 25,22,6,Cam Newton left end for no gain (tackle by Jordan Whitehead),0.610,0.060
+3,7:22,2,10,CAR 25,22,6,Cam Newton pass incomplete short left intended for Shi Smith (defended by Jordan Whitehead),0.060,-0.620
+3,7:16,3,10,CAR 25,22,6,Cam Newton sacked by Vita Vea for -10 yards,-0.620,-2.440
+3,6:36,4,20,CAR 15,22,6,"Lac Edwards punts 48 yards, returned by Kenjon Barner for 6 yards (tackle by Julian Stanford)",-2.440,-1.800
+3,6:25,1,10,TAM 43,22,6,Ronald Jones right end for 2 yards (tackle by C.J. Henderson),1.800,1.520
+3,5:49,2,8,TAM 45,22,6,Tom Brady pass complete short left to Antonio Brown for 11 yards (tackle by Keith Taylor),1.520,2.650
+3,5:10,1,10,CAR 44,22,6,Ronald Jones right tackle for no gain (tackle by Shaq Thompson and Frankie Luvu),2.650,2.110
+3,4:30,2,10,CAR 44,22,6,Tom Brady scrambles up the middle for 11 yards (tackle by Yetur Gross-Matos and Marquis Haynes),2.110,3.380
+3,3:47,1,10,CAR 33,22,6,Cyril Grayson left end for 14 yards (tackle by Jeremy Chinn),3.380,4.310
+3,2:58,1,10,CAR 19,22,6,Tom Brady pass complete short left to Cyril Grayson for 12 yards (tackle by Keith Taylor),4.310,5.600
+3,2:12,1,7,CAR 7,28,6,"Ronald Jones left end for 7 yards, touchdown",5.600,7.000
+3,2:08,,,CAR 15,29,6,Ryan Succop kicks extra point good,0.000,0.000
+3,2:08,,,TAM 35,29,6,"Sterling Hofrichter kicks off 65 yards, returned by Ameer Abdullah for 25 yards (tackle by Grant Stuard)",0.000,0.610
+3,2:03,1,10,CAR 25,29,6,Sam Darnold pass incomplete short right,0.610,0.060
+3,1:56,2,10,CAR 25,29,6,Sam Darnold pass incomplete deep right intended for Robbie Anderson (defended by Jordan Whitehead),0.060,-0.620
+3,1:50,3,10,CAR 25,29,6,Sam Darnold pass complete short left to D.J. Moore for 19 yards (tackle by Mike Edwards),-0.620,1.860
+3,1:18,1,10,CAR 44,29,6,Sam Darnold pass incomplete deep left intended for D.J. Moore,1.860,1.320
+3,1:12,2,10,CAR 44,29,6,Sam Darnold pass complete short left to Tommy Tremble for 8 yards (tackle by Carlton Davis),1.320,1.690
+3,0:30,3,2,TAM 48,29,6,Chuba Hubbard right guard for 3 yards (tackle by Vita Vea),1.690,2.590
+Quarter,Time,Down,ToGo,Location,TAM,CAR,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,TAM 45,29,6,Sam Darnold pass complete short right to Ameer Abdullah for 6 yards (tackle by Devin White and Kevin Minter),2.590,2.850
+4,14:40,2,4,TAM 39,29,6,Ameer Abdullah right tackle for 3 yards (tackle by Cam Gill),2.850,2.540
+4,14:09,3,1,TAM 36,29,6,Sam Darnold pass complete short left to Robbie Anderson for 13 yards (tackle by Kevin Minter),2.540,4.040
+4,13:31,1,10,TAM 23,29,6,Sam Darnold pass complete short right to D.J. Moore for 2 yards (tackle by Carlton Davis and Mike Edwards),4.040,3.770
+4,12:47,2,8,TAM 21,29,6,"Sam Darnold sacked by and Steve McLendon for -3 yards and William Gholston for -3 yards. Sam Darnold fumbles (forced by Steve McLendon), recovered by Sam Darnold at TB-24 (tackle by Steve McLendon) (tackle by Steve McLendon)",3.770,2.680
+4,12:05,3,11,TAM 24,29,6,Sam Darnold pass incomplete deep right intended for Ameer Abdullah,2.680,1.870
+4,11:56,,,,,,Timeout #1 by Carolina Panthers,,
+4,11:56,4,11,TAM 24,29,6,Sam Darnold pass incomplete short right intended for D.J. Moore,1.870,-0.610
+4,11:52,1,10,TAM 25,29,6,Ronald Jones right guard for 2 yards (tackle by Bravvion Roy),0.610,0.330
+4,11:18,2,8,TAM 27,29,6,Ronald Jones right tackle for -3 yards (tackle by Yetur Gross-Matos),0.330,-0.820
+4,10:32,3,12,TAM 24,29,6,Tom Brady pass incomplete short left intended for Antonio Brown (defended by Yetur Gross-Matos),-0.820,-1.770
+4,10:15,4,12,TAM 24,29,6,"Sterling Hofrichter punts 34 yards, returned by Alex Erickson for 6 yards (tackle by Ross Cockrell). Penalty on Andrew Adams: Offensive Holding, 10 yards (accepted)",-1.770,-2.390
+4,10:15,1,10,TAM 48,29,6,Sam Darnold pass incomplete deep left intended for D.J. Moore,2.390,1.850
+4,10:09,2,10,TAM 48,29,6,Sam Darnold pass incomplete deep right intended for Robbie Anderson,1.850,1.160
+4,10:04,3,10,TAM 48,29,6,Sam Darnold pass incomplete short left intended for Ameer Abdullah,1.160,0.070
+4,9:59,4,10,TAM 48,29,6,Sam Darnold sacked by Kevin Minter for -7 yards,0.070,-2.590
+4,9:49,1,10,CAR 45,29,6,Ronald Jones right tackle for 16 yards (tackle by Shaq Thompson and C.J. Henderson),2.590,3.640
+4,9:02,1,10,CAR 29,29,6,Ronald Jones right end for -1 yards (tackle by Yetur Gross-Matos and Marquis Haynes),3.640,2.970
+4,8:15,2,11,CAR 30,29,6,Tom Brady pass incomplete deep right intended for Antonio Brown,2.970,2.280
+4,8:09,3,11,CAR 30,29,6,Tom Brady pass incomplete short right intended for Ke'Shawn Vaughn,2.280,1.410
+4,8:04,4,11,CAR 30,32,6,Ryan Succop 48 yard field goal good,1.410,3.000
+4,7:59,,,TAM 35,32,6,"Sterling Hofrichter kicks off 60 yards, returned by Ameer Abdullah for 26 yards (tackle by Cam Gill)",0.000,1.000
+4,7:53,1,10,CAR 31,32,6,Sam Darnold pass incomplete deep right intended for D.J. Moore,1.000,0.460
+4,7:49,2,10,CAR 31,32,6,Sam Darnold sacked by William Gholston for -8 yards,0.460,-1.290
+4,7:07,3,18,CAR 23,32,6,Sam Darnold pass incomplete short right intended for Chuba Hubbard,-1.290,-1.830
+4,7:00,4,18,CAR 23,32,6,"Lac Edwards punts 60 yards, returned by Kenjon Barner for 5 yards (tackle by Julian Stanford)",-1.830,-0.410
+4,6:47,1,10,TAM 22,32,6,Ke'Shawn Vaughn up the middle for 12 yards (tackle by Haason Reddick and Myles Hartsfield),0.410,1.200
+4,6:07,1,10,TAM 34,32,6,Ke'Shawn Vaughn left guard for -1 yards (tackle by Bravvion Roy),1.200,0.520
+4,5:24,2,11,TAM 33,32,6,Tom Brady pass complete short right to Cyril Grayson for 7 yards (tackle by Shaq Thompson),0.520,0.760
+4,4:39,3,4,TAM 40,32,6,Tom Brady pass complete short right to Antonio Brown for 10 yards (tackle by C.J. Henderson),0.760,2.260
+4,3:51,,,,,,Timeout #2 by Tampa Bay Buccaneers,,
+4,3:51,1,10,TAM 50,32,6,Le'Veon Bell left tackle for no gain (tackle by DaQuan Jones),2.260,1.710
+4,3:08,2,10,CAR 50,32,6,Le'Veon Bell right end for -1 yards (tackle by Frankie Luvu),1.710,0.890
+4,2:23,3,11,TAM 49,32,6,Blaine Gabbert pass incomplete intended for Scott Miller (defended by C.J. Henderson),0.890,-0.130
+4,2:16,4,11,TAM 49,32,6,"Sterling Hofrichter punts 38 yards, fair catch by Alex Erickson at CAR-13. Penalty on Stephen Sullivan: Defensive Holding, 6 yards (accepted)",-0.130,0.380
+4,2:10,1,10,CAR 7,32,6,Reggie Bonnafon up the middle for 4 yards (tackle by Benning Potoa'e and Devin White),-0.380,-0.490
+4,2:00,2,6,CAR 11,32,6,Sam Darnold pass complete short left to Robbie Anderson for 18 yards (tackle by Mike Edwards),-0.490,0.870
+4,1:53,1,10,CAR 29,32,6,Sam Darnold pass complete short left to Robbie Anderson for 14 yards (tackle by Rashard Robinson),0.870,1.800
+4,1:47,1,10,CAR 43,32,6,Sam Darnold pass incomplete short middle intended for D.J. Moore,1.800,1.250
+4,1:40,2,10,CAR 43,32,6,Sam Darnold pass complete short right to Shi Smith for 6 yards (tackle by Ross Cockrell),1.250,1.350
+4,1:33,3,4,CAR 49,32,6,Sam Darnold pass complete short right to Reggie Bonnafon for 6 yards (tackle by K.J. Britt),1.350,2.590
+4,1:07,1,10,TAM 45,32,6,Sam Darnold pass complete deep middle to Shi Smith for 17 yards (tackle by Rashard Robinson),2.590,3.710
+4,0:59,,,,,,Timeout #2 by Carolina Panthers,,
+4,0:59,1,10,TAM 28,32,6,Sam Darnold scrambles right end for 11 yards (tackle by Dee Delaney and Mike Edwards),3.710,4.440
+4,0:33,1,10,TAM 17,32,6,Sam Darnold pass incomplete short left intended for Stephen Sullivan,4.440,3.850
+4,0:28,2,10,TAM 17,32,6,Sam Darnold pass complete short middle to Reggie Bonnafon for 6 yards (tackle by Grant Stuard and K.J. Britt),3.850,4.100
+4,0:20,3,4,TAM 11,32,6,Sam Darnold pass incomplete short left,4.100,2.770
+4,0:14,4,4,TAM 11,32,6,"Sam Darnold pass incomplete short middle intended for Terrace Marshall (defended by Ross Cockrell). Penalty on Andrew Adams: Defensive Holding, 5 yards (accepted) (no play)",2.770,5.830
+4,0:06,1,6,TAM 6,32,6,Sam Darnold pass incomplete short right intended for Giovanni Ricci,5.830,4.950
+4,0:01,2,6,TAM 6,32,6,Sam Darnold pass incomplete short right intended for D.J. Moore (defended by Dee Delaney),4.950,4.040
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

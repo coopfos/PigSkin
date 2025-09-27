@@ -1,0 +1,44 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Alex Singleton,DEN,1,21,0,21,1,0.0,9,6,3,1,0,0,0,0,0
+Jonathon Cooper,DEN,0,0,0,0,0,2.0,6,2,4,2,4,0,0,0,0
+Riley Moss,DEN,0,0,0,0,0,0.0,12,8,4,1,0,0,0,0,0
+Brandon Jones,DEN,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,0
+Patrick Surtain II,DEN,0,0,0,0,1,0.0,6,4,2,0,0,0,0,0,0
+Baron Browning,DEN,0,0,0,0,0,0.0,5,1,4,1,0,0,0,0,0
+P.J. Locke,DEN,0,0,0,0,0,0.0,4,3,1,1,0,0,0,0,0
+Ja'Quan McMillian,DEN,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0
+D.J. Jones,DEN,0,0,0,0,0,0.0,3,2,1,0,1,0,0,0,0
+Kristian Welch,DEN,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0
+Zach Allen,DEN,0,0,0,0,0,0.0,2,1,1,1,1,0,0,0,0
+Cody Barton,DEN,0,0,0,0,0,0.0,2,2,0,1,0,0,0,0,0
+John Franklin-Myers,DEN,0,0,0,0,0,0.0,2,2,0,1,0,0,0,0,0
+Malcolm Roach,DEN,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Nik Bonitto,DEN,0,0,0,0,0,0.0,1,1,0,0,1,0,0,0,0
+Michael Burton,DEN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+JL Skinner,DEN,0,0,0,0,0,0.0,1,1,0,0,0,1,0,0,0
+Justin Strnad,DEN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Adam Trautman,DEN,0,0,0,0,0,0.0,0,0,0,0,0,1,2,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Julian Love,SEA,1,0,0,0,1,0.0,12,10,2,1,0,0,0,0,1
+Riq Woolen,SEA,1,4,0,4,2,0.0,3,1,2,0,0,0,0,0,0
+Boye Mafe,SEA,0,0,0,0,0,1.0,4,3,1,2,2,0,0,0,0
+Derick Hall,SEA,0,0,0,0,0,1.0,2,1,1,0,2,0,0,0,0
+Tyrel Dodson,SEA,0,0,0,0,1,0.0,10,9,1,1,0,0,0,0,0
+Devon Witherspoon,SEA,0,0,0,0,1,0.0,7,5,2,0,0,0,0,0,0
+Rayshawn Jenkins,SEA,0,0,0,0,0,0.0,6,6,0,0,0,0,0,0,0
+Jerome Baker,SEA,0,0,0,0,0,0.0,5,3,2,1,0,1,0,0,0
+Tre Brown,SEA,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0
+Marquise Blair,SEA,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Johnathan Hankins,SEA,0,0,0,0,0,0.0,2,1,1,1,0,0,0,0,0
+Mike Morris,SEA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Byron Murphy,SEA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Leonard Williams,SEA,0,0,0,0,0,0.0,2,1,1,0,4,0,0,0,0
+Dareke Young,SEA,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Coby Bryant,SEA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Zach Charbonnet,SEA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Dre'Mont Jones,SEA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Brady Russell,SEA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Laviska Shenault Jr.,SEA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Drake Thomas,SEA,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+K'Von Wallace,SEA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,1

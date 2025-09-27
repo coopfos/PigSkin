@@ -1,0 +1,41 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Fred Warner,SFO,0,0,0,0,0,0.0,11,6,5,0,0,0,0,0,0
+Renardo Green,SFO,0,0,0,0,1,0.0,10,7,3,0,0,0,0,0,0
+Dee Winters,SFO,0,0,0,0,1,0.0,8,6,2,0,0,0,0,0,0
+Talanoa Hufanga,SFO,0,0,0,0,0,0.0,6,2,4,0,0,0,0,0,0
+Malik Mustapha,SFO,0,0,0,0,0,0.0,5,3,2,0,0,0,0,0,0
+Nick Bosa,SFO,0,0,0,0,0,0.0,4,2,2,1,0,0,0,0,0
+Deommodore Lenoir,SFO,0,0,0,0,1,0.0,4,2,2,0,0,0,0,0,0
+Demetrius Flannigan-Fowles,SFO,0,0,0,0,1,0.0,3,2,1,1,0,0,0,0,0
+Yetur Gross-Matos,SFO,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Kalia Davis,SFO,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Jordan Elliott,SFO,0,0,0,0,0,0.0,2,1,1,1,0,0,0,0,0
+Sam Okuayinonu,SFO,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Evan Anderson,SFO,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Alex Barrett,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Ji'Ayir Brown,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Dre Greenlaw,SFO,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Eric Saubert,SFO,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Charvarius Ward,SFO,0,0,0,0,1,0.0,1,0,1,0,0,0,0,0,0
+Maliek Collins,SFO,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Kader Kohou,MIA,1,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0
+Jordyn Brooks,MIA,0,0,0,0,0,1.0,7,4,3,1,1,0,0,0,0
+Zach Sieler,MIA,0,0,0,0,0,1.0,4,3,1,1,2,0,0,0,0
+Chop Robinson,MIA,0,0,0,0,1,1.0,1,1,0,1,1,0,0,0,0
+Jordan Poyer,MIA,0,0,0,0,0,0.0,7,3,4,0,0,0,0,0,0
+Anthony Walker,MIA,0,0,0,0,0,0.0,6,4,2,0,0,0,0,0,0
+Emmanuel Ogbah,MIA,0,0,0,0,0,0.0,5,2,3,0,1,0,0,0,0
+Jalen Ramsey,MIA,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0
+Kendall Fuller,MIA,0,0,0,0,1,0.0,4,4,0,0,0,0,0,0,0
+Jevon Holland,MIA,0,0,0,0,1,0.0,4,3,1,0,0,0,0,0,0
+Calais Campbell,MIA,0,0,0,0,0,0.0,3,1,2,0,1,0,0,0,0
+Storm Duck,MIA,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Duke Riley,MIA,0,0,0,0,0,0.0,3,0,3,0,0,0,0,0,0
+Quinton Bell,MIA,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Elijah Campbell,MIA,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Da'Shawn Hand,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Julian Hill,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Benito Jones,MIA,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Tua Tagovailoa,MIA,0,0,0,0,0,0.0,0,0,0,0,0,1,-1,0,0

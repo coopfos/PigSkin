@@ -1,0 +1,72 @@
+---
+title: "game_id_gen"
+output: html_document
+date: "2025-09-12"
+---
+
+```{r}
+library(tidyverse)
+
+
+raw <- read.csv('/Users/coop/Desktop/Fantasy/2022/raw_sched.csv')
+code_index <- read.csv('/users/coop/desktop/Fantasy/code_index.csv')
+raw$date <- mdy(raw$date)
+
+```
+
+```{r}
+forward <- raw %>% 
+  filter(order == "@") %>% 
+  select(date, winner, loser) %>% 
+  rename(away = winner,
+         home = loser)
+
+reverse <- raw %>% 
+  filter(!(order == "@")) %>% 
+  select(date, winner, loser) %>% 
+  rename(away = loser,
+         home = winner)
+
+games <- rbind(forward, reverse)
+
+```
+
+```{r}
+games <- games %>% 
+  left_join(code_index, by = c("home" = "team")) %>% 
+  rename(home_code = code) %>% 
+  left_join(code_index, by = c("away" = "team")) %>% 
+  rename(away_code = code)
+
+
+```
+
+```{r}
+games <- games %>% 
+  mutate(
+    home_id = paste0(format(date, "%Y%m%d"), home_code))
+  )
+
+games$home_id <- str_to_lower(games$home_id)
+
+insert_zero <- function(x) {
+  str_replace(x, "(?<=\\d)(?=[A-Za-z])", "0")
+}
+
+games$home_id <- insert_zero(games$home_id)
+```
+
+```{r}
+
+write.csv(games, '/users/coop/desktop/Fantasy/2022/game_index.csv')
+
+```
+
+```{r}
+
+games %>% 
+  filter(home_code == "NWE") %>% 
+  write.csv('/users/coop/desktop/Fantasy/2023/rep.csv')
+
+```
+

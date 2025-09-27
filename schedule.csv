@@ -1,0 +1,273 @@
+﻿week,day,date,time,visitor,home,code
+1,Thu,9/4/25,8:20PM,Dallas Cowboys,Philadelphia Eagles,PHI
+1,Fri,9/5/25,8:00PM,Los Angeles Chargers,Kansas City Chiefs,KAN
+1,Sun,9/7/25,1:00PM,Tampa Bay Buccaneers,Atlanta Falcons,ATL
+1,Sun,9/7/25,1:00PM,Carolina Panthers,Jacksonville Jaguars,JAX
+1,Sun,9/7/25,1:00PM,Cincinnati Bengals,Cleveland Browns,CLE
+1,Sun,9/7/25,1:00PM,Miami Dolphins,Indianapolis Colts,IND
+1,Sun,9/7/25,1:00PM,Arizona Cardinals,New Orleans Saints,NOR
+1,Sun,9/7/25,1:00PM,Las Vegas Raiders,New England Patriots,NWE
+1,Sun,9/7/25,1:00PM,New York Giants,Washington Commanders,WAS
+1,Sun,9/7/25,1:00PM,Pittsburgh Steelers,New York Jets,NYJ
+1,Sun,9/7/25,4:05PM,Tennessee Titans,Denver Broncos,DEN
+1,Sun,9/7/25,4:05PM,San Francisco 49ers,Seattle Seahawks,SEA
+1,Sun,9/7/25,4:25PM,Detroit Lions,Green Bay Packers,GBR
+1,Sun,9/7/25,4:25PM,Houston Texans,Los Angeles Rams,LAR
+1,Sun,9/7/25,8:20PM,Baltimore Ravens,Buffalo Bills,BUF
+1,Mon,9/8/25,8:15PM,Minnesota Vikings,Chicago Bears,CHI
+2,Thu,9/11/25,8:15PM,Washington Commanders,Green Bay Packers,GBR
+2,Sun,9/14/25,1:00PM,Buffalo Bills,New York Jets,NYJ
+2,Sun,9/14/25,1:00PM,Chicago Bears,Detroit Lions,DET
+2,Sun,9/14/25,1:00PM,Cleveland Browns,Baltimore Ravens,BAL
+2,Sun,9/14/25,1:00PM,Jacksonville Jaguars,Cincinnati Bengals,CIN
+2,Sun,9/14/25,1:00PM,New England Patriots,Miami Dolphins,MIA
+2,Sun,9/14/25,1:00PM,New York Giants,Dallas Cowboys,DAL
+2,Sun,9/14/25,1:00PM,Los Angeles Rams,Tennessee Titans,TEN
+2,Sun,9/14/25,1:00PM,Seattle Seahawks,Pittsburgh Steelers,PIT
+2,Sun,9/14/25,1:00PM,San Francisco 49ers,New Orleans Saints,NOR
+2,Sun,9/14/25,4:05PM,Carolina Panthers,Arizona Cardinals,ARI
+2,Sun,9/14/25,4:05PM,Denver Broncos,Indianapolis Colts,IND
+2,Sun,9/14/25,4:25PM,Philadelphia Eagles,Kansas City Chiefs,KAN
+2,Sun,9/14/25,8:20PM,Atlanta Falcons,Minnesota Vikings,MIN
+2,Mon,9/15/25,7:00PM,Tampa Bay Buccaneers,Houston Texans,HOU
+2,Mon,9/15/25,10:00PM,Los Angeles Chargers,Las Vegas Raiders,LVR
+3,Thu,9/18/25,8:15PM,Miami Dolphins,Buffalo Bills,BUF
+3,Sun,9/21/25,1:00PM,Atlanta Falcons,Carolina Panthers,CAR
+3,Sun,9/21/25,1:00PM,Cincinnati Bengals,Minnesota Vikings,MIN
+3,Sun,9/21/25,1:00PM,Indianapolis Colts,Tennessee Titans,TEN
+3,Sun,9/21/25,1:00PM,Green Bay Packers,Cleveland Browns,CLE
+3,Sun,9/21/25,1:00PM,Houston Texans,Jacksonville Jaguars,JAX
+3,Sun,9/21/25,1:00PM,New York Jets,Tampa Bay Buccaneers,TAM
+3,Sun,9/21/25,1:00PM,Pittsburgh Steelers,New England Patriots,NWE
+3,Sun,9/21/25,1:00PM,Las Vegas Raiders,Washington Commanders,WAS
+3,Sun,9/21/25,1:00PM,Los Angeles Rams,Philadelphia Eagles,PHI
+3,Sun,9/21/25,4:05PM,Denver Broncos,Los Angeles Chargers,LAC
+3,Sun,9/21/25,4:05PM,New Orleans Saints,Seattle Seahawks,SEA
+3,Sun,9/21/25,4:25PM,Arizona Cardinals,San Francisco 49ers,SFO
+3,Sun,9/21/25,4:25PM,Dallas Cowboys,Chicago Bears,CHI
+3,Sun,9/21/25,8:20PM,Kansas City Chiefs,New York Giants,NYG
+3,Mon,9/22/25,8:15PM,Detroit Lions,Baltimore Ravens,BAL
+4,Thu,9/25/25,8:15PM,Seattle Seahawks,Arizona Cardinals,ARI
+4,Sun,9/28/25,9:30AM,Minnesota Vikings,Pittsburgh Steelers,PIT
+4,Sun,9/28/25,1:00PM,Carolina Panthers,New England Patriots,NWE
+4,Sun,9/28/25,1:00PM,Cleveland Browns,Detroit Lions,DET
+4,Sun,9/28/25,1:00PM,New Orleans Saints,Buffalo Bills,BUF
+4,Sun,9/28/25,1:00PM,Tennessee Titans,Houston Texans,HOU
+4,Sun,9/28/25,1:00PM,Philadelphia Eagles,Tampa Bay Buccaneers,TAM
+4,Sun,9/28/25,1:00PM,Los Angeles Chargers,New York Giants,NYG
+4,Sun,9/28/25,1:00PM,Washington Commanders,Atlanta Falcons,ATL
+4,Sun,9/28/25,4:05PM,Indianapolis Colts,Los Angeles Rams,LAR
+4,Sun,9/28/25,4:05PM,Jacksonville Jaguars,San Francisco 49ers,SFO
+4,Sun,9/28/25,4:25PM,Chicago Bears,Las Vegas Raiders,LVR
+4,Sun,9/28/25,4:25PM,Baltimore Ravens,Kansas City Chiefs,KAN
+4,Sun,9/28/25,8:20PM,Green Bay Packers,Dallas Cowboys,DAL
+4,Mon,9/29/25,7:15PM,New York Jets,Miami Dolphins,MIA
+4,Mon,9/29/25,8:15PM,Cincinnati Bengals,Denver Broncos,DEN
+5,Thu,10/2/25,8:15PM,San Francisco 49ers,Los Angeles Rams,LAR
+5,Sun,10/5/25,9:30AM,Minnesota Vikings,Cleveland Browns,CLE
+5,Sun,10/5/25,1:00PM,Dallas Cowboys,New York Jets,NYJ
+5,Sun,10/5/25,1:00PM,Denver Broncos,Philadelphia Eagles,PHI
+5,Sun,10/5/25,1:00PM,Houston Texans,Baltimore Ravens,BAL
+5,Sun,10/5/25,1:00PM,Miami Dolphins,Carolina Panthers,CAR
+5,Sun,10/5/25,1:00PM,New York Giants,New Orleans Saints,NOR
+5,Sun,10/5/25,1:00PM,Las Vegas Raiders,Indianapolis Colts,IND
+5,Sun,10/5/25,4:05PM,Tennessee Titans,Arizona Cardinals,ARI
+5,Sun,10/5/25,4:05PM,Tampa Bay Buccaneers,Seattle Seahawks,SEA
+5,Sun,10/5/25,4:25PM,Detroit Lions,Cincinnati Bengals,CIN
+5,Sun,10/5/25,4:25PM,Washington Commanders,Los Angeles Chargers,LAC
+5,Sun,10/5/25,8:20PM,New England Patriots,Buffalo Bills,BUF
+5,Mon,10/6/25,8:15PM,Kansas City Chiefs,Jacksonville Jaguars,JAX
+6,Thu,10/9/25,8:15PM,Philadelphia Eagles,New York Giants,NYG
+6,Sun,10/12/25,9:30AM,Denver Broncos,New York Jets,NYJ
+6,Sun,10/12/25,1:00PM,Cleveland Browns,Pittsburgh Steelers,PIT
+6,Sun,10/12/25,1:00PM,Arizona Cardinals,Indianapolis Colts,IND
+6,Sun,10/12/25,1:00PM,Dallas Cowboys,Carolina Panthers,CAR
+6,Sun,10/12/25,1:00PM,Los Angeles Rams,Baltimore Ravens,BAL
+6,Sun,10/12/25,1:00PM,Los Angeles Chargers,Miami Dolphins,MIA
+6,Sun,10/12/25,1:00PM,Seattle Seahawks,Jacksonville Jaguars,JAX
+6,Sun,10/12/25,1:00PM,San Francisco 49ers,Tampa Bay Buccaneers,TAM
+6,Sun,10/12/25,4:05PM,Tennessee Titans,Las Vegas Raiders,LVR
+6,Sun,10/12/25,4:25PM,Cincinnati Bengals,Green Bay Packers,GBR
+6,Sun,10/12/25,4:25PM,New England Patriots,New Orleans Saints,NOR
+6,Sun,10/12/25,8:20PM,Detroit Lions,Kansas City Chiefs,KAN
+6,Mon,10/13/25,7:15PM,Buffalo Bills,Atlanta Falcons,ATL
+6,Mon,10/13/25,8:15PM,Chicago Bears,Washington Commanders,WAS
+7,Thu,10/16/25,8:15PM,Pittsburgh Steelers,Cincinnati Bengals,CIN
+7,Sun,10/19/25,9:30AM,Los Angeles Rams,Jacksonville Jaguars,JAX
+7,Sun,10/19/25,1:00PM,Carolina Panthers,New York Jets,NYJ
+7,Sun,10/19/25,1:00PM,Miami Dolphins,Cleveland Browns,CLE
+7,Sun,10/19/25,1:00PM,New Orleans Saints,Chicago Bears,CHI
+7,Sun,10/19/25,1:00PM,New England Patriots,Tennessee Titans,TEN
+7,Sun,10/19/25,1:00PM,Philadelphia Eagles,Minnesota Vikings,MIN
+7,Sun,10/19/25,1:00PM,Las Vegas Raiders,Kansas City Chiefs,KAN
+7,Sun,10/19/25,4:05PM,Indianapolis Colts,Los Angeles Chargers,LAC
+7,Sun,10/19/25,4:05PM,New York Giants,Denver Broncos,DEN
+7,Sun,10/19/25,4:25PM,Green Bay Packers,Arizona Cardinals,ARI
+7,Sun,10/19/25,4:25PM,Washington Commanders,Dallas Cowboys,DAL
+7,Sun,10/19/25,8:20PM,Atlanta Falcons,San Francisco 49ers,SFO
+7,Mon,10/20/25,7:00PM,Tampa Bay Buccaneers,Detroit Lions,DET
+7,Mon,10/20/25,10:00PM,Houston Texans,Seattle Seahawks,SEA
+8,Thu,10/23/25,8:15PM,Minnesota Vikings,Los Angeles Chargers,LAC
+8,Sun,10/26/25,1:00PM,Buffalo Bills,Carolina Panthers,CAR
+8,Sun,10/26/25,1:00PM,Chicago Bears,Baltimore Ravens,BAL
+8,Sun,10/26/25,1:00PM,Cleveland Browns,New England Patriots,NWE
+8,Sun,10/26/25,1:00PM,Miami Dolphins,Atlanta Falcons,ATL
+8,Sun,10/26/25,1:00PM,New York Giants,Philadelphia Eagles,PHI
+8,Sun,10/26/25,1:00PM,New York Jets,Cincinnati Bengals,CIN
+8,Sun,10/26/25,1:00PM,San Francisco 49ers,Houston Texans,HOU
+8,Sun,10/26/25,4:05PM,Tampa Bay Buccaneers,New Orleans Saints,NOR
+8,Sun,10/26/25,4:25PM,Dallas Cowboys,Denver Broncos,DEN
+8,Sun,10/26/25,4:25PM,Tennessee Titans,Indianapolis Colts,IND
+8,Sun,10/26/25,8:20PM,Green Bay Packers,Pittsburgh Steelers,PIT
+8,Mon,10/27/25,8:15PM,Washington Commanders,Kansas City Chiefs,KAN
+9,Thu,10/30/25,8:15PM,Baltimore Ravens,Miami Dolphins,MIA
+9,Sun,11/2/25,1:00PM,Atlanta Falcons,New England Patriots,NWE
+9,Sun,11/2/25,1:00PM,Carolina Panthers,Green Bay Packers,GBR
+9,Sun,11/2/25,1:00PM,Chicago Bears,Cincinnati Bengals,CIN
+9,Sun,11/2/25,1:00PM,Indianapolis Colts,Pittsburgh Steelers,PIT
+9,Sun,11/2/25,1:00PM,Denver Broncos,Houston Texans,HOU
+9,Sun,11/2/25,1:00PM,Minnesota Vikings,Detroit Lions,DET
+9,Sun,11/2/25,1:00PM,Los Angeles Chargers,Tennessee Titans,TEN
+9,Sun,11/2/25,1:00PM,San Francisco 49ers,New York Giants,NYG
+9,Sun,11/2/25,4:05PM,Jacksonville Jaguars,Las Vegas Raiders,LVR
+9,Sun,11/2/25,4:05PM,New Orleans Saints,Los Angeles Rams,LAR
+9,Sun,11/2/25,4:25PM,Kansas City Chiefs,Buffalo Bills,BUF
+9,Sun,11/2/25,8:20PM,Seattle Seahawks,Washington Commanders,WAS
+9,Mon,11/3/25,8:15PM,Arizona Cardinals,Dallas Cowboys,DAL
+10,Thu,11/6/25,8:15PM,Las Vegas Raiders,Denver Broncos,DEN
+10,Sun,11/9/25,9:30AM,Atlanta Falcons,Indianapolis Colts,IND
+10,Sun,11/9/25,1:00PM,Buffalo Bills,Miami Dolphins,MIA
+10,Sun,11/9/25,1:00PM,Cleveland Browns,New York Jets,NYJ
+10,Sun,11/9/25,1:00PM,Jacksonville Jaguars,Houston Texans,HOU
+10,Sun,11/9/25,1:00PM,New Orleans Saints,Carolina Panthers,CAR
+10,Sun,11/9/25,1:00PM,New England Patriots,Tampa Bay Buccaneers,TAM
+10,Sun,11/9/25,1:00PM,New York Giants,Chicago Bears,CHI
+10,Sun,11/9/25,1:00PM,Baltimore Ravens,Minnesota Vikings,MIN
+10,Sun,11/9/25,4:05PM,Arizona Cardinals,Seattle Seahawks,SEA
+10,Sun,11/9/25,4:25PM,Detroit Lions,Washington Commanders,WAS
+10,Sun,11/9/25,4:25PM,Los Angeles Rams,San Francisco 49ers,SFO
+10,Sun,11/9/25,8:20PM,Pittsburgh Steelers,Los Angeles Chargers,LAC
+10,Mon,11/10/25,8:15PM,Philadelphia Eagles,Green Bay Packers,GBR
+11,Thu,11/13/25,8:15PM,New York Jets,New England Patriots,NWE
+11,Sun,11/16/25,9:30AM,Washington Commanders,Miami Dolphins,MIA
+11,Sun,11/16/25,1:00PM,Carolina Panthers,Atlanta Falcons,ATL
+11,Sun,11/16/25,1:00PM,Chicago Bears,Minnesota Vikings,MIN
+11,Sun,11/16/25,1:00PM,Cincinnati Bengals,Pittsburgh Steelers,PIT
+11,Sun,11/16/25,1:00PM,Green Bay Packers,New York Giants,NYG
+11,Sun,11/16/25,1:00PM,Houston Texans,Tennessee Titans,TEN
+11,Sun,11/16/25,1:00PM,Los Angeles Chargers,Jacksonville Jaguars,JAX
+11,Sun,11/16/25,1:00PM,Tampa Bay Buccaneers,Buffalo Bills,BUF
+11,Sun,11/16/25,4:05PM,Seattle Seahawks,Los Angeles Rams,LAR
+11,Sun,11/16/25,4:05PM,San Francisco 49ers,Arizona Cardinals,ARI
+11,Sun,11/16/25,4:25PM,Kansas City Chiefs,Denver Broncos,DEN
+11,Sun,11/16/25,4:25PM,Baltimore Ravens,Cleveland Browns,CLE
+11,Sun,11/16/25,8:20PM,Detroit Lions,Philadelphia Eagles,PHI
+11,Mon,11/17/25,8:15PM,Dallas Cowboys,Las Vegas Raiders,LVR
+12,Thu,11/20/25,8:15PM,Buffalo Bills,Houston Texans,HOU
+12,Sun,11/23/25,1:00PM,Indianapolis Colts,Kansas City Chiefs,KAN
+12,Sun,11/23/25,1:00PM,Minnesota Vikings,Green Bay Packers,GBR
+12,Sun,11/23/25,1:00PM,New England Patriots,Cincinnati Bengals,CIN
+12,Sun,11/23/25,1:00PM,New York Giants,Detroit Lions,DET
+12,Sun,11/23/25,1:00PM,New York Jets,Baltimore Ravens,BAL
+12,Sun,11/23/25,1:00PM,Pittsburgh Steelers,Chicago Bears,CHI
+12,Sun,11/23/25,1:00PM,Seattle Seahawks,Tennessee Titans,TEN
+12,Sun,11/23/25,4:05PM,Cleveland Browns,Las Vegas Raiders,LVR
+12,Sun,11/23/25,4:05PM,Jacksonville Jaguars,Arizona Cardinals,ARI
+12,Sun,11/23/25,4:25PM,Atlanta Falcons,New Orleans Saints,NOR
+12,Sun,11/23/25,4:25PM,Philadelphia Eagles,Dallas Cowboys,DAL
+12,Sun,11/23/25,8:20PM,Tampa Bay Buccaneers,Los Angeles Rams,LAR
+12,Mon,11/24/25,8:15PM,Carolina Panthers,San Francisco 49ers,SFO
+13,Thu,11/27/25,1:00PM,Green Bay Packers,Detroit Lions,DET
+13,Thu,11/27/25,4:30PM,Kansas City Chiefs,Dallas Cowboys,DAL
+13,Thu,11/27/25,8:20PM,Cincinnati Bengals,Baltimore Ravens,BAL
+13,Fri,11/28/25,3:00PM,Chicago Bears,Philadelphia Eagles,PHI
+13,Sun,11/30/25,1:00PM,Atlanta Falcons,New York Jets,NYJ
+13,Sun,11/30/25,1:00PM,Arizona Cardinals,Tampa Bay Buccaneers,TAM
+13,Sun,11/30/25,1:00PM,Houston Texans,Indianapolis Colts,IND
+13,Sun,11/30/25,1:00PM,Jacksonville Jaguars,Tennessee Titans,TEN
+13,Sun,11/30/25,1:00PM,New Orleans Saints,Miami Dolphins,MIA
+13,Sun,11/30/25,1:00PM,Los Angeles Rams,Carolina Panthers,CAR
+13,Sun,11/30/25,1:00PM,San Francisco 49ers,Cleveland Browns,CLE
+13,Sun,11/30/25,4:05PM,Minnesota Vikings,Seattle Seahawks,SEA
+13,Sun,11/30/25,4:25PM,Buffalo Bills,Pittsburgh Steelers,PIT
+13,Sun,11/30/25,4:25PM,Las Vegas Raiders,Los Angeles Chargers,LAC
+13,Sun,11/30/25,8:20PM,Denver Broncos,Washington Commanders,WAS
+13,Mon,12/1/25,8:15PM,New York Giants,New England Patriots,NWE
+14,Thu,12/4/25,8:15PM,Dallas Cowboys,Detroit Lions,DET
+14,Sun,12/7/25,1:00PM,Chicago Bears,Green Bay Packers,GBR
+14,Sun,12/7/25,1:00PM,Indianapolis Colts,Jacksonville Jaguars,JAX
+14,Sun,12/7/25,1:00PM,Miami Dolphins,New York Jets,NYJ
+14,Sun,12/7/25,1:00PM,New Orleans Saints,Tampa Bay Buccaneers,TAM
+14,Sun,12/7/25,1:00PM,Tennessee Titans,Cleveland Browns,CLE
+14,Sun,12/7/25,1:00PM,Pittsburgh Steelers,Baltimore Ravens,BAL
+14,Sun,12/7/25,1:00PM,Seattle Seahawks,Atlanta Falcons,ATL
+14,Sun,12/7/25,1:00PM,Washington Commanders,Minnesota Vikings,MIN
+14,Sun,12/7/25,4:05PM,Denver Broncos,Las Vegas Raiders,LVR
+14,Sun,12/7/25,4:25PM,Cincinnati Bengals,Buffalo Bills,BUF
+14,Sun,12/7/25,4:25PM,Los Angeles Rams,Arizona Cardinals,ARI
+14,Sun,12/7/25,8:20PM,Houston Texans,Kansas City Chiefs,KAN
+14,Mon,12/8/25,8:15PM,Philadelphia Eagles,Los Angeles Chargers,LAC
+15,Thu,12/11/25,8:15PM,Atlanta Falcons,Tampa Bay Buccaneers,TAM
+15,Sun,12/14/25,1:00PM,Buffalo Bills,New England Patriots,NWE
+15,Sun,12/14/25,1:00PM,Cleveland Browns,Chicago Bears,CHI
+15,Sun,12/14/25,1:00PM,Arizona Cardinals,Houston Texans,HOU
+15,Sun,12/14/25,1:00PM,New York Jets,Jacksonville Jaguars,JAX
+15,Sun,12/14/25,1:00PM,Las Vegas Raiders,Philadelphia Eagles,PHI
+15,Sun,12/14/25,1:00PM,Baltimore Ravens,Cincinnati Bengals,CIN
+15,Sun,12/14/25,1:00PM,Los Angeles Chargers,Kansas City Chiefs,KAN
+15,Sun,12/14/25,1:00PM,Washington Commanders,New York Giants,NYG
+15,Sun,12/14/25,4:25PM,Carolina Panthers,New Orleans Saints,NOR
+15,Sun,12/14/25,4:25PM,Indianapolis Colts,Seattle Seahawks,SEA
+15,Sun,12/14/25,4:25PM,Detroit Lions,Los Angeles Rams,LAR
+15,Sun,12/14/25,4:25PM,Green Bay Packers,Denver Broncos,DEN
+15,Sun,12/14/25,4:25PM,Tennessee Titans,San Francisco 49ers,SFO
+15,Sun,12/14/25,8:20PM,Minnesota Vikings,Dallas Cowboys,DAL
+15,Mon,12/15/25,8:15PM,Miami Dolphins,Pittsburgh Steelers,PIT
+16,Thu,12/18/25,8:15PM,Los Angeles Rams,Seattle Seahawks,SEA
+16,Sat,12/20/25,1:00PM,Green Bay Packers,Chicago Bears,CHI
+16,Sat,12/20/25,1:00PM,Philadelphia Eagles,Washington Commanders,WAS
+16,Sun,12/21/25,1:00PM,Buffalo Bills,Cleveland Browns,CLE
+16,Sun,12/21/25,1:00PM,Kansas City Chiefs,Tennessee Titans,TEN
+16,Sun,12/21/25,1:00PM,Minnesota Vikings,New York Giants,NYG
+16,Sun,12/21/25,1:00PM,New England Patriots,Baltimore Ravens,BAL
+16,Sun,12/21/25,1:00PM,New York Jets,New Orleans Saints,NOR
+16,Sun,12/21/25,1:00PM,Los Angeles Chargers,Dallas Cowboys,DAL
+16,Sun,12/21/25,1:00PM,Tampa Bay Buccaneers,Carolina Panthers,CAR
+16,Sun,12/21/25,4:05PM,Atlanta Falcons,Arizona Cardinals,ARI
+16,Sun,12/21/25,4:05PM,Jacksonville Jaguars,Denver Broncos,DEN
+16,Sun,12/21/25,4:25PM,Pittsburgh Steelers,Detroit Lions,DET
+16,Sun,12/21/25,4:25PM,Las Vegas Raiders,Houston Texans,HOU
+16,Sun,12/21/25,8:20PM,Cincinnati Bengals,Miami Dolphins,MIA
+16,Mon,12/22/25,8:15PM,San Francisco 49ers,Indianapolis Colts,IND
+17,Thu,12/25/25,1:00PM,Dallas Cowboys,Washington Commanders,WAS
+17,Thu,12/25/25,4:30PM,Detroit Lions,Minnesota Vikings,MIN
+17,Thu,12/25/25,8:15PM,Denver Broncos,Kansas City Chiefs,KAN
+17,Sun,12/28/25,1:00PM,Arizona Cardinals,Cincinnati Bengals,CIN
+17,Sun,12/28/25,1:00PM,Houston Texans,Los Angeles Chargers,LAC
+17,Sun,12/28/25,1:00PM,Jacksonville Jaguars,Indianapolis Colts,IND
+17,Sun,12/28/25,1:00PM,New Orleans Saints,Tennessee Titans,TEN
+17,Sun,12/28/25,1:00PM,New England Patriots,New York Jets,NYJ
+17,Sun,12/28/25,1:00PM,New York Giants,Las Vegas Raiders,LVR
+17,Sun,12/28/25,1:00PM,Pittsburgh Steelers,Cleveland Browns,CLE
+17,Sun,12/28/25,1:00PM,Baltimore Ravens,Green Bay Packers,GBR
+17,Sun,12/28/25,1:00PM,Seattle Seahawks,Carolina Panthers,CAR
+17,Sun,12/28/25,1:00PM,Tampa Bay Buccaneers,Miami Dolphins,MIA
+17,Sun,12/28/25,4:25PM,Philadelphia Eagles,Buffalo Bills,BUF
+17,Sun,12/28/25,8:20PM,Chicago Bears,San Francisco 49ers,SFO
+17,Mon,12/29/25,8:15PM,Los Angeles Rams,Atlanta Falcons,ATL
+18,Sun,1/4/26,1:00PM,Carolina Panthers,Tampa Bay Buccaneers,TAM
+18,Sun,1/4/26,1:00PM,Cleveland Browns,Cincinnati Bengals,CIN
+18,Sun,1/4/26,1:00PM,Indianapolis Colts,Houston Texans,HOU
+18,Sun,1/4/26,1:00PM,Arizona Cardinals,Los Angeles Rams,LAR
+18,Sun,1/4/26,1:00PM,Dallas Cowboys,New York Giants,NYG
+18,Sun,1/4/26,1:00PM,Detroit Lions,Chicago Bears,CHI
+18,Sun,1/4/26,1:00PM,Green Bay Packers,Minnesota Vikings,MIN
+18,Sun,1/4/26,1:00PM,Kansas City Chiefs,Las Vegas Raiders,LVR
+18,Sun,1/4/26,1:00PM,Miami Dolphins,New England Patriots,NWE
+18,Sun,1/4/26,1:00PM,New Orleans Saints,Atlanta Falcons,ATL
+18,Sun,1/4/26,1:00PM,New York Jets,Buffalo Bills,BUF
+18,Sun,1/4/26,1:00PM,Tennessee Titans,Jacksonville Jaguars,JAX
+18,Sun,1/4/26,1:00PM,Baltimore Ravens,Pittsburgh Steelers,PIT
+18,Sun,1/4/26,1:00PM,Los Angeles Chargers,Denver Broncos,DEN
+18,Sun,1/4/26,1:00PM,Seattle Seahawks,San Francisco 49ers,SFO
+18,Sun,1/4/26,1:00PM,Washington Commanders,Philadelphia Eagles,PHI

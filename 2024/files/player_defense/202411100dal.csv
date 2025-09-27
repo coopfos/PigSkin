@@ -1,0 +1,48 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+C.J. Gardner-Johnson,PHI,1,0,0,0,1,0.0,7,2,5,0,0,0,0,0,0
+Milton Williams,PHI,0,0,0,0,0,1.0,2,2,0,1,1,1,0,0,0
+Bryce Huff,PHI,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,1
+Jalen Carter,PHI,0,0,0,0,1,0.5,4,2,2,1,2,0,0,0,0
+Brandon Graham,PHI,0,0,0,0,0,0.5,2,1,1,0,1,0,0,0,0
+Zack Baun,PHI,0,0,0,0,0,0.0,8,3,5,1,0,1,0,0,2
+Nakobe Dean,PHI,0,0,0,0,0,0.0,6,3,3,0,0,0,0,0,0
+Reed Blankenship,PHI,0,0,0,0,0,0.0,4,3,1,0,0,1,16,0,0
+Isaiah Rodgers,PHI,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Cooper DeJean,PHI,0,0,0,0,0,0.0,3,3,0,0,0,1,0,0,0
+Oren Burks,PHI,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Quinyon Mitchell,PHI,0,0,0,0,2,0.0,2,2,0,0,0,0,0,0,0
+Kelee Ringo,PHI,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Nolan Smith,PHI,0,0,0,0,0,0.0,2,1,1,1,0,0,0,0,0
+Jordan Davis,PHI,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Jalyx Hunt,PHI,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0
+Moro Ojomo,PHI,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Josh Sweat,PHI,0,0,0,0,0,0.0,1,1,0,0,1,0,0,0,0
+Jeremiah Trotter Jr.,PHI,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Darius Slay,PHI,0,0,0,0,2,0.0,0,0,0,0,0,0,0,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Trevon Diggs,DAL,1,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0
+DeMarvion Overshown,DAL,0,0,0,0,0,2.0,11,7,4,2,2,0,0,0,0
+Micah Parsons,DAL,0,0,0,0,0,2.0,2,2,0,1,2,0,0,0,1
+Carl Lawson,DAL,0,0,0,0,0,0.5,1,0,1,0,1,0,0,0,0
+Osa Odighizuwa,DAL,0,0,0,0,0,0.5,1,0,1,0,2,0,0,0,0
+Eric Kendricks,DAL,0,0,0,0,0,0.0,8,4,4,0,0,0,0,0,0
+Caelen Carson,DAL,0,0,0,0,2,0.0,5,4,1,0,0,0,0,0,0
+Marist Liufau,DAL,0,0,0,0,0,0.0,5,4,1,0,0,1,0,0,0
+Mazi Smith,DAL,0,0,0,0,0,0.0,5,2,3,1,0,0,0,0,0
+Malik Hooker,DAL,0,0,0,0,0,0.0,4,3,1,0,1,0,0,0,0
+Jourdan Lewis,DAL,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0
+Carlos Watkins,DAL,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Chauncey Golston,DAL,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0
+Donovan Wilson,DAL,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0
+C.J. Goodwin,DAL,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Linval Joseph,DAL,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Nick Vigil,DAL,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Tyrus Wheat,DAL,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Bryan Anger,DAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Markquese Bell,DAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Josh Butler,DAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Damone Clark,DAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Ryan Flournoy,DAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Hunter Luepke,DAL,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Israel Mukuamu,DAL,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0

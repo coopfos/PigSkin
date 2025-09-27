@@ -1,0 +1,48 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Grant Delpit,CLE,0,0,0,0,0,1.0,5,2,3,1,1,0,0,0,0
+Michael Hall,CLE,0,0,0,0,0,1.0,5,3,2,1,1,0,0,0,0
+Myles Garrett,CLE,0,0,0,0,0,1.0,3,3,0,2,1,0,0,0,0
+Isaiah McGuire,CLE,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,1
+Jordan Hicks,CLE,0,0,0,0,0,0.0,9,7,2,0,0,0,0,0,0
+Mohamoud Diabate,CLE,0,0,0,0,0,0.0,6,5,1,0,0,0,0,0,0
+Devin Bush Jr.,CLE,0,0,0,0,2,0.0,5,3,2,0,1,0,0,0,0
+Denzel Ward,CLE,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0
+Martin Emerson,CLE,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Juan Thornhill,CLE,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Ronnie Hickman,CLE,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Jowon Briggs,CLE,0,0,0,0,0,0.0,2,1,1,1,1,1,0,0,0
+Sam Kamara,CLE,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Mike Ford,CLE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Myles Harden,CLE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Rodney McLeod,CLE,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Cameron Mitchell,CLE,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Ogbonnia Okoronkwo,CLE,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0
+Winston Reid,CLE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Nathaniel Watson,CLE,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Dorian Thompson-Robinson,CLE,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0
+Dalvin Tomlinson,CLE,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Jordan Battle,CIN,1,0,0,0,1,0.0,7,6,1,1,0,0,0,0,0
+Geno Stone,CIN,1,0,0,0,2,0.0,1,1,0,0,1,0,0,0,0
+Kris Jenkins,CIN,0,0,0,0,0,2.0,2,2,0,2,2,0,0,0,0
+Joseph Ossai,CIN,0,0,0,0,0,1.0,5,4,1,1,1,0,0,0,1
+Trey Hendrickson,CIN,0,0,0,0,0,1.0,3,2,1,1,2,0,0,0,0
+McKinnley Jackson,CIN,0,0,0,0,0,1.0,1,1,0,1,1,0,0,0,0
+Akeem Davis-Gaither,CIN,0,0,0,0,1,0.0,6,5,1,0,0,0,0,0,0
+Mike Hilton,CIN,0,0,0,0,0,0.0,6,5,1,2,0,0,0,0,0
+B.J. Hill,CIN,0,0,0,0,0,0.0,5,2,3,0,0,0,0,0,0
+Germaine Pratt,CIN,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0
+Maema Njongmeta,CIN,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0
+Cam Taylor-Britt,CIN,0,0,0,0,0,0.0,3,3,0,0,0,0,0,0,0
+Vonn Bell,CIN,0,0,0,0,0,0.0,2,1,1,0,0,1,0,0,1
+Tycen Anderson,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Daijahn Anthony,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Shaka Heyward,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Cedric Johnson,CIN,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0
+Josh Newton,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Drew Sample,CIN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Jay Tufele,CIN,0,0,0,0,0,0.0,1,0,1,0,1,0,0,0,0
+Trayveon Williams,CIN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+DJ Ivey,CIN,0,0,0,0,1,0.0,0,0,0,0,0,0,0,0,0
+Myles Murphy,CIN,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0

@@ -1,0 +1,186 @@
+Quarter,Time,Down,ToGo,Location,NOR,NWE,Detail,EPB,EPA
+1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter,1st Quarter
+,,,,,,,"Patriots won the coin toss and deferred, Saints to receive the opening kickoff.",,
+1,15:00,,,NWE 35,0,0,"Jake Bailey kicks off 65 yards, touchback.",0.000,0.610
+1,15:00,1,10,NOR 25,0,0,Alvin Kamara right guard for 1 yard (tackle by Ja'Whaun Bentley and Jalen Mills),0.610,0.200
+1,14:25,2,9,NOR 26,0,0,Alvin Kamara up the middle for no gain (tackle by Deatrich Wise),0.200,-0.490
+1,13:48,3,9,NOR 26,0,0,Jameis Winston pass incomplete short middle intended for Chris Hogan,-0.490,-1.630
+1,13:44,4,9,NOR 26,0,0,"Blake Gillikin punts 51 yards, fair catch by Gunner Olszewski at NE-23",-1.630,-0.480
+1,13:37,1,10,NWE 23,0,0,Damien Harris left tackle for 7 yards (tackle by Marcus Williams),0.480,0.880
+1,12:58,2,3,NWE 30,0,0,Mac Jones pass incomplete deep left intended for Nelson Agholor,0.880,0.170
+1,12:52,3,3,NWE 30,0,0,Mac Jones pass incomplete deep left intended for James White,0.170,-1.370
+1,12:48,4,3,NWE 30,0,0,"Jake Bailey punts 64 yards, returned by Deonte Harty for 25 yards (tackle by Harvey Langi and Brandon Bolden)",-1.370,-1.000
+1,12:33,1,10,NOR 31,0,0,Jameis Winston pass complete short right to Alvin Kamara for 9 yards (tackle by Devin McCourty),1.000,1.680
+1,12:00,2,1,NOR 40,0,0,Alvin Kamara left guard for 5 yards (tackle by Deatrich Wise),1.680,1.930
+1,11:25,1,10,NOR 45,0,0,Alvin Kamara left guard for no gain (tackle by Davon Godchaux),1.930,1.380
+1,10:46,2,10,NOR 45,0,0,Jameis Winston pass incomplete short left,1.380,0.700
+1,10:42,3,10,NOR 45,0,0,Jameis Winston pass complete short right to Deonte Harty for 12 yards (tackle by Adrian Phillips),0.700,2.720
+1,10:16,1,10,NWE 43,0,0,Jameis Winston pass complete deep left to Kenny Stills for 17 yards (tackle by Adrian Phillips),2.720,3.840
+1,9:37,1,10,NWE 26,0,0,Alvin Kamara up the middle for 7 yards (tackle by Ja'Whaun Bentley and Adrian Phillips),3.840,4.270
+1,9:00,2,3,NWE 19,0,0,Tony Jones left guard for 5 yards (tackle by Lawrence Guy and Ja'Whaun Bentley),4.270,4.650
+1,8:23,1,10,NWE 14,0,0,Jameis Winston pass incomplete short right intended for Adam Trautman (defended by Ja'Whaun Bentley),4.650,4.000
+1,8:18,2,10,NWE 14,0,0,Taysom Hill right guard for 3 yards (tackle by Davon Godchaux),4.000,3.620
+1,7:40,3,7,NWE 11,6,0,"Jameis Winston pass complete short middle to Alvin Kamara for 11 yards, touchdown",3.620,7.000
+1,7:35,,,NWE 15,7,0,Aldrick Rosas kicks extra point good,0.000,0.000
+1,7:35,,,NOR 35,7,0,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+1,7:35,1,10,NWE 25,7,0,Mac Jones sacked by C.J. Gardner-Johnson for -5 yards,0.610,-0.610
+1,7:00,2,15,NWE 20,7,0,Mac Jones pass complete short right to J.J. Taylor for -1 yards (tackle by Demario Davis),-0.610,-1.510
+1,6:15,3,16,NWE 19,7,0,Mac Jones pass complete short left to Kendrick Bourne for 14 yards (tackle by Marshon Lattimore),-1.510,-1.180
+1,5:31,4,2,NWE 33,7,0,Jake Bailey punts 52 yards out of bounds,-1.180,0.220
+1,5:25,1,10,NOR 15,7,0,Alvin Kamara right guard for 6 yards (tackle by Deatrich Wise),-0.220,0.210
+1,4:49,2,4,NOR 21,7,0,Alvin Kamara right tackle for 5 yards (tackle by Ja'Whaun Bentley),0.210,0.670
+1,4:11,1,10,NOR 26,7,0,Jameis Winston pass complete short right to Marquez Callaway for 11 yards (tackle by J.C. Jackson),0.670,1.400
+1,3:27,1,10,NOR 37,7,0,Alvin Kamara right guard for 3 yards (tackle by Davon Godchaux and Chase Winovich),1.400,1.260
+1,2:50,2,7,NOR 40,7,0,Jameis Winston pass complete short right to Tony Jones for 6 yards,1.260,1.360
+1,2:13,3,1,NOR 46,7,0,Jameis Winston pass complete short right to Marquez Callaway for 13 yards (tackle by Adrian Phillips and J.C. Jackson),1.360,2.850
+1,1:29,1,10,NWE 41,7,0,Jameis Winston pass complete short middle to Tony Jones for 4 yards (tackle by Ja'Whaun Bentley),2.850,2.850
+1,0:44,2,6,NWE 37,7,0,Jameis Winston pass incomplete deep middle intended for Kenny Stills,2.850,2.150
+1,0:35,,,,,,Timeout #1 by New Orleans Saints,,
+1,0:35,3,6,NWE 37,7,0,Taysom Hill right tackle for 3 yards (tackle by J.C. Jackson),2.150,1.090
+1,0:13,,,,,,Timeout #1 by New England Patriots,,
+1,0:13,4,3,NWE 34,7,0,Aldrick Rosas 52 yard field goal no good,1.090,-1.730
+1,0:09,1,10,NWE 42,7,0,Damien Harris left tackle for -2 yards (tackle by C.J. Gardner-Johnson),1.730,0.920
+Quarter,Time,Down,ToGo,Location,NOR,NWE,Detail,EPB,EPA
+2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter,2nd Quarter
+2,15:00,2,12,NWE 40,7,0,Mac Jones pass complete short middle to Jakobi Meyers for 7 yards (tackle by Kaden Elliss),0.920,1.160
+2,14:27,3,5,NWE 47,7,0,Mac Jones pass incomplete short left intended for Jakobi Meyers,1.160,-0.260
+2,14:23,4,5,NWE 47,7,0,"Penalty on Joe Cardona: False Start, 5 yards (accepted) (no play)",-0.260,-0.590
+2,14:23,4,10,NWE 42,7,0,"Jake Bailey punts 58 yards, touchback.",-0.590,-0.280
+2,14:15,1,10,NOR 20,7,0,Jameis Winston pass incomplete deep right intended for Juwan Johnson,0.280,-0.270
+2,14:08,2,10,NOR 20,7,0,Alvin Kamara right tackle for 3 yards (tackle by Deatrich Wise),-0.270,-0.560
+2,13:30,3,7,NOR 23,7,0,Jameis Winston scrambles up the middle for 3 yards (tackle by Kyle Van Noy),-0.560,-1.630
+2,12:54,4,4,NOR 26,7,0,"Blake Gillikin punts 44 yards, returned by Gunner Olszewski for no gain (tackle by J.T. Gray and Andrew Dowell). Penalty on Chase Winovich: Offensive Holding, 10 yards (accepted)",-1.630,-0.280
+2,12:46,1,10,NWE 20,7,0,Damien Harris left guard for 4 yards (tackle by Marshon Lattimore),0.280,0.270
+2,12:13,2,6,NWE 24,7,0,Damien Harris left end for 3 yards (tackle by Kaden Elliss),0.270,-0.030
+2,11:34,3,3,NWE 27,7,0,James White left end for 6 yards (tackle by Demario Davis),-0.030,1.140
+2,11:17,1,10,NWE 33,7,0,Mac Jones pass incomplete deep middle intended for Jonnu Smith,1.140,0.590
+2,11:09,2,10,NWE 33,7,0,Mac Jones pass complete short right to Damien Harris for 2 yards (tackle by Demario Davis),0.590,0.170
+2,10:31,3,8,NWE 35,7,0,Mac Jones pass complete short right to Hunter Henry for 9 yards (tackle by P.J. Williams),0.170,1.860
+2,9:56,1,10,NWE 44,7,0,Mac Jones pass incomplete deep right intended for Jonnu Smith (defended by Malcolm Jenkins),1.860,1.320
+2,9:46,2,10,NWE 44,7,0,Mac Jones pass incomplete short right intended for Jakobi Meyers (defended by Cameron Jordan),1.320,0.630
+2,9:42,3,10,NWE 44,7,0,Mac Jones pass complete short right to Hunter Henry for 6 yards (tackle by Marcus Williams),0.630,-0.060
+2,9:03,4,4,NWE 50,7,0,Jake Bailey punts blocked by Andrew Dowell,-0.060,-2.320
+2,8:51,1,10,NWE 49,7,0,Alvin Kamara right tackle for 8 yards (tackle by Ja'Whaun Bentley),2.320,2.860
+2,8:12,2,2,NWE 41,7,0,Alex Armah up the middle for 5 yards (tackle by Lawrence Guy),2.860,3.180
+2,7:38,1,10,NWE 36,7,0,Alvin Kamara right tackle for 2 yards (tackle by Lawrence Guy),3.180,2.910
+2,6:56,2,8,NWE 34,7,0,Jameis Winston pass complete short left to Alvin Kamara for 9 yards (tackle by Jonathan Jones),2.910,3.910
+2,6:22,1,10,NWE 25,7,0,Tony Jones left guard for 7 yards (tackle by Ja'Whaun Bentley and Kyle Dugger),3.910,4.370
+2,5:41,2,3,NWE 18,7,0,Jameis Winston sacked by Matt Judon for -9 yards,4.370,2.410
+2,4:55,3,12,NWE 27,7,0,Alvin Kamara up the middle for 9 yards (tackle by Adrian Phillips and Jonathan Jones),2.410,2.350
+2,4:16,4,3,NWE 18,7,0,Aldrick Rosas 36 yard field goal no good,2.350,-0.670
+2,4:13,1,10,NWE 26,7,0,Damien Harris right guard for 1 yard (tackle by Montravius Adams and Demario Davis),0.670,0.270
+2,3:40,2,9,NWE 27,7,0,Mac Jones pass complete deep left to Jakobi Meyers for 17 yards (tackle by Paulson Adebo),0.270,1.860
+2,3:07,1,10,NWE 44,7,0,Mac Jones pass incomplete deep left intended for Jakobi Meyers,1.860,1.320
+2,3:01,2,10,NWE 44,7,0,Mac Jones pass incomplete short left intended for Jonnu Smith (defended by Demario Davis),1.320,0.630
+2,2:27,3,10,NWE 44,7,0,"Mac Jones pass short middle intended for Hunter Henry is intercepted by P.J. Williams at NO-45 and returned for 46 yards. P.J. Williams fumbles (forced by Brandon Bolden), recovered by Kaden Elliss at NE-1 Replay Assistant challenged the fumble ruling, and the original play was overturned. Mac Jones pass short middle intended for Hunter Henry is intercepted by P.J. Williams at NO-45 and returned for 46 yards (tackle by Brandon Bolden)",0.630,-5.140
+2,2:44,1,9,NWE 9,7,0,Alvin Kamara right guard for 5 yards (tackle by J.C. Jackson),5.140,5.340
+2,2:00,2,4,NWE 4,7,0,Jameis Winston sacked by and Deatrich Wise for -3 yards and Matt Judon for -3 yards,5.340,3.810
+2,1:50,,,,,,Timeout #2 by New England Patriots,,
+2,1:50,3,7,NWE 7,13,0,"Jameis Winston pass complete short middle to Marquez Callaway for 7 yards, touchdown. Penalty on Jonathan Jones: Defensive Holding, 5 yards (declined)",3.810,7.000
+2,1:44,,,NWE 15,14,0,Aldrick Rosas kicks extra point good,0.000,0.000
+2,1:44,,,NOR 35,14,0,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+2,1:44,1,10,NWE 25,14,0,Mac Jones pass complete short middle to Kendrick Bourne for 31 yards (tackle by Paulson Adebo),0.610,2.650
+2,1:23,1,10,NOR 44,14,0,Mac Jones pass complete short left to Nelson Agholor for 13 yards (tackle by Marshon Lattimore),2.650,3.510
+2,1:17,1,10,NOR 31,14,0,Mac Jones scrambles up the middle for 2 yards (tackle by Kaden Elliss),3.510,3.240
+2,1:12,,,,,,Timeout #2 by New Orleans Saints,,
+2,1:12,2,8,NOR 29,14,0,Mac Jones pass complete short left to Jakobi Meyers for 7 yards (tackle by C.J. Gardner-Johnson),3.240,3.470
+2,1:08,3,1,NOR 22,14,0,Brandon Bolden right tackle for no gain (tackle by Cameron Jordan and Christian Ringo),3.470,2.140
+2,0:39,,,,,,Timeout #3 by New Orleans Saints,,
+2,0:39,4,1,NOR 22,14,0,"Penalty on Hunter Henry: False Start, 5 yards (accepted) (no play)",2.140,1.700
+2,0:38,4,6,NOR 27,14,3,Nick Folk 45 yard field goal good,1.700,3.000
+2,0:34,,,NWE 35,14,3,"Jake Bailey kicks off 56 yards, returned by Deonte Harty for 16 yards (tackle by Cody Davis and Kyle Dugger)",0.000,0.610
+2,0:27,1,10,NOR 25,14,3,Jameis Winston kneels for -1 yards,0.610,-0.070
+Quarter,Time,Down,ToGo,Location,NOR,NWE,Detail,EPB,EPA
+3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter,3rd Quarter
+3,15:00,,,NOR 35,14,3,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+3,15:00,1,10,NWE 25,20,3,"Mac Jones pass short middle intended for Jonnu Smith is intercepted by Malcolm Jenkins at NE-34 and returned for 34 yards, touchdown",0.610,-7.000
+3,14:51,,,NWE 15,21,3,Aldrick Rosas kicks extra point good,0.000,0.000
+3,14:51,,,NOR 35,21,3,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+3,14:51,1,10,NWE 25,21,3,Damien Harris right tackle for 1 yard (tackle by Shy Tuttle),0.610,0.200
+3,14:20,2,9,NWE 26,21,3,Mac Jones pass complete short right to Hunter Henry for 3 yards (tackle by Pete Werner),0.200,-0.100
+3,13:45,3,6,NWE 29,21,3,Mac Jones pass incomplete short left intended for Jonnu Smith,-0.100,-1.440
+3,13:43,4,6,NWE 29,21,3,Jake Bailey punts 41 yards out of bounds,-1.440,-0.940
+3,13:35,1,10,NOR 30,21,3,Alvin Kamara right tackle for 7 yards (tackle by Kyle Dugger),0.940,1.340
+3,13:01,2,3,NOR 37,21,3,Alvin Kamara right guard for 5 yards (tackle by Davon Godchaux),1.340,1.730
+3,12:24,1,10,NOR 42,21,3,Alvin Kamara left guard for -1 yards (tackle by Deatrich Wise),1.730,1.050
+3,11:45,2,11,NOR 41,21,3,Jameis Winston pass incomplete deep left intended for Kenny Stills,1.050,0.370
+3,11:35,3,11,NOR 41,21,3,Jameis Winston pass complete short right to Marquez Callaway for 10 yards (tackle by J.C. Jackson),0.370,0.000
+3,10:56,4,1,NWE 49,21,3,"Penalty on Calvin Throckmorton: False Start, 5 yards (accepted) (no play)",0.000,-0.320
+3,10:47,4,6,NOR 46,21,3,"Blake Gillikin punts 54 yards, touchback.",-0.320,-0.280
+3,10:37,1,10,NWE 20,21,3,"J.J. Taylor left guard for no gain (tackle by Marshon Lattimore). Penalty on Jonnu Smith: Offensive Holding, 10 yards (declined) . Penalty on David Andrews: Offensive Holding, 10 yards (accepted) (no play)",0.280,-0.760
+3,10:19,1,20,NWE 10,21,3,Mac Jones pass complete short middle to Jakobi Meyers for 10 yards (tackle by C.J. Gardner-Johnson and Pete Werner),-0.760,-0.270
+3,9:44,2,10,NWE 20,21,3,Mac Jones pass complete short middle to Kendrick Bourne for 8 yards (tackle by Malcolm Jenkins),-0.270,0.100
+3,9:10,3,2,NWE 28,21,3,Mac Jones pass complete deep left to Jakobi Meyers for 27 yards (tackle by Marshon Lattimore),0.100,2.590
+3,8:30,1,10,NOR 45,21,3,J.J. Taylor left end for 2 yards (tackle by Paulson Adebo),2.590,2.310
+3,7:50,2,8,NOR 43,21,3,Mac Jones pass complete short right to Jakobi Meyers for 7 yards (tackle by Demario Davis),2.310,2.540
+3,7:15,3,1,NOR 36,21,3,Mac Jones up the middle for 2 yards (tackle by Shy Tuttle),2.540,3.310
+3,6:37,1,10,NOR 34,21,3,Mac Jones pass incomplete deep middle intended for Nelson Agholor,3.310,2.770
+3,6:31,2,10,NOR 34,21,3,Mac Jones pass complete short left to Hunter Henry for 9 yards (tackle by Marshon Lattimore),2.770,3.270
+3,5:56,3,1,NOR 25,21,3,Mac Jones up the middle for 2 yards (tackle by Malcolm Jenkins),3.270,4.040
+3,5:18,1,10,NOR 23,21,3,Mac Jones pass complete short left to J.J. Taylor for 4 yards (tackle by Marshon Lattimore),4.040,4.050
+3,4:36,2,6,NOR 19,21,3,Mac Jones pass complete short right to Jakobi Meyers for 4 yards (tackle by Demario Davis),4.050,4.050
+3,3:59,3,2,NOR 15,21,3,Mac Jones pass complete short right to Nelson Agholor for 4 yards (tackle by Paulson Adebo),4.050,4.840
+3,3:25,1,10,NOR 11,21,3,Brandon Bolden left end for no gain (tackle by Tanoh Kpassagnon and Marshon Lattimore),4.840,4.140
+3,2:40,2,10,NOR 11,21,3,Brandon Bolden right tackle for -1 yards (tackle by Cameron Jordan and Malcolm Jenkins),4.140,3.110
+3,2:17,3,11,NOR 12,21,3,Mac Jones pass complete short left to Jonnu Smith for 4 yards (tackle by Marshon Lattimore and P.J. Williams),3.110,2.960
+3,1:35,4,7,NOR 8,21,6,Nick Folk 26 yard field goal good,2.960,3.000
+3,1:32,,,NWE 35,21,6,"Jake Bailey kicks off 63 yards, out of bounds",0.000,1.600
+3,1:32,1,10,NOR 40,21,6,Jameis Winston scrambles right guard for 1 yard (tackle by Christian Barmore),1.600,1.190
+3,0:52,2,9,NOR 41,21,6,Alvin Kamara up the middle for -2 yards (tackle by Kyle Dugger),1.190,0.230
+3,0:08,3,11,NOR 39,21,6,Jameis Winston pass incomplete short middle intended for Alvin Kamara,0.230,-0.780
+3,0:03,4,11,NOR 39,21,6,"Blake Gillikin punts 56 yards, returned by Gunner Olszewski for 18 yards (tackle by Zack Baun)",-0.780,-0.480
+Quarter,Time,Down,ToGo,Location,NOR,NWE,Detail,EPB,EPA
+4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter,4th Quarter
+4,15:00,1,10,NWE 23,21,6,Mac Jones pass incomplete short right intended for Nelson Agholor,0.480,-0.070
+4,14:55,2,10,NWE 23,21,6,Mac Jones pass complete short left to Kendrick Bourne for 11 yards (tackle by Marshon Lattimore),-0.070,1.200
+4,14:19,1,10,NWE 34,21,6,Mac Jones pass complete short left to Jakobi Meyers for 5 yards (tackle by C.J. Gardner-Johnson),1.200,1.330
+4,13:54,2,5,NWE 39,21,6,Mac Jones sacked by Tanoh Kpassagnon for -14 yards,1.330,-1.220
+4,13:16,3,19,NWE 25,21,6,Mac Jones scrambles up the middle for 7 yards (tackle by Cameron Jordan),-1.220,-1.240
+4,12:45,4,12,NWE 32,21,6,"Jake Bailey punts 68 yards, touchback.",-1.240,-0.280
+4,12:38,1,10,NOR 20,21,6,Alvin Kamara right guard for 1 yard (tackle by Jalen Mills),0.280,-0.130
+4,12:00,2,9,NOR 21,21,6,Alvin Kamara left end for -3 yards (tackle by Kyle Van Noy and Jalen Mills),-0.130,-1.330
+4,11:19,3,12,NOR 18,21,6,Jameis Winston sacked by Matt Judon for -6 yards,-1.330,-2.490
+4,10:38,4,18,NOR 12,21,6,"Blake Gillikin punts 44 yards, returned by Gunner Olszewski for 12 yards (tackle by Alex Armah)",-2.490,-2.650
+4,10:28,1,10,NOR 44,21,6,Mac Jones pass incomplete deep left intended for Kendrick Bourne,2.650,2.110
+4,10:22,2,10,NOR 44,21,6,"Mac Jones pass complete to Nelson Agholor for 5 yards. Penalty on Paulson Adebo: Defensive Pass Interference, 10 yards (accepted) (no play)",2.110,3.310
+4,10:11,1,10,NOR 34,21,6,Mac Jones scrambles up the middle for 12 yards (tackle by Paulson Adebo),3.310,4.110
+4,9:28,1,10,NOR 22,21,12,"Mac Jones pass complete deep right to Kendrick Bourne for 22 yards, touchdown",4.110,7.000
+4,9:22,,,NOR 15,21,13,Nick Folk kicks extra point good,0.000,0.000
+4,9:22,,,NWE 35,21,13,"Jake Bailey kicks off 65 yards, touchback.",0.000,0.610
+4,9:22,1,10,NOR 25,21,13,Jameis Winston pass incomplete short left intended for Marquez Callaway,0.610,0.060
+4,9:15,2,10,NOR 25,21,13,Taysom Hill right guard for 3 yards (tackle by Christian Barmore),0.060,-0.230
+4,8:31,,,,,,Timeout #1 by New Orleans Saints,,
+4,8:31,3,7,NOR 28,21,13,Jameis Winston pass complete short right to Deonte Harty for 12 yards (tackle by Jalen Mills),-0.230,1.600
+4,7:58,1,10,NOR 40,21,13,Alvin Kamara right guard for 11 yards (tackle by Devin McCourty),1.600,2.320
+4,7:11,1,10,NWE 49,21,13,Alvin Kamara right tackle for 3 yards (tackle by Christian Barmore),2.320,2.190
+4,6:27,2,7,NWE 46,21,13,Jameis Winston pass complete short left to Deonte Harty for 7 yards (tackle by Jonathan Jones),2.190,2.980
+4,5:46,1,10,NWE 39,21,13,Taysom Hill right guard for 14 yards (tackle by Kyle Van Noy),2.980,3.910
+4,5:04,1,10,NWE 25,21,13,Alvin Kamara left tackle for 6 yards (tackle by Dont'a Hightower and Lawrence Guy),3.910,4.200
+4,4:23,2,4,NWE 19,21,13,Alvin Kamara left guard for 3 yards (tackle by Davon Godchaux and Kyle Van Noy),4.200,4.060
+4,3:39,3,1,NWE 16,21,13,Jameis Winston up the middle for 2 yards (tackle by Lawrence Guy),4.060,4.650
+4,2:56,1,10,NWE 14,21,13,Alvin Kamara left guard for 5 yards (tackle by Henry Anderson),4.650,4.900
+4,2:50,,,,,,Timeout #1 by New England Patriots,,
+4,2:50,,,,,,Timeout #2 by New Orleans Saints,,
+4,2:50,2,5,NWE 9,21,13,Taysom Hill scrambles right end for 5 yards (tackle by Dont'a Hightower),4.900,6.280
+4,2:41,1,4,NWE 4,27,13,"Taysom Hill right guard for 4 yards, touchdown",6.280,7.000
+4,2:37,,,NWE 15,28,13,Aldrick Rosas kicks extra point good,0.000,0.000
+4,2:37,,,NOR 35,28,13,"Aldrick Rosas kicks off 65 yards, touchback.",0.000,0.610
+4,2:37,1,10,NWE 25,28,13,Mac Jones pass complete short left to Hunter Henry for 9 yards (tackle by Kaden Elliss and Malcolm Jenkins),0.610,1.280
+4,2:15,2,1,NWE 34,28,13,Mac Jones pass incomplete deep middle intended for Nelson Agholor,1.280,0.560
+4,2:11,3,1,NWE 34,28,13,Mac Jones pass complete short middle to Kendrick Bourne for 10 yards (tackle by P.J. Williams),0.560,1.860
+4,2:00,1,10,NWE 44,28,13,Mac Jones pass incomplete deep right intended for Kendrick Bourne,1.860,1.320
+4,1:54,2,10,NWE 44,28,13,Mac Jones pass complete short right to Brandon Bolden for 4 yards (tackle by Malcolm Jenkins),1.320,1.160
+4,1:31,3,6,NWE 48,28,13,Mac Jones pass complete to Brandon Bolden for 5 yards (tackle by Malcolm Jenkins),1.160,0.130
+4,1:24,4,1,NOR 47,28,13,Mac Jones left guard for 3 yards (tackle by Demario Davis),0.130,2.650
+4,1:21,,,,,,Timeout #2 by New England Patriots,,
+4,1:21,1,10,NOR 44,28,13,Mac Jones pass incomplete deep left intended for Jakobi Meyers,2.650,2.110
+4,1:14,2,10,NOR 44,28,13,Mac Jones pass complete short left to Damien Harris for -5 yards (tackle by Demario Davis),2.110,0.760
+4,0:49,3,15,NOR 49,28,13,Mac Jones pass complete short middle to Jakobi Meyers for 10 yards (tackle by Malcolm Jenkins),0.760,0.660
+4,0:41,,,,,,Timeout #3 by New England Patriots,,
+4,0:41,4,5,NOR 39,28,13,Mac Jones pass complete short left to Brandon Bolden for 14 yards (tackle by Marshon Lattimore),0.660,3.910
+4,0:34,1,10,NOR 25,28,13,Mac Jones pass incomplete deep left intended for Nelson Agholor,3.910,3.360
+4,0:28,2,10,NOR 25,28,13,Mac Jones pass incomplete short left intended for Brandon Bolden (defended by Demario Davis),3.360,2.680
+4,0:23,3,10,NOR 25,28,13,Mac Jones pass incomplete deep right intended for Jakobi Meyers (defended by C.J. Gardner-Johnson),2.680,1.800
+4,0:15,4,10,NOR 25,28,13,Mac Jones pass deep left intended for Nelson Agholor is intercepted by Marshon Lattimore at NO-2 and returned for 20 yards (tackle by Brandon Bolden),1.800,-0.410
+4,0:05,1,10,NOR 22,28,13,Jameis Winston kneels for -1 yards,0.410,-0.270
+End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation,End of Regulation

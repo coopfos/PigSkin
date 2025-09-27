@@ -1,0 +1,48 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Justin Reid,KAN,1,0,0,0,1,0.0,5,5,0,0,0,0,0,0,0
+Michael Danna,KAN,0,0,0,0,0,2.0,5,3,2,3,2,0,0,0,1
+Felix Anudike-Uzomah,KAN,0,0,0,0,0,1.0,3,3,0,1,1,0,0,0,0
+Tershawn Wharton,KAN,0,0,0,0,0,1.0,3,1,2,1,2,0,0,0,0
+George Karlaftis III,KAN,0,0,0,0,1,1.0,2,2,0,1,2,0,0,0,0
+Christian Roland-Wallace,KAN,0,0,0,0,0,0.0,10,6,4,0,0,0,0,0,0
+Drue Tranquill,KAN,0,0,0,0,0,0.0,9,6,3,0,0,0,0,0,0
+Nick Bolton,KAN,0,0,0,0,2,0.0,8,3,5,0,0,1,0,0,0
+Jaden Hicks,KAN,0,0,0,0,1,0.0,4,2,2,0,0,0,0,0,0
+Trent McDuffie,KAN,0,0,0,0,1,0.0,4,4,0,0,0,0,0,0,1
+Swayze Bozeman,KAN,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Deon Bush,KAN,0,0,0,0,0,0.0,3,2,1,0,0,1,0,0,0
+Bryan Cook,KAN,0,0,0,0,0,0.0,3,1,2,0,0,0,0,0,0
+Nazeeh Johnson,KAN,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Cam Jones,KAN,0,0,0,0,0,0.0,2,2,0,0,1,0,0,0,0
+Joshua Williams,KAN,0,0,0,0,2,0.0,2,1,1,0,0,0,0,0,0
+James Winchester,KAN,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Leo Chenal,KAN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Noah Gray,KAN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Derrick Nnadi,KAN,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Charles Omenihu,KAN,0,0,0,0,0,0.0,1,1,0,0,1,0,0,0,0
+Keith Taylor,KAN,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Minkah Fitzpatrick,PIT,0,0,0,0,0,0.0,7,6,1,0,0,0,0,0,0
+Patrick Queen,PIT,0,0,0,0,0,0.0,7,5,2,0,0,0,0,0,0
+DeShon Elliott,PIT,0,0,0,0,0,0.0,4,2,2,0,0,0,0,0,0
+Cameron Heyward,PIT,0,0,0,0,0,0.0,4,2,2,1,1,0,0,0,0
+Alex Highsmith,PIT,0,0,0,0,1,0.0,4,3,1,0,0,0,0,0,0
+Donte Jackson,PIT,0,0,0,0,0,0.0,4,4,0,0,0,0,0,0,0
+Payton Wilson,PIT,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Larry Ogunjobi,PIT,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Elandon Roberts,PIT,0,0,0,0,0,0.0,3,2,1,0,0,0,0,0,0
+Cameron Sutton,PIT,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0
+Cory Trice,PIT,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0
+T.J. Watt,PIT,0,0,0,0,1,0.0,3,1,2,1,0,0,0,0,0
+Keeanu Benton,PIT,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Montravius Adams,PIT,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Connor Heyward,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Miles Killebrew,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Christian Kuntz,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Isaiahh Loudermilk,PIT,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Jeremiah Moon,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+James Pierre,PIT,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0
+Mark Robinson,PIT,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,1
+Nick Herbig,PIT,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0
+Russell Wilson,PIT,0,0,0,0,0,0.0,0,0,0,0,0,1,0,0,0

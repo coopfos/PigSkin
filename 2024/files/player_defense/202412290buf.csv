@@ -1,0 +1,50 @@
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Jamien Sherwood,NYJ,0,0,0,0,1,0.0,10,5,5,1,0,0,0,0,0
+Quincy Williams,NYJ,0,0,0,0,1,0.0,10,5,5,1,0,0,0,0,0
+Chuck Clark,NYJ,0,0,0,0,0,0.0,8,3,5,0,0,0,0,0,0
+Tony Adams,NYJ,0,0,0,0,0,0.0,5,4,1,0,0,0,0,0,0
+D.J. Reed,NYJ,0,0,0,0,0,0.0,5,5,0,1,0,0,0,0,0
+Sauce Gardner,NYJ,0,0,0,0,1,0.0,3,3,0,0,0,0,0,0,0
+Bruce Hector,NYJ,0,0,0,0,0,0.0,3,1,2,1,0,0,0,0,0
+Isaiah Davis,NYJ,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Brandin Echols,NYJ,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Haason Reddick,NYJ,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Chazz Surratt,NYJ,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Leonard Taylor,NYJ,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Quinnen Williams,NYJ,0,0,0,0,0,0.0,2,1,1,0,0,0,0,0,0
+Braelon Allen,NYJ,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Michael Carter II,NYJ,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Micheal Clemons,NYJ,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Samuel Eguavoen,NYJ,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Jarius Monroe,NYJ,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Isaiah Oliver,NYJ,0,0,0,0,1,0.0,1,1,0,0,0,0,0,0,0
+Solomon Thomas,NYJ,0,0,0,0,1,0.0,1,1,0,1,1,0,0,0,0
+Eric Watts,NYJ,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Will McDonald,NYJ,0,0,0,0,0,0.0,0,0,0,0,2,0,0,0,0
+Tyrod Taylor,NYJ,0,0,0,0,0,0.0,0,0,0,0,0,1,-8,0,0
+,,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,Def Interceptions,,Tackles,Tackles,Tackles,Tackles,Tackles,Fumbles,Fumbles,Fumbles,Fumbles
+Player,Tm,Int,Yds,TD,Lng,PD,Sk,Comb,Solo,Ast,TFL,QBHits,FR,Yds,TD,FF
+Christian Benford,BUF,1,24,0,24,1,0.0,2,2,0,0,0,0,0,0,0
+Jordan Phillips,BUF,1,2,0,2,1,0.0,0,0,0,0,0,0,0,0,0
+A.J. Epenesa,BUF,0,0,0,0,0,1.0,4,4,0,2,1,0,0,0,0
+Ed Oliver,BUF,0,0,0,0,0,1.0,4,3,1,3,1,0,0,0,1
+Von Miller,BUF,0,0,0,0,0,1.0,2,2,0,1,1,0,0,0,0
+Gregory Rousseau,BUF,0,0,0,0,1,0.5,3,1,2,0,1,0,0,0,0
+DaQuan Jones,BUF,0,0,0,0,0,0.5,1,0,1,0,1,0,0,0,0
+Joe Andreessen,BUF,0,0,0,0,0,0.0,8,5,3,1,0,0,0,0,0
+Terrel Bernard,BUF,0,0,0,0,0,0.0,6,0,6,0,0,0,0,0,0
+Cole Bishop,BUF,0,0,0,0,0,0.0,5,5,0,0,0,0,0,0,0
+Matt Milano,BUF,0,0,0,0,0,0.0,5,2,3,0,1,1,0,0,0
+Dorian Williams,BUF,0,0,0,0,0,0.0,5,1,4,0,0,0,0,0,0
+Taron Johnson,BUF,0,0,0,0,0,0.0,4,4,0,0,0,0,0,0,0
+Taylor Rapp,BUF,0,0,0,0,0,0.0,4,3,1,0,0,0,0,0,0
+Brandon Codrington,BUF,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Rasul Douglas,BUF,0,0,0,0,0,0.0,2,2,0,0,0,0,0,0,0
+Cameron Lewis,BUF,0,0,0,0,0,0.0,2,0,2,0,0,0,0,0,0
+Reid Ferguson,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Reggie Gilliam,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Quinton Jefferson,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Quintin Morris,BUF,0,0,0,0,0,0.0,1,0,1,0,0,0,0,0,0
+Dawuane Smoot,BUF,0,0,0,0,0,0.0,1,1,0,1,0,0,0,0,0
+Edefuan Ulofoshio,BUF,0,0,0,0,0,0.0,1,1,0,0,0,0,0,0,0
+Javon Solomon,BUF,0,0,0,0,0,0.0,0,0,0,0,1,0,0,0,0
