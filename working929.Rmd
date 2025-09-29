@@ -1,0 +1,212 @@
+---
+title: "working929"
+author: "Cooper Foster"
+date: "2025-09-29"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(lubridate)
+library(slider)
+library(stringr)
+library(tidyr)
+library(purrr)
+
+setwd('/users/cooperfoster/desktop/PigSkin')
+```
+
+
+```{r}
+gi21 <- read.csv('2021/game_index.csv')
+gi23 <- read.csv('2023/game_index.csv')
+gi22 <- read.csv('2022/game_index.csv')
+gi21 <- read.csv('2021/game_index.csv')
+
+
+```
+
+```{r}
+vis21 <- read.csv('2021/rollups/vis_drives_rollup.csv')
+home21 <- read.csv('2021/rollups/home_drives_rollup.csv')
+
+vis23 <- read.csv('2023/rollups/vis_drives_rollup.csv')
+home23 <- read.csv('2023/rollups/home_drives_rollup.csv')
+
+vis22 <- read.csv('2022/rollups/vis_drives_rollup.csv')
+home22 <- read.csv('2022/rollups/home_drives_rollup.csv')
+
+vis21 <- read.csv('2021/rollups/vis_drives_rollup.csv')
+home21 <- read.csv('2021/rollups/home_drives_rollup.csv')
+
+```
+
+```{r}
+gi <- rbind(gi24, gi23, gi22, gi21)
+home <- rbind(home24, home23, home22, home21)
+vis <- rbind(vis24, vis23, vis22, vis21)
+```
+
+```{r}
+home <- home %>%
+  mutate(punt_flag = ifelse(Result == 'Punt' |
+                              Result == 'Blocked Punt' |
+                              Result == 'Blocked Punt, Downs',1,0),
+         fga_flag = ifelse(Result == 'Field Goal' |
+                             Result == 'Blocked FG' |
+                             Result == 'Blocked FG, Downs' |
+                             Result == 'Missed FG',1,0),
+         fgm_flag = ifelse(Result == 'Field Goal',1,0),
+         td_flag = ifelse(Result == 'Touchdown',1,0),
+         to_flag = ifelse(Result == 'Fumble' |
+                            Result == 'Interception' |
+                            Result == 'Fumble, Safety' |
+                            Result == 'Safety',1,0))
+vis <- vis %>%
+  mutate(punt_flag = ifelse(Result == 'Punt' |
+                              Result == 'Blocked Punt' |
+                              Result == 'Blocked Punt, Downs',1,0),
+         fga_flag = ifelse(Result == 'Field Goal' |
+                             Result == 'Blocked FG' |
+                             Result == 'Blocked FG, Downs' |
+                             Result == 'Missed FG',1,0),
+         fgm_flag = ifelse(Result == 'Field Goal',1,0),
+         td_flag = ifelse(Result == 'Touchdown',1,0),
+         to_flag = ifelse(Result == 'Fumble' |
+                            Result == 'Interception' |
+                            Result == 'Fumble, Safety' |
+                            Result == 'Safety',1,0))
+
+
+```
+
+```{r}
+
+drive_sum_home <- home %>% 
+  group_by(source_file) %>% 
+  summarise(punt = sum(punt_flag),
+            fga = sum(fga_flag),
+            fgm = sum(fgm_flag),
+            td = sum(td_flag),
+            to = sum(to_flag))
+
+drive_sum_vis <- vis %>% 
+  group_by(source_file) %>% 
+  summarise(punt = sum(punt_flag),
+            fga = sum(fga_flag),
+            fgm = sum(fgm_flag),
+            td = sum(td_flag),
+            to = sum(to_flag))
+
+```
+
+```{r}
+
+drive_sum_home <- gi %>% 
+  select(home_id, home_code, away_code, date) %>% 
+  left_join(drive_sum_home, by = c("home_id" = "source_file"))
+
+drive_sum_home <- drive_sum_home %>% 
+    rename(game_id = home_id,
+         team = home_code,
+         opp = away_code)
+
+drive_sum_vis <- gi %>% 
+  select(home_id, home_code, away_code, date) %>% 
+  left_join(drive_sum_vis, by = c("home_id" = "source_file")) %>% 
+  rename(game_id = home_id,
+         opp = home_code,
+         team = away_code)
+
+drive_sum <- rbind(drive_sum_vis, drive_sum_home)
+
+```
+
+```{r}
+format1 <- drive_sum %>%
+  filter(!str_detect(date, "/"))
+
+format2 <- drive_sum %>%
+  filter(str_detect(date, "/"))
+
+format1$date <- ymd(format1$date)
+format2$date <- mdy(format2$date)
+
+drive_sum <- rbind(format1, format2)
+```
+
+```{r}
+all_scores <- read.csv('all_scores.csv')
+codes <- read.csv('code_index.csv')
+
+all_scores <- codes %>% 
+  right_join(all_scores, by = c('team' = 'winner')) %>% 
+  rename(winner_code = code,
+         winner = team)
+
+all_scores <- codes %>% 
+  right_join(all_scores, by = c('team' = 'loser')) %>% 
+  rename(loser_code = code,
+         loser = team)
+
+all_scores <- all_scores %>% 
+  select(winner_code, loser_code, date, ptsW, ptsL)
+
+all_scores$date <- mdy(all_scores$date)
+         
+```
+
+```{r}
+w_scores <- all_scores %>% 
+  select(winner_code, date, ptsW) %>% 
+  rename(team = winner_code,
+         pts = ptsW)
+
+l_scores <- all_scores %>% 
+  select(loser_code, date, ptsL) %>% 
+  rename(team = loser_code,
+         pts = ptsL)
+
+pts_lu <- rbind(w_scores, l_scores)
+
+game_id_lu <- drive_sum %>%
+  select(team, opp, game_id, date)
+
+pts_lu <- game_id_lu %>% 
+  select(team, game_id, date) %>% 
+  right_join(pts_lu, by = c('team', 'date'))
+
+```
+
+```{r}
+drive_sum <- drive_sum %>% 
+  mutate(year = lubridate::year(date))
+
+write.csv(head(drive_sum, n=20), 'delete929.csv')
+```
+
+```{r}
+num_cols <- drive_sum %>%
+  select(where(is.numeric)) %>%
+  select(-year) %>% 
+  names()
+
+mk_lookback <- function(dat, k) {
+  dat %>%
+    group_by(team, year) %>%
+    arrange(date, .by_group = TRUE) %>%
+    mutate(across(
+      all_of(num_cols),
+      ~ slide_dbl(lag(.x), mean, .before = k - 1, .complete = TRUE),
+      .names = "{.col}_avg_lb{k}"
+    )) %>%
+    ungroup() %>%
+    select(team, date, ends_with(paste0("lb", k)))
+}
+
+lookbacks <- set_names(map(2:8, ~ mk_lookback(drive_sum, .x)),
+                       paste0("lb", 2:8))
+
+lb2 <- lookbacks$lb2
+```
+
